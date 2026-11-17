@@ -1,0 +1,2373 @@
+{
+ "id": "unit8",
+ "n": 8,
+ "title": "What is Arun doing in Lucknow?",
+ "titleHi": "अरुण जी लखनऊ में क्या कर रहे हैं ?",
+ "scope": "The present and past continuous (बोल रहा है, बोल रही थीं), including near-future and phone use; “to have” with को (ailments), के पास (things, money, time) and का/की/के (relatives, houses, body parts); oblique adverbial phrases (पिछले साल, उन दिनों, सवेरे, तीसरे पहर) and oblique destinations (कलकत्ते जाना); adverbs with से and पर (ज़ोर से, अच्छी तरह, आम तौर पर); postposition parts as adverbs (ऊपर, बाहर); कैसे, सीधे; dates (पहली, दूसरी, then cardinals; सन्); word order and emphasis; colloquial usage and minimal pairs",
+ "pages": "book 90–103",
+ "skills": {
+  "cont": "Present continuous",
+  "past": "Past continuous",
+  "have": "Expressing “to have”",
+  "adv": "Oblique adverbial phrases",
+  "manner": "Adverbs of manner and place",
+  "date": "Dates and years",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अंदर",
+   "en": "inside, within (adverb)",
+   "c": "x"
+  },
+  {
+   "hi": "अगला",
+   "en": "next",
+   "c": "a"
+  },
+  {
+   "hi": "अठारह",
+   "en": "eighteen",
+   "c": "x"
+  },
+  {
+   "hi": "अलग",
+   "en": "separately",
+   "c": "x"
+  },
+  {
+   "hi": "अस्पताल",
+   "en": "hospital",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आँख",
+   "en": "eye",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आगरा",
+   "en": "Agra",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आजकल",
+   "en": "nowadays",
+   "c": "x"
+  },
+  {
+   "hi": "आम",
+   "en": "ordinary",
+   "c": "a"
+  },
+  {
+   "hi": "आम तौर पर",
+   "en": "usually",
+   "c": "x"
+  },
+  {
+   "hi": "ख़ास तौर पर",
+   "en": "specially",
+   "c": "x"
+  },
+  {
+   "hi": "ऊपर",
+   "en": "up; upstairs",
+   "c": "x"
+  },
+  {
+   "hi": "ऐश",
+   "en": "luxury",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ऐश करना",
+   "en": "to live a life of pleasure",
+   "c": "v"
+  },
+  {
+   "hi": "कमाना",
+   "en": "to earn",
+   "c": "v"
+  },
+  {
+   "hi": "कलकत्ता",
+   "en": "Calcutta",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कहानी",
+   "en": "story",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "काठमांडु",
+   "en": "Kathmandu",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "के पास",
+   "en": "in (one's) possession",
+   "c": "x"
+  },
+  {
+   "hi": "ग़ल्त",
+   "en": "wrong, incorrect",
+   "c": "a"
+  },
+  {
+   "hi": "गली",
+   "en": "lane",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घंटा",
+   "en": "hour",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चलाना",
+   "en": "to drive",
+   "c": "v"
+  },
+  {
+   "hi": "जन्मदिन",
+   "en": "birthday",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जून",
+   "en": "June",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ज़ोर",
+   "en": "force, strength",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ज़ोर से",
+   "en": "forcefully, loudly",
+   "c": "x"
+  },
+  {
+   "hi": "डाल",
+   "en": "branch (of a tree)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तंग",
+   "en": "narrow",
+   "c": "a"
+  },
+  {
+   "hi": "तंग करना",
+   "en": "to harass",
+   "c": "v"
+  },
+  {
+   "hi": "तकलीफ़",
+   "en": "trouble, distress",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तरह",
+   "en": "way, manner",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "अच्छी तरह",
+   "en": "well",
+   "c": "x"
+  },
+  {
+   "hi": "बुरी तरह",
+   "en": "badly",
+   "c": "x"
+  },
+  {
+   "hi": "तारीख़",
+   "en": "date",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ताली",
+   "en": "clapping",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तू-तू मैं-मैं करना",
+   "en": "to call names, trade insults",
+   "c": "v"
+  },
+  {
+   "hi": "तैयार करना",
+   "en": "to prepare",
+   "c": "v"
+  },
+  {
+   "hi": "थकान",
+   "en": "tiredness",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "थाली",
+   "en": "platter, plate of food",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "थोड़ा-सा",
+   "en": "a little",
+   "c": "x"
+  },
+  {
+   "hi": "दल",
+   "en": "political party",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दाहिना",
+   "en": "right (opposite of left)",
+   "c": "a"
+  },
+  {
+   "hi": "दाहिने",
+   "en": "to the right",
+   "c": "x"
+  },
+  {
+   "hi": "दिखना",
+   "en": "to appear, seem",
+   "c": "v"
+  },
+  {
+   "hi": "दिली",
+   "en": "of the heart, intimate",
+   "c": "a"
+  },
+  {
+   "hi": "देर से",
+   "en": "late",
+   "c": "x"
+  },
+  {
+   "hi": "नंबर",
+   "en": "number",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नज़दीक",
+   "en": "nearby",
+   "c": "x"
+  },
+  {
+   "hi": "निकलना",
+   "en": "to come out, go out, emerge",
+   "c": "v"
+  },
+  {
+   "hi": "नीचे",
+   "en": "down; downstairs",
+   "c": "x"
+  },
+  {
+   "hi": "नेपाल",
+   "en": "Nepal",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पल",
+   "en": "moment",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पहर",
+   "en": "watch (part of the day)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तीसरे पहर",
+   "en": "in the afternoon",
+   "c": "x"
+  },
+  {
+   "hi": "पिछला",
+   "en": "last, previous",
+   "c": "a"
+  },
+  {
+   "hi": "पुस्तक",
+   "en": "book (formal word)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पूरा",
+   "en": "full, complete",
+   "c": "a"
+  },
+  {
+   "hi": "प्रोग्राम",
+   "en": "programme, plan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फ़रवरी",
+   "en": "February",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बनाना",
+   "en": "to make",
+   "c": "v"
+  },
+  {
+   "hi": "बायाँ",
+   "en": "left (opposite of right)",
+   "c": "a"
+  },
+  {
+   "hi": "बायें",
+   "en": "to the left",
+   "c": "x"
+  },
+  {
+   "hi": "बस से",
+   "en": "by bus",
+   "c": "x"
+  },
+  {
+   "hi": "भगवान",
+   "en": "God",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भेजना",
+   "en": "to send",
+   "c": "v"
+  },
+  {
+   "hi": "मई",
+   "en": "May",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "महीना",
+   "en": "month",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मिलाना",
+   "en": "to dial, phone",
+   "c": "v"
+  },
+  {
+   "hi": "मोड़",
+   "en": "turn, bend",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मोर",
+   "en": "peacock",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "विलंब",
+   "en": "delay (formal)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सन्",
+   "en": "year (of an era)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सब्ज़ी",
+   "en": "vegetable(s)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सवेरा",
+   "en": "early morning",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सवेरे",
+   "en": "early in the morning",
+   "c": "x"
+  },
+  {
+   "hi": "साथ",
+   "en": "along, in company",
+   "c": "x"
+  },
+  {
+   "hi": "सावधानी",
+   "en": "care",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सावधानी से",
+   "en": "carefully",
+   "c": "x"
+  },
+  {
+   "hi": "सिर",
+   "en": "head",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सिर खाना",
+   "en": "to pester",
+   "c": "v"
+  },
+  {
+   "hi": "सीधा",
+   "en": "straight, straightforward",
+   "c": "a"
+  },
+  {
+   "hi": "सीधे",
+   "en": "straight (ahead)",
+   "c": "x"
+  },
+  {
+   "hi": "सैंतालीस",
+   "en": "forty-seven",
+   "c": "x"
+  },
+  {
+   "hi": "हाथ",
+   "en": "hand",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हाथ से",
+   "en": "by hand",
+   "c": "x"
+  },
+  {
+   "hi": "हे",
+   "en": "oh!",
+   "c": "x"
+  },
+  {
+   "hi": "अगले महीने",
+   "en": "next month",
+   "c": "x"
+  },
+  {
+   "hi": "पिछले साल",
+   "en": "last year",
+   "c": "x"
+  },
+  {
+   "hi": "दूसरे दिन",
+   "en": "the next day",
+   "c": "x"
+  },
+  {
+   "hi": "उन दिनों",
+   "en": "in those days",
+   "c": "x"
+  },
+  {
+   "hi": "सारे दिन",
+   "en": "the whole day",
+   "c": "x"
+  },
+  {
+   "hi": "किस समय",
+   "en": "at what time?",
+   "c": "x"
+  },
+  {
+   "hi": "इस तरफ़",
+   "en": "in this direction",
+   "c": "x"
+  },
+  {
+   "hi": "आज शाम",
+   "en": "this evening",
+   "c": "x"
+  },
+  {
+   "hi": "ठीक समय पर",
+   "en": "punctually",
+   "c": "x"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "cont",
+   "title": "बोल रहा है",
+   "desc": "The present continuous: “is …ing”",
+   "skill": "cont",
+   "items": [
+    {
+     "id": "cn:0",
+     "t": "mc",
+     "q": "Fill the gap: “Mother is making tea in the kitchen.”",
+     "hi": "माँ रसोईघर में चाय बना ___ हैं ।",
+     "say": "माँ रसोईघर में चाय बना रही हैं ।",
+     "en": "Mother[0] {is making}[4+5+6] tea[3] in[2] the kitchen[1].",
+     "a": "रही",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is masculine. माँ is a woman: बना रही हैं."
+      ],
+      [
+       "रहे",
+       "रहे is masculine plural. Respect makes a woman's auxiliary plural (हैं), but रही stays feminine."
+      ]
+     ],
+     "why": "रहा, रही, रहे agree with the subject like an -ā adjective; the auxiliary comes last."
+    },
+    {
+     "id": "cn:1",
+     "t": "mc",
+     "q": "Fill the gap: “The children are playing in the garden.”",
+     "hi": "बच्चे बग़ीचे में खेल रहे ___ ।",
+     "say": "बच्चे बग़ीचे में खेल रहे हैं ।",
+     "en": "{The children}[0] {are playing}[3+4+5] in[2] the garden[1].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "है",
+       "है is singular. बच्चे is plural: खेल रहे हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम."
+      ]
+     ],
+     "why": "The auxiliary is the present of होना, agreeing with the subject: हूँ, है, हैं, हो."
+    },
+    {
+     "id": "cn:2",
+     "t": "mc",
+     "q": "Fill the gap: “What are you thinking? (to a man)”",
+     "hi": "तुम क्या सोच ___ हो ?",
+     "say": "तुम क्या सोच रहे हो ?",
+     "en": "What[1] are[4] you[0] thinking[2+3]? (to a man)",
+     "a": "रहे",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is singular. तुम always takes plural agreement: सोच रहे हो."
+      ],
+      [
+       "रहते",
+       "रहते is the imperfective participle of रहना “to live, stay”. The continuous needs रहा, रही or रहे straight after the stem."
+      ]
+     ],
+     "why": "To a woman: तुम क्या सोच रही हो ?"
+    },
+    {
+     "id": "cn:3",
+     "t": "mc",
+     "q": "Make it continuous (“is …ing”)",
+     "a": "राज अपनी साइकिल धो रहा है ।",
+     "wrong": [
+      [
+       "राज अपनी साइकिल धोना रहा है ।",
+       "The continuous is built on the stem धो, not on the infinitive धोना."
+      ],
+      [
+       "राज अपनी साइकिल धो रहा हैं ।",
+       "हैं is plural. Raj, spoken of plainly, takes है."
+      ]
+     ],
+     "why": "Replace the participle धोता with the stem + रहा — धो रहा है.",
+     "hi": "राज अपनी साइकिल धोता है ।",
+     "audio": true,
+     "say": "राज अपनी साइकिल धो रहा है ।",
+     "en": "Raj[0] {is washing}[3+4+5] {his (own)}[1] bicycle[2]."
+    },
+    {
+     "id": "cn:4",
+     "t": "mc",
+     "q": "Fill the gap: “I am writing stories for the children. (a man speaking)”",
+     "hi": "मैं बच्चों के लिए ___ लिख रहा हूँ ।",
+     "say": "मैं बच्चों के लिए कहानियाँ लिख रहा हूँ ।",
+     "en": "I[0] {am writing}[5+6+7] stories[4] for[2+3] the children[1]. (a man speaking)",
+     "a": "कहानियाँ",
+     "wrong": [
+      [
+       "कहानी",
+       "कहानी is singular, “a story”. The English has “stories”."
+      ],
+      [
+       "कहानियें",
+       "Not a word: feminine nouns in -ī make the plural in -iyā̃, as in लड़कियाँ."
+      ]
+     ],
+     "why": "कहानी “story” is feminine: plural कहानियाँ."
+    },
+    {
+     "id": "cn:5",
+     "t": "mc",
+     "q": "Fill the gap: “Hello, is that Pinki speaking?”",
+     "hi": "हलो, क्या पिंकी बोल ___ है ?",
+     "say": "हलो, क्या पिंकी बोल रही है ?",
+     "en": "Hello[0], is[5] that Pinki[2] speaking[3+4]?",
+     "a": "रही",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is masculine. Pinki is a girl."
+      ],
+      [
+       "रहे",
+       "रहे is plural. Pinki, spoken of plainly, takes the singular: बोल रही है."
+      ]
+     ],
+     "why": "On the phone the continuous identifies the speaker: मैं … बोल रहा हूँ (or रही हूँ) “this is … speaking”."
+    },
+    {
+     "id": "cn:6",
+     "t": "mc",
+     "q": "Fill the gap: “What are you reading nowadays? (to a man)”",
+     "hi": "आप आजकल क्या पढ़ ___ हैं ?",
+     "say": "आप आजकल क्या पढ़ रहे हैं ?",
+     "en": "What[2] are[5] you[0] reading[3+4] nowadays[1]? (to a man)",
+     "a": "रहे",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is singular. आप always takes plural agreement: पढ़ रहे हैं."
+      ],
+      [
+       "रही",
+       "रही is feminine. This is asked of a man."
+      ]
+     ],
+     "why": "The continuous also covers what is going on over a period, like English “these days I'm reading …”."
+    },
+    {
+     "id": "cn:7",
+     "t": "mc",
+     "q": "Fill the gap: “We are going to Lucknow on Saturday.”",
+     "hi": "हम लोग शनिवार को लखनऊ ___ रहे हैं ।",
+     "say": "हम लोग शनिवार को लखनऊ जा रहे हैं ।",
+     "en": "We[0+1] {are going}[5+6+7] to Lucknow[4] on Saturday[2+3].",
+     "a": "जा",
+     "wrong": [
+      [
+       "जाना",
+       "The continuous is built on the stem: जा रहे हैं, not on the infinitive जाना."
+      ],
+      [
+       "जाओ",
+       "जाओ is the तुम command. The continuous needs the bare stem: जा रहे हैं."
+      ]
+     ],
+     "why": "The continuous can refer to a planned event in the near future, as English “we are going on Saturday”."
+    },
+    {
+     "id": "cn:8",
+     "t": "mc",
+     "q": "Fill the gap: “Father is reading the newspaper.”",
+     "hi": "पिता जी अख़बार पढ़ रहे ___ ।",
+     "say": "पिता जी अख़बार पढ़ रहे हैं ।",
+     "en": "Father[0+1] {is reading}[3+4+5] the newspaper[2].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "है",
+       "A respected person takes plural agreement: पिता जी … पढ़ रहे हैं."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "Respect makes both रहे and the auxiliary plural."
+    },
+    {
+     "id": "cn:9",
+     "t": "mc",
+     "q": "Which means “Raj isn't working today”?",
+     "a": "राज आज काम नहीं कर रहा है ।",
+     "wrong": [
+      [
+       "राज आज काम नहीं करता है ।",
+       "करता है is the imperfective: “Raj doesn't work” as a habit. What is going on now needs the continuous, कर रहा है."
+      ],
+      [
+       "राज आज काम नहीं कर रही है ।",
+       "रही is feminine. Raj is a man."
+      ]
+     ],
+     "why": "नहीं goes before the verb: नहीं कर रहा है."
+    }
+   ]
+  },
+  {
+   "id": "past",
+   "title": "बोल रहा था",
+   "desc": "The past continuous: “was …ing”",
+   "skill": "past",
+   "items": [
+    {
+     "id": "pc:0",
+     "t": "mc",
+     "q": "Fill the gap: “At ten o'clock last night I was reading a story. (a man speaking)”",
+     "hi": "कल रात दस बजे मैं एक कहानी पढ़ ___ था ।",
+     "say": "कल रात दस बजे मैं एक कहानी पढ़ रहा था ।",
+     "en": "{At ten o'clock}[2+3] {last night}[0+1] I[4] {was reading}[7+8+9] a[5] story[6]. (a man speaking)",
+     "a": "रहा",
+     "wrong": [
+      [
+       "रही",
+       "रही is feminine. The speaker is a man."
+      ],
+      [
+       "रहे",
+       "रहे is plural. मैं takes the singular: पढ़ रहा था."
+      ]
+     ],
+     "why": "The past continuous is the stem + रहा, रही, रहे + था, थी, थे, थीं — “was …ing”."
+    },
+    {
+     "id": "pc:1",
+     "t": "mc",
+     "q": "Fill the gap: “At that time the girls were playing outside.”",
+     "hi": "उस समय लड़कियाँ बाहर खेल रही ___ ।",
+     "say": "उस समय लड़कियाँ बाहर खेल रही थीं ।",
+     "en": "{At that time}[0+1] the girls[2] {were playing}[4+5+6] outside[3].",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थी",
+       "थी is singular. लड़कियाँ is plural."
+      ],
+      [
+       "थे",
+       "थे is masculine. लड़कियाँ is feminine."
+      ]
+     ],
+     "why": "Feminine plural: रही थीं. Only the auxiliary carries the plural nasal."
+    },
+    {
+     "id": "pc:2",
+     "t": "mc",
+     "q": "Which means “The women were laughing”?",
+     "a": "औरतें हँस रही थीं ।",
+     "wrong": [
+      [
+       "औरतें हँस रहीं थीं ।",
+       "With the auxiliary present only थीं carries the plural nasal: रही थीं, just as उठती थीं."
+      ],
+      [
+       "औरतें हँस रही थी ।",
+       "थी is singular. औरतें is plural: थीं."
+      ]
+     ],
+     "why": "रही is the same for feminine singular and plural; the auxiliary shows the number."
+    },
+    {
+     "id": "pc:3",
+     "t": "mc",
+     "q": "Fill the gap: “Last year my brothers were working in Lucknow.”",
+     "hi": "पिछले साल मेरे भाई लखनऊ में काम कर रहे ___ ।",
+     "say": "पिछले साल मेरे भाई लखनऊ में काम कर रहे थे ।",
+     "en": "{Last year}[0+1] my[2] brothers[3] {were working}[6+7+8+9] in[5] Lucknow[4].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular. The English has “brothers”, and रहे is plural: रहे थे."
+      ],
+      [
+       "थीं",
+       "थीं is feminine. भाई is masculine."
+      ]
+     ],
+     "why": "रहे थे “were …ing” for a masculine plural subject."
+    },
+    {
+     "id": "pc:4",
+     "t": "mc",
+     "q": "Put it in the past (“was …ing”)",
+     "a": "सीता अपनी सहेली के साथ गपशप कर रही थी ।",
+     "wrong": [
+      [
+       "सीता अपनी सहेली के साथ गपशप कर रहा था ।",
+       "रहा is masculine. Only the auxiliary changes: रही है becomes रही थी."
+      ],
+      [
+       "सीता अपनी सहेली के साथ गपशप करती थी ।",
+       "करती थी is the past imperfective, “used to chat”. “Was chatting” keeps रही."
+      ]
+     ],
+     "why": "Replace है with थी. रही stays.",
+     "hi": "सीता अपनी सहेली के साथ गपशप कर रही है ।",
+     "audio": true,
+     "say": "सीता अपनी सहेली के साथ गपशप कर रही थी ।",
+     "en": "Sita[0] {was chatting}[5+6+7+8] with[3+4] {her (own)}[1] friend[2]."
+    },
+    {
+     "id": "pc:5",
+     "t": "mc",
+     "q": "Fill the gap: “Where were you going yesterday evening? (to a woman)”",
+     "hi": "तुम कल शाम को कहाँ जा रही ___ ?",
+     "say": "तुम कल शाम को कहाँ जा रही थीं ?",
+     "en": "Where[4] {were you}[0+7] going[5+6] {yesterday evening}[1+2+3]? (to a woman)",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थी",
+       "तुम always takes plural agreement: a woman is asked … जा रही थीं."
+      ],
+      [
+       "थे",
+       "थे is masculine. This is asked of a woman."
+      ]
+     ],
+     "why": "तुम with a woman: रही हो in the present, रही थीं in the past."
+    }
+   ]
+  },
+  {
+   "id": "have",
+   "title": "मेरे पास, मेरी बहिन",
+   "desc": "Saying “to have”: को, के पास, का",
+   "skill": "have",
+   "items": [
+    {
+     "id": "hv:0",
+     "t": "mc",
+     "q": "Fill the gap: “Sita has three sisters.”",
+     "hi": "सीता ___ तीन बहिनें हैं ।",
+     "say": "सीता की तीन बहिनें हैं ।",
+     "en": "Sita[0+1] has[4] three[2] sisters[3].",
+     "a": "की",
+     "wrong": [
+      [
+       "का",
+       "का goes with a masculine singular noun. The possessive agrees with बहिनें, which is feminine: की."
+      ],
+      [
+       "को",
+       "को is used for ailments such as a cold or fever. For relatives, use का, की, के."
+      ]
+     ],
+     "why": "Relatives, houses and parts of the body: X का, की, के … है, agreeing with what is possessed."
+    },
+    {
+     "id": "hv:1",
+     "t": "mc",
+     "q": "Fill the gap: “My uncle has a big house in the village.”",
+     "hi": "मेरे चाचा जी ___ गाँव में एक बड़ा मकान है ।",
+     "say": "मेरे चाचा जी का गाँव में एक बड़ा मकान है ।",
+     "en": "My[0] uncle[1+2] has[3+9] a[6] big[7] house[8] in[5] the village[4].",
+     "a": "का",
+     "wrong": [
+      [
+       "की",
+       "की is feminine. The possessive agrees with मकान, which is masculine: का."
+      ],
+      [
+       "को",
+       "को is for ailments. For a house, use का, की, के."
+      ]
+     ],
+     "why": "The possessive agrees with the thing possessed, not with the owner: चाचा जी का मकान."
+    },
+    {
+     "id": "hv:2",
+     "t": "mc",
+     "q": "Fill the gap: “Do you have a car?”",
+     "hi": "क्या ___ पास गाड़ी है ?",
+     "say": "क्या आपके पास गाड़ी है ?",
+     "en": "Do you[1] have[2+4] a car[3]?",
+     "a": "आपके",
+     "wrong": [
+      [
+       "आपका",
+       "Before पास the possessive is oblique: आपके पास."
+      ],
+      [
+       "आप",
+       "के पास needs the possessive before it: आपके पास."
+      ]
+     ],
+     "why": "Portable things, money and time: X के पास … है."
+    },
+    {
+     "id": "hv:3",
+     "t": "mc",
+     "q": "Fill the gap: “My husband has had a fever since yesterday.”",
+     "hi": "मेरे पति ___ कल से बुख़ार है ।",
+     "say": "मेरे पति को कल से बुख़ार है ।",
+     "en": "My[0] husband[1+2] {has had}[6] a fever[5] since[4] yesterday[3].",
+     "a": "को",
+     "wrong": [
+      [
+       "का",
+       "का, की, के are for relatives, houses and parts of the body. Ailments take को."
+      ],
+      [
+       "की",
+       "की is for relatives and the like, and बुख़ार is masculine anyway. Ailments take को."
+      ]
+     ],
+     "why": "Ailments: X को बुख़ार है, X को ज़ुकाम है."
+    },
+    {
+     "id": "hv:4",
+     "t": "mc",
+     "q": "Fill the gap: “That woman has four sons.”",
+     "hi": "उस औरत ___ चार बेटे हैं ।",
+     "say": "उस औरत के चार बेटे हैं ।",
+     "en": "That[0] woman[1+2] has[5] four[3] sons[4].",
+     "a": "के",
+     "wrong": [
+      [
+       "की",
+       "The possessive agrees with बेटे (masculine plural), not with the woman: के."
+      ],
+      [
+       "को",
+       "को is for ailments. For relatives, use का, की, के."
+      ]
+     ],
+     "why": "Relatives, houses and parts of the body: X का, की, के … है, agreeing with what is possessed."
+    },
+    {
+     "id": "hv:5",
+     "t": "mc",
+     "q": "Fill the gap: “I have a younger sister.”",
+     "hi": "___ एक छोटी बहिन है ।",
+     "say": "मेरी एक छोटी बहिन है ।",
+     "en": "I[0] have[4] a[1] younger[2] sister[3].",
+     "a": "मेरी",
+     "wrong": [
+      [
+       "मेरे पास",
+       "के पास is for portable things, money and time. For a relative, use the possessive: मेरी."
+      ],
+      [
+       "मेरा",
+       "मेरा is masculine. It agrees with बहिन, which is feminine: मेरी."
+      ]
+     ],
+     "why": "With pronouns the possessive (मेरा, तुम्हारा …) stands in for X का — मेरी एक बहिन है “I have a sister”."
+    },
+    {
+     "id": "hv:6",
+     "t": "mc",
+     "q": "Fill the gap: “I have only two hours.”",
+     "hi": "मेरे पास सिर्फ़ दो ___ हैं ।",
+     "say": "मेरे पास सिर्फ़ दो घंटे हैं ।",
+     "en": "I[0] have[1+5] only[2] two[3] hours[4].",
+     "a": "घंटे",
+     "wrong": [
+      [
+       "घंटा",
+       "घंटा is singular. With दो it is plural: घंटे."
+      ],
+      [
+       "घंटें",
+       "Not a word: masculine nouns in -ā make the plural in -e, with no nasal."
+      ]
+     ],
+     "why": "Time is possessed with के पास — मेरे पास समय है."
+    },
+    {
+     "id": "hv:7",
+     "t": "mc",
+     "q": "Fill the gap: “This statue has four hands.”",
+     "hi": "इस मूर्ति के चार ___ हैं ।",
+     "say": "इस मूर्ति के चार हाथ हैं ।",
+     "en": "This[0] statue[1] has[2+5] four[3] hands[4].",
+     "a": "हाथ",
+     "wrong": [
+      [
+       "हाथें",
+       "Not a word: masculine nouns that don't end in -ā are the same in the plural: चार हाथ."
+      ],
+      [
+       "हाथों",
+       "हाथों is the oblique plural, used before a postposition. Here the hands are the subject."
+      ]
+     ],
+     "why": "Parts of the body: के agrees with हाथ (masculine plural), whatever the gender of मूर्ति."
+    },
+    {
+     "id": "hv:8",
+     "t": "mc",
+     "q": "Put it in the past",
+     "a": "मेरे पास एक पुरानी गाड़ी थी ।",
+     "wrong": [
+      [
+       "मेरे पास एक पुरानी गाड़ी था ।",
+       "The verb agrees with गाड़ी, which is feminine: थी."
+      ],
+      [
+       "मेरी पास एक पुरानी गाड़ी थी ।",
+       "के पास never changes: मेरे पास, whatever is possessed."
+      ]
+     ],
+     "why": "In the के पास construction the thing possessed is the subject.",
+     "hi": "मेरे पास एक पुरानी गाड़ी है ।",
+     "audio": true,
+     "say": "मेरे पास एक पुरानी गाड़ी थी ।",
+     "en": "I[0] had[1+5] an[2] old[3] car[4]."
+    },
+    {
+     "id": "hv:9",
+     "t": "mc",
+     "q": "Which means “Do you have a pen?” (to तुम)",
+     "a": "क्या तुम्हारे पास क़लम है ?",
+     "wrong": [
+      [
+       "क्या तुम्हें क़लम है ?",
+       "The को construction (तुम्हें = तुम को) is for ailments. A pen is a portable thing: के पास."
+      ],
+      [
+       "क्या तुम्हारी पास क़लम है ?",
+       "के पास never changes, whatever is possessed: तुम्हारे पास."
+      ]
+     ],
+     "why": "Portable things, money and time: X के पास … है."
+    }
+   ]
+  },
+  {
+   "id": "adv",
+   "title": "पिछले साल, उन दिनों",
+   "desc": "Oblique phrases of time and place",
+   "skill": "adv",
+   "items": [
+    {
+     "id": "ad:0",
+     "t": "mc",
+     "q": "Fill the gap: “Last year we were in London.”",
+     "hi": "___ साल हम लंदन में थे ।",
+     "say": "पिछले साल हम लंदन में थे ।",
+     "en": "{Last year}[0+1] we[2] were[5] in[4] London[3].",
+     "a": "पिछले",
+     "wrong": [
+      [
+       "पिछला",
+       "The phrase is oblique: पिछले साल."
+      ],
+      [
+       "अगले",
+       "अगले साल means “next year”."
+      ],
+      [
+       "पिछलें",
+       "Not a word: the oblique of पिछला is पिछले, with no nasal."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:1",
+     "t": "mc",
+     "q": "Fill the gap: “My friends are coming from London next month.”",
+     "hi": "अगले ___ मेरे दोस्त लंदन से आ रहे हैं ।",
+     "say": "अगले महीने मेरे दोस्त लंदन से आ रहे हैं ।",
+     "en": "My[2] friends[3] {are coming}[6+7+8] from[5] London[4] next[0] month[1].",
+     "a": "महीने",
+     "wrong": [
+      [
+       "महीना",
+       "The time phrase is oblique, so महीना becomes महीने."
+      ],
+      [
+       "महीनें",
+       "Not a word: the oblique of महीना is महीने, with no nasal."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:2",
+     "t": "mc",
+     "q": "Fill the gap: “I get up early in the morning. (a man speaking)”",
+     "hi": "मैं ___ उठता हूँ ।",
+     "say": "मैं सवेरे उठता हूँ ।",
+     "en": "I[0] {get up}[2+3] {early in the morning}[1]. (a man speaking)",
+     "a": "सवेरे",
+     "wrong": [
+      [
+       "सवेरा",
+       "सवेरा is the noun “early morning”. As an adverb it is oblique: सवेरे."
+      ],
+      [
+       "सवेरें",
+       "Not a word: the oblique of सवेरा is सवेरे."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:3",
+     "t": "mc",
+     "q": "Fill the gap: “In those days there was no electricity here.”",
+     "hi": "उन ___ यहाँ बिजली नहीं थी ।",
+     "say": "उन दिनों यहाँ बिजली नहीं थी ।",
+     "en": "{In those days}[0+1] {there was}[5] no[4] electricity[3] here[2].",
+     "a": "दिनों",
+     "wrong": [
+      [
+       "दिन",
+       "With उन the phrase is oblique plural: उन दिनों."
+      ],
+      [
+       "दिनें",
+       "Not a word: दिन has no plural in -ẽ. The oblique plural is दिनों."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:4",
+     "t": "mc",
+     "q": "Fill the gap: “At what time do you go to the office?”",
+     "hi": "आप ___ समय दफ़्तर जाते हैं ?",
+     "say": "आप किस समय दफ़्तर जाते हैं ?",
+     "en": "{At what}[1] time[2] do[5] you[0] go[4] {to the office}[3]?",
+     "a": "किस",
+     "wrong": [
+      [
+       "कौन",
+       "कौन is direct. The phrase is oblique: किस समय."
+      ],
+      [
+       "क्या",
+       "क्या does not go before a noun to mean “which, what”. The oblique of कौन gives किस समय."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:5",
+     "t": "mc",
+     "q": "Fill the gap: “My brother sleeps the whole day.”",
+     "hi": "मेरा भाई ___ दिन सोता है ।",
+     "say": "मेरा भाई सारे दिन सोता है ।",
+     "en": "My[0] brother[1] sleeps[4+5] {the whole}[2] day[3].",
+     "a": "सारे",
+     "wrong": [
+      [
+       "हर",
+       "हर दिन means “every day”. “The whole day” is सारे दिन, oblique."
+      ],
+      [
+       "सारी",
+       "सारी is feminine. दिन is masculine."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:6",
+     "t": "mc",
+     "q": "Fill the gap: “I rest a little in the afternoon. (a man speaking)”",
+     "hi": "मैं ___ पहर थोड़ा आराम करता हूँ ।",
+     "say": "मैं तीसरे पहर थोड़ा आराम करता हूँ ।",
+     "en": "I[0] rest[4+5+6] {a little}[3] {in the afternoon}[1+2]. (a man speaking)",
+     "a": "तीसरे",
+     "wrong": [
+      [
+       "तीसरा",
+       "The phrase is oblique: तीसरे पहर."
+      ],
+      [
+       "तीन",
+       "तीसरे पहर, “in the third watch”, is the afternoon. तीन पहर would be “three watches”."
+      ]
+     ],
+     "why": "Phrases of time like this are oblique even though no postposition follows (a “ghostposition”)."
+    },
+    {
+     "id": "ad:7",
+     "t": "mc",
+     "q": "Fill the gap: “This evening we are going to the cinema.”",
+     "hi": "___ शाम हम सिनेमा जा रहे हैं ।",
+     "say": "आज शाम हम सिनेमा जा रहे हैं ।",
+     "en": "{This evening}[0+1] we[2] {are going}[4+5+6] to the cinema[3].",
+     "a": "आज",
+     "wrong": [
+      [
+       "इस",
+       "“This evening” is आज शाम — इस and यह are not used here."
+      ],
+      [
+       "यह",
+       "“This evening” is आज शाम — यह and इस are not used here."
+      ]
+     ],
+     "why": "आज शाम “this evening”, आज सुबह “this morning”."
+    },
+    {
+     "id": "ad:8",
+     "t": "mc",
+     "q": "Why is it कलकत्ते in मेरे चाचा जी कलकत्ते जा रहे हैं ?",
+     "a": "The destination of a verb of motion is usually oblique, as if a postposition were there",
+     "wrong": [
+      [
+       "Because चाचा जी is plural",
+       "रहे हैं is plural for respect, but that has nothing to do with the place name."
+      ],
+      [
+       "Because the sentence is in the continuous",
+       "The tense makes no difference: वह कलकत्ते जाता है too."
+      ]
+     ],
+     "why": "Compare सीता अपने दफ़्तर जा रही है, where अपने shows the oblique."
+    },
+    {
+     "id": "ad:9",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan's house is in this direction.”",
+     "hi": "मोहन का घर इस ___ है ।",
+     "say": "मोहन का घर इस तरफ़ है ।",
+     "en": "Mohan's[0+1] house[2] is[5] {in this direction}[3+4].",
+     "a": "तरफ़",
+     "wrong": [
+      [
+       "तरह",
+       "तरह means “way, manner”. “Direction” is तरफ़."
+      ],
+      [
+       "समय",
+       "समय means “time”."
+      ]
+     ],
+     "why": "इस तरफ़ “in this direction” is oblique, like the time phrases."
+    }
+   ]
+  },
+  {
+   "id": "manner",
+   "title": "ज़ोर से, अच्छी तरह",
+   "desc": "Adverbs with से and पर; ऊपर, सीधे, कैसे",
+   "skill": "manner",
+   "items": [
+    {
+     "id": "mr:0",
+     "t": "mc",
+     "q": "Fill the gap: “He is speaking loudly.”",
+     "hi": "वह ___ से बोल रहा है ।",
+     "say": "वह ज़ोर से बोल रहा है ।",
+     "en": "He[0] {is speaking}[3+4+5] loudly[1+2].",
+     "a": "ज़ोर",
+     "wrong": [
+      [
+       "ध्यान",
+       "ध्यान से means “attentively”."
+      ],
+      [
+       "देर",
+       "देर से means “late”."
+      ]
+     ],
+     "why": "ज़ोर “force” + से = “forcefully, loudly”."
+    },
+    {
+     "id": "mr:1",
+     "t": "mc",
+     "q": "Fill the gap: “We go to school by bus.”",
+     "hi": "हम बस ___ स्कूल जाते हैं ।",
+     "say": "हम बस से स्कूल जाते हैं ।",
+     "en": "We[0] go[4+5] {to school}[3] by[2] bus[1].",
+     "a": "से",
+     "wrong": [
+      [
+       "पर",
+       "Means of transport take से — बस से “by bus”."
+      ],
+      [
+       "का",
+       "का links two nouns (“the bus's …”). “By bus” is बस से."
+      ]
+     ],
+     "why": "से forms adverbial phrases: बस से, हाथ से, देर से."
+    },
+    {
+     "id": "mr:2",
+     "t": "mc",
+     "q": "Fill the gap: “Raj always comes punctually.”",
+     "hi": "राज हमेशा ___ समय पर आता है ।",
+     "say": "राज हमेशा ठीक समय पर आता है ।",
+     "en": "Raj[0] always[1] comes[5+6] punctually[2+3+4].",
+     "a": "ठीक",
+     "wrong": [
+      [
+       "ग़ल्त",
+       "ग़ल्त समय पर would be “at the wrong time”."
+      ],
+      [
+       "किस",
+       "किस समय asks “at what time?”."
+      ]
+     ],
+     "why": "ठीक समय पर “punctually” is formed with पर."
+    },
+    {
+     "id": "mr:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sita speaks Hindi very well.”",
+     "hi": "सीता हिन्दी बहुत अच्छी ___ बोलती है ।",
+     "say": "सीता हिन्दी बहुत अच्छी तरह बोलती है ।",
+     "en": "Sita[0] speaks[5+6] Hindi[1] {very well}[2+3+4].",
+     "a": "तरह",
+     "wrong": [
+      [
+       "तरफ़",
+       "तरफ़ means “direction”. “Well” is अच्छी तरह, “in a good manner”."
+      ],
+      [
+       "समय",
+       "अच्छा समय would be “a good time”. “Well” is अच्छी तरह."
+      ]
+     ],
+     "why": "अच्छी agrees with तरह (f); से may follow: अच्छी तरह से."
+    },
+    {
+     "id": "mr:4",
+     "t": "mc",
+     "q": "Fill the gap: “Usually I drink tea in the morning. (a man speaking)”",
+     "hi": "___ तौर पर मैं सुबह चाय पीता हूँ ।",
+     "say": "आम तौर पर मैं सुबह चाय पीता हूँ ।",
+     "en": "Usually[0+1+2] I[3] drink[6+7] tea[5] {in the morning}[4]. (a man speaking)",
+     "a": "आम",
+     "wrong": [
+      [
+       "ख़ास",
+       "ख़ास तौर पर means “specially”."
+      ],
+      [
+       "ठीक",
+       "ठीक goes with तरह or से, “properly”. “Usually” is आम तौर पर."
+      ]
+     ],
+     "why": "आम “ordinary” + तौर पर = “usually”."
+    },
+    {
+     "id": "mr:5",
+     "t": "mc",
+     "q": "Fill the gap: “My office is upstairs.”",
+     "hi": "मेरा दफ़्तर ___ है ।",
+     "say": "मेरा दफ़्तर ऊपर है ।",
+     "en": "My[0] office[1] is[3] upstairs[2].",
+     "a": "ऊपर",
+     "wrong": [
+      [
+       "नीचे",
+       "नीचे means “downstairs, below”."
+      ],
+      [
+       "के ऊपर",
+       "के ऊपर “on top of” needs a noun before it. On its own, ऊपर is an adverb: “upstairs”."
+      ]
+     ],
+     "why": "The second part of a compound postposition can stand alone as an adverb: ऊपर, नीचे, बाहर, अंदर."
+    },
+    {
+     "id": "mr:6",
+     "t": "mc",
+     "q": "Fill the gap: “Please go straight.”",
+     "hi": "आप ___ जाइए ।",
+     "say": "आप सीधे जाइए ।",
+     "en": "{Please go}[0+2] straight[1].",
+     "a": "सीधे",
+     "wrong": [
+      [
+       "सीधी",
+       "सीधी is the feminine adjective “straight”. The adverb ends in -e: सीधे."
+      ],
+      [
+       "सीधें",
+       "Not a word: the adverb is सीधे, with no nasal."
+      ]
+     ],
+     "why": "Some adverbs in -e pair with adjectives: कैसा and कैसे, सीधा and सीधे, बायाँ and बायें."
+    },
+    {
+     "id": "mr:7",
+     "t": "mc",
+     "q": "Fill the gap: “How do you go to the office?”",
+     "hi": "आप दफ़्तर ___ जाते हैं ?",
+     "say": "आप दफ़्तर कैसे जाते हैं ?",
+     "en": "How[2] do[4] you[0] go[3] {to the office}[1]?",
+     "a": "कैसे",
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा is the adjective “what kind of?”. “How?” is the adverb कैसे."
+      ],
+      [
+       "कैसी",
+       "कैसी is the feminine adjective. “How?” is the adverb कैसे."
+      ]
+     ],
+     "why": "कैसे “how?” does not change."
+    },
+    {
+     "id": "mr:8",
+     "t": "mc",
+     "q": "Fill the gap: “Please drive the car carefully.”",
+     "hi": "आप ___ से गाड़ी चलाइए ।",
+     "say": "आप सावधानी से गाड़ी चलाइए ।",
+     "en": "Please[0] drive[4] {the car}[3] carefully[1+2].",
+     "a": "सावधानी",
+     "wrong": [
+      [
+       "ज़ोर",
+       "ज़ोर से means “forcefully”."
+      ],
+      [
+       "देर",
+       "देर से means “late”."
+      ]
+     ],
+     "why": "सावधानी “care” + से = “carefully”."
+    }
+   ]
+  },
+  {
+   "id": "date",
+   "title": "पहली मई, सन्",
+   "desc": "Dates and years",
+   "skill": "date",
+   "items": [
+    {
+     "id": "dt:0",
+     "t": "mc",
+     "q": "Fill the gap: “My daughter is coming on the first of March.”",
+     "hi": "मेरी बेटी ___ मार्च को आ रही है ।",
+     "say": "मेरी बेटी पहली मार्च को आ रही है ।",
+     "en": "My[0] daughter[1] {is coming}[5+6+7] on[4] {the first}[2] of March[3].",
+     "a": "पहली",
+     "wrong": [
+      [
+       "पहला",
+       "पहला is masculine. A date agrees with the understood feminine तारीख़ “date”: पहली."
+      ],
+      [
+       "एकवीं",
+       "Not a word. The first and second of the month use the ordinals पहली and दूसरी."
+      ]
+     ],
+     "why": "The first and second of the month are पहली and दूसरी. After that, the plain number."
+    },
+    {
+     "id": "dt:1",
+     "t": "mc",
+     "q": "Fill the gap: “Our holiday starts on the fifth of June.”",
+     "hi": "हमारी छुट्टी ___ जून को शुरू होती है ।",
+     "say": "हमारी छुट्टी पाँच जून को शुरू होती है ।",
+     "en": "Our[0] holiday[1] starts[5+6+7] on[4] {the fifth}[2] of June[3].",
+     "a": "पाँच",
+     "wrong": [
+      [
+       "पाँचवीं",
+       "From the third onwards dates use the plain number: पाँच जून."
+      ],
+      [
+       "पाँचवाँ",
+       "From the third onwards dates use the plain number, and पाँचवाँ is masculine anyway."
+      ]
+     ],
+     "why": "तीन मार्च, पाँच जून, but पहली and दूसरी."
+    },
+    {
+     "id": "dt:2",
+     "t": "mc",
+     "q": "Fill the gap: “Yesterday was the second of February.”",
+     "hi": "कल ___ फ़रवरी थी ।",
+     "say": "कल दूसरी फ़रवरी थी ।",
+     "en": "Yesterday[0] was[3] {the second}[1] of February[2].",
+     "a": "दूसरी",
+     "wrong": [
+      [
+       "दूसरा",
+       "A date agrees with the feminine तारीख़ — दूसरी."
+      ],
+      [
+       "दोवीं",
+       "Not a word. “Second” is दूसरी."
+      ]
+     ],
+     "why": "थी agrees with the date, too."
+    },
+    {
+     "id": "dt:3",
+     "t": "mc",
+     "q": "How is the year 1916 said?",
+     "a": "सन् उन्नीस सौ सोलह",
+     "wrong": [
+      [
+       "सन् उन्नीस सौ और सोलह",
+       "No word for “and” comes between the hundreds and the rest."
+      ],
+      [
+       "सन् सोलह सौ उन्नीस",
+       "That is 1619: the hundreds come first, उन्नीस सौ “nineteen hundred”."
+      ]
+     ],
+     "why": "Years are said in hundreds after सन् “year (of the era)”."
+    },
+    {
+     "id": "dt:4",
+     "t": "mc",
+     "q": "Fill the gap: “In 2009 we used to live in London.”",
+     "hi": "हम सन् दो ___ नौ में लंदन में रहते थे ।",
+     "say": "हम सन् दो हज़ार नौ में लंदन में रहते थे ।",
+     "en": "{In 2009}[1+2+3+4+5] we[0] {used to live}[8+9] in[7] London[6].",
+     "a": "हज़ार",
+     "wrong": [
+      [
+       "सौ",
+       "दो सौ नौ is 209."
+      ],
+      [
+       "हज़ारों",
+       "हज़ारों is “thousands of”."
+      ]
+     ],
+     "why": "दो हज़ार नौ “two thousand nine”."
+    },
+    {
+     "id": "dt:5",
+     "t": "mc",
+     "q": "In पहली मई “1st May”, what does पहली agree with?",
+     "a": "The understood feminine noun तारीख़ “date”",
+     "wrong": [
+      [
+       "The month मई",
+       "Masculine months take it too: पहली जून. पहली agrees with the understood तारीख़."
+      ],
+      [
+       "Nothing: पहली never changes",
+       "पहला is an ordinary ordinal that agrees; dates take the feminine because of तारीख़."
+      ]
+     ],
+     "why": "पहली तारीख़ “the first date” → पहली."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "My[0] brother[1] {is washing}[4+5+6] {his (own)}[2] car[3].",
+     "ans": [
+      "मेरा",
+      "भाई",
+      "अपनी",
+      "गाड़ी",
+      "धो",
+      "रहा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "रही",
+       "रही is feminine. भाई is masculine: धो रहा है."
+      ],
+      [
+       "धोता",
+       "धोता है is the imperfective, “washes” as a habit. “Is washing” needs the stem धो + रहा."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "{The children}[0] {were playing}[2+3+4] outside[1].",
+     "ans": [
+      "बच्चे",
+      "बाहर",
+      "खेल",
+      "रहे",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "रही",
+       "रही is feminine. बच्चे is masculine."
+      ],
+      [
+       "था",
+       "था is singular. बच्चे is plural: रहे थे."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Pinki[0] {is writing}[6+7+8] a[4] letter[5] in[3] {her (own)}[1] room[2].",
+     "ans": [
+      "पिंकी",
+      "अपने",
+      "कमरे",
+      "में",
+      "एक",
+      "चिट्ठी",
+      "लिख",
+      "रही",
+      "है"
+     ],
+     "wrong": [
+      [
+       "उसके",
+       "उसके would be someone else's room. For the subject's own room, use अपने."
+      ],
+      [
+       "कमरा",
+       "Before में the noun is oblique: कमरे."
+      ]
+     ],
+     "alt": [
+      [
+       "अपने",
+       "कमरे",
+       "में",
+       "पिंकी",
+       "एक",
+       "चिट्ठी",
+       "लिख",
+       "रही",
+       "है"
+      ],
+      [
+       "पिंकी",
+       "एक",
+       "चिट्ठी",
+       "अपने",
+       "कमरे",
+       "में",
+       "लिख",
+       "रही",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "My[0] neighbour[1+2] has[5] two[3] daughters[4].",
+     "ans": [
+      "मेरे",
+      "पड़ोसी",
+      "की",
+      "दो",
+      "बेटियाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "का",
+       "का is masculine. The possessive agrees with बेटियाँ, which is feminine: की."
+      ],
+      [
+       "को",
+       "को is for ailments. For relatives, use का, की, के."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Mohan[0] has[1+2+6] a[3] new[4] bicycle[5].",
+     "ans": [
+      "मोहन",
+      "के",
+      "पास",
+      "एक",
+      "नई",
+      "साइकिल",
+      "है"
+     ],
+     "wrong": [
+      [
+       "नया",
+       "नया is masculine. साइकिल is feminine."
+      ],
+      [
+       "को",
+       "को is for ailments. A bicycle is a portable thing: के पास."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "My[0] grandmother[1+2] {has had}[3+7] a cold[6] since[5] Monday[4].",
+     "ans": [
+      "मेरी",
+      "दादी",
+      "जी",
+      "को",
+      "सोमवार",
+      "से",
+      "ज़ुकाम",
+      "है"
+     ],
+     "wrong": [
+      [
+       "की",
+       "Ailments take को — दादी जी को ज़ुकाम है."
+      ],
+      [
+       "हैं",
+       "The verb agrees with ज़ुकाम, which is singular: है. Respect for दादी जी does not affect it."
+      ]
+     ],
+     "alt": [
+      [
+       "सोमवार",
+       "से",
+       "मेरी",
+       "दादी",
+       "जी",
+       "को",
+       "ज़ुकाम",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{Next month}[0+1] my[2] uncle[3+4] {is going}[6+7+8] to Calcutta[5].",
+     "ans": [
+      "अगले",
+      "महीने",
+      "मेरे",
+      "चाचा",
+      "जी",
+      "कलकत्ते",
+      "जा",
+      "रहे",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "अगला",
+       "The time phrase is oblique: अगले महीने."
+      ],
+      [
+       "कलकत्तों",
+       "Not a word. The destination is oblique singular: कलकत्ते."
+      ]
+     ],
+     "alt": [
+      [
+       "मेरे",
+       "चाचा",
+       "जी",
+       "अगले",
+       "महीने",
+       "कलकत्ते",
+       "जा",
+       "रहे",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "{Listen to}[4] this[0] story[1] carefully[2+3]. (to तुम)",
+     "ans": [
+      "यह",
+      "कहानी",
+      "ध्यान",
+      "से",
+      "सुनो"
+     ],
+     "wrong": [
+      [
+       "इस",
+       "इस is oblique, used before a postposition. यह कहानी is the object, with no postposition: यह."
+      ],
+      [
+       "सुनिए",
+       "सुनिए is the आप command. This is said to तुम — सुनो."
+      ]
+     ],
+     "alt": [
+      [
+       "ध्यान",
+       "से",
+       "यह",
+       "कहानी",
+       "सुनो"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "{The children}[0] {get up}[2+3] {early in the morning}[1].",
+     "ans": [
+      "बच्चे",
+      "सवेरे",
+      "उठते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "सवेरा",
+       "सवेरा is the noun. As a time phrase it is oblique: सवेरे."
+      ],
+      [
+       "उठता",
+       "उठता is singular. बच्चे is plural."
+      ]
+     ],
+     "alt": [
+      [
+       "सवेरे",
+       "बच्चे",
+       "उठते",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Our[0] new[1] programme[2] starts[6+7+8] on[5] {the first}[3] of February[4].",
+     "ans": [
+      "हमारा",
+      "नया",
+      "प्रोग्राम",
+      "पहली",
+      "फ़रवरी",
+      "को",
+      "शुरू",
+      "होता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "पहला",
+       "A date agrees with the feminine तारीख़ — पहली."
+      ],
+      [
+       "एकवीं",
+       "Not a word. The first of the month is पहली."
+      ]
+     ],
+     "alt": [
+      [
+       "पहली",
+       "फ़रवरी",
+       "को",
+       "हमारा",
+       "नया",
+       "प्रोग्राम",
+       "शुरू",
+       "होता",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Usually[1+2+3] he[0] comes[7+8] home[6] late[4+5].",
+     "ans": [
+      "वह",
+      "आम",
+      "तौर",
+      "पर",
+      "देर",
+      "से",
+      "घर",
+      "आता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "आती",
+       "आती is feminine. The English says “he”."
+      ],
+      [
+       "ख़ास",
+       "ख़ास तौर पर means “specially”. “Usually” is आम तौर पर."
+      ]
+     ],
+     "alt": [
+      [
+       "आम",
+       "तौर",
+       "पर",
+       "वह",
+       "देर",
+       "से",
+       "घर",
+       "आता",
+       "है"
+      ],
+      [
+       "वह",
+       "आम",
+       "तौर",
+       "पर",
+       "घर",
+       "देर",
+       "से",
+       "आता",
+       "है"
+      ],
+      [
+       "आम",
+       "तौर",
+       "पर",
+       "वह",
+       "घर",
+       "देर",
+       "से",
+       "आता",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "{In those days}[0+1] we[2] lived[6+7] in[5] a[3] village[4].",
+     "ans": [
+      "उन",
+      "दिनों",
+      "हम",
+      "एक",
+      "गाँव",
+      "में",
+      "रहते",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "वे",
+       "वे is direct. Before दिनों the phrase is oblique: उन दिनों."
+      ],
+      [
+       "दिन",
+       "The phrase is oblique plural: उन दिनों."
+      ]
+     ],
+     "alt": [
+      [
+       "हम",
+       "उन",
+       "दिनों",
+       "एक",
+       "गाँव",
+       "में",
+       "रहते",
+       "थे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:12",
+     "t": "tiles",
+     "en": "{Please sit}[0+2] inside[1].",
+     "ans": [
+      "आप",
+      "अंदर",
+      "बैठिए"
+     ],
+     "wrong": [
+      [
+       "के",
+       "के अंदर needs a noun before it. On its own, अंदर is an adverb."
+      ],
+      [
+       "बैठो",
+       "बैठो is the तुम command. With आप, बैठिए."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरी बहिन अगले महीने भारत आ रही है ।",
+     "audio": true,
+     "a": "My sister is coming to India next month.",
+     "wrong": [
+      [
+       "My sister came to India last month.",
+       "अगले महीने is “next month”, and आ रही है is not a past tense."
+      ],
+      [
+       "My sister comes to India every month.",
+       "A habit would be the imperfective, आती है. Here the continuous tells of a planned event."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे पास थोड़ा-सा समय है ।",
+     "audio": true,
+     "a": "I have a little time.",
+     "wrong": [
+      [
+       "I have no time.",
+       "“No time” would need नहीं."
+      ],
+      [
+       "I have a lot of time.",
+       "“A lot” would be बहुत. थोड़ा-सा is “a little”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उस समय पिता जी अख़बार पढ़ रहे थे ।",
+     "audio": true,
+     "a": "At that time Father was reading the newspaper.",
+     "wrong": [
+      [
+       "At that time Father used to read the newspaper.",
+       "“Used to read” would be the past imperfective, पढ़ते थे. पढ़ रहे थे is “was reading”."
+      ],
+      [
+       "Father is reading the newspaper now.",
+       "थे puts it in the past, and उस समय is “at that time”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शर्मा जी की दो बेटियाँ हैं ।",
+     "audio": true,
+     "a": "Mr Sharma has two daughters.",
+     "wrong": [
+      [
+       "These are Mr Sharma's two daughters.",
+       "“These are” would need ये. With no subject pronoun, X की … हैं means “X has …”."
+      ],
+      [
+       "Mr Sharma has two sons.",
+       "बेटियाँ are daughters. Sons would be बेटे, with के."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरा छोटा भाई हमेशा मेरा सिर खाता है ।",
+     "audio": true,
+     "a": "My little brother always pesters me.",
+     "wrong": [
+      [
+       "My little brother always eats my food.",
+       "सिर is “head”, and सिर खाना is an idiom: “to pester”."
+      ],
+      [
+       "My little brother always hurts my head.",
+       "सिर खाना is an idiom meaning “to pester”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "माँ जी आज बीमार दिख रही हैं ।",
+     "audio": true,
+     "a": "Mother looks ill today.",
+     "wrong": [
+      [
+       "Mother is looking at a sick person today.",
+       "दिखना means “to appear, seem”. “To look at” is देखना."
+      ],
+      [
+       "Mother was ill today.",
+       "दिख रही हैं is present, and it says how she seems."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे पति सावधानी से गाड़ी चलाते हैं ।",
+     "audio": true,
+     "a": "My husband drives carefully.",
+     "wrong": [
+      [
+       "My husband drives fast.",
+       "सावधानी से is “with care”, “carefully”."
+      ],
+      [
+       "My husband is driving carefully.",
+       "चलाते हैं is the imperfective, a habit. “Is driving” would be चला रहे हैं."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दूसरे दिन हम काठमांडु में थे ।",
+     "audio": true,
+     "a": "The next day we were in Kathmandu.",
+     "wrong": [
+      [
+       "On the second of the month we were in Kathmandu.",
+       "A date would be दूसरी, agreeing with तारीख़. दूसरे दिन is “the next day”."
+      ],
+      [
+       "For two days we were in Kathmandu.",
+       "“Two days” would be दो दिन. दूसरे दिन is “the next day”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "The continuous, “to have”, word order, sounds",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "ru:0",
+     "t": "mc",
+     "q": "How is the continuous formed?",
+     "a": "Verb stem + रहा, रही or रहे + the auxiliary",
+     "wrong": [
+      [
+       "Imperfective participle + रहा + the auxiliary",
+       "The participle (बोलता) is not used: it is the bare stem, बोल रहा है."
+      ],
+      [
+       "Infinitive + रहा + the auxiliary",
+       "The infinitive (बोलना) is not used: it is the bare stem, बोल रहा है."
+      ]
+     ],
+     "why": "The continuous is the verb stem + रहा, रही or रहे + the auxiliary: बोल रहा है “is speaking”, बोल रहा था “was speaking”."
+    },
+    {
+     "id": "ru:1",
+     "t": "mc",
+     "q": "Which construction says “X has …” for relatives, houses and parts of the body?",
+     "a": "X का, की, के …, agreeing with what is possessed",
+     "wrong": [
+      [
+       "X के पास …",
+       "के पास is for portable things, money and time (and servants)."
+      ],
+      [
+       "X को …",
+       "को is for ailments, as in X को बुख़ार है."
+      ]
+     ],
+     "why": "Hindi has no verb “to have”: it uses होना with को, के पास or का."
+    },
+    {
+     "id": "ru:2",
+     "t": "mc",
+     "q": "Which is the neutral word order?",
+     "a": "Subject, adverb, indirect object, direct object, verb",
+     "wrong": [
+      [
+       "Subject, verb, direct object, indirect object",
+       "The verb comes at the end in Hindi."
+      ],
+      [
+       "Direct object, subject, adverb, verb",
+       "Putting the object first is possible for effect, but the neutral order starts with the subject."
+      ]
+     ],
+     "why": "The indirect object, with को, comes before the direct object. Changes from this order shift the emphasis."
+    },
+    {
+     "id": "ru:3",
+     "t": "mc",
+     "q": "Which part is emphasised by its position?",
+     "a": "अपनी बहिन को, just before the verb",
+     "wrong": [
+      [
+       "मोहन, the first word",
+       "The first place is the normal place for the subject. The position just before the verb often bears emphasis."
+      ],
+      [
+       "किताबें, the direct object",
+       "किताबें has moved away from the verb. It is अपनी बहिन को, now just before the verb, that bears the emphasis."
+      ]
+     ],
+     "why": "Neutral order would be मोहन अपनी बहिन को किताबें भेज रहा है.",
+     "hi": "मोहन किताबें अपनी बहिन को भेज रहा है ।",
+     "audio": true,
+     "say": "मोहन किताबें अपनी बहिन को भेज रहा है ।",
+     "en": "Mohan[0] {is sending}[5+6+7] books[1] to[4] {his (own)}[2] sister[3]."
+    },
+    {
+     "id": "ru:4",
+     "t": "mc",
+     "q": "What does ऊपर mean with no noun and no के before it?",
+     "a": "It is an adverb: “up, upstairs”",
+     "wrong": [
+      [
+       "It still means “on top of”, with a noun understood",
+       "On its own ऊपर has its own adverb sense: मेरा दफ़्तर ऊपर है “my office is upstairs”."
+      ],
+      [
+       "It cannot be used without के",
+       "The second part of a compound postposition is often used alone as an adverb."
+      ]
+     ],
+     "why": "के ऊपर “on top of”, ऊपर “up, upstairs”; likewise के नीचे and नीचे."
+    },
+    {
+     "id": "ru:5",
+     "t": "mc",
+     "q": "Someone says आप बैठो. What is unusual about it?",
+     "a": "It pairs आप with the तुम command form",
+     "wrong": [
+      [
+       "Nothing: बैठो is the आप command",
+       "The आप command is बैठिए, and बैठो belongs to तुम. The mix is heard as a friendly compromise."
+      ],
+      [
+       "आप is plural, so it should be बैठे",
+       "बैठे is not a command. The usual आप command is बैठिए."
+      ]
+     ],
+     "why": "Speakers often mix honorific levels in real speech."
+    },
+    {
+     "id": "ru:6",
+     "t": "mc",
+     "q": "What does this word mean?",
+     "a": "branch (of a tree)",
+     "wrong": [
+      [
+       "daal, lentils",
+       "That is दाल, with a dental d. डाल has the retroflex ḍ."
+      ],
+      [
+       "political party",
+       "That is दल, with a short vowel and a dental d."
+      ]
+     ],
+     "why": "Keep dental and retroflex consonants apart, as in दाल and डाल.",
+     "hi": "डाल",
+     "audio": true
+    },
+    {
+     "id": "ru:7",
+     "t": "mc",
+     "q": "What does this word mean?",
+     "a": "peacock",
+     "wrong": [
+      [
+       "turn, bend",
+       "That is मोड़, with a flapped ṛ at the end."
+      ],
+      [
+       "pearl",
+       "That is मोती."
+      ]
+     ],
+     "why": "मोर and मोड़ are a minimal pair.",
+     "hi": "मोर",
+     "audio": true
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "cont": 3,
+  "past": 2,
+  "have": 3,
+  "adv": 2,
+  "manner": 2,
+  "date": 1,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "कहानियें": "kahāniyẽ",
+  "रहीं": "rahī̃",
+  "घंटें": "ghaṇṭẽ",
+  "हाथें": "hāthẽ",
+  "पिछलें": "pichlẽ",
+  "महीनें": "mahīnẽ",
+  "सवेरें": "saverẽ",
+  "दिनें": "dinẽ",
+  "सीधें": "sīdhẽ",
+  "एकवीं": "ekvī̃",
+  "दोवीं": "dovī̃",
+  "कलकत्तों": "kalkattõ"
+ }
+}

@@ -1071,5 +1071,139 @@
     "title": "Conjunct verbs: noun/adjective + करना (transitive: मोहन दुकान बंद करता है) with intransitive partners in होना (दुकान बंद होती है); बंद, साफ़, ख़त्म करना"
    }
   ]
+ },
+ "8": {
+  "forms": {
+   "अगला": "aglā",
+   "अठारह": "aṭhārah",
+   "अस्पताल": "aspatāl",
+   "आँख": "ā̃kh",
+   "आगरा": "āgrā",
+   "आजकल": "ājkal",
+   "आम": "ām",
+   "तौर": "taur",
+   "ऐश": "aiś",
+   "कमाना": "kamānā",
+   "कलकत्ता": "kalkattā",
+   "कहानी": "kahānī",
+   "काठमांडु": "kāṭhmāṇḍu",
+   "ग़ल्त": "galt",
+   "गली": "galī",
+   "घंटा": "ghaṇṭā",
+   "चलाना": "calānā",
+   "जन्मदिन": "janmdin",
+   "जून": "jūn",
+   "ज़ोर": "zor",
+   "डाल": "ḍāl",
+   "तंग": "tang",
+   "तकलीफ़": "taklīf",
+   "तारीख़": "tārīkh",
+   "ताली": "tālī",
+   "तू-तू": "tū-tū",
+   "मैं-मैं": "maĩ-maĩ",
+   "थकान": "thakān",
+   "थाली": "thālī",
+   "थोड़ा-सा": "thoṛā-sā",
+   "दल": "dal",
+   "दाहिना": "dāhinā",
+   "दाहिने": "dāhine",
+   "दिखना": "dikhnā",
+   "दिली": "dilī",
+   "नंबर": "nambar",
+   "निकलना": "nikalnā",
+   "नेपाल": "nepāl",
+   "पल": "pal",
+   "पहर": "pahar",
+   "पिछला": "pichlā",
+   "पुस्तक": "pustak",
+   "पूरा": "pūrā",
+   "प्रोग्राम": "progrām",
+   "फ़रवरी": "farvarī",
+   "बनाना": "banānā",
+   "बायाँ": "bāyā̃",
+   "बायें": "bāyẽ",
+   "भगवान": "bhagvān",
+   "भेजना": "bhejnā",
+   "मई": "maī",
+   "महीना": "mahīnā",
+   "मिलाना": "milānā",
+   "मोड़": "moṛ",
+   "मोर": "mor",
+   "विलंब": "vilamb",
+   "सन्": "san",
+   "सब्ज़ी": "sabzī",
+   "सवेरा": "saverā",
+   "सवेरे": "savere",
+   "सावधानी": "sāvdhānī",
+   "सिर": "sir",
+   "सीधा": "sīdhā",
+   "सीधे": "sīdhe",
+   "सैंतालीस": "saĩtālīs",
+   "हाथ": "hāth",
+   "हे": "he",
+   "अगले": "agle",
+   "महीने": "mahīne",
+   "पिछले": "pichle",
+   "दिनों": "dinõ",
+   "सारे": "sāre",
+   "रहा": "rahā",
+   "बना": "banā",
+   "रही": "rahī",
+   "रहे": "rahe",
+   "खेल": "khel",
+   "सोच": "soc",
+   "धो": "dho",
+   "कहानियाँ": "kahāniyā̃",
+   "औरतें": "auratẽ",
+   "हँस": "hãs",
+   "घंटे": "ghaṇṭe",
+   "हाथों": "hāthõ",
+   "सारी": "sārī",
+   "कलकत्ते": "kalkatte",
+   "सीधी": "sīdhī",
+   "चलाइए": "calāie",
+   "दिख": "dikh",
+   "चलाते": "calāte",
+   "चला": "calā",
+   "भेज": "bhej"
+  },
+  "grammar": [
+   {
+    "id": "continuous",
+    "title": "Continuous tenses: stem + रहा, रही, रहे + हूँ, है, हैं, हो (present) or था, थी, थे, थीं (past), “is …ing, was …ing” (बच्चे बाहर खेल रहे थे); feminine plural रही हैं, रही थीं"
+   },
+   {
+    "id": "continuous-uses",
+    "title": "The continuous for planned near-future events (हम शनिवार को लखनऊ जा रहे हैं) and for naming oneself on the phone (मैं … बोल रहा हूँ)"
+   },
+   {
+    "id": "to-have",
+    "title": "“To have”: X को for ailments (मेरे पति को बुख़ार है); X के पास for portable things, money, time, servants (मेरे पास दो घंटे हैं); X का, की, के for relatives, houses, parts of the body, agreeing with what is possessed (सीता की तीन बहिनें हैं); some speakers use के for relatives regardless"
+   },
+   {
+    "id": "oblique-adverbials",
+    "title": "Oblique adverbial phrases with no postposition: अगले महीने, पिछले साल, दूसरे दिन, उन दिनों, सारे दिन, सवेरे, तीसरे पहर, किस समय, इस तरफ़; the destination of a motion verb is usually oblique (कलकत्ते जाना); आज शाम, आज सुबह without इस"
+   },
+   {
+    "id": "se-par-adverbs",
+    "title": "Adverbial phrases with से and पर — बस से, हाथ से, देर से, ज़ोर से, ध्यान से, सावधानी से, अच्छी तरह (से), ठीक समय पर, आम तौर पर, ख़ास तौर पर"
+   },
+   {
+    "id": "postposition-adverbs",
+    "title": "The second part of a compound postposition used alone as an adverb (ऊपर, नीचे, बाहर, अंदर, साथ, सामने, नज़दीक, बाद); adverbs in -e paired with adjectives: कैसे, सीधे, दाहिने, बायें"
+   },
+   {
+    "id": "dates",
+    "title": "Dates: पहली and दूसरी (agreeing with तारीख़ f) for the 1st and 2nd, cardinals after that (पाँच जून); years with सन्, in hundreds and with no “and” (सन् उन्नीस सौ सोलह)"
+   },
+   {
+    "id": "word-order",
+    "title": "Neutral word order: subject, adverb, indirect object + को, direct object, verb; the position just before the verb often bears emphasis; afterthoughts may follow the verb"
+   },
+   {
+    "id": "colloquial",
+    "title": "Colloquial usage: यह and वह (वो) for plurals, आप with a तुम command, the “royal” हम; minimal pairs such as दाल and डाल, मोर and मोड़, ताली and थाली"
+   }
+  ]
  }
 }

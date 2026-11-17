@@ -9,6 +9,7 @@
 | 5 | Done, validated (not committed) | 78 | 90 | 22 | book 50–62 |
 | 6 | Done, validated (not committed) | 80 | 101 | 22 | book 64–77 |
 | 7 | Done, validated (not committed) | 80 | 97 | 22 | book 78–89 |
+| 8 | Done, validated (not committed) | 80 | 96 | 22 | book 90–103 |
 
 ## Items to review
 
@@ -135,6 +136,66 @@
 - Hard-level tile pool: `tl:3` (मोहन को आराम की ज़रूरत है) and `tl:11` (मोहन को उर्दू आती थी) can take कुछ from `tl:8` (“some rest”, “knew some Urdu”); `tl:0`, `tl:6` can take सुबह/जल्दी from other items (adding a time detail); `tl:7` can take ये or मेरे (“these/my children”); `tl:2` can take इस (“in this garden”); `tl:9` can take थी from `tl:1` (“Sita needed a new sari”). All differ from the English cue, but are close. No tile item has a negative (the auxiliary would be optional) or uses कोई + number.
 - Near-match check against pp. 78–89 (dialogues 7a/7b, 7.1–7.6 examples, 7A.1, 7A.2/7A.3 models, 7B.1, 7B.2, Test yourself), with the changes I made: `mn:4` (was कोई पाँच विद्यार्थी बाहर बैठे थे, close to Test yourself 2c कोई बीस आदमी बाहर खड़े हैं) → स्टेशन पर …; `tl:2` (was कोई बाहर खड़ा है, same source) → कोई बग़ीचे में बैठा है; `ps:0` (avoided दादी … रामायण पढ़ती थीं, 7A.1 #8) → गपशप करती थीं; `ko:5` (avoided कुछ दाल-रोटी लीजिए न) → कुछ और दूध लाओ; `nd:1` (avoided “we needed the car keys”, 7A.1 #7, and the 7.3 rooms/bicycles examples) → मेहमानों को और समोसे चाहिए थे; `ks:5` (avoided “The Taj is rather expensive”, 7A.1 #5) → यह कमरा कुछ छोटा है; `ko:6` (avoided “tell/give it to someone else”, 7A.1 #6 and 7B.2) → किसी और की साइकिल; `ps:7` (avoided रविवार को हम लंबी सैर करते and हर शनिवार को … सिनेमा जाते थे) → गर्मियों में हम पहाड़ों पर रहते; `ps:5` (avoided पिता जी को … भाषाएँ आती थीं) → मेरी माँ को संस्कृत आती थी; `cj:6`, `cj:2` (avoided हमारी क्लास नौ बजे शुरू होती है and छुट्टियाँ … शुरू होती हैं) → स्कूल/नया काम; `cj:5` uses ख़त्म होना with मेरी छुट्टी; `or:3`, `or:1` (avoided the Test yourself “second brother … third house” and 7B.1's आठवाँ और दसवाँ सवाल) → चौथे बेटे, मेरा तीसरा सवाल; `nd:3` (avoided दादी को चश्मे की ज़रूरत है) → इस बच्चे को डाक्टर की ज़रूरत है; `mn:7` (was हमें एक बड़ी गाड़ी चाहिए थी, close to हमें दो साइकिलें चाहिए थीं and 7A.1 #7) → मेरे भाई को नए जूते चाहिए थे; `tl:1` (was राज को नई चाबी चाहिए थी, close to 7A.1 #7) → नई मेज़; `tl:11` (was मोहन को उर्दू आती थी, close to dialogue 7a) → गुजराती; `ks:3` (was … हिन्दी पढ़ाता हूँ, close to Test yourself 1 … हिन्दी पढ़ाते थे) → संस्कृत. Remaining resemblances that are the construction itself: X कुछ ADJ है (`ks:5`, `tl:8`, `mn:2`, like यह कपड़ा कुछ मोटा है), कोई + number + noun + थे (`ks:6`, `mn:4`, like कोई दस मोती पड़े थे), दरवाज़े पर कोई है (`ko:0`, like क्या घर में कोई है ?), X को Y की ज़रूरत है (`nd:3`, `nd:4`, `tl:3`). The `_grammar` titles use my own examples.
 - Meaning items carry no alignment, as in units 2–6.
+
+### Unit 8
+- Vocabulary: the end list (pp. 101–102), plus phrases from the grammar sections. These are the 8.3 oblique phrases (अगले महीने, पिछले साल, दूसरे दिन, उन दिनों, सारे दिन, तीसरे पहर, किस समय, इस तरफ़, आज शाम), the से/पर phrases (आम तौर पर, ख़ास तौर पर, ज़ोर से, देर से, बस से, हाथ से, सावधानी से, अच्छी तरह, बुरी तरह, ठीक समय पर) and the adverbs दाहिने, बायें, सवेरे, सीधे. अंदर, ऊपर, नीचे, साथ, नज़दीक, अलग, तरह and के पास are re-listed with their unit-8 senses (adverbs; “separately”; “way, manner”; “in (one's) possession”). देर, ध्यान से, ठीक से and बाद में are already in earlier units, so they are not repeated. Body-only words not added: जनवरी, जुलाई (8.4; the book gives no gender), ड्राइवर, रोज़ (8.5), and the example names.
+- Spellings and romanisation: ग़ल्त (galt), as printed in the end list and 8.1; बायें (adverb) and बायाँ (adjective); काठमांडु; सन् (san). Choices I had to make:
+  - सैंतालीस saĩtālīs.
+  - Anusvāra before a retroflex as ṇ, like ṭhaṇḍā: घंटा ghaṇṭā, काठमांडु kāṭhmāṇḍu.
+  - Anusvāra before ब as m, like kambal: नंबर nambar, विलंब vilamb. तंग is tang, like rang.
+  - थोड़ा-सा thoṛā-sā and तू-तू मैं-मैं are hyphenated single tokens, like बहुत-सारा.
+  - सीधे is glossed “straight (ahead)”. The end list also gives “to the right”, which I left out because it looks like a slip.
+- Genders from the end list: अस्पताल, आगरा, ऐश, कलकत्ता, काठमांडु, घंटा, जन्मदिन, जून, ज़ोर, दल, नंबर, नेपाल, पल, पहर, प्रोग्राम, भगवान, महीना, मोड़, मोर, विलंब, सन्, सवेरा, सिर, हाथ m; आँख, कहानी, गली, डाल, तकलीफ़, तरह, तारीख़, ताली, थकान, थाली, पुस्तक, फ़रवरी, मई, सब्ज़ी, सावधानी f.
+- Glosses split to keep English answers distinct: पुस्तक “book (formal word)”; विलंब “delay (formal)”; सवेरा “early morning” / सवेरे “early in the morning”; दाहिना “right” / दाहिने “to the right”, and बायाँ / बायें likewise; सीधा “straight, straightforward” / सीधे “straight (ahead)”; सारे दिन “the whole day” (unit 6 has दिन भर “all day”); पहर “watch (part of the day)”.
+- Forms declared that are produced by the rules of this or earlier units:
+  - रहा, रही, रहे (8.1).
+  - The stems बना, सोच, धो, खेल, हँस, दिख, भेज, चला. The unit-5 stems बोल, पढ़, लिख, जा, आ, कर were already in the ledger.
+  - The oblique forms अगले, पिछले, महीने, सारे, दिनों, कलकत्ते.
+  - सारी (`ad:5` wrong choice), सीधी (`mr:6` wrong choice), घंटे, हाथों, कहानियाँ, औरतें, चलाते, चलाइए.
+- Deliberately wrong forms, which make up the Hard tile pool: the non-words पिछलें, महीनें, सवेरें, दिनें, घंटें, हाथें, कहानियें, एकवीं, दोवीं, कलकत्तों, सीधें, plus रहीं.
+  - रहीं is a real form when a negative drops the auxiliary (वे नहीं आ रहीं). It is wrong when the auxiliary is present (`pc:2`).
+  - No tile sentence has a negative, so रहीं is wrong in every tile item. Check you're happy keeping it.
+- Choices never set against each other because both are correct:
+  - के against का/की for relatives. Some speakers use के throughout (p. 94), so relative items offer only the other gender and को.
+  - कलकत्ता against कलकत्ते. The book says the destination is “usually” oblique, so `tl:6` offers only the non-word कलकत्तों, and `ad:8` is a rule question.
+  - सुबह against सवेरे; अच्छी तरह with and without से; आम तौर पर / से; जल्दी (से).
+  - The continuous with and without the auxiliary after नहीं (`cn:9` keeps है).
+  - कौनसे समय against किस समय (`ad:4` offers कौन and क्या).
+  - के पास against का for houses and cars (`hv:1` offers की and को; `tl:4` offers नया and को).
+  - सारा दिन against सारे दिन: both are heard for “the whole day”, so `ad:5` offers हर and सारी.
+  - सीधा against सीधे: सीधा जाइए is common in speech, so `mr:6` offers सीधी and the non-word सीधें.
+- Dates: `dt:0`, `dt:2` and `tl:9` follow 8.4, with पहली and दूसरी for the 1st and 2nd. In everyday modern use the cardinal (एक मार्च, दो फ़रवरी) is also heard, so एक and दो are never offered as wrong; the non-words एकवीं and दोवीं are used instead. `dt:1` does offer पाँचवीं against पाँच for the 5th, as the book does.
+- `hv:1`: मेरे चाचा जी का … मकान. The explanation says the possessive follows मकान, not the respected owner. `hv:4` (उस औरत के चार बेटे हैं) works the same way. `hv:7` (इस मूर्ति के चार हाथ हैं) is the body-part case and `hv:6` (मेरे पास सिर्फ़ दो घंटे हैं) the time case.
+- `hv:3`, `tl:5`: ailments with को (मेरे पति को कल से बुख़ार है; मेरी दादी जी को सोमवार से ज़ुकाम है). `tl:5` uses present + से for “has had … since”, as in units 3 and 7. Its explanation says respect for दादी जी does not make है plural.
+- `cn:5`: हलो, क्या पिंकी बोल रही है ? “is that Pinki speaking?”. The phone formula itself (मैं … बोल रहा/रही हूँ) is described but not drilled, because any example would nearly copy 8.1 and 8A.3.
+- `cn:6`: आप आजकल क्या पढ़ रहे हैं ? uses the continuous for an ongoing period. आजकल would also go with the imperfective, so the item tests only रहे against रहा and रही.
+- `cn:7`, `mn:0`, `dt:0`, `ad:1`, `tl:6`: the continuous for a planned near-future event (the Insight on p. 93).
+- `ad:6`: तीसरे पहर is explained as “in the third watch”; the book glosses only “in the afternoon”. `ad:4`: क्या समय is explained as not meaning “at what time”.
+- `ad:7`: इस शाम and यह शाम are offered as wrong, following the note on p. 96.
+- `mr:2`: ठीक समय पर, with the wrong choices ग़ल्त (“at the wrong time”) and किस. `mr:4`: ठीक is explained as going with तरह or से.
+- `mr:6`: आप सीधे जाइए “please go straight”.
+- `mn:4`: मेरा छोटा भाई हमेशा मेरा सिर खाता है, the idiom सिर खाना with the imperfective.
+- `ru:3`: emphasis by position (8.5), using my own sentence मोहन किताबें अपनी बहिन को भेज रहा है. The neutral version is given in the explanation. `ru:5`: आप बैठो (8.6) is quoted as a grammar fact.
+- `ru:6`, `ru:7`: minimal pairs from pp. 98–99. The Hindi word (डाल, मोर) is shown and played, and the choices are English meanings. Each wrong meaning is explained by its look-alike word (दाल, दल; मोड़, मोती).
+- Near-match check against pp. 90–103 (dialogues 8a/8b, the 8.1–8.5 examples and tables, 8A.1, 8A.2, 8A.3, 8B.1, 8B.2, Test yourself). Changes I made:
+  - `tl:3`: was सीता के दो भाई हैं, only a name change from राम के दो भाई हैं. Now मेरे पड़ोसी की दो बेटियाँ हैं.
+  - `tl:2`: was … एक कहानी पढ़ रही है, close to तुम कौनसी कहानी पढ़ रही हो. Now … चिट्ठी लिख रही है.
+  - `tl:7`: was यह कहानी ध्यान से पढ़ो, close to 8A.1 #1. Now … ध्यान से सुनो.
+  - `ad:1`: was मेरी बहिन दिल्ली आ रही है, close to 8A.2 #3 and to `mn:0`. Now मेरे दोस्त लंदन से आ रहे हैं.
+  - `dt:0`, `dt:1`, `tl:9`: were आज पहली मार्च है and मेरा जन्मदिन … को है, which are answers to 8B.2 #1–2. Now मेरी बेटी पहली मार्च को आ रही है, हमारी छुट्टी पाँच जून को शुरू होती है and हमारा नया प्रोग्राम पहली फ़रवरी को शुरू होता है.
+  - `mn:4`: was बच्चे सारे दिन मेरा सिर खाते हैं, which combined two lines of dialogue 8b. Now मेरा छोटा भाई ….
+  - `tl:6` uses कलकत्ते with अगले महीने मेरे चाचा जी, not the book's आगरे जाना or वे लोग आगरे जा रहे हैं.
+  - `dt:4` uses सन् दो हज़ार नौ, not the 8.4 date sentence.
+  - `pc:5` avoids 8B.2 #10 (… क्या कर रहे थे).
+  - `hv:3`: was मोहन को आज बुख़ार है, a name and tense change from संगीता को बुख़ार था. Now मेरे पति को कल से बुख़ार है.
+  - Explanations: `ad:8` (was मैं अपने गाँव जा रहा हूँ, the 8.3 example) now uses सीता अपने दफ़्तर जा रही है. `ru:4` (was वह ऊपर रहता है, from the table's वह नीचे रहती है) now uses मेरा दफ़्तर ऊपर है. `mn:1` no longer quotes मेरे पास समय नहीं है, which is close to हमारे पास समय नहीं है.
+- Remaining resemblances that are the construction itself:
+  - `hv:0` सीता की तीन बहिनें हैं, in the frame of शिव की तीन आँखें हैं.
+  - `mn:3` शर्मा जी की दो बेटियाँ हैं and `hv:4` उस औरत के चार बेटे हैं (X के N … हैं).
+  - `pc:0` … एक कहानी पढ़ रहा था and `cn:2` तुम क्या सोच रहे हो ?.
+  - `mn:6` … सावधानी से गाड़ी चलाते हैं. 8A.1 has ध्यान से and गाड़ी चलाते हो, in separate sentences.
+  - The `_grammar` titles use my own examples.
+- Meaning items carry no alignment, as in units 2–7.
 
 ## Known issues and not yet done
 
