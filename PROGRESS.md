@@ -14,6 +14,7 @@
 | 10 | Done, validated (not committed) | 80 | 75 | 22 | book 118–128 (129 blank) |
 | 11 | Done, validated (not committed) | 80 | 78 | 22 | book 130–143 (144 Test yourself, 145 blank) |
 | 12 | Done, validated (not committed) | 80 | 81 | 22 | book 146–158 (159 blank) |
+| 13 | Done, validated (not committed) | 80 | 80 | 22 | book 160–175 (175 Test yourself) |
 
 ## Items to review
 
@@ -460,6 +461,45 @@
   - Remaining resemblances that are the construction itself: `md:5` (like मैं यह दरवाज़ा नहीं खोल पा रहा हूँ), `cp:8` (X से होकर Y), `tm:5` (चार बजने में बीस मिनट हैं, like सात बजने में दस मिनट हैं), `tm:7` एक बजे, `cv:6` चाबी खो गई (like मोती खो गए), `cb:3` … होकर संगीता चली गई (like … देखकर वह चली गई), `md:10` चुका होगा (like धो चुका होगा), `cp:11` कृपा करके धीमी आवाज़ में (the dialogue has आवाज़ धीमी करके).
 
 - Fixed after review: `tl:6` and `tl:8` now accept the correct shorter sentences (दादी ने बच्चों को सेब दिए, संगीता घर से बाहर आई) as alternatives; the validator now allows an `alt` that uses only some of the tiles. `cv:5` now answers राज, दादी का पत्र पढ़कर सुना दो (“read it out to her”) instead of … पढ़ दो.
+
+### Unit 13
+- Vocabulary: the end list (pp. 172–174) plus the Quick Vocab and grammar words जब भी, तभी, ज्योंही … त्योंही (13.1) and पड़ना “(with an infinitive) to have to” (13.3). Multi-word entries keep the book's form (जब तक नहीं … तब तक, प्यास लगना, भूख लगना, चोट लगना, तलाक़ होना, बारिश होना, बरबाद करना, मन लगना, दिल लगना).
+  - Earlier words re-listed only for a new sense: इधर “recently, latterly” (unit 5 “here”), गोली “bullet” (unit 4 “tablet, pill”), चाहिए “(with an infinitive) should” (unit 7 “is needed”), मिलना “to be available, be got” (unit 9 “to meet”), सो “archaic correlative” (unit 12 stem of सोना), पड़ना (unit 10 “to fall”). Not repeated: आगे (unit 6), मिलना as “to meet”.
+  - Left out: dialogue and example names (प्रताप, ऋषि, खन्ना, कमला, सुरेश, छोटू, अरुण, राजू, राम), the dialogue-only words (अंकल, लन्दन, नेपाल, पंजाबी…) and अलग (Insight only).
+  - टिकट is m/f in the book. I entered it as m with the gloss “ticket; stamp (m or f)” and kept it out of every item. जवान (adj/m) is entered as an adjective, “young, youthful; soldier”. बेचारा likewise.
+- Glosses chosen to keep English answers distinct: मन लगना “to feel at home (मन mind)” / दिल लगना “to feel at home (दिल heart)”; मिलना “to be available, be got” / मिलना-जुलना “to resemble”; जो कुछ “whatever (things)” / जो भी “whoever, whatever (emphatic)” / जो कोई “whoever, anyone who”; ज्योंही … त्योंही “the moment that … at that moment” (the book glosses it like जैसे ही … वैसे ही); ठंड “cold, chill”; फ़ुरसत “free time, leisure” (unit 12 अवकाश is “leisure, free time”).
+- Romanisations I could not confirm from the book (mirroring the ledger's style, e.g. bhaviṣy, avaśy, ghaṇṭā): वाक्य vāky, शिष्य śiṣy, घंटी ghaṇṭī, ठंड ṭhaṇḍ, बँगला bãglā, भौंकना bhaũknā, ज्योंही jyõhī, त्योंही tyõhī, जिन्होंने jinhõne, जिन्हें jinhẽ, क़िस्मत qismat, तलाक़ talāq, इलाहाबाद ilāhābād, मिल-जुलकर mil-julkar.
+- Unit 13 forms declared: जब, तब, तभी, जैसे, जो, जिस, जिसने, जिसे, जिन, जिन्होंने, जिन्हें; लगना forms (लग, लगता, लगती, लगते, लगा, लगी, लगे, लगीं, लगेगा); मिलना forms (मिलता, मिलती, मिलते, मिलेगी, मिलता-जुलता, मिलकर, मिलनी); पड़ना forms (पड़ता, पड़ती, पड़ते, पड़ी, पड़ीं, पड़ेगा, पड़ेगी, पड़ेंगे); agreeing infinitives (सीखनी, लेनी, सुननी, बेचनी, ख़रीदनी, सोचनी, रहनी, लिखनी, देखनी, खानी, धोनी, धोने, रहने, लाने, बेचने).
+- Forms that earlier units' rules produce, declared here: oblique infinitives लिखने, सीखने, बनाने, पहुँचने, करने; लिखना; बातें; futures रहेगी, मिलेगा, सोएगी, पहनूँगी, करेंगी, बताऊँगा, गाएँगे; imperfectives रहती, रहता, करता, धोते, सुनती, बेचता; perfectives बजी, बनाई, बनाया, पहुँचा, हुई, सोया, ख़रीदा, सीखा, सोई; stems गा, ख़रीद; oblique infinitive मिलने. (लोगों is also missing from the ledger; I avoided it.)
+- Deliberately wrong forms (Hard tile pool), all non-words: जोने, जिसों, जोओं (wrong oblique forms of जो); पड़या, लगया, मिलया (consonant stems take no -y-); चाहिता, चाहिती, चाहिया (चाहिए does not inflect); पड़नेगा, लगनेगा (future on the oblique infinitive). I avoided चाहिएँ (a real plural variant), चाहिएगा (real polite form), जिसको/जिनको (real), joined spellings (जबसे, तबतक), जभी (colloquial) and agreeing infinitives such as लगनी, करनीं.
+- Statements that follow the book's rule where colloquial usage is looser:
+  - Agreement of the infinitive with the object (सीखनी, धोने, ख़रीदनी). Everyday Hindi often keeps the plain -nā form (हिन्दी सीखना चाहिए). I never offer the plain infinitive as a wrong choice against an agreeing one; the wrong choices are the wrong gender or number, or a participle.
+  - `pd:8`: ने for को with infinitive + होना is explained as regional (Delhi) usage, not as impossible.
+  - `pd:2`: पड़ता is rejected because the event happened once. Bare पड़ता can also be a counterfactual “would have had to”; the explanation gives the habitual reading only.
+  - `pd:9`: पड़ी for a feminine plural object is rejected by the unit 11 nasal rule (the nasal goes on the last word, पड़ीं).
+- Choices never set against each other because both are correct: तब and तो; जैसे ही and ज्योंही; न and नहीं after जब तक; future and subjunctive in जब and जो कोई clauses; होगा and पड़ेगा for “will have to”; है and पड़ता है under a bare “have to”; जिसे and जिसको; भूख लगी है and भूखा हूँ; अच्छा लगना and पसंद होना; मिल-जुलकर and मिलकर (`ml:5`); लगता है and लग रहा है; वह and उसे as the object correlative (`jo:7` does not offer वह).
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `ml:3`: बाज़ार में मैं उषा से मिला is correct Hindi for a planned meeting; the cue says “by chance”, and the explanation says so.
+  - `pd:6`: all three sentences are correct; the question asks which is the strongest compulsion (the book's Insight box).
+  - `pd:10`: राज को चलकर घर जाना चाहिए था is correct (“should have walked”), ruled out by “had to”.
+  - `ch:7`: सीता को नई साड़ी चाहिए and सीता नई साड़ी ख़रीदना चाहती है are correct sentences with other meanings.
+  - `tl:0`, `tl:8`: dropping यह or पुरानी changes the meaning; `tl:8` accepts हमें घर बेचना पड़ा without अपना.
+- Tile alternatives accepted: `tl:2` also वह औरत जो ऊपर रहती है डाक्टर है, वह औरत डाक्टर है जो ऊपर रहती है and the version without वह; `tl:3` the version without वह (colloquial); `tl:4` the version without तब तक, with पिंकी first, and the reversed orders पिंकी तब तक नहीं सोएगी जब तक कहानी ख़त्म नहीं होगी and पिंकी नहीं सोएगी जब तक …; `tl:3` also वह लड़की जिस ने यह तस्वीर बनाई मेरी बेटी है and वह लड़की मेरी बेटी है जिस ने यह तस्वीर बनाई; `tl:5` without क्या and with फ़िल्म first; `tl:6` दादी को रात को …; `tl:9` without वैसे ही; `tl:10`, `tl:11` other natural orders.
+- `pd:2` writes इस लिए as two words (the ledger has इस and लिए, not इसलिए), although this unit's pages print इसलिए.
+- Tile answers with a repeated word (`tl:2` है, `tl:4` तक and नहीं, `tl:6` को, `tl:9` ही): the engine keys tiles by position, as in unit 1 `tl:8` and unit 10 `tl:11`.
+- Sentences I'm unsure about:
+  - `pd:10` राज को चलकर दफ़्तर जाना पड़ा for “had to walk to the office” (पैदल is not in the ledger). चलकर जाना “go on foot” is natural but less usual than पैदल जाना.
+  - `tl:9` बच्चे दौड़कर बाहर गए for “ran out”.
+  - `tl:1` मुझे दो घंटे रुकना पड़ा “I had to stay for two hours” (रुकना “to stop, stay on”).
+  - `jo:9` जो कुछ तुमने सीखा है, वह कभी मत भूलना, with the infinitive as a command and वह (not उसे) as the object.
+  - `ch:2` अपनी माँ की बात सुननी चाहिए “should listen to her mother”.
+  - `jb:2` English “from then on” and `jb:3` “for that long” are added so that तब से and तब तक have an English counterpart for the alignment.
+  - `pd:3` राज को नई साड़ी ख़रीदनी पड़ी (a man buying a sari, presumably for someone else).
+  - `tl:3` without वह: जिस लड़की ने यह तस्वीर बनाई मेरी बेटी है is accepted as colloquial.
+- Near-match check against pp. 160–175: I typed the dialogues, the 13.1–13.6 examples, exercises 13A–13B and Test yourself into a scratch file, compared every `say`, tile answer and wrong-choice sentence by shared words, then deleted the file.
+  - Changes I made: `tl:4` (was जब तक माँ घर नहीं आएँगी तब तक राज नहीं सोएगा, the frame of Test yourself 1; now about a story ending), `pd:0` (was … डाक्टर के पास जाना है, close to आज मुझे दिल्ली जाना है; now डाक्टर से मिलना है), `pd:10` (घर → दफ़्तर, away from मुझे घर जाना चाहिए), `ch:1` (was तुम्हें ये कपड़े धोने चाहिए, close to तुम्हें हाथ धोने हैं), `pd:4` (was हर सुबह … जाना पड़ता है, close to हर हफ़्ते इलाहाबाद जाना पड़ता है), `pd:8` (was … बहुत काम करना है, close to बहुत काम करना पड़ेगा, then … आज बाज़ार जाना है; now मोहन को कल लखनऊ लौटना है), `jo:9` (was मेरे पास जो कुछ है, close to आपके पास जो कुछ हो), `tl:6` (was दादी को ठंड लग रही है, close to तुम्हें ठंड लग रही होगी), `lg:1` (added अब बहुत).
+  - Frames avoided while writing: the 13B.1 and Test yourself English prompts (not translated), जब गाड़ी आएगी तब मैं जाऊँगा, जब तक मैं पहुँचा … जा चुकी थी, चाय बनाने में पाँच मिनट, गाड़ी को ठीक करने में, दिल्ली आपको कैसी लगती है, कल हम को सीता मिली, the shop and table frames of 13B.1, rain + stay of Test yourself 5.
+  - Remaining resemblances that are the construction itself: `lg:1` भूख लगी है, `lg:6` and `mn:2` चोट लगी, `mn:4` … में आग लग गई, `mn:3` जिस दिन … उसी दिन, `jo:10` जो किताब मैंने ख़रीदी, वह …, `ch:6` … रहनी चाहिए, `jb:5` जैसे ही … वैसे ही … हो गई.
 
 ## Known issues and not yet done
 
