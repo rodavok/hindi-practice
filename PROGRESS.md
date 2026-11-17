@@ -10,6 +10,7 @@
 | 6 | Done, validated (not committed) | 80 | 101 | 22 | book 64–77 |
 | 7 | Done, validated (not committed) | 80 | 97 | 22 | book 78–89 |
 | 8 | Done, validated (not committed) | 80 | 96 | 22 | book 90–103 |
+| 9 | Done, validated (not committed) | 80 | 90 | 22 | book 104–116 (117 blank) |
 
 ## Items to review
 
@@ -196,6 +197,94 @@
   - `mn:6` … सावधानी से गाड़ी चलाते हैं. 8A.1 has ध्यान से and गाड़ी चलाते हो, in separate sentences.
   - The `_grammar` titles use my own examples.
 - Meaning items carry no alignment, as in units 2–7.
+
+### Unit 9
+- Vocabulary: the end list (pp. 114–116), plus words from the grammar sections. These are पंडित (Insight, p. 106), योग्य (9.6), बहुत-सा and भोला-सा (9.5, Quick Vocab p. 105), and the ही forms यही, वही, इसी, उसी, हमीं, सभी and इसी लिए (9.4). कभी is re-listed as “sometime”.
+  - Not repeated, because earlier units have them: कमाना (unit 8), पत्र (unit 5), गर्मियाँ/गर्मियों (unit 7).
+  - Left out: बी० एच० यू० (the abbreviation dots would make awkward tokens) and body-only words such as यदि, मराठी, प्रतियाँ, हफ़्ते, फ़िल्म, माँगना and the names in the dialogues and letter. No item uses अगर, so यदि is never needed as an alternative.
+  - गाना is entered once as the noun “song” (m), with गाना गाना “to sing (a song)” for the verb, because the vocabulary can't hold the same Hindi twice.
+- Spellings: ग़लत (galat) is entered as printed in this unit's end list and glossed “wrong (another spelling)”. Unit 8 has ग़ल्त; no item uses ग़लत.
+  - The future follows 9.1: बोलेंगे with anusvāra after a consonant stem, and जाएँगे/आएँगे with candrabindu after a vowel stem.
+  - इसी लिए is written as two words (the dialogue has इसीलिए), matching the 9.4 Insight.
+- Romanisations I had to choose:
+  - गुंडा guṇḍā, like घंटा.
+  - परंतु parantu, इंतज़ाम intazām.
+  - भविष्य bhaviṣy and योग्य yogy, like प्रिय priy.
+  - विश्वविद्यालय viśvavidyālay, ईव-टीज़िंग īv-ṭīzing.
+  - The future endings as -ū̃gā, -egā, -oge, -ẽge (आएँगे āẽge, लेंगे lẽge, पिएगा piegā, छुएगा chuegā, धोओ dhoo).
+- Genders from the end list: अमरीका, इंतज़ाम, इतिहास, इरादा, काल, गुंडा, तबला, दर्शन, नमक, नुक़सान, नौजवान, प्राध्यापक, फ़ायदा, बनारस, भतीजा, भविष्य, महाराजा, मिस्त्री, विश्वविद्यालय, हवाई जहाज़ m; ईव-टीज़िंग, उषा, गुंडागर्दी, जनता, डाक, दावत, मसूरी, रवानी, रेलगाड़ी, रोशनी, व्यवस्था, समझ f. पंडित recorded as m.
+- Glosses split to keep English answers distinct:
+  - इंतज़ाम “arrangement(s), organization” / व्यवस्था “arrangement(s) (formal)”.
+  - ज़्यादा से ज़्यादा “at most” / अधिक से अधिक “at the most (formal)”.
+  - कठिन “hard, difficult (formal)”; परंतु “but (formal)”; लायक़ “worth (doing)” / योग्य “worth (doing) (formal)”.
+  - यही “this very one”, वही “that very one; the same”, इसी/उसी with “(oblique)”.
+- Forms declared that the rules of this or earlier units produce:
+  - The future forms used (जाऊँगा … लौटेंगे, आओगी, ख़रीदूँगी, मिलेंगे) and the irregular हूँगा, होगे, लूँगी, लेंगी, दूँगा, दूँगी, देंगे.
+  - The oblique infinitives खाने, करने, जाने, पहुँचने, खेलने, भेजने, सुनने, चलाने, लेने, बनाने, रहने, उठने, गाने, पीने. गाने is also used as the plural of the noun गाना (`in:6`), with the same romanisation.
+  - Also साड़ियाँ (`qt:0`), धोओ (`in:1`, the तुम command of धोना), and पहुँचते, बनाता, सुनता, छूता (participles used as wrong choices).
+  - तुम्हीं, इन्हीं (only in an explanation).
+- Deliberately wrong forms, which make up the Hard tile pool, are all non-words: जाऊँगे, आओगा, देऊँगा, देऊँगी, लेएगी, हमहीं, उनहीं, खानें, खेलनें, रहनें, चलानें.
+  - I avoided the subjunctive shapes (जाऊँ, जाए, जाएँ), which are real forms.
+  - I also avoided पीएगा, छूएगा and होऊँगा, which are common spellings or variants.
+- Choices never set against each other because both are correct:
+  - Purpose with the bare oblique infinitive against + के लिए / को (`in:4`, `in:5` and `tl:10` offer only the direct infinitive, के साथ/के बाद, a non-word, or, in `tl:10`, उसके).
+  - लायक़ against के लायक़ and योग्य.
+  - अगर against यदि.
+  - ज़्यादा से ज़्यादा against अधिक से अधिक.
+  - बहुत-से against plain बहुत before a plural (`qt:0`, `qt:1` test only the -sā/-sī/-se agreement).
+  - इस लिए against इसी लिए (`hi:10` offers यही and इसे).
+  - नहीं आता against नहीं आता है.
+  - के पहले against से पहले.
+  - अब against अभी (`hi:5` offers सभी and यहीं).
+- The presumptive (9.3): `pr:2`, `pr:3`, `pr:7`, `tl:4` and `mn:0` pin the reading with अभी or इस समय. `pr:4` and `pr:6` rely on the English cue (“presumably”, “must be”), and no “will be” choice is offered against them. Every future-continuous item has कल इस समय or अगले साल.
+  - `pr:2`, `pr:4`, `tl:4`: है is offered as wrong and explained as “states a fact”. The sentences with है are grammatical, but they don't match the “must be” cue.
+- `pr:3`: माँ … कर रही होंगी, with the respectful plural auxiliary, following unit 8's माँ … बना रही हैं. होगी is not offered as a wrong choice.
+- आना “know how to” (`in:7`, `in:8`, `tl:11`, `mn:4`) uses only masculine or no objects (तबला बजाना, खाना बनाना, गाना). Speakers sometimes make the infinitive agree with a feminine object (साइकिल चलानी आती है). `mn:4` (साइकिल चलाना) is a meaning item, so no form is tested there.
+- `tl:11` राज को गाना आता है: गाना is both the infinitive “to sing” and the noun “song”. The cue is “Raj can sing”.
+- `hi:0`, `hi:11`: ही after the subject (“only I”, “only Sita”). `hi:4` मेरे पास दो ही घंटे हैं “I have only two hours”: सिर्फ़ is the wrong choice, explained by its position.
+- `hi:3`: उसी दिन, with वही (direct) and उसे (= उस को) as wrong choices. Plain उस दिन “that day” is not offered, since it differs only in emphasis.
+- `hi:9` यह वही दुकान है “this is the same shop”: वह is offered as wrong (“this is that shop”). It is grammatical but doesn't mean “the same”.
+- `qt:2` उसका कुरता लाल-सा है: -सा used predicatively; the book's examples are attributive (लाल-सी रोशनी).
+- `qt:3`: बहुत कम लोग “very few people”. `qt:8`: थोड़ा-बहुत पैसा “a certain amount of money” uses थोड़ा-बहुत as an adjective; the book lists it only as a phrase.
+- `in:0`: अकेले रहना मुश्किल है. मुश्किल is used here as an adjective, as in unit 6; 9B.2 also lists it as a feminine noun.
+- `mn:5` यह कमरा काफ़ी बड़ा है “this room is quite big”: काफ़ी before an adjective. Its “enough” sense before a noun is in the vocabulary and the grammar note only.
+- `in:10`: गाड़ी चलाने में सावधानी ज़रूरी है “care is essential in driving a car”.
+- `fu:9`: तू यह खाना खाएगा ? glossed “(to तू, a boy)”.
+- `ir:6`: छुऊँगा is offered as the मैं form (wrong for वह). The book prints only छुएगा.
+- `ir:5`: पिएगा; the book prints only पिएगा, so no other form of पीना's future is used.
+- Near-match check against pp. 104–116. I checked the dialogues 9a/9b, the 9.1–9.6 examples, 9A.1, 9A.3, 9B.1 (Gita's letter), 9B.2, 9B.3 and Test yourself. Changes I made:
+  - `fu:2`: was तुम लोग कल क्या करोगे ?, close to मेरे जाने के बाद तुम क्या करोगे ?. Now … किस समय आओगे ?.
+  - `fu:5`: was पिंकी हिन्दी सीखेगी, close to the letter's … अच्छी हिन्दी सीखूँगी. Now तबला.
+  - `fu:4`: I avoided the dialogue's तुम मेरे साथ सिनेमा चलोगी ?. Now क्या आप कल हमारे घर आएँगे ?.
+  - `pr:1`: was मेरी बहिन …, close to 9A.1 #6 “My sister will be driving …”. Now मेरी बेटी.
+  - `pr:3`: I avoided बच्चे सो रहे होंगे and कमला खाना तैयार कर रही होगी. Now माँ … बग़ीचे में काम कर रही होंगी.
+  - `pr:4`: I avoided the language examples (आप उर्दू समझते होंगे, शर्मा जी संस्कृत जानते होंगे) and 9A.1 #4 (“must be earning good money”). Now वह लड़की हमारे स्कूल में पढ़ती होगी.
+  - `qt:0`: was … बहुत-सी किताबें, close to बहुत-सी अच्छी किताबें. Now साड़ियाँ.
+  - `qt:3`: was आजकल मैं बहुत कम सोता हूँ, the frame of वह बहुत कम खाती है. Now इस गाँव में बहुत कम लोग रहते हैं.
+  - `qt:5`: I avoided Test yourself 5 (stay in London at least/at most ten days). Now ज़्यादा से ज़्यादा पाँच समोसे.
+  - `in:0`: was अकेले रहना आसान नहीं है, close to 9B.3 #1 संस्कृत पढ़ना आसान नहीं है. Now … मुश्किल है.
+  - `in:3`: was लखनऊ पहुँचने पर हम एक होटल में ठहरेंगे. The letter has दिल्ली पहुँचने पर … and … ठहरने के बाद. Now दफ़्तर पहुँचने पर मैं चाय पीता हूँ.
+  - `in:6`: was यह गाना सुनने लायक़ है, the frame of यह किताब पढ़ने लायक़ है. Now उसके गाने सुनने लायक़ हैं.
+  - `mn:3`: was यह फल खाने लायक़ नहीं है. Now इस गाँव का पानी पीने लायक़ नहीं है.
+  - `tl:9`: was खाना खाने के बाद हम बाहर जाएँगे, close to मैं खाना खाने बाहर जाऊँगी. Now काम ख़त्म करने के बाद हम घर जाएँगे.
+  - `mn:4`: I avoided तैरना (मुझे तैरना आता है) and गाड़ी चलाना (तुम्हें गाड़ी चलाना नहीं आता है ?). Now मेरे छोटे भाई को साइकिल चलाना नहीं आता.
+  - `tl:10`: I avoided purpose + मिलने (the letter's उषा मुझसे मिलने स्टेशन आएगी, 9B.2 #4) and + ख़रीदने (9.6). Now … अपने भाई को लेने स्टेशन जा रही है.
+  - `hi:1`, `tl:5`: I avoided हम यहीं रहते हैं, हम यहीं रहेंगे and हम वहीं जाएँगे. Now मेरा दफ़्तर यहीं है and हम कल यहीं मिलेंगे.
+  - `hi:2`, `hi:9`: I avoided मैं भी यही सोचता हूँ and वही गुंडा …. Now साड़ी and दुकान.
+  - `hi:10`: I avoided the dialogue's इसीलिए मैं लखनऊ में … रुक रहा हूँ.
+- Remaining resemblances that are the construction itself:
+  - `hi:0` मैं ही यह काम करूँगा, like मैं ही सोमवार को आऊँगी.
+  - `hi:4` दो ही घंटे, like एक ही मकान.
+  - `fu:0` मैं कल सुबह दिल्ली जाऊँगा, like मैं कभी वाराणसी आऊँगा.
+  - `in:5` … भेजने के लिए डाकघर जा रहा हूँ, like … ख़रीदने (के लिए) बाज़ार जा रहा है.
+  - `in:9` … फ़ोन करने जा रहा हूँ, like गाना गाने जा रहा हूँ.
+  - `in:7` मेरी बेटी को तबला बजाना आता है. 9B.3 has तबला बजाना with पसंद, not आना.
+  - `in:8` मेरे पति को खाना बनाना नहीं आता है, like तुम्हें गाड़ी चलाना नहीं आता है ?.
+  - `mn:6` इस कमरे में खाना खाना मना है, like सिग्रेट पीना मना है.
+  - `in:0` अकेले रहना मुश्किल है, near the letter's मेरा अकेले जाना ठीक न होगा. `tl:9` … करने के बाद हम घर जाएँगे, near the letter's … ठहरने के बाद मैं … जाऊँगी. These are the construction (oblique infinitive + के बाद), with different words.
+  - The `_grammar` titles use my own examples.
+- Item ids have gaps (`fu:3`, `fu:6`, `ir:7`, `pr:5`, `hi:8`, `qt:6`, `in:2`, `tl:0`, `mn:7`, `us:6`). `mn:5` was replaced (was उसका घर इसी गली में होगा, a fifth “X … में होगा” sentence) because I cut items to stay at 80.
+- Meaning items carry no alignment, as in units 2–8. ही has a `gloss` entry, but is aligned wherever it means “only”.
 
 ## Known issues and not yet done
 

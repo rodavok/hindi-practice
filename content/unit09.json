@@ -1,0 +1,2312 @@
+{
+ "id": "unit9",
+ "n": 9,
+ "title": "In the future",
+ "titleHi": "भविष्य में",
+ "scope": "The future tense (बोलूँगा, बोलेगी, बोलोगे, बोलेंगे) and the irregular futures of होना, लेना, देना, with vowel shortening (पिएगा); the future continuous (जा रहा होगा) and the presumptive future (“must be”: वह दफ़्तर में होगा, पढ़ती होगी); emphatic ही and its coalesced forms (यही, वही, इसी, उसी, यहीं, वहीं, अभी, सभी, हमीं); expressions of quantity (बहुत-सा/-सी/-से, -सा “-ish”, कम, ज़्यादा, कम से कम, ज़्यादा से ज़्यादा, थोड़ा-बहुत, काफ़ी); the infinitive as verbal noun: subject, oblique before postpositions (जाने से पहले, पहुँचने पर), purpose, लायक़/योग्य “worth …ing”, and with आना “know how to”",
+ "pages": "book 104–116",
+ "skills": {
+  "fut": "The future tense",
+  "irr": "Irregular futures",
+  "pres": "Future continuous and presumptive",
+  "hi": "Emphatic ही",
+  "qty": "Expressions of quantity",
+  "inf": "The infinitive as noun",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अकेले",
+   "en": "alone",
+   "c": "x"
+  },
+  {
+   "hi": "अगर",
+   "en": "if",
+   "c": "x"
+  },
+  {
+   "hi": "अच्छा-ख़ासा",
+   "en": "really good",
+   "c": "a"
+  },
+  {
+   "hi": "अधिक",
+   "en": "much, many, more",
+   "c": "a"
+  },
+  {
+   "hi": "अधिक से अधिक",
+   "en": "at the most (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "अमरीका",
+   "en": "America",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "असली",
+   "en": "real",
+   "c": "a"
+  },
+  {
+   "hi": "आसान",
+   "en": "easy",
+   "c": "a"
+  },
+  {
+   "hi": "इंतज़ाम",
+   "en": "arrangement(s), organization",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "इतिहास",
+   "en": "history",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "इरादा",
+   "en": "intention",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ईव-टीज़िंग",
+   "en": "Eve-teasing (harassment of women)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "उषा",
+   "en": "dawn",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कठिन",
+   "en": "hard, difficult (formal)",
+   "c": "a"
+  },
+  {
+   "hi": "कभी",
+   "en": "sometime",
+   "c": "x"
+  },
+  {
+   "hi": "कम से कम",
+   "en": "at least",
+   "c": "x"
+  },
+  {
+   "hi": "काल",
+   "en": "time, period of day",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "के आस-पास",
+   "en": "around, in the vicinity of",
+   "c": "x"
+  },
+  {
+   "hi": "ख़रीदना",
+   "en": "to buy, purchase",
+   "c": "v"
+  },
+  {
+   "hi": "ग़लत",
+   "en": "wrong (another spelling)",
+   "c": "a"
+  },
+  {
+   "hi": "गाना",
+   "en": "song",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गाना गाना",
+   "en": "to sing (a song)",
+   "c": "v"
+  },
+  {
+   "hi": "गुंडा",
+   "en": "lout, hooligan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गुंडागर्दी",
+   "en": "hooliganism",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ग्यारह",
+   "en": "eleven",
+   "c": "x"
+  },
+  {
+   "hi": "चिल्लाना",
+   "en": "to shout",
+   "c": "v"
+  },
+  {
+   "hi": "छपना",
+   "en": "to be printed",
+   "c": "v"
+  },
+  {
+   "hi": "जनता",
+   "en": "the public, the people",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़्यादा से ज़्यादा",
+   "en": "at most",
+   "c": "x"
+  },
+  {
+   "hi": "ठीक करना",
+   "en": "to put right, fix",
+   "c": "v"
+  },
+  {
+   "hi": "डाक",
+   "en": "mail, post",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तबला",
+   "en": "tabla (drum)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तैरना",
+   "en": "to swim",
+   "c": "v"
+  },
+  {
+   "hi": "थोड़ा-बहुत",
+   "en": "a certain amount",
+   "c": "x"
+  },
+  {
+   "hi": "थोड़े",
+   "en": "scarcely, hardly",
+   "c": "x"
+  },
+  {
+   "hi": "दर्शन",
+   "en": "sight (of), auspicious meeting (with)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दावत",
+   "en": "(invitation to) a dinner",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ध्यान देना",
+   "en": "to pay attention",
+   "c": "v"
+  },
+  {
+   "hi": "नमक",
+   "en": "salt",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नुक़सान",
+   "en": "harm",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नौजवान",
+   "en": "youth, young man",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "परंतु",
+   "en": "but (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "पसंद करना",
+   "en": "to like, approve",
+   "c": "v"
+  },
+  {
+   "hi": "पहचानना",
+   "en": "to recognize",
+   "c": "v"
+  },
+  {
+   "hi": "पहुँचना",
+   "en": "to arrive",
+   "c": "v"
+  },
+  {
+   "hi": "प्राध्यापक",
+   "en": "lecturer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फ़ायदा",
+   "en": "profit, advantage, point",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फ़ोन करना",
+   "en": "to phone",
+   "c": "v"
+  },
+  {
+   "hi": "बजाना",
+   "en": "to play (music)",
+   "c": "v"
+  },
+  {
+   "hi": "बनारस",
+   "en": "Banaras, Varanasi",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बिकना",
+   "en": "to be sold",
+   "c": "v"
+  },
+  {
+   "hi": "बोर करना",
+   "en": "to bore",
+   "c": "v"
+  },
+  {
+   "hi": "भतीजा",
+   "en": "nephew",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भविष्य",
+   "en": "future",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भोला",
+   "en": "innocent, guileless",
+   "c": "a"
+  },
+  {
+   "hi": "भोला-सा",
+   "en": "quite innocent",
+   "c": "a"
+  },
+  {
+   "hi": "मँगवाना",
+   "en": "to order, send for",
+   "c": "v"
+  },
+  {
+   "hi": "मचाना",
+   "en": "to create (noise etc.)",
+   "c": "v"
+  },
+  {
+   "hi": "मना",
+   "en": "prohibited",
+   "c": "a"
+  },
+  {
+   "hi": "मसूरी",
+   "en": "Mussoorie",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "महाराजा",
+   "en": "maharaja",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मिलना",
+   "en": "to meet (with से)",
+   "c": "v"
+  },
+  {
+   "hi": "मिस्त्री",
+   "en": "mechanic, artisan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "यहीं",
+   "en": "right here",
+   "c": "x"
+  },
+  {
+   "hi": "वहीं",
+   "en": "right there",
+   "c": "x"
+  },
+  {
+   "hi": "रवानी",
+   "en": "fluency",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "रुकना",
+   "en": "to stop, stay on",
+   "c": "v"
+  },
+  {
+   "hi": "रेलगाड़ी",
+   "en": "train",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "रोशनी",
+   "en": "light",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "लायक़",
+   "en": "worth (doing)",
+   "c": "x"
+  },
+  {
+   "hi": "योग्य",
+   "en": "worth (doing) (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "लौटना",
+   "en": "to return",
+   "c": "v"
+  },
+  {
+   "hi": "विश्वविद्यालय",
+   "en": "university",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "व्यवस्था",
+   "en": "arrangement(s) (formal)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "समझ",
+   "en": "understanding",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "समझ में आना",
+   "en": "to be understood",
+   "c": "v"
+  },
+  {
+   "hi": "सही",
+   "en": "true, correct",
+   "c": "a"
+  },
+  {
+   "hi": "हवाई जहाज़",
+   "en": "aeroplane",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हाथ आना",
+   "en": "to come to hand",
+   "c": "v"
+  },
+  {
+   "hi": "हिलना",
+   "en": "to move, stir",
+   "c": "v"
+  },
+  {
+   "hi": "ही",
+   "en": "only (emphatic)",
+   "c": "x"
+  },
+  {
+   "hi": "पंडित",
+   "en": "pandit (title of a scholar)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बहुत-सा",
+   "en": "many, a lot of",
+   "c": "a"
+  },
+  {
+   "hi": "यही",
+   "en": "this very one",
+   "c": "p"
+  },
+  {
+   "hi": "वही",
+   "en": "that very one; the same",
+   "c": "p"
+  },
+  {
+   "hi": "इसी",
+   "en": "this very (oblique)",
+   "c": "p"
+  },
+  {
+   "hi": "उसी",
+   "en": "that very; the same (oblique)",
+   "c": "p"
+  },
+  {
+   "hi": "हमीं",
+   "en": "we ourselves, only we",
+   "c": "p"
+  },
+  {
+   "hi": "सभी",
+   "en": "all, absolutely all",
+   "c": "x"
+  },
+  {
+   "hi": "इसी लिए",
+   "en": "for this very reason, that's why",
+   "c": "x"
+  }
+ ],
+ "gloss": {
+  "ही": "emphasises or limits the word before it (“only”, “very”, “right”); often no single English word"
+ },
+ "lessons": [
+  {
+   "id": "fut",
+   "title": "बोलूँगा, बोलेगी",
+   "desc": "The future tense: “will …”",
+   "skill": "fut",
+   "items": [
+    {
+     "id": "fu:0",
+     "t": "mc",
+     "q": "Fill the gap: “I will go to Delhi tomorrow morning. (a man speaking)”",
+     "hi": "मैं कल सुबह दिल्ली ___ ।",
+     "say": "मैं कल सुबह दिल्ली जाऊँगा ।",
+     "en": "I[0] {will go}[4] to Delhi[3] {tomorrow morning}[1+2]. (a man speaking)",
+     "a": "जाऊँगा",
+     "wrong": [
+      [
+       "जाऊँगी",
+       "जाऊँगी is feminine. The speaker is a man."
+      ],
+      [
+       "जाएगा",
+       "जाएगा goes with तू, यह and वह. मैं takes -ū̃gā: जाऊँगा."
+      ],
+      [
+       "जाऊँगे",
+       "Not a word: मैं takes -ū̃gā or -ū̃gī, never a plural ending."
+      ]
+     ],
+     "why": "The future adds -ū̃gā to the stem for मैं, -egā for तू, यह, वह, -oge for तुम and -ẽge for हम, आप, ये, वे. Feminine forms end in -ī: -ū̃gī, -egī, -ogī, -ẽgī."
+    },
+    {
+     "id": "fu:1",
+     "t": "mc",
+     "q": "Fill the gap: “Sita will write a letter in the evening.”",
+     "hi": "सीता शाम को एक चिट्ठी ___ ।",
+     "say": "सीता शाम को एक चिट्ठी लिखेगी ।",
+     "en": "Sita[0] {will write}[5] a[3] letter[4] {in the evening}[1+2].",
+     "a": "लिखेगी",
+     "wrong": [
+      [
+       "लिखेगा",
+       "लिखेगा is masculine. Sita is a woman."
+      ],
+      [
+       "लिखेंगी",
+       "लिखेंगी is plural. Sita, spoken of plainly, takes the singular."
+      ]
+     ],
+     "why": "वह, यह and a singular noun take -egā (m) or -egī (f)."
+    },
+    {
+     "id": "fu:2",
+     "t": "mc",
+     "q": "Fill the gap: “At what time will you come tomorrow?”",
+     "hi": "तुम लोग कल किस समय ___ ?",
+     "say": "तुम लोग कल किस समय आओगे ?",
+     "en": "{At what time}[3+4] will you[0+1] come[5] tomorrow[2]?",
+     "a": "आओगे",
+     "wrong": [
+      [
+       "आएँगे",
+       "-ẽge goes with हम, आप, ये and वे. तुम takes -oge: आओगे."
+      ],
+      [
+       "आओगा",
+       "Not a word: तुम always takes plural agreement, -oge (or -ogī)."
+      ]
+     ],
+     "why": "तुम — आओगे (to men or a mixed group), आओगी (to women)."
+    },
+    {
+     "id": "fu:4",
+     "t": "mc",
+     "q": "Fill the gap: “Will you come to our house tomorrow?”",
+     "hi": "क्या आप कल हमारे घर ___ ?",
+     "say": "क्या आप कल हमारे घर आएँगे ?",
+     "en": "Will you[1] come[5] to our[3] house[4] tomorrow[2]?",
+     "a": "आएँगे",
+     "wrong": [
+      [
+       "आओगे",
+       "आओगे goes with तुम. आप takes -ẽge: आएँगे."
+      ],
+      [
+       "आएगा",
+       "आएगा is singular. आप always takes plural agreement."
+      ]
+     ],
+     "why": "After a vowel stem the endings are spelled with a full vowel letter, as in आएगा, आएँगे."
+    },
+    {
+     "id": "fu:5",
+     "t": "mc",
+     "q": "Put it in the future",
+     "a": "पिंकी तबला सीखेगी ।",
+     "wrong": [
+      [
+       "पिंकी तबला सीखती होगी ।",
+       "सीखती होगी is the presumptive: “Pinki must be learning the tabla”. The simple future is one word, सीखेगी."
+      ],
+      [
+       "पिंकी तबला सीखेगा ।",
+       "सीखेगा is masculine. Pinki is a girl."
+      ]
+     ],
+     "why": "The future has no separate auxiliary: सीखती है becomes सीखेगी.",
+     "hi": "पिंकी तबला सीखती है ।",
+     "audio": true,
+     "say": "पिंकी तबला सीखेगी ।",
+     "en": "Pinki[0] {will learn}[2] the tabla[1]."
+    },
+    {
+     "id": "fu:7",
+     "t": "mc",
+     "q": "Fill the gap: “I will buy all the vegetables today. (a woman speaking)”",
+     "hi": "मैं आज सारी सब्ज़ी ___ ।",
+     "say": "मैं आज सारी सब्ज़ी ख़रीदूँगी ।",
+     "en": "I[0] {will buy}[4] all[2] the vegetables[3] today[1]. (a woman speaking)",
+     "a": "ख़रीदूँगी",
+     "wrong": [
+      [
+       "ख़रीदूँगा",
+       "ख़रीदूँगा is masculine. The speaker is a woman."
+      ],
+      [
+       "ख़रीदेगी",
+       "ख़रीदेगी goes with वह or यह. मैं takes -ū̃gī."
+      ]
+     ],
+     "why": "The future adds -ū̃gā to the stem for मैं, -egā for तू, यह, वह, -oge for तुम and -ẽge for हम, आप, ये, वे. Feminine forms end in -ī: -ū̃gī, -egī, -ogī, -ẽgī."
+    },
+    {
+     "id": "fu:8",
+     "t": "mc",
+     "q": "Which means “Mohan won't come today”?",
+     "a": "मोहन आज नहीं आएगा ।",
+     "wrong": [
+      [
+       "मोहन आज नहीं आता ।",
+       "आता is the imperfective: a habit, “doesn't come”. “Won't come” is the future, आएगा."
+      ],
+      [
+       "मोहन आज नहीं आएगी ।",
+       "आएगी is feminine. Mohan is a man."
+      ]
+     ],
+     "why": "नहीं goes before the future verb, which needs no auxiliary."
+    },
+    {
+     "id": "fu:9",
+     "t": "mc",
+     "q": "Fill the gap: “Will you eat this food? (to तू, a boy)”",
+     "hi": "तू यह खाना ___ ?",
+     "say": "तू यह खाना खाएगा ?",
+     "en": "Will you[0] eat[3] this[1] food[2]? (to तू, a boy)",
+     "a": "खाएगा",
+     "wrong": [
+      [
+       "खाओगे",
+       "खाओगे goes with तुम. तू takes the singular, -egā."
+      ],
+      [
+       "खाऊँगा",
+       "खाऊँगा goes with मैं."
+      ]
+     ],
+     "why": "तू takes the same endings as वह — खाएगा, खाएगी."
+    },
+    {
+     "id": "fu:10",
+     "t": "mc",
+     "q": "Fill the gap: “They will return from Lucknow tomorrow.”",
+     "hi": "वे लोग कल लखनऊ से ___ ।",
+     "say": "वे लोग कल लखनऊ से लौटेंगे ।",
+     "en": "They[0+1] {will return}[5] from[4] Lucknow[3] tomorrow[2].",
+     "a": "लौटेंगे",
+     "wrong": [
+      [
+       "लौटेगा",
+       "लौटेगा is singular. वे लोग is plural."
+      ],
+      [
+       "लौटोगे",
+       "-oge goes only with तुम."
+      ]
+     ],
+     "why": "The future adds -ū̃gā to the stem for मैं, -egā for तू, यह, वह, -oge for तुम and -ẽge for हम, आप, ये, वे. Feminine forms end in -ī: -ū̃gī, -egī, -ogī, -ẽgī."
+    }
+   ]
+  },
+  {
+   "id": "irr",
+   "title": "होगा, लूँगा, दूँगा",
+   "desc": "Irregular futures; पिएगा, छुएगा",
+   "skill": "irr",
+   "items": [
+    {
+     "id": "ir:0",
+     "t": "mc",
+     "q": "Fill the gap: “I will give you the money tomorrow. (a man speaking)”",
+     "hi": "मैं तुम्हें कल पैसे ___ ।",
+     "say": "मैं तुम्हें कल पैसे दूँगा ।",
+     "en": "I[0] {will give}[4] you[1] the money[3] tomorrow[2]. (a man speaking)",
+     "a": "दूँगा",
+     "wrong": [
+      [
+       "देऊँगा",
+       "Not a word: देना is irregular, and the stem vowel drops: दूँगा."
+      ],
+      [
+       "दूँगी",
+       "दूँगी is feminine. The speaker is a man."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    },
+    {
+     "id": "ir:1",
+     "t": "mc",
+     "q": "Fill the gap: “Which sari will you take? (to a woman)”",
+     "hi": "आप कौनसी साड़ी ___ ?",
+     "say": "आप कौनसी साड़ी लेंगी ?",
+     "en": "Which[1] sari[2] will you[0] take[3]? (to a woman)",
+     "a": "लेंगी",
+     "wrong": [
+      [
+       "लेएगी",
+       "Not a word: लेना is irregular, लेगी, लेंगी. And आप takes the plural."
+      ],
+      [
+       "लेंगे",
+       "लेंगे is masculine. This is asked of a woman."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    },
+    {
+     "id": "ir:2",
+     "t": "mc",
+     "q": "Fill the gap: “Tomorrow it will be very hot.”",
+     "hi": "कल बहुत गर्मी ___ ।",
+     "say": "कल बहुत गर्मी होगी ।",
+     "en": "Tomorrow[0] {it will be}[3] very[1] hot[2].",
+     "a": "होगी",
+     "wrong": [
+      [
+       "होगा",
+       "होगा is masculine. The verb agrees with गर्मी, which is feminine."
+      ],
+      [
+       "होंगी",
+       "होंगी is plural. गर्मी is singular."
+      ]
+     ],
+     "why": "होना — होगा, होगी (singular); होंगे, होंगी (plural)."
+    },
+    {
+     "id": "ir:3",
+     "t": "mc",
+     "q": "Fill the gap: “Will you be at home tomorrow? (to a man)”",
+     "hi": "तुम कल घर पर ___ ?",
+     "say": "तुम कल घर पर होगे ?",
+     "en": "Will you[0] be[4] {at home}[2+3] tomorrow[1]? (to a man)",
+     "a": "होगे",
+     "wrong": [
+      [
+       "होंगे",
+       "होंगे goes with हम, आप, ये, वे. तुम takes होगे."
+      ],
+      [
+       "होगा",
+       "होगा is singular. तुम always takes plural agreement."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    },
+    {
+     "id": "ir:4",
+     "t": "mc",
+     "q": "Fill the gap: “I will take only one samosa. (a woman speaking)”",
+     "hi": "मैं सिर्फ़ एक समोसा ___ ।",
+     "say": "मैं सिर्फ़ एक समोसा लूँगी ।",
+     "en": "I[0] {will take}[4] only[1] one[2] samosa[3]. (a woman speaking)",
+     "a": "लूँगी",
+     "wrong": [
+      [
+       "लूँगा",
+       "लूँगा is masculine. The speaker is a woman."
+      ],
+      [
+       "लेगी",
+       "लेगी goes with वह or यह. मैं takes लूँगी."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    },
+    {
+     "id": "ir:5",
+     "t": "mc",
+     "q": "Fill the gap: “The child won't drink cold milk.”",
+     "hi": "बच्चा ठंडा दूध नहीं ___ ।",
+     "say": "बच्चा ठंडा दूध नहीं पिएगा ।",
+     "en": "{The child}[0] {won't drink}[3+4] cold[1] milk[2].",
+     "a": "पिएगा",
+     "wrong": [
+      [
+       "पीता",
+       "पीता is the imperfective, “doesn't drink” as a habit. “Won't drink” is the future."
+      ],
+      [
+       "पिएगी",
+       "पिएगी is feminine. बच्चा is masculine."
+      ]
+     ],
+     "why": "Stems in -ī and -ū shorten the vowel in the future: पीना → पिएगा, छूना → छुएगा."
+    },
+    {
+     "id": "ir:6",
+     "t": "mc",
+     "q": "What is the future of छूना with वह (a man)?",
+     "a": "छुएगा",
+     "wrong": [
+      [
+       "छूता",
+       "छूता is the imperfective participle, not the future."
+      ],
+      [
+       "छुऊँगा",
+       "छुऊँगा is the मैं form. वह takes -egā."
+      ]
+     ],
+     "why": "छूना shortens ū to u in the future: छुएगा."
+    },
+    {
+     "id": "ir:8",
+     "t": "mc",
+     "q": "Fill the gap: “I will be in the office at ten o'clock. (a man speaking)”",
+     "hi": "मैं दस बजे दफ़्तर में ___ ।",
+     "say": "मैं दस बजे दफ़्तर में हूँगा ।",
+     "en": "I[0] {will be}[5] in[4] the office[3] {at ten o'clock}[1+2]. (a man speaking)",
+     "a": "हूँगा",
+     "wrong": [
+      [
+       "होगा",
+       "होगा goes with तू, यह and वह. मैं takes हूँगा."
+      ],
+      [
+       "हूँगी",
+       "हूँगी is feminine. The speaker is a man."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    }
+   ]
+  },
+  {
+   "id": "pres",
+   "title": "जा रहा होगा",
+   "desc": "“Will be …ing” and “must be”",
+   "skill": "pres",
+   "items": [
+    {
+     "id": "pr:0",
+     "t": "mc",
+     "q": "Fill the gap: “At this time tomorrow I will be going to Lucknow. (a man speaking)”",
+     "hi": "कल इस समय मैं लखनऊ जा रहा ___ ।",
+     "say": "कल इस समय मैं लखनऊ जा रहा हूँगा ।",
+     "en": "{At this time}[1+2] tomorrow[0] I[3] {will be going}[5+6+7] to Lucknow[4]. (a man speaking)",
+     "a": "हूँगा",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ is present: “I am going”. “Will be going” needs the future auxiliary, हूँगा."
+      ],
+      [
+       "होगा",
+       "होगा goes with वह. मैं takes हूँगा."
+      ]
+     ],
+     "why": "The future continuous is the stem + रहा, रही, रहे + the future of होना."
+    },
+    {
+     "id": "pr:1",
+     "t": "mc",
+     "q": "Fill the gap: “Next year my daughter will be studying in London.”",
+     "hi": "अगले साल मेरी बेटी लंदन में पढ़ रही ___ ।",
+     "say": "अगले साल मेरी बेटी लंदन में पढ़ रही होगी ।",
+     "en": "{Next year}[0+1] my[2] daughter[3] {will be studying}[6+7+8] in[5] London[4].",
+     "a": "होगी",
+     "wrong": [
+      [
+       "होगा",
+       "होगा is masculine. बेटी is feminine."
+      ],
+      [
+       "थी",
+       "थी is past: “was studying”."
+      ]
+     ],
+     "why": "पढ़ रही होगी “will be studying”."
+    },
+    {
+     "id": "pr:2",
+     "t": "mc",
+     "q": "Fill the gap: “Raj must be in the office now.”",
+     "hi": "राज अभी दफ़्तर में ___ ।",
+     "say": "राज अभी दफ़्तर में होगा ।",
+     "en": "Raj[0] {must be}[4] in[3] the office[2] now[1].",
+     "a": "होगा",
+     "wrong": [
+      [
+       "है",
+       "है states a fact: “Raj is in the office”. “Must be” is an assumption, which the future expresses."
+      ],
+      [
+       "थी",
+       "थी is feminine and past."
+      ]
+     ],
+     "why": "The future of होना can make an assumption about the present: “must be”. It may follow a continuous (जा रहा होगा) or an imperfective participle (जाता होगा)."
+    },
+    {
+     "id": "pr:3",
+     "t": "mc",
+     "q": "Fill the gap: “Mother must be working in the garden right now.”",
+     "hi": "माँ अभी बग़ीचे में काम कर रही ___ ।",
+     "say": "माँ अभी बग़ीचे में काम कर रही होंगी ।",
+     "en": "Mother[0] {must be working}[4+5+6+7] in[3] the garden[2] {right now}[1].",
+     "a": "होंगी",
+     "wrong": [
+      [
+       "होंगे",
+       "होंगे is masculine. Respect makes Mother's auxiliary plural, but it stays feminine."
+      ],
+      [
+       "हूँगी",
+       "हूँगी goes only with मैं."
+      ]
+     ],
+     "why": "The future of होना can make an assumption about the present: “must be”. It may follow a continuous (जा रहा होगा) or an imperfective participle (जाता होगा)."
+    },
+    {
+     "id": "pr:4",
+     "t": "mc",
+     "q": "Fill the gap: “That girl presumably studies at our school.”",
+     "hi": "वह लड़की हमारे स्कूल में पढ़ती ___ ।",
+     "say": "वह लड़की हमारे स्कूल में पढ़ती होगी ।",
+     "en": "That[0] girl[1] {presumably studies}[5+6] at[4] our[2] school[3].",
+     "a": "होगी",
+     "wrong": [
+      [
+       "होगा",
+       "होगा is masculine. लड़की is feminine."
+      ],
+      [
+       "है",
+       "है states a fact: “studies”. “Presumably” is an assumption: पढ़ती होगी."
+      ]
+     ],
+     "why": "The imperfective participle + होगा makes an assumption about a habit or state."
+    },
+    {
+     "id": "pr:6",
+     "t": "mc",
+     "q": "Make it an assumption (“must be …ing”)",
+     "a": "सीता चिट्ठी लिख रही होगी ।",
+     "wrong": [
+      [
+       "सीता चिट्ठी लिखेगी ।",
+       "लिखेगी is the simple future, “Sita will write”. “Must be writing” keeps रही and puts the auxiliary in the future."
+      ],
+      [
+       "सीता चिट्ठी लिख रही होगा ।",
+       "होगा is masculine. Sita is a woman."
+      ]
+     ],
+     "why": "है becomes होगी — रही stays.",
+     "hi": "सीता चिट्ठी लिख रही है ।",
+     "audio": true,
+     "say": "सीता चिट्ठी लिख रही होगी ।",
+     "en": "Sita[0] {must be writing}[2+3+4] a letter[1]."
+    },
+    {
+     "id": "pr:7",
+     "t": "mc",
+     "q": "In वह अभी दफ़्तर में होगा, what does होगा express?",
+     "a": "An assumption about the present: “he must be in the office now”",
+     "wrong": [
+      [
+       "A future event: “he will be in the office”",
+       "अभी “now” shows that the speaker means the present. Without it, होगा could also be future."
+      ],
+      [
+       "A past habit",
+       "A past habit would be the imperfective with था."
+      ]
+     ],
+     "why": "The future of होना can make an assumption about the present: “must be”. It may follow a continuous (जा रहा होगा) or an imperfective participle (जाता होगा)."
+    },
+    {
+     "id": "pr:8",
+     "t": "mc",
+     "q": "Fill the gap: “At this time tomorrow Pratap will be on the plane.”",
+     "hi": "प्रताप कल इस समय हवाई जहाज़ में ___ ।",
+     "say": "प्रताप कल इस समय हवाई जहाज़ में होगा ।",
+     "en": "{At this time}[2+3] tomorrow[1] Pratap[0] {will be}[7] on[6] the plane[4+5].",
+     "a": "होगा",
+     "wrong": [
+      [
+       "होंगे",
+       "होंगे is plural. Pratap, spoken of plainly, takes होगा."
+      ],
+      [
+       "था",
+       "था is past: “was”. कल with the future means “tomorrow”."
+      ]
+     ],
+     "why": "कल is “yesterday” or “tomorrow”; the tense decides."
+    }
+   ]
+  },
+  {
+   "id": "hi",
+   "title": "ही, यही, यहीं",
+   "desc": "Emphatic ही and its special forms",
+   "skill": "hi",
+   "items": [
+    {
+     "id": "hi:0",
+     "t": "mc",
+     "q": "Fill the gap: “Only I will do this work. (a man speaking)”",
+     "hi": "मैं ___ यह काम करूँगा ।",
+     "say": "मैं ही यह काम करूँगा ।",
+     "en": "{Only I}[0+1] {will do}[4] this[2] work[3]. (a man speaking)",
+     "a": "ही",
+     "wrong": [
+      [
+       "भी",
+       "भी means “also”: “I too will do this work”."
+      ],
+      [
+       "तो",
+       "तो sets मैं against others (“as for me”). “Only” is ही."
+      ]
+     ],
+     "why": "ही emphasises or limits the word just before it, often “only”."
+    },
+    {
+     "id": "hi:1",
+     "t": "mc",
+     "q": "Fill the gap: “My office is right here.”",
+     "hi": "मेरा दफ़्तर ___ है ।",
+     "say": "मेरा दफ़्तर यहीं है ।",
+     "en": "My[0] office[1] is[3] {right here}[2].",
+     "a": "यहीं",
+     "wrong": [
+      [
+       "यही",
+       "यही is यह + ही, “this very one”. “Right here” is यहीं, with the nasal."
+      ],
+      [
+       "वहीं",
+       "वहीं is “right there”."
+      ]
+     ],
+     "why": "यहाँ + ही = यहीं, वहाँ + ही = वहीं."
+    },
+    {
+     "id": "hi:2",
+     "t": "mc",
+     "q": "Fill the gap: “I like this very sari.”",
+     "hi": "मुझे ___ साड़ी पसंद है ।",
+     "say": "मुझे यही साड़ी पसंद है ।",
+     "en": "I[0] like[3+4] {this very}[1] sari[2].",
+     "a": "यही",
+     "wrong": [
+      [
+       "यहीं",
+       "यहीं is “right here”, a place. “This very” is यही."
+      ],
+      [
+       "वही",
+       "वही is “that very one, the same”."
+      ]
+     ],
+     "why": "यह + ही = यही, वह + ही = वही."
+    },
+    {
+     "id": "hi:3",
+     "t": "mc",
+     "q": "Fill the gap: “We will return that same day.”",
+     "hi": "हम ___ दिन लौटेंगे ।",
+     "say": "हम उसी दिन लौटेंगे ।",
+     "en": "We[0] {will return}[3] {that same}[1] day[2].",
+     "a": "उसी",
+     "wrong": [
+      [
+       "उसे",
+       "उसे is उस को, “to him, her, it”. A time phrase needs the oblique उस + ही — उसी दिन."
+      ],
+      [
+       "वही",
+       "वही is direct. A time phrase is oblique: उसी दिन."
+      ]
+     ],
+     "why": "उस + ही = उसी, इस + ही = इसी."
+    },
+    {
+     "id": "hi:4",
+     "t": "mc",
+     "q": "Fill the gap: “I have only two hours.”",
+     "hi": "मेरे पास दो ___ घंटे हैं ।",
+     "say": "मेरे पास दो ही घंटे हैं ।",
+     "en": "I[0+1] have[5] only[3] two[2] hours[4].",
+     "a": "ही",
+     "wrong": [
+      [
+       "भी",
+       "भी means “also, even”."
+      ],
+      [
+       "सिर्फ़",
+       "सिर्फ़ goes before what it limits: सिर्फ़ दो घंटे. ही follows it: दो ही घंटे."
+      ]
+     ],
+     "why": "ही emphasises or limits the word just before it, often “only”."
+    },
+    {
+     "id": "hi:5",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki is coming right now.”",
+     "hi": "पिंकी ___ आ रही है ।",
+     "say": "पिंकी अभी आ रही है ।",
+     "en": "Pinki[0] {is coming}[2+3+4] {right now}[1].",
+     "a": "अभी",
+     "wrong": [
+      [
+       "सभी",
+       "सभी (सब + ही) means “all, absolutely all”."
+      ],
+      [
+       "यहीं",
+       "यहीं is “right here”, a place, not a time."
+      ]
+     ],
+     "why": "अब + ही = अभी “right now”."
+    },
+    {
+     "id": "hi:6",
+     "t": "mc",
+     "q": "What does हम + ही become?",
+     "a": "हमीं",
+     "wrong": [
+      [
+       "हमहीं",
+       "Not a word: हम + ही coalesces to हमीं."
+      ],
+      [
+       "हमें",
+       "हमें is हम को, “to us”."
+      ]
+     ],
+     "why": "Some pronouns coalesce with ही — मुझी, हमीं, उसी, उन्हीं."
+    },
+    {
+     "id": "hi:7",
+     "t": "mc",
+     "q": "What does उन + ही become?",
+     "a": "उन्हीं",
+     "wrong": [
+      [
+       "उनहीं",
+       "Not a word: उन + ही is written उन्हीं."
+      ],
+      [
+       "उन्हें",
+       "उन्हें is उन को, “to them”."
+      ]
+     ],
+     "why": "उन + ही = उन्हीं, इन + ही = इन्हीं, तुम + ही = तुम्हीं."
+    },
+    {
+     "id": "hi:9",
+     "t": "mc",
+     "q": "Fill the gap: “This is the same shop.”",
+     "hi": "यह ___ दुकान है ।",
+     "say": "यह वही दुकान है ।",
+     "en": "This[0] is[3] {the same}[1] shop[2].",
+     "a": "वही",
+     "wrong": [
+      [
+       "वहीं",
+       "वहीं is “right there”, a place."
+      ],
+      [
+       "वह",
+       "यह वह दुकान है is just “this is that shop”. “The same” needs ही — वही."
+      ]
+     ],
+     "why": "वही and उसी also mean “the same”."
+    },
+    {
+     "id": "hi:10",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan is ill; that's why he won't come today.”",
+     "hi": "मोहन बीमार है, ___ लिए वह आज नहीं आएगा ।",
+     "say": "मोहन बीमार है, इसी लिए वह आज नहीं आएगा ।",
+     "en": "Mohan[0] is[2] ill[1]; {that's why}[3+4] he[5] won't[7] come[8] today[6].",
+     "a": "इसी",
+     "wrong": [
+      [
+       "यही",
+       "यही is direct. Before लिए the pronoun is oblique: इसी लिए."
+      ],
+      [
+       "इसे",
+       "इसे is इस को, “to this”."
+      ]
+     ],
+     "why": "इसी लिए “for this very reason, that's why” is more emphatic than इस लिए “so”."
+    },
+    {
+     "id": "hi:11",
+     "t": "mc",
+     "q": "Which means “Only Sita knows Gujarati”?",
+     "a": "सीता ही गुजराती जानती है ।",
+     "wrong": [
+      [
+       "सीता गुजराती ही जानती है ।",
+       "ही limits the word before it, here गुजराती — “Sita knows only Gujarati”."
+      ],
+      [
+       "सीता भी गुजराती जानती है ।",
+       "भी means “also”: “Sita too knows Gujarati”."
+      ]
+     ],
+     "why": "ही follows the word it limits and does not change its case."
+    }
+   ]
+  },
+  {
+   "id": "qty",
+   "title": "बहुत-सी, कम से कम",
+   "desc": "Many, little, at least, at most",
+   "skill": "qty",
+   "items": [
+    {
+     "id": "qt:0",
+     "t": "mc",
+     "q": "Fill the gap: “I have many saris. (a woman speaking)”",
+     "hi": "मेरे पास ___ साड़ियाँ हैं ।",
+     "say": "मेरे पास बहुत-सी साड़ियाँ हैं ।",
+     "en": "I[0+1] have[4] many[2] saris[3]. (a woman speaking)",
+     "a": "बहुत-सी",
+     "wrong": [
+      [
+       "बहुत-सा",
+       "-sā agrees like an adjective. साड़ियाँ is feminine: बहुत-सी."
+      ],
+      [
+       "बहुत-से",
+       "बहुत-से is masculine. साड़ियाँ is feminine."
+      ]
+     ],
+     "why": "बहुत-सा, -sī, -se “many, a lot of” agrees with its noun."
+    },
+    {
+     "id": "qt:1",
+     "t": "mc",
+     "q": "Fill the gap: “There were many people in the market.”",
+     "hi": "बाज़ार में ___ लोग थे ।",
+     "say": "बाज़ार में बहुत-से लोग थे ।",
+     "en": "{There were}[4] many[2] people[3] in[1] the market[0].",
+     "a": "बहुत-से",
+     "wrong": [
+      [
+       "बहुत-सी",
+       "बहुत-सी is feminine. लोग is masculine plural."
+      ],
+      [
+       "बहुत-सा",
+       "बहुत-सा is singular. लोग is plural."
+      ]
+     ],
+     "why": "बहुत-से लोग “many people”."
+    },
+    {
+     "id": "qt:2",
+     "t": "mc",
+     "q": "Fill the gap: “His kurta is reddish.”",
+     "hi": "उसका कुरता ___ है ।",
+     "say": "उसका कुरता लाल-सा है ।",
+     "en": "His[0] kurta[1] is[3] reddish[2].",
+     "a": "लाल-सा",
+     "wrong": [
+      [
+       "लाल-सी",
+       "लाल-सी is feminine. कुरता is masculine."
+      ],
+      [
+       "लाल-से",
+       "लाल-से is plural. कुरता is singular."
+      ]
+     ],
+     "why": "-sā after an adjective gives an “-ish” sense and agrees like an -ā adjective."
+    },
+    {
+     "id": "qt:3",
+     "t": "mc",
+     "q": "Fill the gap: “Very few people live in this village.”",
+     "hi": "इस गाँव में बहुत ___ लोग रहते हैं ।",
+     "say": "इस गाँव में बहुत कम लोग रहते हैं ।",
+     "en": "{Very few}[3+4] people[5] live[6+7] in[2] this[0] village[1].",
+     "a": "कम",
+     "wrong": [
+      [
+       "ज़्यादा",
+       "बहुत ज़्यादा is “very many, too many”."
+      ],
+      [
+       "कम से कम",
+       "कम से कम is “at least”, and needs a number after it."
+      ]
+     ],
+     "why": "कम “little, few, less” and ज़्यादा “much, many, more” are both adjectives and adverbs."
+    },
+    {
+     "id": "qt:4",
+     "t": "mc",
+     "q": "Fill the gap: “I need at least two hours.”",
+     "hi": "मुझे ___ दो घंटे चाहिए ।",
+     "say": "मुझे कम से कम दो घंटे चाहिए ।",
+     "en": "I[0] need[6] {at least}[1+2+3] two[4] hours[5].",
+     "a": "कम से कम",
+     "wrong": [
+      [
+       "ज़्यादा से ज़्यादा",
+       "ज़्यादा से ज़्यादा is “at most”."
+      ],
+      [
+       "बहुत कम",
+       "बहुत कम is “very little”."
+      ]
+     ],
+     "why": "कम से कम “at least”; ज़्यादा से ज़्यादा and अधिक से अधिक “at most”."
+    },
+    {
+     "id": "qt:5",
+     "t": "mc",
+     "q": "Fill the gap: “I will eat at most five samosas. (a man speaking)”",
+     "hi": "मैं ___ पाँच समोसे खाऊँगा ।",
+     "say": "मैं ज़्यादा से ज़्यादा पाँच समोसे खाऊँगा ।",
+     "en": "I[0] {will eat}[6] {at most}[1+2+3] five[4] samosas[5]. (a man speaking)",
+     "a": "ज़्यादा से ज़्यादा",
+     "wrong": [
+      [
+       "कम से कम",
+       "कम से कम is “at least”."
+      ],
+      [
+       "बहुत-से",
+       "बहुत-से is “many”, and does not go with a number."
+      ]
+     ],
+     "why": "ज़्यादा से ज़्यादा “at most”."
+    },
+    {
+     "id": "qt:7",
+     "t": "mc",
+     "q": "Which means “many big houses”?",
+     "a": "बहुत-से बड़े मकान",
+     "wrong": [
+      [
+       "बहुत बड़े मकान",
+       "Here बहुत qualifies बड़े — “very big houses”."
+      ],
+      [
+       "बहुत-सा बड़ा मकान",
+       "बहुत-सा बड़ा मकान is singular: “a lot of big house”."
+      ]
+     ],
+     "why": "-se after बहुत shows that it qualifies the noun, not the adjective."
+    },
+    {
+     "id": "qt:8",
+     "t": "mc",
+     "q": "Fill the gap: “I have a certain amount of money.”",
+     "hi": "मेरे पास ___ पैसा है ।",
+     "say": "मेरे पास थोड़ा-बहुत पैसा है ।",
+     "en": "I[0+1] have[4] {a certain amount of}[2] money[3].",
+     "a": "थोड़ा-बहुत",
+     "wrong": [
+      [
+       "बहुत-सा",
+       "बहुत-सा पैसा is “a lot of money”."
+      ],
+      [
+       "कम से कम",
+       "कम से कम is “at least”, and needs a quantity after it."
+      ]
+     ],
+     "why": "थोड़ा-बहुत “a certain amount, some”."
+    }
+   ]
+  },
+  {
+   "id": "inf",
+   "title": "जाने से पहले",
+   "desc": "The infinitive as a noun: “going”, “to go”",
+   "skill": "inf",
+   "items": [
+    {
+     "id": "in:0",
+     "t": "mc",
+     "q": "Fill the gap: “Living alone is difficult.”",
+     "hi": "अकेले ___ मुश्किल है ।",
+     "say": "अकेले रहना मुश्किल है ।",
+     "en": "Living[1] alone[0] is[3] difficult[2].",
+     "a": "रहना",
+     "wrong": [
+      [
+       "रहने",
+       "रहने is the oblique, used before a postposition or for purpose. As a subject the infinitive is direct."
+      ],
+      [
+       "रहता",
+       "रहता is the imperfective participle. “Living” as a subject is the infinitive, रहना."
+      ],
+      [
+       "रहनें",
+       "Not a word: the oblique infinitive ends in -ne, with no nasal."
+      ]
+     ],
+     "why": "The infinitive is also a masculine noun: direct as a subject (जाना), oblique in -e before a postposition or for purpose (जाने)."
+    },
+    {
+     "id": "in:1",
+     "t": "mc",
+     "q": "Fill the gap: “Wash your hands before eating. (to तुम)”",
+     "hi": "खाना ___ से पहले हाथ धोओ ।",
+     "say": "खाना खाने से पहले हाथ धोओ ।",
+     "en": "Wash[5] {your hands}[4] before[2+3] eating[0+1]. (to तुम)",
+     "a": "खाने",
+     "wrong": [
+      [
+       "खाना",
+       "Before a postposition the infinitive is oblique: खाने से पहले."
+      ],
+      [
+       "खानें",
+       "Not a word: the oblique infinitive ends in -ne, with no nasal."
+      ]
+     ],
+     "why": "The infinitive is also a masculine noun: direct as a subject (जाना), oblique in -e before a postposition or for purpose (जाने)."
+    },
+    {
+     "id": "in:3",
+     "t": "mc",
+     "q": "Fill the gap: “On reaching the office I drink tea. (a man speaking)”",
+     "hi": "दफ़्तर ___ पर मैं चाय पीता हूँ ।",
+     "say": "दफ़्तर पहुँचने पर मैं चाय पीता हूँ ।",
+     "en": "{On reaching}[1+2] the office[0] I[3] drink[5+6] tea[4]. (a man speaking)",
+     "a": "पहुँचने",
+     "wrong": [
+      [
+       "पहुँचना",
+       "Before पर the infinitive is oblique: पहुँचने पर."
+      ],
+      [
+       "पहुँचते",
+       "पहुँचते is the imperfective participle. “On reaching” is the oblique infinitive + पर."
+      ]
+     ],
+     "why": "Oblique infinitive + पर “on …ing”."
+    },
+    {
+     "id": "in:4",
+     "t": "mc",
+     "q": "Fill the gap: “The children are going to play in the garden.”",
+     "hi": "बच्चे बग़ीचे में ___ जा रहे हैं ।",
+     "say": "बच्चे बग़ीचे में खेलने जा रहे हैं ।",
+     "en": "{The children}[0] {are going}[4+5+6] to play[3] in[2] the garden[1].",
+     "a": "खेलने",
+     "wrong": [
+      [
+       "खेलना",
+       "For purpose the infinitive is oblique: खेलने जा रहे हैं."
+      ],
+      [
+       "खेलनें",
+       "Not a word: the oblique infinitive ends in -ne, with no nasal."
+      ]
+     ],
+     "why": "The oblique infinitive on its own can express purpose, “in order to”."
+    },
+    {
+     "id": "in:5",
+     "t": "mc",
+     "q": "Fill the gap: “I am going to the post office to send this letter. (a man speaking)”",
+     "hi": "मैं यह चिट्ठी भेजने के ___ डाकघर जा रहा हूँ ।",
+     "say": "मैं यह चिट्ठी भेजने के लिए डाकघर जा रहा हूँ ।",
+     "en": "I[0] {am going}[7+8+9] {to the post office}[6] to send[3+4+5] this[1] letter[2]. (a man speaking)",
+     "a": "लिए",
+     "wrong": [
+      [
+       "साथ",
+       "के साथ means “with”."
+      ],
+      [
+       "बाद",
+       "के बाद means “after”."
+      ]
+     ],
+     "why": "Purpose: the oblique infinitive alone, or followed by के लिए or को."
+    },
+    {
+     "id": "in:6",
+     "t": "mc",
+     "q": "Fill the gap: “Her songs are worth listening to.”",
+     "hi": "उसके गाने ___ लायक़ हैं ।",
+     "say": "उसके गाने सुनने लायक़ हैं ।",
+     "en": "Her[0] songs[1] are[4] worth[3] {listening to}[2].",
+     "a": "सुनने",
+     "wrong": [
+      [
+       "सुनना",
+       "Before लायक़ the infinitive is oblique: सुनने लायक़."
+      ],
+      [
+       "सुनता",
+       "सुनता is the imperfective participle. “Worth …ing” is the oblique infinitive + लायक़."
+      ]
+     ],
+     "why": "Oblique infinitive + (के) लायक़ or योग्य “worth …ing”."
+    },
+    {
+     "id": "in:7",
+     "t": "mc",
+     "q": "Fill the gap: “My daughter can play the tabla.”",
+     "hi": "मेरी बेटी को तबला बजाना ___ है ।",
+     "say": "मेरी बेटी को तबला बजाना आता है ।",
+     "en": "My[0] daughter[1+2] can[5+6] play[4] the tabla[3].",
+     "a": "आता",
+     "wrong": [
+      [
+       "आती",
+       "The verb agrees with its subject, the infinitive बजाना, a masculine noun. बेटी has को and does not control the verb."
+      ],
+      [
+       "आते",
+       "आते is plural. The subject is the infinitive, which is singular."
+      ]
+     ],
+     "why": "X को + infinitive + आना “X knows how to …”."
+    },
+    {
+     "id": "in:8",
+     "t": "mc",
+     "q": "Fill the gap: “My husband can't cook.”",
+     "hi": "मेरे पति को खाना ___ नहीं आता है ।",
+     "say": "मेरे पति को खाना बनाना नहीं आता है ।",
+     "en": "My[0] husband[1+2] can't[5+6+7] cook[3+4].",
+     "a": "बनाना",
+     "wrong": [
+      [
+       "बनाने",
+       "As the subject of आना the infinitive is direct: बनाना."
+      ],
+      [
+       "बनाता",
+       "बनाता is the imperfective participle. आना takes the infinitive."
+      ]
+     ],
+     "why": "The infinitive is the subject of आता है, so it stays direct."
+    },
+    {
+     "id": "in:9",
+     "t": "mc",
+     "q": "Fill the gap: “I am going to phone my (own) brother right now. (a man speaking)”",
+     "hi": "मैं अभी अपने भाई को फ़ोन ___ जा रहा हूँ ।",
+     "say": "मैं अभी अपने भाई को फ़ोन करने जा रहा हूँ ।",
+     "en": "I[0] {am going}[7+8+9] {to phone}[4+5+6] {my (own)}[2] brother[3] {right now}[1]. (a man speaking)",
+     "a": "करने",
+     "wrong": [
+      [
+       "करना",
+       "With जाना of purpose the infinitive is oblique: करने जा रहा हूँ."
+      ],
+      [
+       "करूँगा",
+       "करूँगा is the future, “I will do”; it cannot go before जा रहा हूँ."
+      ]
+     ],
+     "why": "Oblique infinitive + जा रहा हूँ “I'm going to …”, as in English."
+    },
+    {
+     "id": "in:10",
+     "t": "mc",
+     "q": "Fill the gap: “Care is essential in driving a car.”",
+     "hi": "गाड़ी ___ में सावधानी ज़रूरी है ।",
+     "say": "गाड़ी चलाने में सावधानी ज़रूरी है ।",
+     "en": "Care[3] is[5] essential[4] in[2] driving[1] a car[0].",
+     "a": "चलाने",
+     "wrong": [
+      [
+       "चलाना",
+       "Before में the infinitive is oblique: चलाने में."
+      ],
+      [
+       "चलानें",
+       "Not a word: the oblique infinitive ends in -ne, with no nasal."
+      ]
+     ],
+     "why": "The infinitive is also a masculine noun: direct as a subject (जाना), oblique in -e before a postposition or for purpose (जाने)."
+    },
+    {
+     "id": "in:11",
+     "t": "mc",
+     "q": "Why is it जाने in जाने से पहले?",
+     "a": "जाने is the oblique infinitive: a masculine noun before a postposition",
+     "wrong": [
+      [
+       "Because जाने is plural",
+       "There is nothing plural here. -ne is the oblique singular, as in कमरे में."
+      ],
+      [
+       "Because जाने is the imperfective participle",
+       "The participle is जाता, जाते. जाने is the oblique of the infinitive जाना."
+      ]
+     ],
+     "why": "The infinitive is also a masculine noun: direct as a subject (जाना), oblique in -e before a postposition or for purpose (जाने)."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "{The girls}[0] {will go}[4] {to the market}[3] {in the evening}[1+2].",
+     "ans": [
+      "लड़कियाँ",
+      "शाम",
+      "को",
+      "बाज़ार",
+      "जाएँगी"
+     ],
+     "wrong": [
+      [
+       "जाएँगे",
+       "जाएँगे is masculine. लड़कियाँ is feminine."
+      ],
+      [
+       "जाएगी",
+       "जाएगी is singular. लड़कियाँ is plural."
+      ]
+     ],
+     "alt": [
+      [
+       "शाम",
+       "को",
+       "लड़कियाँ",
+       "बाज़ार",
+       "जाएँगी"
+      ],
+      [
+       "लड़कियाँ",
+       "बाज़ार",
+       "शाम",
+       "को",
+       "जाएँगी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "I[0] {will give}[4] you[1] this[2] book[3]. (a woman speaking, to तुम)",
+     "ans": [
+      "मैं",
+      "तुम्हें",
+      "यह",
+      "किताब",
+      "दूँगी"
+     ],
+     "wrong": [
+      [
+       "देऊँगी",
+       "Not a word: देना is irregular, दूँगी."
+      ],
+      [
+       "दूँगा",
+       "दूँगा is masculine. The speaker is a woman."
+      ]
+     ],
+     "alt": [
+      [
+       "मैं",
+       "यह",
+       "किताब",
+       "तुम्हें",
+       "दूँगी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "{At this time}[1+2] tomorrow[0] Sita[3] {will be working}[6+7+8+9] in[5] the office[4].",
+     "ans": [
+      "कल",
+      "इस",
+      "समय",
+      "सीता",
+      "दफ़्तर",
+      "में",
+      "काम",
+      "कर",
+      "रही",
+      "होगी"
+     ],
+     "wrong": [
+      [
+       "होगा",
+       "होगा is masculine. Sita is a woman."
+      ],
+      [
+       "रहा",
+       "रहा is masculine. Sita is a woman: कर रही होगी."
+      ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "कल",
+       "इस",
+       "समय",
+       "दफ़्तर",
+       "में",
+       "काम",
+       "कर",
+       "रही",
+       "होगी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Mohan[0] {must be}[4] {at home}[2+3] now[1].",
+     "ans": [
+      "मोहन",
+      "अभी",
+      "घर",
+      "पर",
+      "होगा"
+     ],
+     "wrong": [
+      [
+       "है",
+       "है states a fact: “Mohan is at home”. “Must be” is the future, होगा."
+      ],
+      [
+       "होगी",
+       "होगी is feminine. Mohan is a man."
+      ]
+     ],
+     "alt": [
+      [
+       "अभी",
+       "मोहन",
+       "घर",
+       "पर",
+       "होगा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "We[0] {will meet}[3] {right here}[2] tomorrow[1].",
+     "ans": [
+      "हम",
+      "कल",
+      "यहीं",
+      "मिलेंगे"
+     ],
+     "wrong": [
+      [
+       "यही",
+       "यही is “this very one”. “Right here” is यहीं."
+      ],
+      [
+       "मिलेगा",
+       "मिलेगा is singular. हम takes -ẽge."
+      ]
+     ],
+     "alt": [
+      [
+       "कल",
+       "हम",
+       "यहीं",
+       "मिलेंगे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "My[3] uncle[4+5] lives[6+7] in[2] {this very}[0] village[1].",
+     "ans": [
+      "इसी",
+      "गाँव",
+      "में",
+      "मेरे",
+      "चाचा",
+      "जी",
+      "रहते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "यही",
+       "यही is direct. Before में the phrase is oblique: इसी गाँव में."
+      ],
+      [
+       "रहता",
+       "चाचा जी takes plural agreement for respect: रहते हैं."
+      ]
+     ],
+     "alt": [
+      [
+       "मेरे",
+       "चाचा",
+       "जी",
+       "इसी",
+       "गाँव",
+       "में",
+       "रहते",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "{There are}[6] many[3] new[4] shops[5] in[2] this[0] lane[1].",
+     "ans": [
+      "इस",
+      "गली",
+      "में",
+      "बहुत-सी",
+      "नई",
+      "दुकानें",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बहुत-से",
+       "बहुत-से is masculine. दुकानें is feminine."
+      ],
+      [
+       "नए",
+       "नए is masculine. दुकानें is feminine."
+      ]
+     ],
+     "alt": [
+      [
+       "बहुत-सी",
+       "नई",
+       "दुकानें",
+       "इस",
+       "गली",
+       "में",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "{Getting up}[1] {early in the morning}[0] is[3] good[2].",
+     "ans": [
+      "सवेरे",
+      "उठना",
+      "अच्छा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "उठने",
+       "As a subject the infinitive is direct: उठना."
+      ],
+      [
+       "अच्छी",
+       "अच्छी is feminine. The infinitive is a masculine noun: अच्छा."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "After[3+4] finishing[1+2] the work[0] we[5] {will go}[7] home[6].",
+     "ans": [
+      "काम",
+      "ख़त्म",
+      "करने",
+      "के",
+      "बाद",
+      "हम",
+      "घर",
+      "जाएँगे"
+     ],
+     "wrong": [
+      [
+       "करना",
+       "Before के बाद the infinitive is oblique: करने."
+      ],
+      [
+       "पहले",
+       "के पहले means “before”."
+      ]
+     ],
+     "alt": [
+      [
+       "हम",
+       "काम",
+       "ख़त्म",
+       "करने",
+       "के",
+       "बाद",
+       "घर",
+       "जाएँगे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Pinki[0] {is going}[6+7+8] to the station[5] to fetch[4] {her (own)}[1] brother[2+3].",
+     "ans": [
+      "पिंकी",
+      "अपने",
+      "भाई",
+      "को",
+      "लेने",
+      "स्टेशन",
+      "जा",
+      "रही",
+      "है"
+     ],
+     "wrong": [
+      [
+       "लेना",
+       "For purpose the infinitive is oblique: लेने."
+      ],
+      [
+       "उसके",
+       "उसके would be someone else's brother. For the subject's own, use अपने."
+      ]
+     ],
+     "alt": [
+      [
+       "पिंकी",
+       "स्टेशन",
+       "अपने",
+       "भाई",
+       "को",
+       "लेने",
+       "जा",
+       "रही",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Raj[0+1] {can sing}[2+3+4].",
+     "ans": [
+      "राज",
+      "को",
+      "गाना",
+      "आता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "गाने",
+       "As the subject of आना the infinitive is direct: गाना."
+      ],
+      [
+       "आती",
+       "The verb agrees with the infinitive गाना, which is masculine: आता."
+      ]
+     ]
+    },
+    {
+     "id": "tl:12",
+     "t": "tiles",
+     "en": "Will you[0] take[2] tea[1] or[3] coffee[4]? (to a woman)",
+     "ans": [
+      "आप",
+      "चाय",
+      "लेंगी",
+      "या",
+      "कॉफ़ी"
+     ],
+     "wrong": [
+      [
+       "लेएगी",
+       "Not a word: लेना is irregular, लेगी, लेंगी."
+      ],
+      [
+       "लेंगे",
+       "लेंगे is masculine. This is asked of a woman."
+      ]
+     ],
+     "alt": [
+      [
+       "आप",
+       "चाय",
+       "या",
+       "कॉफ़ी",
+       "लेंगी"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "राज इस समय रेलगाड़ी में होगा ।",
+     "audio": true,
+     "a": "Raj must be on the train at the moment.",
+     "wrong": [
+      [
+       "Raj was on the train at this time.",
+       "Past would be था. होगा with इस समय is an assumption about now."
+      ],
+      [
+       "Raj is on the train at the moment, I know.",
+       "है would state it as a fact. होगा is an assumption: “must be”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हम अगले महीने ही लौटेंगे ।",
+     "audio": true,
+     "a": "We'll return only next month.",
+     "wrong": [
+      [
+       "We'll return next month too.",
+       "“Too” would be भी. ही is “only, not until”."
+      ],
+      [
+       "We returned last month.",
+       "अगले महीने is “next month”, and लौटेंगे is future."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे पास बहुत-से कपड़े हैं ।",
+     "audio": true,
+     "a": "I have lots of clothes.",
+     "wrong": [
+      [
+       "I have very good clothes.",
+       "That would be बहुत अच्छे कपड़े. बहुत-से qualifies कपड़े — “many”."
+      ],
+      [
+       "I have quite expensive clothes.",
+       "-se after an adjective like महँगे would give “quite expensive”. बहुत-से is “many”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "इस गाँव का पानी पीने लायक़ नहीं है ।",
+     "audio": true,
+     "a": "The water of this village isn't fit to drink.",
+     "wrong": [
+      [
+       "The water of this village isn't easy to drink.",
+       "“Easy” would be आसान. लायक़ is “worth, fit for”."
+      ],
+      [
+       "Nobody drinks the water of this village.",
+       "Nothing here says “nobody”. पीने लायक़ is “worth drinking, fit to drink”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे छोटे भाई को साइकिल चलाना नहीं आता ।",
+     "audio": true,
+     "a": "My little brother can't ride a bicycle.",
+     "wrong": [
+      [
+       "My little brother doesn't come by bicycle.",
+       "With an infinitive as subject, आना means “to know how to”."
+      ],
+      [
+       "My little brother doesn't like riding a bicycle.",
+       "“Like” would be पसंद."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह कमरा काफ़ी बड़ा है ।",
+     "audio": true,
+     "a": "This room is quite big.",
+     "wrong": [
+      [
+       "This room isn't big enough.",
+       "Before an adjective काफ़ी means “quite”. Nothing here is negative."
+      ],
+      [
+       "This room is very small.",
+       "बड़ा is “big”, and काफ़ी is “quite”, not “very”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "इस कमरे में खाना खाना मना है ।",
+     "audio": true,
+     "a": "Eating is not allowed in this room.",
+     "wrong": [
+      [
+       "Eat your food in this room.",
+       "A command would be खाओ. खाना खाना is the verbal noun “eating food”."
+      ],
+      [
+       "There is no food in this room.",
+       "मना “prohibited” is not “there is no”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "The future, ही, -सा, formal words",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Which three verbs have irregular futures?",
+     "a": "होना, लेना, देना",
+     "wrong": [
+      [
+       "जाना, आना, करना",
+       "These are regular: जाऊँगा, आएगा, करेंगे."
+      ],
+      [
+       "पीना, छूना, होना",
+       "पीना and छूना only shorten their vowel: पिएगा, छुएगा."
+      ]
+     ],
+     "why": "होना, लेना and देना are irregular: हूँगा, होगा, होगे, होंगे — लूँगा, लेगी, लेंगे — दूँगा, देगा, देंगे."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Does the future tense use an auxiliary verb?",
+     "a": "No: the future is one word, like बोलेगा",
+     "wrong": [
+      [
+       "Yes: like the present, it adds है",
+       "The future needs no auxiliary: बोलेगा on its own is “will speak”."
+      ],
+      [
+       "Only in the negative, with नहीं",
+       "The negative is नहीं बोलेगा, still with no auxiliary."
+      ]
+     ],
+     "why": "The future adds -ū̃gā to the stem for मैं, -egā for तू, यह, वह, -oge for तुम and -ẽge for हम, आप, ये, वे. Feminine forms end in -ī: -ū̃gī, -egī, -ogī, -ẽgī."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "What is the difference between यहीं and यही?",
+     "a": "यहीं is “right here”, a place; यही is “this very one”",
+     "wrong": [
+      [
+       "None: यहीं and यही are two spellings of one word",
+       "They are different words: यहाँ + ही gives यहीं, यह + ही gives यही."
+      ],
+      [
+       "यहीं is plural, यही singular",
+       "Neither is plural. The nasal comes from यहाँ."
+      ]
+     ],
+     "why": "Likewise वहीं “right there” and वही “that very one”."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "What does -sī add in लाल-सी?",
+     "a": "An “-ish” sense: “reddish”",
+     "wrong": [
+      [
+       "“Very red”",
+       "That would be बहुत लाल."
+      ],
+      [
+       "“Many red (things)”",
+       "-sā after बहुत gives “many”; after an adjective it gives “-ish”."
+      ]
+     ],
+     "why": "-sā agrees like an -ā adjective: लाल-सा, लाल-सी, लाल-से."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "Does ही change the case of the word before it?",
+     "a": "No: ही is not a postposition, so the word stays as it is",
+     "wrong": [
+      [
+       "Yes: the word before ही becomes oblique",
+       "Only a postposition makes a word oblique. ही is like भी."
+      ],
+      [
+       "Yes: the word before ही becomes plural",
+       "ही has nothing to do with number."
+      ]
+     ],
+     "why": "ही emphasises or limits the word just before it, often “only”."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Which is the formal (Sanskrit-derived) word for “but”?",
+     "a": "परंतु",
+     "wrong": [
+      [
+       "लेकिन",
+       "लेकिन is the everyday word."
+      ],
+      [
+       "पर",
+       "पर is the everyday short word for “but”."
+      ]
+     ],
+     "why": "Formal words: पुस्तक, कठिन, व्यवस्था, परंतु — everyday words: किताब, मुश्किल, इंतज़ाम, लेकिन."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "fut": 3,
+  "irr": 2,
+  "pres": 2,
+  "hi": 2,
+  "qty": 2,
+  "inf": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "जाऊँगे": "jāū̃ge",
+  "आओगा": "āogā",
+  "देऊँगा": "deū̃gā",
+  "लेएगी": "leegī",
+  "हमहीं": "hamhī̃",
+  "उनहीं": "unhī̃",
+  "रहनें": "rahnẽ",
+  "खानें": "khānẽ",
+  "खेलनें": "khelnẽ",
+  "चलानें": "calānẽ",
+  "देऊँगी": "deū̃gī"
+ }
+}
