@@ -11,6 +11,7 @@
 | 7 | Done, validated (not committed) | 80 | 97 | 22 | book 78–89 |
 | 8 | Done, validated (not committed) | 80 | 96 | 22 | book 90–103 |
 | 9 | Done, validated (not committed) | 80 | 90 | 22 | book 104–116 (117 blank) |
+| 10 | Done, validated (not committed) | 80 | 75 | 22 | book 118–128 (129 blank) |
 
 ## Items to review
 
@@ -285,6 +286,77 @@
   - The `_grammar` titles use my own examples.
 - Item ids have gaps (`fu:3`, `fu:6`, `ir:7`, `pr:5`, `hi:8`, `qt:6`, `in:2`, `tl:0`, `mn:7`, `us:6`). `mn:5` was replaced (was उसका घर इसी गली में होगा, a fifth “X … में होगा” sentence) because I cut items to stay at 80.
 - Meaning items carry no alignment, as in units 2–8. ही has a `gloss` entry, but is aligned wherever it means “only”.
+
+### Unit 10
+- Vocabulary: the end list (pp. 126–127) plus the Quick Vocab word मेसेज (p. 119) and, from 10.5, वाला, दूधवाला and ऊपरवाला “God”. कि is re-listed as “or”.
+  - Not repeated, because earlier units have them: ऊँचा (unit 4) and के बारे में (unit 6).
+  - Left out: body-only words such as ट्रेन, फ़ोटो, क़ीमत, असुविधा, यात्री, बीच (बीचवाली), पैसेवाला, हिन्दीवाला and the dialogue names (छोटू, खन्ना, उर्वशी).
+  - Compound entries are kept separate from their parts, as in unit 9: पता / पता नहीं / पता होना, भूल / भूल करना / भूलना, मदद / मदद देना, वापस / वापस आना, मक्खी / मक्खियाँ मारना, बार / बार बार / अब की बार.
+- Spellings and romanisations I had to choose:
+  - गुस्सा gussā, as printed (no nukta).
+  - कंजूस kanjūs, संभव/असंभव sambhav/asambhav, तुरंत turant, मंदिर mandir.
+  - अवश्य avaśy, like योग्य.
+  - आटो āṭo, लिस्ट lisṭ, नोट noṭ, मेसेज mesej, बँटाना bãṭānā.
+  - The subjunctive is derived from the unit 9 futures: बोलूँ bolū̃, जाए jāe, आएँ āẽ, हों hõ, पिएँ piẽ, सोएँ soẽ.
+  - -वाला compounds are written as one word (दूधवाला, बोलनेवाला, नीचेवाला), as the book does for most; each form is its own ledger entry.
+- Genders from the end list: आटो, इलाज, काँटा, गर्व, गुस्सा, चपरासी, चम्मच, झूठ, दाम, निवेदन, नोट, पता, मंदिर, मामला, यक़ीन, रिक्शा, वक़्त, विश्वास, हफ़्ता, मेसेज m; उम्मीद, ख़रीदारी, गाय, छुरी, ज़िम्मेदारी, पुलिस, बार, बोरियत, भूल, मक्खी, मदद, लिस्ट, सफ़ाई, सलाह, सीढ़ी f. The end list marks आधा m; I entered it as an adjective “half”.
+- Glosses chosen to keep English answers distinct:
+  - वक़्त “time” / बार “time, occasion”.
+  - यक़ीन “confidence, faith” / विश्वास “belief, trust”. The book has “belief, confidence”; I changed it so the two answers differ.
+  - यदि “if (formal)”, because unit 9 has अगर “if”.
+  - मगर “but” (unit 2 has लेकिन “but”; no item sets them against each other).
+- Forms that earlier units' rules produce, declared here: आऊँगा, आऊँगी, बनाऊँगा, चलूँगा, खाएँगे, पहुँचेंगे (futures); चलो, मिलो, रहो, बोलो, कहिए, बोलिए (commands); लाता (participle); बोलने, चलने, होने, आने (oblique infinitives, used in explanations about -वाला); इतनी, अकेली (feminine of इतना, अकेला); रिक्शे (oblique of रिक्शा).
+- Deliberately wrong forms, which make up the Hard tile pool, are all non-words:
+  - देऊँ, लेऊँ, देएँ, लेएँ: लेना and देना follow their irregular futures.
+  - बोलनावाले, चलनावाली, आनावाले, रहनावाली, करनावाला, जानावाला, होनावाली: direct infinitive before वाला.
+  - I avoided होऊँ, होवे, पीए/पीएँ, जाये/जायें and रिक्शावाला, which are real variants. I also avoided गानावाली and खानावाले, which could be read as noun + वाला.
+- Choices never set against each other because both are correct:
+  - In the अगर clause, the imperfective, the future and the subjunctive (`co:1` offers only wrong-person forms). Also हैं against हों in `ax:3`.
+  - The आप subjunctive against the -इए imperative (`su:2`, `tl:4`, `tl:12`). `ch:3` and `ch:6` offer खाइए/आइए as wrong only after चाहना कि, where a command cannot stand.
+  - The subjunctive against the future after शायद (`su:1`, `su:4`, `ax:1`) or उम्मीद.
+  - कि “or” against या (`su:6`, `tl:11`), अगर against यदि, and न against मत in commands.
+  - रिक्शेवाला against रिक्शावाला (`va:1` tests only the oblique and the gender).
+- Items where a grammatical alternative is ruled out only by the English cue or by the book's rule:
+  - `su:0` offers बनाऊँगा: “will I make?” is grammatical, but the cue is the offer “shall I?”.
+  - `ax:2` and `ax:4` offer है/थे, which state a fact. The cue is “may be”.
+  - `ki:4` मुझे पूरा यक़ीन है कि राज कल आएगा: आए is offered as wrong. This follows the book's contrast (10.1): confidence takes the future.
+  - `ch:4`, `ch:6`, `tl:10`: the future after चाहना कि or ज़रूरी है कि is treated as wrong.
+  - `us:2` and `tl:5` treat नहीं as wrong with the subjunctive, following 10.1 (“the negative for subjunctives is न”). Some speakers do use नहीं.
+- `su:6` मैं चाय लूँ कि कॉफ़ी ? and `tl:11` हम रिक्शे से जाएँ कि आटो से ?: कि “or” is used between two noun choices. The book's example is between two verbs (रहूँ कि जाऊँ); या would be more neutral.
+- `ki:2` मेरा आप से निवेदन है कि आप यहाँ सिग्रेट न पिएँ: I gave पिएँ, from the unit 9 future पिएगा. The variant पीएँ is not offered.
+- `co:5` अगर तुम्हें बस न मिले …: मिलना “to be got, found”, with the thing as subject. The book lists मिलना only as “to meet”.
+- मदद करना “to help” (`ch:7`, `co:0`): the end list gives मदद देना. मदद करना is the everyday phrase, but this unit does not list it.
+- `va:1` and `tl:6` add “(a man)” to the cue: रिक्शेवाली and ऊपरवाली would otherwise be correct (पड़ोसी is m/f in the book).
+- `ki:0` ज़रूरी है कि बच्चे जल्दी सोएँ “that the children go to sleep early”.
+- `co:7` जल्दी चलो, नहीं तो हमें देर होगी: देर होना with को.
+- `ax:3`: पिता जी … रहे हों, with the respectful plural.
+- `va:7` सीता बनारस की रहनेवाली है: X का रहनेवाला “from X”, after the book's कहाँ के रहनेवाले.
+- `va:8` गाना गानेवाली लड़की, and `mn:4` गाड़ी चलानेवाला आदमी: वाला phrases before a noun as “who sings”, “driving”.
+- `va:11` मेरा काम ख़त्म होनेवाला है: होनेवाला with a compound (ख़त्म होना).
+- Near-match check against pp. 118–128: I checked dialogues 10a and 10b, the 10.1–10.5 examples, 10A.1–10A.3, Kamala's note (10B.1), 10B.2, 10B.3 and Test yourself. Changes I made:
+  - `ch:6`: was मैं चाहता हूँ कि आप कल फिर आएँ, the 10A.2 model frame. Now माँ चाहती हैं कि ….
+  - `mn:2`: was सब बच्चे अपनी दादी को बहुत चाहते हैं, close to सब लोग तुम्हें बहुत चाहते हैं. Now मोहन अपनी छोटी बहिन को बहुत चाहता है.
+  - `mn:6`: was मुझे पता नहीं कि यह मामला इतना टेढ़ा क्यों है. That combined the note's पता नहीं … इतने … क्यों with the dialogue's मामला कुछ टेढ़ा है. Now मुझे पता नहीं था कि उसका घर इतनी दूर है.
+  - `tl:6`: was ऊपरवाला पड़ोसी बहुत कंजूस है, close to ऊपरवाला कमरा and … बड़े कंजूस होते हैं. Now कामचोर.
+  - `co:6`: no longer repeats `tl:3`.
+  - I avoided these:
+    - राज/वे सो रहा/रहे हो(ं) (`ax:0` uses खाना खा रहा हो).
+    - छोटू से कहो कि वह चाय लाए (`ki:5` uses फ़ोन करे).
+    - अगर पानी पड़े तो … and अगर (आप/तू) ख़ाली हो(ं) तो (`co:0` uses तुम्हारे पास वक़्त हो).
+    - दुकान बंद होनेवाली है (`va:11` uses काम ख़त्म होनेवाला).
+    - आनेवाले हफ़्ते में (`va:6` uses महीने).
+    - The 10A.2 and Test-yourself 6 imperatives (`tl:4`, `tl:12` use other verbs and objects).
+    - The note's काँटे/चम्मच and सब्ज़ीवाला.
+- Remaining resemblances that are the construction itself:
+  - `ki:1` संभव है कि आज रात को पानी पड़े, like संभव है कि ट्रेन देर से पहुँचे.
+  - `ki:2`, like आप से निवेदन है कि आप बैठे रहें.
+  - `ki:3` यह असंभव है कि मोहन झूठ बोले, like असंभव है कि वे ऐसी भूल करें.
+  - `ax:3` अगर पिता जी आराम कर रहे हों तो …, like अगर वे सो रहे हों तो ….
+  - `ch:0` सुहास … लंदन जाना चाहता है, like पिताजी घर जाना चाहते हैं.
+  - `va:5` बच्चे खाना खानेवाले थे and `mn:5` प्रताप दिल्ली जानेवाला था, like वह अभी जानेवाली थी.
+  - `mn:2`, like मजनूँ लैला को बहुत चाहता था.
+  - The `_grammar` titles use my own examples.
+- Meaning items carry no alignment, as in units 2–9. कि and तो keep their existing `gloss` entries and are also aligned where they have an English counterpart (“that”, “then”, “or”). No new glosses were added, because glosses are merged across all units.
 
 ## Known issues and not yet done
 

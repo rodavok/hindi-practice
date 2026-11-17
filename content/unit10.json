@@ -1,0 +1,2170 @@
+{
+ "id": "unit10",
+ "n": 10,
+ "title": "What should I say?",
+ "titleHi": "मैं क्या बोलूँ ?",
+ "scope": "The subjunctive (बोलूँ, बोले, बोलो, बोलें; हूँ/हो/हों, लूँ, दूँ) for suggestions, mild commands and uncertainty, negated with न; कि clauses after wish, request, possibility and necessity (ज़रूरी है कि, संभव है कि, निवेदन है कि, से कहो कि) against the future for confident expectation; the subjunctive auxiliary (खा रहा हो, जानती हो); चाहना with a direct infinitive or कि + subjunctive, and “be fond of”; conditionals with अगर/यदि … तो, नहीं तो; the suffix -वाला after nouns, adverbs and oblique infinitives (दूधवाला, नीचेवाला, बोलनेवाला, आनेवाला, “about to”)",
+ "pages": "book 118–128 (129 blank)",
+ "skills": {
+  "sub": "The subjunctive",
+  "ki": "कि + subjunctive",
+  "aux": "The subjunctive auxiliary",
+  "chah": "चाहना",
+  "cond": "Conditionals",
+  "vala": "The suffix -वाला",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अब की बार",
+   "en": "this time",
+   "c": "x"
+  },
+  {
+   "hi": "अवश्य",
+   "en": "certainly",
+   "c": "x"
+  },
+  {
+   "hi": "असंभव",
+   "en": "impossible",
+   "c": "a"
+  },
+  {
+   "hi": "आख़िर",
+   "en": "after all",
+   "c": "x"
+  },
+  {
+   "hi": "आटो",
+   "en": "auto-rickshaw",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आधा",
+   "en": "half",
+   "c": "a"
+  },
+  {
+   "hi": "इतना",
+   "en": "so (as in “so big”), so much",
+   "c": "a"
+  },
+  {
+   "hi": "इलाज",
+   "en": "treatment, cure",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उचित",
+   "en": "proper, appropriate",
+   "c": "a"
+  },
+  {
+   "hi": "उतारना",
+   "en": "to take down, take off",
+   "c": "v"
+  },
+  {
+   "hi": "उम्मीद",
+   "en": "hope",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कंजूस",
+   "en": "miserly, mean",
+   "c": "a"
+  },
+  {
+   "hi": "काँटा",
+   "en": "fork",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कामचोर",
+   "en": "work-shy, lazy",
+   "c": "a"
+  },
+  {
+   "hi": "कि",
+   "en": "or",
+   "c": "x"
+  },
+  {
+   "hi": "ख़रीदारी",
+   "en": "buying, shopping",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ख़ाली करना",
+   "en": "to vacate",
+   "c": "v"
+  },
+  {
+   "hi": "खींचना",
+   "en": "to draw; take (a photo)",
+   "c": "v"
+  },
+  {
+   "hi": "ख़ुद",
+   "en": "oneself",
+   "c": "x"
+  },
+  {
+   "hi": "गर्व",
+   "en": "pride",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गाय",
+   "en": "cow",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गुस्सा",
+   "en": "anger",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चपरासी",
+   "en": "peon, orderly",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चम्मच",
+   "en": "spoon",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चाहना",
+   "en": "to want, wish, be fond of",
+   "c": "v"
+  },
+  {
+   "hi": "छुरी",
+   "en": "knife",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़िम्मेदारी",
+   "en": "responsibility",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "झूठ",
+   "en": "lie",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "टेढ़ा",
+   "en": "twisted, complex",
+   "c": "a"
+  },
+  {
+   "hi": "डेढ़",
+   "en": "one and a half",
+   "c": "a"
+  },
+  {
+   "hi": "तुरंत",
+   "en": "immediately",
+   "c": "x"
+  },
+  {
+   "hi": "दाम",
+   "en": "price",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नहीं तो",
+   "en": "otherwise",
+   "c": "x"
+  },
+  {
+   "hi": "निवेदन",
+   "en": "request",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नोट",
+   "en": "note",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पकड़ना",
+   "en": "to catch, grab, hold",
+   "c": "v"
+  },
+  {
+   "hi": "पड़ना",
+   "en": "to fall",
+   "c": "v"
+  },
+  {
+   "hi": "पता",
+   "en": "address",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पता नहीं",
+   "en": "don't know, no idea",
+   "c": "x"
+  },
+  {
+   "hi": "पता होना",
+   "en": "to know, be aware",
+   "c": "v"
+  },
+  {
+   "hi": "पानी पड़ना",
+   "en": "to rain",
+   "c": "v"
+  },
+  {
+   "hi": "पुलिस",
+   "en": "police (used in the singular)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बार",
+   "en": "time, occasion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बार बार",
+   "en": "time and again",
+   "c": "x"
+  },
+  {
+   "hi": "बोरियत",
+   "en": "boredom",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भारी",
+   "en": "heavy",
+   "c": "a"
+  },
+  {
+   "hi": "भूल",
+   "en": "mistake",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भूल करना",
+   "en": "to make a mistake",
+   "c": "v"
+  },
+  {
+   "hi": "भूलना",
+   "en": "to forget, err",
+   "c": "v"
+  },
+  {
+   "hi": "मंदिर",
+   "en": "temple",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मक्खी",
+   "en": "fly",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मक्खियाँ मारना",
+   "en": "to “kill flies”, laze about",
+   "c": "v"
+  },
+  {
+   "hi": "मगर",
+   "en": "but",
+   "c": "x"
+  },
+  {
+   "hi": "मदद",
+   "en": "help",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मदद देना",
+   "en": "to help",
+   "c": "v"
+  },
+  {
+   "hi": "मामला",
+   "en": "matter, affair",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "माहिर",
+   "en": "expert, skilled",
+   "c": "a"
+  },
+  {
+   "hi": "यक़ीन",
+   "en": "confidence, faith",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "यदि",
+   "en": "if (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "रिक्शा",
+   "en": "rickshaw",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लिस्ट",
+   "en": "list",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "वक़्त",
+   "en": "time",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वापस",
+   "en": "back",
+   "c": "x"
+  },
+  {
+   "hi": "वापस आना",
+   "en": "to come back",
+   "c": "v"
+  },
+  {
+   "hi": "विश्वास",
+   "en": "belief, trust",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "संभव",
+   "en": "possible",
+   "c": "a"
+  },
+  {
+   "hi": "सफ़ाई",
+   "en": "cleaning",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सलाह",
+   "en": "advice",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सीढ़ी",
+   "en": "stair, staircase",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "हफ़्ता",
+   "en": "week",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हाथ बँटाना",
+   "en": "to lend a hand",
+   "c": "v"
+  },
+  {
+   "hi": "मेसेज",
+   "en": "message",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वाला",
+   "en": "(suffix) person or thing connected with; about to",
+   "c": "x"
+  },
+  {
+   "hi": "दूधवाला",
+   "en": "milkman",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ऊपरवाला",
+   "en": "God (the one up above)",
+   "c": "n",
+   "g": "m"
+  }
+ ],
+ "lessons": [
+  {
+   "id": "sub",
+   "title": "मैं क्या बोलूँ ?",
+   "desc": "The subjunctive: “may I, should I, shall we”",
+   "skill": "sub",
+   "items": [
+    {
+     "id": "su:0",
+     "t": "mc",
+     "q": "Fill the gap: “Shall I make tea for you?”",
+     "hi": "मैं आपके लिए चाय ___ ?",
+     "say": "मैं आपके लिए चाय बनाऊँ ?",
+     "en": "Shall I[0] make[4] tea[3] for[2] you[1]?",
+     "a": "बनाऊँ",
+     "wrong": [
+      [
+       "बनाए",
+       "बनाए goes with तू, यह and वह. मैं takes -ū̃: बनाऊँ."
+      ],
+      [
+       "बनाऊँगा",
+       "बनाऊँगा is the future, “will I make?”, a plain question about what will happen. An offer, “shall I?”, uses the subjunctive."
+      ]
+     ],
+     "why": "The subjunctive is the future without -gā/-gī/-ge: मैं बोलूँ, तू, यह, वह बोले, तुम बोलो, हम, आप, ये, वे बोलें. Masculine and feminine forms are the same."
+    },
+    {
+     "id": "su:1",
+     "t": "mc",
+     "q": "Fill the gap: “Sita may come this evening.”",
+     "hi": "शायद सीता आज शाम को ___ ।",
+     "say": "शायद सीता आज शाम को आए ।",
+     "en": "Sita[1] {may come}[0+5] {this evening}[2+3+4].",
+     "a": "आए",
+     "wrong": [
+      [
+       "आएँ",
+       "आएँ is plural. Sita, spoken of plainly, takes the singular: आए."
+      ],
+      [
+       "आऊँ",
+       "आऊँ goes with मैं."
+      ]
+     ],
+     "why": "शायद “perhaps” often takes the subjunctive: शायद सीता आए “Sita may come”."
+    },
+    {
+     "id": "su:2",
+     "t": "mc",
+     "q": "Fill the gap: “You should come at nine tomorrow morning.”",
+     "hi": "आप लोग कल सुबह नौ बजे ___ ।",
+     "say": "आप लोग कल सुबह नौ बजे आएँ ।",
+     "en": "You[0+1] should come[6] {at nine}[4+5] {tomorrow morning}[2+3].",
+     "a": "आएँ",
+     "wrong": [
+      [
+       "आए",
+       "आए is singular. आप always takes plural agreement: आएँ."
+      ],
+      [
+       "आओ",
+       "आओ goes with तुम. आप takes -ẽ."
+      ]
+     ],
+     "why": "The आप subjunctive is a polite suggestion or mild command."
+    },
+    {
+     "id": "su:3",
+     "t": "mc",
+     "q": "Fill the gap: “Who should I give this letter to?”",
+     "hi": "मैं यह चिट्ठी किस को ___ ?",
+     "say": "मैं यह चिट्ठी किस को दूँ ?",
+     "en": "Who[3] should I[0] give[5] this[1] letter[2] to[4]?",
+     "a": "दूँ",
+     "wrong": [
+      [
+       "देऊँ",
+       "Not a word: देना is irregular. Its future is दूँगा, so the subjunctive is दूँ."
+      ],
+      [
+       "दे",
+       "दे goes with तू, यह and वह. मैं takes दूँ."
+      ]
+     ],
+     "why": "होना, लेना and देना follow their futures: हूँ, हो, हों — लूँ, ले, लें — दूँ, दे, दें."
+    },
+    {
+     "id": "su:4",
+     "t": "mc",
+     "q": "Fill the gap: “He may not be at home today.”",
+     "hi": "शायद वह आज घर पर न ___ ।",
+     "say": "शायद वह आज घर पर न हो ।",
+     "en": "He[1] {may not be}[0+5+6] {at home}[3+4] today[2].",
+     "a": "हो",
+     "wrong": [
+      [
+       "हों",
+       "हों is plural. वह, spoken of plainly, takes हो."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "होना, लेना and देना follow their futures: हूँ, हो, हों — लूँ, ले, लें — दूँ, दे, दें."
+    },
+    {
+     "id": "su:5",
+     "t": "mc",
+     "q": "Fill the gap: “The children should speak only Hindi in class.”",
+     "hi": "बच्चे क्लास में हिन्दी ही ___ ।",
+     "say": "बच्चे क्लास में हिन्दी ही बोलें ।",
+     "en": "{The children}[0] {should speak}[5] only[4] Hindi[3] in[2] class[1].",
+     "a": "बोलें",
+     "wrong": [
+      [
+       "बोले",
+       "बोले is singular. बच्चे is plural: बोलें."
+      ],
+      [
+       "बोलूँ",
+       "बोलूँ goes only with मैं."
+      ]
+     ],
+     "why": "The subjunctive is the future without -gā/-gī/-ge: मैं बोलूँ, तू, यह, वह बोले, तुम बोलो, हम, आप, ये, वे बोलें. Masculine and feminine forms are the same."
+    },
+    {
+     "id": "su:6",
+     "t": "mc",
+     "q": "Fill the gap: “Should I have tea or coffee?”",
+     "hi": "मैं चाय ___ कि कॉफ़ी ?",
+     "say": "मैं चाय लूँ कि कॉफ़ी ?",
+     "en": "Should I[0] have[2] tea[1] or[3] coffee[4]?",
+     "a": "लूँ",
+     "wrong": [
+      [
+       "लेऊँ",
+       "Not a word: लेना is irregular. Its future is लूँगा, so the subjunctive is लूँ."
+      ],
+      [
+       "ले",
+       "ले goes with तू, यह and वह. मैं takes लूँ."
+      ]
+     ],
+     "why": "Between two choices कि can mean “or”: लूँ कि … “should I take … or …?”."
+    },
+    {
+     "id": "su:7",
+     "t": "mc",
+     "q": "Make it a suggestion (“shall we …?”)",
+     "a": "हम बाज़ार जाएँ ?",
+     "wrong": [
+      [
+       "हम बाज़ार जाऊँ ?",
+       "जाऊँ goes with मैं. हम takes -ẽ: जाएँ."
+      ],
+      [
+       "हम बाज़ार जाए ?",
+       "जाए is singular. हम takes the plural: जाएँ."
+      ]
+     ],
+     "why": "Drop -ge from the future: जाएँगे → जाएँ.",
+     "hi": "हम बाज़ार जाएँगे ।",
+     "audio": true,
+     "say": "हम बाज़ार जाएँ ?",
+     "en": "Shall we[0] go[2] {to the market}[1]?"
+    },
+    {
+     "id": "su:8",
+     "t": "mc",
+     "q": "What is the subjunctive of देना with आप?",
+     "a": "दें",
+     "wrong": [
+      [
+       "देएँ",
+       "Not a word: देना is irregular. देंगे → दें."
+      ],
+      [
+       "देंगे",
+       "देंगे is the future. Drop -ge for the subjunctive: दें."
+      ]
+     ],
+     "why": "होना, लेना and देना follow their futures: हूँ, हो, हों — लूँ, ले, लें — दूँ, दे, दें."
+    },
+    {
+     "id": "su:9",
+     "t": "mc",
+     "q": "What is the subjunctive of होना with वे?",
+     "a": "हों",
+     "wrong": [
+      [
+       "हो",
+       "हो goes with तू, यह, वह and तुम. वे takes हों."
+      ],
+      [
+       "होंगे",
+       "होंगे is the future, “will be” or “must be”. Drop -ge for the subjunctive: हों."
+      ]
+     ],
+     "why": "होना, लेना and देना follow their futures: हूँ, हो, हों — लूँ, ले, लें — दूँ, दे, दें."
+    },
+    {
+     "id": "su:10",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki should not tell anyone this.”",
+     "hi": "पिंकी यह बात किसी से न ___ ।",
+     "say": "पिंकी यह बात किसी से न कहे ।",
+     "en": "Pinki[0] {should not}[5] tell[6] anyone[3+4] {this}[1+2].",
+     "a": "कहे",
+     "wrong": [
+      [
+       "कहें",
+       "कहें is plural. Pinki, spoken of plainly, takes the singular: कहे."
+      ],
+      [
+       "कहूँ",
+       "कहूँ goes only with मैं."
+      ]
+     ],
+     "why": "The subjunctive is made negative with न — न कहे “should not tell”."
+    }
+   ]
+  },
+  {
+   "id": "ki",
+   "title": "ज़रूरी है कि …",
+   "desc": "कि clauses after wish, request, possibility",
+   "skill": "ki",
+   "items": [
+    {
+     "id": "ki:0",
+     "t": "mc",
+     "q": "Fill the gap: “It's important that the children go to sleep early.”",
+     "hi": "ज़रूरी है कि बच्चे जल्दी ___ ।",
+     "say": "ज़रूरी है कि बच्चे जल्दी सोएँ ।",
+     "en": "{It's}[1] important[0] that[2] {the children}[3] {go to sleep}[5] early[4].",
+     "a": "सोएँ",
+     "wrong": [
+      [
+       "सोए",
+       "सोए is singular. बच्चे is plural: सोएँ."
+      ],
+      [
+       "सोते",
+       "सोते is the imperfective participle. After ज़रूरी है कि the verb is subjunctive."
+      ]
+     ],
+     "why": "After expressions of wish, request, possibility or necessity (ज़रूरी है कि, संभव है कि, निवेदन है कि, … से कहो कि) the कि clause takes the subjunctive."
+    },
+    {
+     "id": "ki:1",
+     "t": "mc",
+     "q": "Fill the gap: “It's possible that it may rain tonight.”",
+     "hi": "संभव है कि आज रात को पानी ___ ।",
+     "say": "संभव है कि आज रात को पानी पड़े ।",
+     "en": "{It's}[1] possible[0] that[2] {it may rain}[6+7] tonight[3+4+5].",
+     "a": "पड़े",
+     "wrong": [
+      [
+       "पड़ें",
+       "पड़ें is plural. In पानी पड़ना “to rain” the subject पानी is singular."
+      ],
+      [
+       "पड़ूँ",
+       "पड़ूँ goes only with मैं."
+      ]
+     ],
+     "why": "After expressions of wish, request, possibility or necessity (ज़रूरी है कि, संभव है कि, निवेदन है कि, … से कहो कि) the कि clause takes the subjunctive."
+    },
+    {
+     "id": "ki:2",
+     "t": "mc",
+     "q": "Fill the gap: “My request to you is that you do not smoke here.”",
+     "hi": "मेरा आप से निवेदन है कि आप यहाँ सिग्रेट न ___ ।",
+     "say": "मेरा आप से निवेदन है कि आप यहाँ सिग्रेट न पिएँ ।",
+     "en": "My[0] request[3] {to you}[1+2] is[4] that[5] you[6] {do not smoke}[8+9+10] here[7].",
+     "a": "पिएँ",
+     "wrong": [
+      [
+       "पिए",
+       "पिए is singular. आप takes the plural: पिएँ."
+      ],
+      [
+       "पियो",
+       "पियो is the तुम form. आप takes -ẽ."
+      ]
+     ],
+     "why": "निवेदन है कि “the request is that …” is a polite formula followed by the subjunctive."
+    },
+    {
+     "id": "ki:3",
+     "t": "mc",
+     "q": "Fill the gap: “It is impossible that Mohan would lie.”",
+     "hi": "यह असंभव है कि मोहन झूठ ___ ।",
+     "say": "यह असंभव है कि मोहन झूठ बोले ।",
+     "en": "It[0] is[2] impossible[1] that[3] Mohan[4] {would lie}[5+6].",
+     "a": "बोले",
+     "wrong": [
+      [
+       "बोलें",
+       "बोलें is plural. Mohan, spoken of plainly, takes the singular: बोले."
+      ],
+      [
+       "बोलो",
+       "बोलो goes with तुम."
+      ]
+     ],
+     "why": "संभव and असंभव है कि take the subjunctive: “it is (im)possible that he might …”."
+    },
+    {
+     "id": "ki:4",
+     "t": "mc",
+     "q": "Fill the gap: “I am quite sure that Raj will come tomorrow.”",
+     "hi": "मुझे पूरा यक़ीन है कि राज कल ___ ।",
+     "say": "मुझे पूरा यक़ीन है कि राज कल आएगा ।",
+     "en": "I[0] am[3] quite[1] sure[2] that[4] Raj[5] {will come}[7] tomorrow[6].",
+     "a": "आएगा",
+     "wrong": [
+      [
+       "आए",
+       "आए is the subjunctive, for something uncertain or wished for. यक़ीन “confidence” calls for the future: आएगा."
+      ],
+      [
+       "आएगी",
+       "आएगी is feminine. Raj is a man."
+      ]
+     ],
+     "why": "A confident expectation (यक़ीन, विश्वास) takes the future, not the subjunctive."
+    },
+    {
+     "id": "ki:5",
+     "t": "mc",
+     "q": "Fill the gap: “Please tell Mohan that he should phone me.”",
+     "hi": "मोहन से कहिए कि वह मुझे फ़ोन ___ ।",
+     "say": "मोहन से कहिए कि वह मुझे फ़ोन करे ।",
+     "en": "Please tell[2] Mohan[0+1] that[3] he[4] {should phone}[6+7] me[5].",
+     "a": "करे",
+     "wrong": [
+      [
+       "करो",
+       "करो goes with तुम. The subject of the कि clause is वह — करे."
+      ],
+      [
+       "करें",
+       "करें is plural. वह, spoken of plainly, takes the singular: करे."
+      ]
+     ],
+     "why": "Reported commands: X से कहो कि … + subjunctive “tell X to …”."
+    },
+    {
+     "id": "ki:6",
+     "t": "mc",
+     "q": "Fill the gap: “It isn't proper that you go out alone so late at night. (to a woman)”",
+     "hi": "उचित नहीं है कि तुम इतनी रात को अकेली बाहर ___ ।",
+     "say": "उचित नहीं है कि तुम इतनी रात को अकेली बाहर जाओ ।",
+     "en": "It {isn't}[1+2] proper[0] that[3] you[4] {go out}[9+10] alone[8] {so late at night}[5+6+7]. (to a woman)",
+     "a": "जाओ",
+     "wrong": [
+      [
+       "जाए",
+       "जाए goes with तू, यह and वह. तुम takes जाओ."
+      ],
+      [
+       "जाऊँ",
+       "जाऊँ goes only with मैं."
+      ]
+     ],
+     "why": "उचित है कि “it is proper that” takes the subjunctive. The तुम subjunctive looks like the command form: जाओ."
+    }
+   ]
+  },
+  {
+   "id": "aux",
+   "title": "आ रहा हो",
+   "desc": "“May be …ing”: the subjunctive auxiliary",
+   "skill": "aux",
+   "items": [
+    {
+     "id": "ax:0",
+     "t": "mc",
+     "q": "Fill the gap: “Don't phone Mohan now; he may be having his meal.”",
+     "hi": "मोहन को अभी फ़ोन मत करो, शायद वह खाना खा रहा ___ ।",
+     "say": "मोहन को अभी फ़ोन मत करो, शायद वह खाना खा रहा हो ।",
+     "en": "{Don't}[4] phone[3+5] Mohan[0+1] now[2]; he[7] {may be}[6+11] {having his meal}[8+9+10].",
+     "a": "हो",
+     "wrong": [
+      [
+       "हों",
+       "हों is plural. वह, spoken of plainly, takes हो."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "The subjunctive हो, हों as an auxiliary gives “may be …ing”, “may …”: खा रहा हो, जानती हो. The future होगा is surer: “must be”."
+    },
+    {
+     "id": "ax:1",
+     "t": "mc",
+     "q": "Fill the gap: “Perhaps that American girl knows Hindi too.”",
+     "hi": "शायद वह अमरीकन लड़की भी हिन्दी ___ हो ।",
+     "say": "शायद वह अमरीकन लड़की भी हिन्दी जानती हो ।",
+     "en": "Perhaps[0] that[1] American[2] girl[3] knows[6+7] Hindi[5] too[4].",
+     "a": "जानती",
+     "wrong": [
+      [
+       "जानता",
+       "जानता is masculine. लड़की is feminine."
+      ],
+      [
+       "जानते",
+       "जानते is masculine plural. लड़की is feminine singular."
+      ]
+     ],
+     "why": "The imperfective participle + हो — “may know, may be in the habit of”."
+    },
+    {
+     "id": "ax:2",
+     "t": "mc",
+     "q": "Make it less certain (“may be …ing”)",
+     "a": "राज दफ़्तर में काम कर रहा हो ।",
+     "wrong": [
+      [
+       "राज दफ़्तर में काम कर रहा है ।",
+       "है states a fact: “Raj is working”. “May be working” needs the subjunctive हो."
+      ],
+      [
+       "राज दफ़्तर में काम कर रहे हो ।",
+       "रहे is plural. Raj, spoken of plainly, takes रहा."
+      ]
+     ],
+     "why": "होगा “must be” becomes हो “may be”; रहा stays.",
+     "hi": "राज दफ़्तर में काम कर रहा होगा ।",
+     "audio": true,
+     "say": "राज दफ़्तर में काम कर रहा हो ।",
+     "en": "Raj[0] {may be working}[3+4+5+6] in[2] the office[1]."
+    },
+    {
+     "id": "ax:3",
+     "t": "mc",
+     "q": "Fill the gap: “If Father is resting, we will come later.”",
+     "hi": "अगर पिता जी आराम कर रहे ___ तो हम बाद में आएँगे ।",
+     "say": "अगर पिता जी आराम कर रहे हों तो हम बाद में आएँगे ।",
+     "en": "If[0] Father[1] {is resting}[3+4+5+6], we[8] {will come}[11] later[9+10].",
+     "a": "हों",
+     "wrong": [
+      [
+       "हो",
+       "हो is singular. पिता जी takes the plural of respect: हों."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "The continuous may stand in an अगर clause, with the subjunctive auxiliary."
+    },
+    {
+     "id": "ax:4",
+     "t": "mc",
+     "q": "Which means “Perhaps the guests are coming now”?",
+     "a": "शायद मेहमान अभी आ रहे हों ।",
+     "wrong": [
+      [
+       "शायद मेहमान अभी आ रहे थे ।",
+       "थे is past: “perhaps the guests were coming”."
+      ],
+      [
+       "शायद मेहमान अभी आ रही हों ।",
+       "रही is feminine. मेहमान is masculine: आ रहे हों."
+      ]
+     ],
+     "why": "The subjunctive हो, हों as an auxiliary gives “may be …ing”, “may …”: खा रहा हो, जानती हो. The future होगा is surer: “must be”."
+    }
+   ]
+  },
+  {
+   "id": "chah",
+   "title": "चाहना",
+   "desc": "“Want to …” and “want someone to …”",
+   "skill": "chah",
+   "items": [
+    {
+     "id": "ch:0",
+     "t": "mc",
+     "q": "Fill the gap: “Suhas wants to go to London next year.”",
+     "hi": "सुहास अगले साल लंदन ___ चाहता है ।",
+     "say": "सुहास अगले साल लंदन जाना चाहता है ।",
+     "en": "Suhas[0] wants[5+6] {to go}[4] to London[3] {next year}[1+2].",
+     "a": "जाना",
+     "wrong": [
+      [
+       "जाने",
+       "चाहना takes the direct infinitive: जाना चाहता है."
+      ],
+      [
+       "जाए",
+       "The subjunctive needs कि and a different person: चाहता है कि वह जाए. Here Suhas himself will go."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ)."
+    },
+    {
+     "id": "ch:1",
+     "t": "mc",
+     "q": "Fill the gap: “I want to ask you something. (a woman speaking)”",
+     "hi": "मैं आप से कुछ पूछना ___ हूँ ।",
+     "say": "मैं आप से कुछ पूछना चाहती हूँ ।",
+     "en": "I[0] want[5+6] {to ask}[4] you[1+2] something[3]. (a woman speaking)",
+     "a": "चाहती",
+     "wrong": [
+      [
+       "चाहता",
+       "चाहता is masculine. The speaker is a woman."
+      ],
+      [
+       "चाहिए",
+       "चाहिए is a separate construction with को (मुझे … चाहिए). With मैं as subject the verb is चाहना."
+      ]
+     ],
+     "why": "चाहना is a regular verb: चाहता, चाहती, चाहते + है."
+    },
+    {
+     "id": "ch:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita wants me to read her letter.”",
+     "hi": "सीता चाहती है कि मैं उसकी चिट्ठी ___ ।",
+     "say": "सीता चाहती है कि मैं उसकी चिट्ठी पढ़ूँ ।",
+     "en": "Sita[0] wants[1+2] me[4] {to read}[7] her[5] letter[6].",
+     "a": "पढ़ूँ",
+     "wrong": [
+      [
+       "पढ़ना",
+       "Sita wants someone else to read, so the infinitive will not do. Use कि + subjunctive: कि मैं पढ़ूँ."
+      ],
+      [
+       "पढ़े",
+       "पढ़े goes with तू, यह and वह. मैं takes पढ़ूँ."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ)."
+    },
+    {
+     "id": "ch:3",
+     "t": "mc",
+     "q": "Fill the gap: “We want you to have a meal with us.”",
+     "hi": "हम चाहते हैं कि आप हमारे साथ खाना ___ ।",
+     "say": "हम चाहते हैं कि आप हमारे साथ खाना खाएँ ।",
+     "en": "We[0] want[1+2] you[4] {to have}[8] a meal[7] with[6] us[5].",
+     "a": "खाएँ",
+     "wrong": [
+      [
+       "खाइए",
+       "खाइए is a command. After चाहना कि the verb is subjunctive: खाएँ."
+      ],
+      [
+       "खाए",
+       "खाए is singular. आप takes the plural: खाएँ."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ)."
+    },
+    {
+     "id": "ch:4",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan wanted us to come to his house.”",
+     "hi": "मोहन चाहता था कि हम उसके घर ___ ।",
+     "say": "मोहन चाहता था कि हम उसके घर आएँ ।",
+     "en": "Mohan[0] wanted[1+2] us[4] {to come}[7] to his[5] house[6].",
+     "a": "आएँ",
+     "wrong": [
+      [
+       "आएँगे",
+       "आएँगे is the future. After चाहना कि the verb is subjunctive: आएँ."
+      ],
+      [
+       "आओ",
+       "आओ goes with तुम. हम takes आएँ."
+      ]
+     ],
+     "why": "The subjunctive stays the same after a past चाहता था."
+    },
+    {
+     "id": "ch:5",
+     "t": "mc",
+     "q": "Which means “I want to go home”? (a man speaking)",
+     "a": "मैं घर जाना चाहता हूँ ।",
+     "wrong": [
+      [
+       "मुझे घर जाना चाहता है ।",
+       "चाहना takes a direct subject, मैं. मुझे … goes with चाहिए, a separate construction."
+      ],
+      [
+       "मैं घर जाने चाहता हूँ ।",
+       "चाहना takes the direct infinitive, जाना, not the oblique."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ)."
+    },
+    {
+     "id": "ch:6",
+     "t": "mc",
+     "q": "Change it to “Mother wants you to …”",
+     "a": "माँ चाहती हैं कि आप कल फिर आएँ ।",
+     "wrong": [
+      [
+       "माँ चाहती हैं कि आप कल फिर आइए ।",
+       "आइए is a command and cannot follow चाहना कि. Use the subjunctive: आएँ."
+      ],
+      [
+       "माँ चाहती हैं कि आप कल फिर आएँगे ।",
+       "आएँगे is the future. After चाहना कि the verb is subjunctive: आएँ."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ).",
+     "hi": "आप कल फिर आइए ।",
+     "audio": true,
+     "say": "माँ चाहती हैं कि आप कल फिर आएँ ।",
+     "en": "Mother[0] wants[1+2] you[4] {to come}[7] again[6] tomorrow[5]."
+    },
+    {
+     "id": "ch:7",
+     "t": "mc",
+     "q": "Fill the gap: “Raj wants his sisters to help him.”",
+     "hi": "राज चाहता है कि उसकी बहिनें उसकी मदद ___ ।",
+     "say": "राज चाहता है कि उसकी बहिनें उसकी मदद करें ।",
+     "en": "Raj[0] wants[1+2] his[4] sisters[5] {to help}[7+8] him[6].",
+     "a": "करें",
+     "wrong": [
+      [
+       "करे",
+       "करे is singular. बहिनें is plural: करें."
+      ],
+      [
+       "करना",
+       "Raj wants others to act, so use कि + subjunctive, not the infinitive."
+      ]
+     ],
+     "why": "मदद करना “to help”: X की मदद करना “to help X”."
+    }
+   ]
+  },
+  {
+   "id": "cond",
+   "title": "अगर … तो",
+   "desc": "“If … then”",
+   "skill": "cond",
+   "items": [
+    {
+     "id": "co:0",
+     "t": "mc",
+     "q": "Fill the gap: “If you have time, then help me.”",
+     "hi": "अगर तुम्हारे पास वक़्त हो ___ मेरी मदद करो ।",
+     "say": "अगर तुम्हारे पास वक़्त हो तो मेरी मदद करो ।",
+     "en": "If[0] you[1+2] have[4] time[3], {then}[5] help[7+8] me[6].",
+     "a": "तो",
+     "wrong": [
+      [
+       "कि",
+       "कि introduces a “that” clause. The “then” clause of a condition starts with तो."
+      ],
+      [
+       "और",
+       "और is “and”. A condition needs तो."
+      ]
+     ],
+     "why": "अगर (or यदि) … तो — the अगर clause may be imperfective, future or subjunctive; the तो clause is usually future or a command. अगर can be dropped, तो cannot."
+    },
+    {
+     "id": "co:1",
+     "t": "mc",
+     "q": "Fill the gap: “If you come in the evening, then we will eat together.”",
+     "hi": "अगर आप लोग शाम को ___ तो हम साथ खाना खाएँगे ।",
+     "say": "अगर आप लोग शाम को आएँ तो हम साथ खाना खाएँगे ।",
+     "en": "If[0] you[1+2] come[5] {in the evening}[3+4], {then}[6] we[7] {will eat}[9+10] together[8].",
+     "a": "आएँ",
+     "wrong": [
+      [
+       "आओ",
+       "आओ goes with तुम. आप लोग takes -ẽ: आएँ."
+      ],
+      [
+       "आऊँ",
+       "आऊँ goes only with मैं."
+      ]
+     ],
+     "why": "अगर (or यदि) … तो — the अगर clause may be imperfective, future or subjunctive; the तो clause is usually future or a command. अगर can be dropped, तो cannot."
+    },
+    {
+     "id": "co:2",
+     "t": "mc",
+     "q": "Fill the gap: “If the shop is shut, then I will come back tomorrow. (a man speaking)”",
+     "hi": "अगर दुकान बंद हो तो मैं कल वापस ___ ।",
+     "say": "अगर दुकान बंद हो तो मैं कल वापस आऊँगा ।",
+     "en": "If[0] the shop[1] {is shut}[2+3], {then}[4] I[5] {will come back}[7+8] tomorrow[6]. (a man speaking)",
+     "a": "आऊँगा",
+     "wrong": [
+      [
+       "आऊँगी",
+       "आऊँगी is feminine. The speaker is a man."
+      ],
+      [
+       "आएगा",
+       "आएगा goes with तू, यह and वह. मैं takes आऊँगा."
+      ]
+     ],
+     "why": "The तो clause usually has the future: “I will come back”."
+    },
+    {
+     "id": "co:3",
+     "t": "mc",
+     "q": "Fill the gap: “If you have any trouble, please tell me.”",
+     "hi": "___ आप को कोई तकलीफ़ हो तो मुझे बताइए ।",
+     "say": "अगर आप को कोई तकलीफ़ हो तो मुझे बताइए ।",
+     "en": "If[0] you[1+2] have[5] any[3] trouble[4], {please tell}[8] me[7].",
+     "a": "अगर",
+     "wrong": [
+      [
+       "कि",
+       "कि introduces a “that” clause. “If” is अगर."
+      ],
+      [
+       "तो",
+       "तो begins the second clause, “then”. The first clause begins with अगर."
+      ]
+     ],
+     "why": "अगर (or यदि) … तो — the अगर clause may be imperfective, future or subjunctive; the तो clause is usually future or a command. अगर can be dropped, तो cannot."
+    },
+    {
+     "id": "co:4",
+     "t": "mc",
+     "q": "Fill the gap: “If you are going to the market, then bring some fruit for me.”",
+     "hi": "अगर तुम बाज़ार जा रहे हो तो मेरे लिए फल ___ ।",
+     "say": "अगर तुम बाज़ार जा रहे हो तो मेरे लिए फल लाओ ।",
+     "en": "If[0] you[1] {are going}[3+4+5] to the market[2], {then}[6] bring[10] some fruit[9] for[8] me[7].",
+     "a": "लाओ",
+     "wrong": [
+      [
+       "लाऊँ",
+       "लाऊँ goes only with मैं."
+      ],
+      [
+       "लाता",
+       "लाता is the imperfective participle. The तो clause here is a command: लाओ."
+      ]
+     ],
+     "why": "The तो clause can be a command, and the अगर clause can be continuous."
+    },
+    {
+     "id": "co:5",
+     "t": "mc",
+     "q": "Fill the gap: “If you don't get a bus, then come by auto.”",
+     "hi": "अगर तुम्हें बस न ___ तो आटो से आओ ।",
+     "say": "अगर तुम्हें बस न मिले तो आटो से आओ ।",
+     "en": "If[0] you[1] {don't get}[3+4] a bus[2], {then}[5] come[8] by[7] auto[6].",
+     "a": "मिले",
+     "wrong": [
+      [
+       "मिलो",
+       "The subject of मिलना here is बस, the thing that is found, not तुम — मिले."
+      ],
+      [
+       "मिलें",
+       "मिलें is plural. बस is singular."
+      ]
+     ],
+     "why": "With मिलना “to be found, got”, the thing got is the subject and the person takes को."
+    },
+    {
+     "id": "co:6",
+     "t": "mc",
+     "q": "Which conditional is grammatical?",
+     "a": "पिंकी घर पर हो तो उसे यह किताब दो ।",
+     "wrong": [
+      [
+       "अगर पिंकी घर पर हो उसे यह किताब दो ।",
+       "तो cannot be dropped. Only अगर is optional."
+      ],
+      [
+       "अगर पिंकी घर पर हो कि उसे यह किताब दो ।",
+       "The second clause begins with तो, not कि."
+      ]
+     ],
+     "why": "अगर (or यदि) … तो — the अगर clause may be imperfective, future or subjunctive; the तो clause is usually future or a command. अगर can be dropped, तो cannot.",
+     "say": "पिंकी घर पर हो तो उसे यह किताब दो ।",
+     "en": "{If Pinki is}[0+3] {at home}[1+2], {then}[4] give[8] her[5] this[6] book[7]."
+    },
+    {
+     "id": "co:7",
+     "t": "mc",
+     "q": "Fill the gap: “Hurry, otherwise we will be late.”",
+     "hi": "जल्दी चलो, ___ तो हमें देर होगी ।",
+     "say": "जल्दी चलो, नहीं तो हमें देर होगी ।",
+     "en": "Hurry[0+1], otherwise[2+3] we[4] {will be late}[5+6].",
+     "a": "नहीं",
+     "wrong": [
+      [
+       "अगर",
+       "अगर तो is not a phrase. “Otherwise” is नहीं तो."
+      ],
+      [
+       "भी",
+       "भी तो is not “otherwise”. “Otherwise” is नहीं तो."
+      ]
+     ],
+     "why": "नहीं तो “otherwise, if not”."
+    }
+   ]
+  },
+  {
+   "id": "vala",
+   "title": "दूधवाला",
+   "desc": "The suffix -वाला: “-er”, “about to”",
+   "skill": "vala",
+   "items": [
+    {
+     "id": "va:0",
+     "t": "mc",
+     "q": "Fill the gap: “Our milkman comes every morning at six.”",
+     "hi": "हमारा ___ हर सुबह छह बजे आता है ।",
+     "say": "हमारा दूधवाला हर सुबह छह बजे आता है ।",
+     "en": "Our[0] milkman[1] comes[6+7] {every morning}[2+3] {at six}[4+5].",
+     "a": "दूधवाला",
+     "wrong": [
+      [
+       "दूधवाली",
+       "दूधवाली is feminine, a milkwoman. आता is masculine."
+      ],
+      [
+       "दूधवाले",
+       "दूधवाले is plural or oblique. हमारा and आता are masculine singular."
+      ]
+     ],
+     "why": "वाला, वाली, वाले agree like an -ā adjective. It relates a person or thing to the noun, adverb or oblique infinitive before it."
+    },
+    {
+     "id": "va:1",
+     "t": "mc",
+     "q": "Fill the gap: “Ask the rickshaw driver how far the station is. (the driver is a man)”",
+     "hi": "___ से पूछो कि स्टेशन कितनी दूर है ।",
+     "say": "रिक्शेवाले से पूछो कि स्टेशन कितनी दूर है ।",
+     "en": "Ask[2] the rickshaw driver[0+1] how[5] far[6] the station[4] is[7]. (the driver is a man)",
+     "a": "रिक्शेवाले",
+     "wrong": [
+      [
+       "रिक्शेवाला",
+       "Before से the word is oblique: रिक्शेवाले से."
+      ],
+      [
+       "रिक्शेवाली",
+       "रिक्शेवाली is feminine. The driver here is a man."
+      ]
+     ],
+     "why": "The noun before वाला may itself be oblique: रिक्शा → रिक्शेवाला. Before a postposition, वाला becomes वाले."
+    },
+    {
+     "id": "va:2",
+     "t": "mc",
+     "q": "Fill the gap: “Who lives in the downstairs room?”",
+     "hi": "___ कमरे में कौन रहता है ?",
+     "say": "नीचेवाले कमरे में कौन रहता है ?",
+     "en": "Who[3] lives[4+5] in[2] the downstairs[0] room[1]?",
+     "a": "नीचेवाले",
+     "wrong": [
+      [
+       "नीचेवाला",
+       "Before में the phrase is oblique: नीचेवाले कमरे में."
+      ],
+      [
+       "नीचेवाली",
+       "नीचेवाली is feminine. कमरा is masculine."
+      ]
+     ],
+     "why": "After an adverb, वाला makes an adjective: नीचेवाला कमरा “the downstairs room”."
+    },
+    {
+     "id": "va:3",
+     "t": "mc",
+     "q": "Fill the gap: “There are many Hindi speakers in London too.”",
+     "hi": "लंदन में भी बहुत-से हिन्दी ___ हैं ।",
+     "say": "लंदन में भी बहुत-से हिन्दी बोलनेवाले हैं ।",
+     "en": "{There are}[6] many[3] Hindi[4] speakers[5] in[1] London[0] too[2].",
+     "a": "बोलनेवाले",
+     "wrong": [
+      [
+       "बोलनावाले",
+       "Not a word: before वाला the infinitive is oblique, बोलने."
+      ],
+      [
+       "बोलनेवाला",
+       "बोलनेवाला is singular. बहुत-से and हैं need the plural: बोलनेवाले."
+      ]
+     ],
+     "why": "Oblique infinitive + वाला names the doer: हिन्दी बोलनेवाला “Hindi speaker”."
+    },
+    {
+     "id": "va:4",
+     "t": "mc",
+     "q": "Fill the gap: “Hurry, the train is about to leave.”",
+     "hi": "जल्दी करो, रेलगाड़ी ___ है ।",
+     "say": "जल्दी करो, रेलगाड़ी चलनेवाली है ।",
+     "en": "Hurry[0+1], the train[2] {is about to leave}[3+4].",
+     "a": "चलनेवाली",
+     "wrong": [
+      [
+       "चलनेवाला",
+       "चलनेवाला is masculine. रेलगाड़ी is feminine."
+      ],
+      [
+       "चलनावाली",
+       "Not a word: before वाला the infinitive is oblique, चलने."
+      ]
+     ],
+     "why": "Oblique infinitive + वाला + है — “is about to …”."
+    },
+    {
+     "id": "va:5",
+     "t": "mc",
+     "q": "Fill the gap: “The children were about to eat.”",
+     "hi": "बच्चे खाना ___ थे ।",
+     "say": "बच्चे खाना खानेवाले थे ।",
+     "en": "{The children}[0] {were about to eat}[1+2+3].",
+     "a": "खानेवाले",
+     "wrong": [
+      [
+       "खानेवाली",
+       "खानेवाली is feminine. बच्चे is masculine plural."
+      ],
+      [
+       "खानेवाला",
+       "खानेवाला is singular. बच्चे is plural: खानेवाले थे."
+      ]
+     ],
+     "why": "With था, थी, थे — “was about to …”."
+    },
+    {
+     "id": "va:6",
+     "t": "mc",
+     "q": "Fill the gap: “In the coming month we will go to Mussoorie.”",
+     "hi": "___ महीने में हम मसूरी जाएँगे ।",
+     "say": "आनेवाले महीने में हम मसूरी जाएँगे ।",
+     "en": "{In}[2] the coming[0] month[1] we[3] {will go}[5] to Mussoorie[4].",
+     "a": "आनेवाले",
+     "wrong": [
+      [
+       "आनेवाला",
+       "Before में the phrase is oblique: आनेवाले महीने में."
+      ],
+      [
+       "आनावाले",
+       "Not a word: before वाला the infinitive is oblique, आने."
+      ]
+     ],
+     "why": "आनेवाला “coming, next” is an adjective made with वाला."
+    },
+    {
+     "id": "va:7",
+     "t": "mc",
+     "q": "Fill the gap: “Sita is from Banaras.”",
+     "hi": "सीता बनारस की ___ है ।",
+     "say": "सीता बनारस की रहनेवाली है ।",
+     "en": "Sita[0] is[4] from[2+3] Banaras[1].",
+     "a": "रहनेवाली",
+     "wrong": [
+      [
+       "रहनेवाला",
+       "रहनेवाला is masculine. Sita is a woman."
+      ],
+      [
+       "रहनावाली",
+       "Not a word: before वाला the infinitive is oblique, रहने."
+      ]
+     ],
+     "why": "X का रहनेवाला “a resident of X, from X”; का agrees with रहनेवाला."
+    },
+    {
+     "id": "va:8",
+     "t": "mc",
+     "q": "Fill the gap: “Who is the girl who sings?”",
+     "hi": "गाना ___ लड़की कौन है ?",
+     "say": "गाना गानेवाली लड़की कौन है ?",
+     "en": "Who[3] is[4] the girl[2] {who sings}[0+1]?",
+     "a": "गानेवाली",
+     "wrong": [
+      [
+       "गानेवाला",
+       "गानेवाला is masculine. लड़की is feminine."
+      ],
+      [
+       "गानेवाले",
+       "गानेवाले is plural or oblique. लड़की is singular and direct here: गानेवाली."
+      ]
+     ],
+     "why": "वाला, वाली, वाले agree like an -ā adjective. It relates a person or thing to the noun, adverb or oblique infinitive before it."
+    },
+    {
+     "id": "va:10",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki was just about to start her (own) work.”",
+     "hi": "पिंकी अभी अपना काम शुरू ___ थी ।",
+     "say": "पिंकी अभी अपना काम शुरू करनेवाली थी ।",
+     "en": "Pinki[0] {was just about to start}[1+4+5+6] {her (own)}[2] work[3].",
+     "a": "करनेवाली",
+     "wrong": [
+      [
+       "करनावाला",
+       "Not a word: before वाला the infinitive is oblique, करने. And Pinki is a woman: करनेवाली."
+      ],
+      [
+       "करनेवाला",
+       "करनेवाला is masculine. Pinki is a woman."
+      ]
+     ],
+     "why": "With था, थी, थे — “was about to …”. Before वाला the infinitive is oblique, in -ne: बोलनेवाला, आनेवाला."
+    },
+    {
+     "id": "va:11",
+     "t": "mc",
+     "q": "Fill the gap: “My work is about to finish.”",
+     "hi": "मेरा काम ख़त्म ___ है ।",
+     "say": "मेरा काम ख़त्म होनेवाला है ।",
+     "en": "My[0] work[1] {is about to finish}[2+3+4].",
+     "a": "होनेवाला",
+     "wrong": [
+      [
+       "होनावाली",
+       "Not a word: before वाला the infinitive is oblique, होने."
+      ],
+      [
+       "होनेवाली",
+       "होनेवाली is feminine. काम is masculine."
+      ]
+     ],
+     "why": "Oblique infinitive + वाला + है — “is about to …”."
+    },
+    {
+     "id": "va:9",
+     "t": "mc",
+     "q": "Which means “the woman from Delhi”?",
+     "a": "दिल्लीवाली",
+     "wrong": [
+      [
+       "दिल्लीवाला",
+       "दिल्लीवाला is masculine, “the man from Delhi”."
+      ],
+      [
+       "दिल्लीवाले",
+       "दिल्लीवाले is plural or oblique: “people from Delhi”."
+      ]
+     ],
+     "why": "वाला, वाली, वाले agree like an -ā adjective. It relates a person or thing to the noun, adverb or oblique infinitive before it."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Shall I[0] bring[2] water[1]?",
+     "ans": [
+      "मैं",
+      "पानी",
+      "लाऊँ"
+     ],
+     "wrong": [
+      [
+       "लाए",
+       "लाए goes with तू, यह and वह. मैं takes लाऊँ."
+      ],
+      [
+       "लाओ",
+       "लाओ goes with तुम. मैं takes लाऊँ."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "We[0] want[3+4] {to go}[2] to Agra[1].",
+     "ans": [
+      "हम",
+      "आगरा",
+      "जाना",
+      "चाहते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "जाने",
+       "चाहना takes the direct infinitive: जाना."
+      ],
+      [
+       "चाहिए",
+       "चाहिए is a separate construction with को. With हम as subject the verb is चाहना."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Pinki[0] wants[1+2] me[4] {to write}[7] her[5] a letter[6].",
+     "ans": [
+      "पिंकी",
+      "चाहती",
+      "है",
+      "कि",
+      "मैं",
+      "उसे",
+      "चिट्ठी",
+      "लिखूँ"
+     ],
+     "wrong": [
+      [
+       "लिखना",
+       "Pinki wants someone else to write: use कि + subjunctive, लिखूँ."
+      ],
+      [
+       "लिखे",
+       "लिखे goes with तू, यह and वह. मैं takes लिखूँ."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "If[0] Raj[1] comes[2], {then}[3] tell[5] me[4]. (to तुम)",
+     "ans": [
+      "अगर",
+      "राज",
+      "आए",
+      "तो",
+      "मुझे",
+      "बताओ"
+     ],
+     "wrong": [
+      [
+       "कि",
+       "The second clause of a condition begins with तो, not कि."
+      ],
+      [
+       "आएँ",
+       "आएँ is plural. Raj, spoken of plainly, takes आए."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "अगर",
+       "आए",
+       "तो",
+       "मुझे",
+       "बताओ"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "You[0] {should phone}[2+3] tomorrow[1]. (to आप)",
+     "ans": [
+      "आप",
+      "कल",
+      "फ़ोन",
+      "करें"
+     ],
+     "wrong": [
+      [
+       "करे",
+       "करे is singular. आप takes करें."
+      ],
+      [
+       "करो",
+       "करो goes with तुम. आप takes करें."
+      ]
+     ],
+     "alt": [
+      [
+       "कल",
+       "आप",
+       "फ़ोन",
+       "करें"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "{It's}[1] possible[0] that[2] Mohan[3] {won't come}[5+6] today[4].",
+     "ans": [
+      "संभव",
+      "है",
+      "कि",
+      "मोहन",
+      "आज",
+      "न",
+      "आए"
+     ],
+     "wrong": [
+      [
+       "नहीं",
+       "The subjunctive is made negative with न."
+      ],
+      [
+       "आएँ",
+       "आएँ is plural. Mohan, spoken of plainly, takes आए."
+      ]
+     ],
+     "alt": [
+      [
+       "संभव",
+       "है",
+       "कि",
+       "आज",
+       "मोहन",
+       "न",
+       "आए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{The upstairs}[0] neighbour[1] is[4] very[2] lazy[3]. (a man)",
+     "ans": [
+      "ऊपरवाला",
+      "पड़ोसी",
+      "बहुत",
+      "कामचोर",
+      "है"
+     ],
+     "wrong": [
+      [
+       "ऊपरवाली",
+       "ऊपरवाली is feminine. पड़ोसी is masculine."
+      ],
+      [
+       "ऊपरवाले",
+       "ऊपरवाले is plural or oblique. With है the neighbour is one man: ऊपरवाला."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Our[0] guests[1] {are about to arrive}[2+3].",
+     "ans": [
+      "हमारे",
+      "मेहमान",
+      "आनेवाले",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "आनेवाला",
+       "आनेवाला is singular. The guests are plural: आनेवाले हैं."
+      ],
+      [
+       "आनावाले",
+       "Not a word: before वाला the infinitive is oblique, आने."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Do you[1] know[6+7] the man[4+5] {who lives}[3] upstairs[2]?",
+     "ans": [
+      "क्या",
+      "आप",
+      "ऊपर",
+      "रहनेवाले",
+      "आदमी",
+      "को",
+      "जानते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "रहनेवाला",
+       "Before को the phrase is oblique: रहनेवाले आदमी को."
+      ],
+      [
+       "रहता",
+       "रहता is the imperfective participle. “Who lives” before a noun is रहनेवाला."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "If[0] you[1] wish[2], {then}[3] I[4] {will come}[7] with[6] you[5]. (a man speaking)",
+     "ans": [
+      "अगर",
+      "आप",
+      "चाहें",
+      "तो",
+      "मैं",
+      "आपके",
+      "साथ",
+      "चलूँगा"
+     ],
+     "wrong": [
+      [
+       "चाहे",
+       "चाहे is singular. आप takes चाहें."
+      ],
+      [
+       "चाहिए",
+       "चाहिए is “ought, need”, a separate construction. “If you wish” is अगर आप चाहें."
+      ]
+     ],
+     "alt": [
+      [
+       "आप",
+       "अगर",
+       "चाहें",
+       "तो",
+       "मैं",
+       "आपके",
+       "साथ",
+       "चलूँगा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "{It's}[0+2] essential[1] that[3] we[4] reach[8] the station[7] {on time}[5+6].",
+     "ans": [
+      "यह",
+      "ज़रूरी",
+      "है",
+      "कि",
+      "हम",
+      "समय",
+      "पर",
+      "स्टेशन",
+      "पहुँचें"
+     ],
+     "wrong": [
+      [
+       "पहुँचेंगे",
+       "पहुँचेंगे is the future. After ज़रूरी है कि the verb is subjunctive: पहुँचें."
+      ],
+      [
+       "पहुँचना",
+       "After ज़रूरी है कि the verb is a full subjunctive, पहुँचें, not the infinitive."
+      ]
+     ],
+     "alt": [
+      [
+       "यह",
+       "ज़रूरी",
+       "है",
+       "कि",
+       "हम",
+       "स्टेशन",
+       "समय",
+       "पर",
+       "पहुँचें"
+      ]
+     ]
+    },
+    {
+     "id": "tl:12",
+     "t": "tiles",
+     "en": "You[0] {should take}[3] this[1] book[2]. (to आप)",
+     "ans": [
+      "आप",
+      "यह",
+      "किताब",
+      "लें"
+     ],
+     "wrong": [
+      [
+       "लेएँ",
+       "Not a word: लेना is irregular. लेंगे → लें."
+      ],
+      [
+       "ले",
+       "ले is singular. आप takes लें."
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Should we[0] go[3] by[2] rickshaw[1] or[4] by[6] auto[5]?",
+     "ans": [
+      "हम",
+      "रिक्शे",
+      "से",
+      "जाएँ",
+      "कि",
+      "आटो",
+      "से"
+     ],
+     "wrong": [
+      [
+       "जाऊँ",
+       "जाऊँ goes only with मैं. हम takes जाएँ."
+      ],
+      [
+       "रिक्शा",
+       "Before से the noun is oblique: रिक्शे से."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शायद प्रकाश को यह बात मालूम हो ।",
+     "audio": true,
+     "a": "Prakash may know about this.",
+     "wrong": [
+      [
+       "Prakash must know about this.",
+       "“Must” would be the future: मालूम होगा. हो is “may”."
+      ],
+      [
+       "Prakash doesn't know about this.",
+       "Nothing here is negative. शायद … हो is “may”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैं चाहता हूँ कि तुम मेरे भाई से मिलो ।",
+     "audio": true,
+     "a": "I want you to meet my brother.",
+     "wrong": [
+      [
+       "I want to meet your brother.",
+       "That would be मैं तुम्हारे भाई से मिलना चाहता हूँ. Here तुम is the one who will meet."
+      ],
+      [
+       "You want me to meet your brother.",
+       "मैं is the one who wants; तुम मिलो is the wish."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मोहन अपनी छोटी बहिन को बहुत चाहता है ।",
+     "audio": true,
+     "a": "Mohan is very fond of his little sister.",
+     "wrong": [
+      [
+       "Mohan needs his little sister.",
+       "“Need” would be चाहिए. चाहना with a person as object means “to be fond of”."
+      ],
+      [
+       "His little sister is very fond of Mohan.",
+       "Mohan is the subject (चाहता है). को marks the one he is fond of."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अगर मोहन वापस आए तो उसे मेरा पता दीजिए ।",
+     "audio": true,
+     "a": "If Mohan comes back, please give him my address.",
+     "wrong": [
+      [
+       "If Mohan comes back, please ask him for my address.",
+       "“Ask” would be पूछना. दीजिए is “please give”."
+      ],
+      [
+       "Mohan has come back and given me his address.",
+       "अगर … तो is “if … then”, and दीजिए is a request."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "गाड़ी चलानेवाला आदमी मेरा भाई है ।",
+     "audio": true,
+     "a": "The man driving the car is my brother.",
+     "wrong": [
+      [
+       "My brother is about to drive the car.",
+       "“About to” would be चलानेवाला है with भाई as subject. Here चलानेवाला describes आदमी."
+      ],
+      [
+       "My brother drives the car every day.",
+       "Nothing here says “every day”. गाड़ी चलानेवाला आदमी is “the man driving the car”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "प्रताप दिल्ली जानेवाला था ।",
+     "audio": true,
+     "a": "Pratap was about to go to Delhi.",
+     "wrong": [
+      [
+       "Pratap used to go to Delhi.",
+       "That would be जाता था. जानेवाला था is “was about to go”."
+      ],
+      [
+       "Pratap was on his way to Delhi.",
+       "That would be जा रहा था, the continuous. जानेवाला था is “was about to go”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मुझे पता नहीं था कि उसका घर इतनी दूर है ।",
+     "audio": true,
+     "a": "I didn't know that his house was so far away.",
+     "wrong": [
+      [
+       "I knew that his house was far away.",
+       "पता नहीं था is “didn't know”."
+      ],
+      [
+       "His house isn't far away, as far as I know.",
+       "नहीं goes with पता था — “I didn't know”. दूर “far” is not negated."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Subjunctive, conditionals, वाला",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "How is the subjunctive formed?",
+     "a": "Take the future and drop -gā, -gī or -ge",
+     "wrong": [
+      [
+       "Add -e to the infinitive",
+       "The infinitive is not the base. Start from the future: बोलेगा → बोले."
+      ],
+      [
+       "Add हो to the imperfective participle",
+       "बोलता हो is the subjunctive auxiliary, “may speak (habitually)”. The plain subjunctive is one word, बोले."
+      ]
+     ],
+     "why": "The subjunctive is the future without -gā/-gī/-ge: मैं बोलूँ, तू, यह, वह बोले, तुम बोलो, हम, आप, ये, वे बोलें. Masculine and feminine forms are the same."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which subjunctive form looks the same as a command?",
+     "a": "The तुम form: बोलो, जाओ",
+     "wrong": [
+      [
+       "The आप form: बोलें is the same as बोलिए",
+       "बोलें and बोलिए are different forms, though both can be polite requests."
+      ],
+      [
+       "The मैं form: बोलूँ",
+       "There is no command for मैं. बोलूँ is “may I speak?”."
+      ]
+     ],
+     "why": "This is why the तुम subjunctive (तुम रहो) reads as a mild command."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "How is a subjunctive made negative?",
+     "a": "With न — वह न आए",
+     "wrong": [
+      [
+       "With मत",
+       "मत goes with commands. The subjunctive takes न."
+      ],
+      [
+       "With नहीं",
+       "नहीं is the usual negative of the other tenses. With the subjunctive the book uses न, although नहीं is also heard in speech."
+      ]
+     ],
+     "why": "The negative for subjunctives is न."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "In an “if” sentence, which word can be left out?",
+     "a": "अगर (तो must stay)",
+     "wrong": [
+      [
+       "तो (अगर must stay)",
+       "It is the other way round: तो is essential."
+      ],
+      [
+       "Neither अगर nor तो",
+       "अगर is often dropped: राज आए तो …"
+      ]
+     ],
+     "why": "अगर (or यदि) … तो — the अगर clause may be imperfective, future or subjunctive; the तो clause is usually future or a command. अगर can be dropped, तो cannot."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "In an अगर clause about the future, which verb form makes the condition seem least likely?",
+     "a": "The subjunctive: अगर वह आए",
+     "wrong": [
+      [
+       "The future: अगर वह आएगा",
+       "The future suggests the speaker thinks it likely."
+      ],
+      [
+       "The imperfective: अगर वह आता है",
+       "The imperfective is a neutral forecast."
+      ]
+     ],
+     "why": "Imperfective is neutral, future is likely, subjunctive is less likely (“should he come”)."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "When does चाहना take a plain infinitive?",
+     "a": "When the one who wants is the one who acts",
+     "wrong": [
+      [
+       "When the wish is polite",
+       "Politeness has nothing to do with it. The test is whether the subject changes."
+      ],
+      [
+       "When the wish is in the past",
+       "चाहता था कि … takes the subjunctive too, when the subject changes."
+      ]
+     ],
+     "why": "चाहना + direct infinitive when the one who wants is the one who acts (मैं जाना चाहता हूँ), with a different person, चाहना कि + subjunctive (मैं चाहता हूँ कि तुम जाओ)."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "Which word is a formal (Sanskrit) synonym of अगर?",
+     "a": "यदि",
+     "wrong": [
+      [
+       "मगर",
+       "मगर means “but”."
+      ],
+      [
+       "कि",
+       "कि means “that”, or “or” between choices."
+      ]
+     ],
+     "why": "यदि वह आए तो … = अगर वह आए तो …"
+    },
+    {
+     "id": "us:8",
+     "t": "mc",
+     "q": "Which form means “about to go”?",
+     "a": "जानेवाला",
+     "wrong": [
+      [
+       "जानावाला",
+       "Not a word: before वाला the infinitive is oblique, जाने."
+      ],
+      [
+       "जाता",
+       "जाता is the imperfective participle, “goes, going”."
+      ]
+     ],
+     "why": "Before वाला the infinitive is oblique, in -ne: बोलनेवाला, आनेवाला."
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "What can जानेवाला है mean?",
+     "a": "“is about to go”",
+     "wrong": [
+      [
+       "“used to go”",
+       "That would be जाता था."
+      ],
+      [
+       "“must be going”",
+       "That would be जा रहा होगा."
+      ]
+     ],
+     "why": "Oblique infinitive + वाला + होना — “about to …”. Before वाला the infinitive is oblique, in -ne: बोलनेवाला, आनेवाला."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "sub": 3,
+  "ki": 2,
+  "aux": 1,
+  "chah": 2,
+  "cond": 2,
+  "vala": 2,
+  "build": 3,
+  "meaning": 2,
+  "usage": 1
+ },
+ "distractors": {
+  "देऊँ": "deū̃",
+  "लेऊँ": "leū̃",
+  "देएँ": "deẽ",
+  "बोलनावाले": "bolnāvāle",
+  "चलनावाली": "calnāvālī",
+  "आनावाले": "ānāvāle",
+  "रहनावाली": "rahnāvālī",
+  "करनावाला": "karnāvālā",
+  "होनावाली": "honāvālī",
+  "लेएँ": "leẽ",
+  "जानावाला": "jānāvālā"
+ }
+}
