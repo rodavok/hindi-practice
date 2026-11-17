@@ -1,0 +1,2265 @@
+{
+ "id": "unit6",
+ "n": 6,
+ "title": "What does Pratap do?",
+ "titleHi": "प्रताप क्या करता है ?",
+ "scope": "The imperfective present (बोलता है, बोलती हैं), dropping the auxiliary in negatives (नहीं बोलतीं); आना for knowing a language; X को क्या कहते हैं ?; होता है for general truths; मालूम होता है; mixed-gender agreement; कितने बजे; X साल का; possessive pronouns तेरा, इसका, हमारा, किनका, अपना, compound postpositions (के लिए, की तरफ़, मेरे साथ …)",
+ "pages": "book 64–77",
+ "skills": {
+  "pres": "Imperfective present",
+  "neg": "Negatives",
+  "uses": "Uses of the present",
+  "poss": "Possessive pronouns",
+  "apna": "Reflexive अपना",
+  "cpp": "Compound postpositions",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अकेलापन",
+   "en": "loneliness",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अक्सर",
+   "en": "often, usually",
+   "c": "x"
+  },
+  {
+   "hi": "अच्छा",
+   "en": "well, proficiently",
+   "c": "x"
+  },
+  {
+   "hi": "अपना",
+   "en": "(one's) own",
+   "c": "p"
+  },
+  {
+   "hi": "इक्कीस",
+   "en": "twenty-one",
+   "c": "x"
+  },
+  {
+   "hi": "उच्चारण",
+   "en": "pronunciation",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्रोनंसियेशन",
+   "en": "‘pronunciation’ (English loanword)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उठना",
+   "en": "to get up, rise",
+   "c": "v"
+  },
+  {
+   "hi": "उन्नीस",
+   "en": "nineteen",
+   "c": "x"
+  },
+  {
+   "hi": "कंपनी",
+   "en": "company, firm",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कभी कभी",
+   "en": "sometimes",
+   "c": "x"
+  },
+  {
+   "hi": "कभी नहीं",
+   "en": "never",
+   "c": "x"
+  },
+  {
+   "hi": "की तरफ़",
+   "en": "towards",
+   "c": "x"
+  },
+  {
+   "hi": "की तरह",
+   "en": "like",
+   "c": "x"
+  },
+  {
+   "hi": "के अंदर",
+   "en": "inside",
+   "c": "x"
+  },
+  {
+   "hi": "के आगे",
+   "en": "in front of, ahead of",
+   "c": "x"
+  },
+  {
+   "hi": "के ऊपर",
+   "en": "on top of",
+   "c": "x"
+  },
+  {
+   "hi": "के नीचे",
+   "en": "beneath, below",
+   "c": "x"
+  },
+  {
+   "hi": "से पहले",
+   "en": "before",
+   "c": "x"
+  },
+  {
+   "hi": "के पास",
+   "en": "near",
+   "c": "x"
+  },
+  {
+   "hi": "के पीछे",
+   "en": "behind",
+   "c": "x"
+  },
+  {
+   "hi": "के बाद",
+   "en": "after",
+   "c": "x"
+  },
+  {
+   "hi": "के बारे में",
+   "en": "about, concerning",
+   "c": "x"
+  },
+  {
+   "hi": "के बाहर",
+   "en": "outside (of)",
+   "c": "x"
+  },
+  {
+   "hi": "के यहाँ",
+   "en": "at the place of",
+   "c": "x"
+  },
+  {
+   "hi": "के लिए",
+   "en": "for",
+   "c": "x"
+  },
+  {
+   "hi": "के साथ",
+   "en": "with, in company of",
+   "c": "x"
+  },
+  {
+   "hi": "के सामने",
+   "en": "facing, opposite",
+   "c": "x"
+  },
+  {
+   "hi": "ख़याल रखना",
+   "en": "to take care of",
+   "c": "v"
+  },
+  {
+   "hi": "ध्यान रखना",
+   "en": "to look after, mind",
+   "c": "v"
+  },
+  {
+   "hi": "ख़ूब",
+   "en": "a lot, well",
+   "c": "x"
+  },
+  {
+   "hi": "गपशप",
+   "en": "gossip",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गोश्त",
+   "en": "meat",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चाँद",
+   "en": "moon",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चुप",
+   "en": "silent",
+   "c": "a"
+  },
+  {
+   "hi": "चौदह",
+   "en": "fourteen",
+   "c": "x"
+  },
+  {
+   "hi": "छोड़ना",
+   "en": "to leave",
+   "c": "v"
+  },
+  {
+   "hi": "जानना",
+   "en": "to know",
+   "c": "v"
+  },
+  {
+   "hi": "टुकड़ा",
+   "en": "piece, bit",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "डरना",
+   "en": "to fear, be afraid (of: से)",
+   "c": "v"
+  },
+  {
+   "hi": "डाकघर",
+   "en": "post office",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तेरा",
+   "en": "your (from तू)",
+   "c": "p"
+  },
+  {
+   "hi": "थोड़ा",
+   "en": "a little",
+   "c": "a"
+  },
+  {
+   "hi": "दिन",
+   "en": "day",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दिन भर",
+   "en": "all day",
+   "c": "x"
+  },
+  {
+   "hi": "देवनागरी",
+   "en": "Devanagari script",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नफ़रत",
+   "en": "hatred",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नापसंद करना",
+   "en": "to dislike",
+   "c": "v"
+  },
+  {
+   "hi": "प्यार",
+   "en": "love, affection",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्यार करना",
+   "en": "to love",
+   "c": "v"
+  },
+  {
+   "hi": "फिर",
+   "en": "then; again",
+   "c": "x"
+  },
+  {
+   "hi": "बचपन",
+   "en": "childhood",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बजे",
+   "en": "o'clock",
+   "c": "x"
+  },
+  {
+   "hi": "कितने बजे",
+   "en": "at what time?",
+   "c": "x"
+  },
+  {
+   "hi": "बधाई",
+   "en": "congratulation",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बात करना",
+   "en": "to talk, converse (with: से)",
+   "c": "v"
+  },
+  {
+   "hi": "बाप",
+   "en": "father (familiar)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बारह",
+   "en": "twelve",
+   "c": "x"
+  },
+  {
+   "hi": "मन",
+   "en": "mind",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "महसूस करना",
+   "en": "to feel, experience",
+   "c": "v"
+  },
+  {
+   "hi": "मालिक",
+   "en": "boss",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुन्ना",
+   "en": "Munna (pet name for a little boy)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुश्किल",
+   "en": "difficult",
+   "c": "a"
+  },
+  {
+   "hi": "मेहमान",
+   "en": "guest",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लंबाई",
+   "en": "height, length",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "लखनऊ",
+   "en": "Lucknow",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लिपि",
+   "en": "script, writing system",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "वाह",
+   "en": "wonderful! (admiration or scorn)",
+   "c": "x"
+  },
+  {
+   "hi": "विदेशी",
+   "en": "foreigner",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वैसे",
+   "en": "actually",
+   "c": "x"
+  },
+  {
+   "hi": "व्यंग्य",
+   "en": "sarcasm",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शराब",
+   "en": "alcohol, liquor",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शरारत",
+   "en": "mischief",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शुक्रवार",
+   "en": "Friday",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शुद्ध",
+   "en": "pure, unmixed",
+   "c": "a"
+  },
+  {
+   "hi": "संस्कृत",
+   "en": "Sanskrit",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सहेली",
+   "en": "girl's female friend",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साड़ी",
+   "en": "sari",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साल",
+   "en": "year",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सीखना",
+   "en": "to learn",
+   "c": "v"
+  },
+  {
+   "hi": "सोचना",
+   "en": "to think",
+   "c": "v"
+  },
+  {
+   "hi": "सोना",
+   "en": "to sleep",
+   "c": "v"
+  },
+  {
+   "hi": "स्टेशन",
+   "en": "station",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हँसना",
+   "en": "to laugh",
+   "c": "v"
+  },
+  {
+   "hi": "हँसाना",
+   "en": "to make laugh",
+   "c": "v"
+  },
+  {
+   "hi": "हमारा",
+   "en": "our, ours",
+   "c": "p"
+  },
+  {
+   "hi": "हमेशा",
+   "en": "always",
+   "c": "x"
+  },
+  {
+   "hi": "होनहार",
+   "en": "promising",
+   "c": "a"
+  },
+  {
+   "hi": "स्कूल",
+   "en": "school",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ऐसा",
+   "en": "thus, so, like this",
+   "c": "a"
+  },
+  {
+   "hi": "रहना",
+   "en": "to stay, live",
+   "c": "v"
+  },
+  {
+   "hi": "खेलना",
+   "en": "to play",
+   "c": "v"
+  },
+  {
+   "hi": "समझना",
+   "en": "to understand; to consider",
+   "c": "v"
+  },
+  {
+   "hi": "इसका",
+   "en": "his, her, its (of this one)",
+   "c": "p"
+  },
+  {
+   "hi": "किनका",
+   "en": "whose? (plural)",
+   "c": "p"
+  },
+  {
+   "hi": "भाषा",
+   "en": "language",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "उर्दू",
+   "en": "Urdu",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सात",
+   "en": "seven",
+   "c": "x"
+  },
+  {
+   "hi": "आठ",
+   "en": "eight",
+   "c": "x"
+  },
+  {
+   "hi": "मालूम होना",
+   "en": "to seem",
+   "c": "v"
+  },
+  {
+   "hi": "आना",
+   "en": "(with को) to know (a language)",
+   "c": "v"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "pres",
+   "title": "बोलता, बोलती, बोलते",
+   "desc": "The imperfective present",
+   "skill": "pres",
+   "items": [
+    {
+     "id": "pr:0",
+     "t": "mc",
+     "q": "Fill the gap: “My sister works in London.”",
+     "hi": "मेरी बहिन लंदन में काम ___ है ।",
+     "say": "मेरी बहिन लंदन में काम करती है ।",
+     "en": "My[0] sister[1] works[4+5+6] in[3] London[2].",
+     "a": "करती",
+     "wrong": [
+      [
+       "करता",
+       "करता is masculine. बहिन is feminine, so the participle is करती."
+      ],
+      [
+       "करतीं",
+       "The nasal -tī̃ appears only when हैं is dropped after नहीं. With हैं present, the feminine participle is -tī."
+      ]
+     ],
+     "why": "The participle agrees with the subject: masculine -tā, feminine -tī."
+    },
+    {
+     "id": "pr:1",
+     "t": "mc",
+     "q": "Fill the gap: “I drink tea in the morning. (a man speaking)”",
+     "hi": "मैं सुबह चाय ___ हूँ ।",
+     "say": "मैं सुबह चाय पीता हूँ ।",
+     "en": "I[0] drink[3+4] tea[2] {in the morning}[1]. (a man speaking)",
+     "a": "पीता",
+     "wrong": [
+      [
+       "पीती",
+       "पीती is feminine. The speaker is a man."
+      ],
+      [
+       "पीते",
+       "-te is masculine plural, for हम, तुम, आप and plural subjects. मैं takes -tā."
+      ]
+     ],
+     "why": "मैं पीता हूँ for a man, मैं पीती हूँ for a woman."
+    },
+    {
+     "id": "pr:2",
+     "t": "mc",
+     "q": "Fill the gap: “What do you read at night?”",
+     "hi": "तुम रात को क्या पढ़ते ___ ?",
+     "say": "तुम रात को क्या पढ़ते हो ?",
+     "en": "What[3] do[5] you[0] read[4] {at night}[1+2]?",
+     "a": "हो",
+     "wrong": [
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे and plural nouns. तुम takes हो."
+      ],
+      [
+       "है",
+       "है goes with तू, यह and वह. तुम takes हो."
+      ]
+     ],
+     "why": "The participle is followed by the present of होना, as in तुम पढ़ते हो."
+    },
+    {
+     "id": "pr:3",
+     "t": "mc",
+     "q": "Fill the gap: “We speak Panjabi at home.”",
+     "hi": "हम घर पर पंजाबी ___ हैं ।",
+     "say": "हम घर पर पंजाबी बोलते हैं ।",
+     "en": "We[0] speak[4+5] Panjabi[3] {at home}[1+2].",
+     "a": "बोलते",
+     "wrong": [
+      [
+       "बोलता",
+       "बोलता is singular. हम is plural, so the masculine participle is बोलते."
+      ],
+      [
+       "बोलना",
+       "बोलना is the infinitive. The tense uses the participle, stem + -tā, -tī, -te."
+      ]
+     ],
+     "why": "हम takes the -te participle and हैं (a group of women would say बोलती हैं)."
+    },
+    {
+     "id": "pr:4",
+     "t": "mc",
+     "q": "Fill the gap: “Mother gets up early in the morning.”",
+     "hi": "माँ जी सुबह जल्दी ___ हैं ।",
+     "say": "माँ जी सुबह जल्दी उठती हैं ।",
+     "en": "Mother[0] {gets up}[4+5] early[3] {in the morning}[2].",
+     "a": "उठती",
+     "wrong": [
+      [
+       "उठते",
+       "उठते is masculine. Respect makes the verb plural, but माँ is feminine: उठती हैं."
+      ],
+      [
+       "उठतीं",
+       "The nasal -tī̃ appears only when हैं is dropped after नहीं. With हैं present, the feminine participle is -tī."
+      ]
+     ],
+     "why": "A respected woman takes the feminine participle with हैं."
+    },
+    {
+     "id": "pr:5",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan ji knows Hindi and Sanskrit.”",
+     "hi": "मोहन जी हिन्दी और संस्कृत ___ हैं ।",
+     "say": "मोहन जी हिन्दी और संस्कृत जानते हैं ।",
+     "en": "{Mohan ji}[0+1] knows[5+6] Hindi[2] and[3] Sanskrit[4].",
+     "a": "जानते",
+     "wrong": [
+      [
+       "जानता",
+       "जानता is for one man spoken of plainly. जी shows respect, so the verb is plural: जानते हैं."
+      ],
+      [
+       "जानती",
+       "जानती is feminine. Mohan is a man."
+      ]
+     ],
+     "why": "Respect takes plural agreement, as with है and हैं in unit 1."
+    },
+    {
+     "id": "pr:6",
+     "t": "mc",
+     "q": "Fill the gap: “Those girls laugh a lot.”",
+     "hi": "वे लड़कियाँ बहुत ___ हैं ।",
+     "say": "वे लड़कियाँ बहुत हँसती हैं ।",
+     "en": "Those[0] girls[1] laugh[3+4] {a lot}[2].",
+     "a": "हँसती",
+     "wrong": [
+      [
+       "हँसते",
+       "हँसते is masculine. लड़कियाँ are feminine."
+      ],
+      [
+       "हँसतीं",
+       "The nasal -tī̃ appears only when हैं is dropped after नहीं. With हैं present, the feminine participle is -tī."
+      ]
+     ],
+     "why": "Feminine plural: -tī with हैं."
+    },
+    {
+     "id": "pr:7",
+     "t": "mc",
+     "q": "Change the subject to मेरी बहिनें",
+     "a": "मेरी बहिनें संस्कृत सीखती हैं ।",
+     "wrong": [
+      [
+       "मेरी बहिनें संस्कृत सीखतीं हैं ।",
+       "The nasal -tī̃ appears only when हैं is dropped after नहीं. With हैं present, the feminine participle is -tī."
+      ],
+      [
+       "मेरी बहिनें संस्कृत सीखते हैं ।",
+       "सीखते is masculine. बहिनें are feminine."
+      ]
+     ],
+     "why": "Feminine plural: the participle is सीखती and the auxiliary हैं.",
+     "hi": "मेरा भाई संस्कृत सीखता है ।",
+     "audio": true,
+     "say": "मेरी बहिनें संस्कृत सीखती हैं ।",
+     "en": "My[0] sisters[1] learn[3+4] Sanskrit[2]."
+    },
+    {
+     "id": "pr:8",
+     "t": "mc",
+     "q": "Fill the gap: “The children play in the garden.”",
+     "hi": "बच्चे बग़ीचे में ___ हैं ।",
+     "say": "बच्चे बग़ीचे में खेलते हैं ।",
+     "en": "{The children}[0] play[3+4] in[2] the garden[1].",
+     "a": "खेलते",
+     "wrong": [
+      [
+       "खेलता",
+       "खेलता is singular. बच्चे is plural."
+      ],
+      [
+       "खेलना",
+       "खेलना is the infinitive. A statement uses the participle."
+      ]
+     ],
+     "why": "Masculine plural: -te with हैं."
+    },
+    {
+     "id": "pr:9",
+     "t": "mc",
+     "q": "Fill the gap: “Which office do you work in? (to a man)”",
+     "hi": "आप किस दफ़्तर में काम ___ हैं ?",
+     "say": "आप किस दफ़्तर में काम करते हैं ?",
+     "en": "{Which office}[1+2] do[6] you[0] work[4+5] in[3]? (to a man)",
+     "a": "करते",
+     "wrong": [
+      [
+       "करता",
+       "करता is singular. आप always takes plural agreement."
+      ],
+      [
+       "करो",
+       "करो is the तुम command, not a statement."
+      ]
+     ],
+     "why": "आप takes -te (or -tī for a woman) with हैं."
+    },
+    {
+     "id": "pr:10",
+     "t": "mc",
+     "q": "Fill the gap: “I sleep very little. (a woman speaking)”",
+     "hi": "मैं बहुत कम ___ हूँ ।",
+     "say": "मैं बहुत कम सोती हूँ ।",
+     "en": "I[0] sleep[3+4] {very little}[1+2]. (a woman speaking)",
+     "a": "सोती",
+     "wrong": [
+      [
+       "सोता",
+       "सोता is masculine. The speaker is a woman."
+      ],
+      [
+       "सोना",
+       "सोना is the infinitive (and also the noun “gold”). The tense uses the participle."
+      ]
+     ],
+     "why": "सोना “to sleep”: stem so-, participle सोता, सोती, सोते."
+    }
+   ]
+  },
+  {
+   "id": "neg",
+   "title": "नहीं बोलतीं",
+   "desc": "Negatives: dropping हैं, कभी नहीं",
+   "skill": "neg",
+   "items": [
+    {
+     "id": "ng:0",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan doesn't go to the office.”",
+     "hi": "मोहन दफ़्तर नहीं ___ ।",
+     "say": "मोहन दफ़्तर नहीं जाता ।",
+     "en": "Mohan[0] doesn't[2] go[3] {to the office}[1].",
+     "a": "जाता",
+     "wrong": [
+      [
+       "जाते",
+       "जाते is plural. Mohan, spoken of plainly, is one person."
+      ],
+      [
+       "जातीं",
+       "जातीं is the feminine plural form used when हैं is dropped. Mohan is a man."
+      ]
+     ],
+     "why": "In a negative sentence the auxiliary can be dropped: मोहन दफ़्तर नहीं जाता ।"
+    },
+    {
+     "id": "ng:1",
+     "t": "mc",
+     "q": "Fill the gap: “My daughters don't go to school.”",
+     "hi": "मेरी बेटियाँ स्कूल नहीं ___ ।",
+     "say": "मेरी बेटियाँ स्कूल नहीं जातीं ।",
+     "en": "My[0] daughters[1] don't[3] go[4] {to school}[2].",
+     "a": "जातीं",
+     "wrong": [
+      [
+       "जाती",
+       "With हैं dropped, the feminine plural participle takes over its nasal: जातीं."
+      ],
+      [
+       "जाते",
+       "जाते is masculine. बेटियाँ are feminine."
+      ]
+     ],
+     "why": "Without the auxiliary, a feminine plural participle is nasalized to make up for the lost हैं."
+    },
+    {
+     "id": "ng:2",
+     "t": "mc",
+     "q": "Make this sentence negative",
+     "a": "सीता शुक्रवार को बाज़ार नहीं जाती ।",
+     "wrong": [
+      [
+       "सीता शुक्रवार को बाज़ार नहीं जातीं ।",
+       "जातीं is for feminine plural subjects. सीता is one person."
+      ],
+      [
+       "सीता शुक्रवार को बाज़ार मत जाती ।",
+       "मत is only for commands. Statements are made negative with नहीं."
+      ]
+     ],
+     "why": "नहीं goes before the verb, and है can be dropped.",
+     "hi": "सीता शुक्रवार को बाज़ार जाती है ।",
+     "audio": true,
+     "say": "सीता शुक्रवार को बाज़ार नहीं जाती ।",
+     "en": "Sita[0] doesn't[4] go[5] {to the market}[3] {on Fridays}[1+2]."
+    },
+    {
+     "id": "ng:3",
+     "t": "mc",
+     "q": "Why does बोलतीं have a nasal here?",
+     "a": "हैं has been dropped, and the feminine plural participle takes its nasal",
+     "wrong": [
+      [
+       "Every participle after नहीं is nasalized",
+       "Only the feminine plural one is. The masculine plural stays बोलते, वे नहीं बोलते."
+      ],
+      [
+       "लड़कियाँ ends in a nasal, so the verb copies it",
+       "The nasal makes up for the dropped हैं. It has nothing to do with the noun's ending."
+      ]
+     ],
+     "why": "With हैं it is बोलती हैं, and without it नहीं बोलतीं.",
+     "hi": "ये लड़कियाँ पंजाबी नहीं बोलतीं ।",
+     "audio": true,
+     "say": "ये लड़कियाँ पंजाबी नहीं बोलतीं ।",
+     "en": "These[0] girls[1] don't[3] speak[4] Panjabi[2]."
+    },
+    {
+     "id": "ng:4",
+     "t": "mc",
+     "q": "Fill the gap: “These boys never laugh in class.”",
+     "hi": "ये लड़के क्लास में कभी नहीं ___ ।",
+     "say": "ये लड़के क्लास में कभी नहीं हँसते ।",
+     "en": "These[0] boys[1] never[4+5] laugh[6] in[3] class[2].",
+     "a": "हँसते",
+     "wrong": [
+      [
+       "हँसतें",
+       "Not a word: only the feminine plural participle takes a nasal when हैं is dropped."
+      ],
+      [
+       "हँसता",
+       "हँसता is singular. लड़के is plural."
+      ]
+     ],
+     "why": "कभी नहीं “never”; the masculine plural stays हँसते without हैं."
+    },
+    {
+     "id": "ng:5",
+     "t": "mc",
+     "q": "Fill the gap: “Papa sometimes brings samosas.”",
+     "hi": "पापा ___ समोसे लाते हैं ।",
+     "say": "पापा कभी कभी समोसे लाते हैं ।",
+     "en": "Papa[0] sometimes[1+2] brings[4+5] samosas[3].",
+     "a": "कभी कभी",
+     "wrong": [
+      [
+       "कभी नहीं",
+       "कभी नहीं means “never”."
+      ],
+      [
+       "हमेशा",
+       "हमेशा means “always”."
+      ]
+     ],
+     "why": "कभी कभी “sometimes”, कभी नहीं “never”."
+    },
+    {
+     "id": "ng:6",
+     "t": "mc",
+     "q": "Make this sentence negative",
+     "a": "मेरी सहेलियाँ उर्दू नहीं समझतीं ।",
+     "wrong": [
+      [
+       "मेरी सहेलियाँ उर्दू नहीं समझती ।",
+       "With हैं dropped, the feminine plural participle must carry the nasal: समझतीं."
+      ],
+      [
+       "मेरी सहेलियाँ उर्दू मत समझतीं ।",
+       "मत is only for commands. Statements are made negative with नहीं."
+      ]
+     ],
+     "why": "Feminine plural without हैं gives नहीं समझतीं.",
+     "hi": "मेरी सहेलियाँ उर्दू समझती हैं ।",
+     "audio": true,
+     "say": "मेरी सहेलियाँ उर्दू नहीं समझतीं ।",
+     "en": "My[0] friends[1] don't[3] understand[4] Urdu[2]. (a girl speaking)"
+    }
+   ]
+  },
+  {
+   "id": "uses",
+   "title": "आती है, होता है",
+   "desc": "Languages, names, general truths, time and age",
+   "skill": "uses",
+   "items": [
+    {
+     "id": "uz:0",
+     "t": "mc",
+     "q": "Fill the gap: “My wife knows Gujarati.”",
+     "hi": "मेरी पत्नी को गुजराती ___ है ।",
+     "say": "मेरी पत्नी को गुजराती आती है ।",
+     "en": "My[0] wife[1] knows[2+4+5] Gujarati[3].",
+     "a": "आती",
+     "wrong": [
+      [
+       "आता",
+       "The verb agrees with the language, गुजराती, which is feminine."
+      ],
+      [
+       "जानती",
+       "जानना needs the knower as subject (मेरी पत्नी गुजराती जानती है). With को the verb is आना."
+      ]
+     ],
+     "why": "Knowing a language: X को (language) आना, literally “Gujarati comes to my wife”."
+    },
+    {
+     "id": "uz:1",
+     "t": "mc",
+     "q": "Fill the gap: “He doesn't know Hindi at all.”",
+     "hi": "___ हिन्दी बिलकुल नहीं आती ।",
+     "say": "उसे हिन्दी बिलकुल नहीं आती ।",
+     "en": "He[0] doesn't[3] know[4] Hindi[1] {at all}[2].",
+     "a": "उसे",
+     "wrong": [
+      [
+       "वह",
+       "With आना the person who knows takes को, giving उस को or उसे."
+      ],
+      [
+       "उसका",
+       "उसका means “his”. The knower takes को."
+      ]
+     ],
+     "why": "उसे (= उस को) … आती. Hindi “comes to” him."
+    },
+    {
+     "id": "uz:2",
+     "t": "mc",
+     "q": "Fill the gap: “People call him a devil.”",
+     "hi": "लोग उसे शैतान ___ हैं ।",
+     "say": "लोग उसे शैतान कहते हैं ।",
+     "en": "People[0] call[3+4] him[1] a devil[2].",
+     "a": "कहते",
+     "wrong": [
+      [
+       "कहता",
+       "कहता is singular. लोग is plural."
+      ],
+      [
+       "बोलते",
+       "बोलना is “to speak”. To call someone something is कहना."
+      ]
+     ],
+     "why": "X को Y कहना “to call X Y”; X को क्या कहते हैं ? asks what X is called."
+    },
+    {
+     "id": "uz:3",
+     "t": "mc",
+     "q": "Fill the gap: “In the mountains the air is cold.”",
+     "hi": "पहाड़ों पर हवा ठंडी ___ है ।",
+     "say": "पहाड़ों पर हवा ठंडी होती है ।",
+     "en": "{In the mountains}[0+1] the air[2] is[4+5] cold[3].",
+     "a": "होती",
+     "wrong": [
+      [
+       "होता",
+       "होता is masculine. हवा is feminine."
+      ],
+      [
+       "होते",
+       "होते is masculine plural. हवा is feminine singular."
+      ]
+     ],
+     "why": "होता है states what is generally true; है alone describes one particular case."
+    },
+    {
+     "id": "uz:4",
+     "t": "mc",
+     "q": "Which means “I know that the shop is closed today”?",
+     "a": "मुझे मालूम है कि आज दुकान बंद है ।",
+     "wrong": [
+      [
+       "मालूम होता है कि आज दुकान बंद है ।",
+       "मालूम होता है means “it seems”."
+      ],
+      [
+       "मैं मालूम हूँ कि आज दुकान बंद है ।",
+       "मालूम takes the को construction: मुझे मालूम है."
+      ]
+     ],
+     "why": "मुझे मालूम है “I know”; मालूम होता है “it seems”."
+    },
+    {
+     "id": "uz:5",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan and Sita learn Hindi.”",
+     "hi": "मोहन और सीता हिन्दी ___ हैं ।",
+     "say": "मोहन और सीता हिन्दी सीखते हैं ।",
+     "en": "Mohan[0] and[1] Sita[2] learn[4+5] Hindi[3].",
+     "a": "सीखते",
+     "wrong": [
+      [
+       "सीखती",
+       "When the subjects are people of both sexes the verb is masculine plural. The nearest-word rule is only for things."
+      ],
+      [
+       "सीखता",
+       "सीखता is singular. There are two people."
+      ]
+     ],
+     "why": "A man and a woman together take the masculine plural."
+    },
+    {
+     "id": "uz:6",
+     "t": "mc",
+     "q": "Fill the gap: “In this shop the chairs and beds are old.”",
+     "hi": "इस दुकान में कुरसियाँ और पलंग ___ हैं ।",
+     "say": "इस दुकान में कुरसियाँ और पलंग पुराने हैं ।",
+     "en": "In[2] this[0] shop[1] the chairs[3] and[4] beds[5] are[7] old[6].",
+     "a": "पुराने",
+     "wrong": [
+      [
+       "पुरानी",
+       "For things of mixed gender, agreement follows the nearest one: पलंग, masculine plural."
+      ],
+      [
+       "पुराना",
+       "पुराना is singular. There are several things."
+      ]
+     ],
+     "why": "With things, the gender of the nearest item decides; the verb follows the same rule."
+    },
+    {
+     "id": "uz:7",
+     "t": "mc",
+     "q": "Fill the gap: “What time does the bus come?”",
+     "hi": "बस कितने ___ आती है ?",
+     "say": "बस कितने बजे आती है ?",
+     "en": "{What time}[1+2] does[4] the bus[0] come[3]?",
+     "a": "बजे",
+     "wrong": [
+      [
+       "साल",
+       "साल means “year”. Clock time is बजे."
+      ],
+      [
+       "दिन",
+       "दिन means “day”. Clock time is बजे."
+      ]
+     ],
+     "why": "कितने बजे ? “at what time?”; सात बजे “at seven o'clock”."
+    },
+    {
+     "id": "uz:8",
+     "t": "mc",
+     "q": "Someone about to leave says “अच्छा, मैं चलता हूँ ।”. What does it mean?",
+     "a": "Well, I'm off.",
+     "wrong": [
+      [
+       "I walk well.",
+       "अच्छा at the start is “well then”, not “proficiently”."
+      ],
+      [
+       "I often go for walks.",
+       "The imperfective is usually habitual, but here it is an idiom for leaving now."
+      ]
+     ],
+     "why": "The imperfective is used idiomatically for something about to happen: मैं चलता हूँ “I'm off”."
+    },
+    {
+     "id": "uz:9",
+     "t": "mc",
+     "q": "Fill the gap: “My son is ten years old.”",
+     "hi": "मेरा बेटा दस साल ___ है ।",
+     "say": "मेरा बेटा दस साल का है ।",
+     "en": "My[0] son[1] is[5] ten[2] years[3] old[4].",
+     "a": "का",
+     "wrong": [
+      [
+       "की",
+       "की is feminine. का agrees with the subject, बेटा."
+      ],
+      [
+       "के",
+       "के would be for a plural or respected subject. बेटा is one boy."
+      ]
+     ],
+     "why": "In X साल का “X years old”, का agrees with the person."
+    },
+    {
+     "id": "uz:10",
+     "t": "mc",
+     "q": "In मेरा बेटा दस साल का है, why is साल not in the oblique plural?",
+     "a": "The ten years make one block of time, not separate years",
+     "wrong": [
+      [
+       "The word for “year” has no plural",
+       "It does: सालों is its oblique plural, used when years are counted one by one."
+      ],
+      [
+       "The postposition after it does not make it oblique",
+       "It does: का is a postposition. Here the years are taken as a single block."
+      ]
+     ],
+     "why": "The same idea gives दस दिन में “in ten days”."
+    }
+   ]
+  },
+  {
+   "id": "poss",
+   "title": "मेरा, तेरा, हमारा",
+   "desc": "The possessive pronouns",
+   "skill": "poss",
+   "items": [
+    {
+     "id": "po:0",
+     "t": "mc",
+     "q": "Fill the gap: “Is this your book? (to तू)”",
+     "hi": "क्या यह ___ किताब है ?",
+     "say": "क्या यह तेरी किताब है ?",
+     "en": "Is[4] this[1] your[2] book[3]? (to तू)",
+     "a": "तेरी",
+     "wrong": [
+      [
+       "तेरा",
+       "तेरा is masculine. किताब is feminine."
+      ],
+      [
+       "तुम्हारी",
+       "तुम्हारी goes with तुम. With तू the possessive is तेरा."
+      ]
+     ],
+     "why": "तू gives तेरा, तेरी, तेरे."
+    },
+    {
+     "id": "po:1",
+     "t": "mc",
+     "q": "Fill the gap: “Her children are very clever. (a woman nearby)”",
+     "hi": "___ बच्चे बहुत होशियार हैं ।",
+     "say": "इसके बच्चे बहुत होशियार हैं ।",
+     "en": "Her[0] children[1] are[4] very[2] clever[3]. (a woman nearby)",
+     "a": "इसके",
+     "wrong": [
+      [
+       "इसकी",
+       "The possessive agrees with the thing possessed, बच्चे, not with the owner. Her being a woman makes no difference."
+      ],
+      [
+       "इसका",
+       "इसका is singular. बच्चे is plural."
+      ]
+     ],
+     "why": "इसका “his, her (of this one)” agrees like an -ā adjective."
+    },
+    {
+     "id": "po:2",
+     "t": "mc",
+     "q": "Which asks “whose?” about several owners?",
+     "a": "किनका",
+     "wrong": [
+      [
+       "किसका",
+       "किसका asks about a single owner."
+      ],
+      [
+       "कौनसा",
+       "कौनसा means “which?”."
+      ]
+     ],
+     "why": "किन is the plural oblique of कौन, so किन + का."
+    },
+    {
+     "id": "po:3",
+     "t": "mc",
+     "q": "Fill the gap: “There are two windows in our room.”",
+     "hi": "___ कमरे में दो खिड़कियाँ हैं ।",
+     "say": "हमारे कमरे में दो खिड़कियाँ हैं ।",
+     "en": "{There are}[5] two[3] windows[4] in[2] our[0] room[1].",
+     "a": "हमारे",
+     "wrong": [
+      [
+       "हमारा",
+       "कमरे is oblique before में, so हमारा becomes हमारे too."
+      ],
+      [
+       "हमारी",
+       "हमारी is feminine. कमरा is masculine."
+      ]
+     ],
+     "why": "A possessive agrees with its noun in case as well: हमारे कमरे में."
+    },
+    {
+     "id": "po:4",
+     "t": "mc",
+     "q": "Which means “This bicycle is mine”?",
+     "a": "यह साइकिल मेरी है ।",
+     "wrong": [
+      [
+       "यह मेरी साइकिल है ।",
+       "This means “This is my bicycle”. Before the noun the possessive just describes it."
+      ],
+      [
+       "यह साइकिल मेरा है ।",
+       "मेरा is masculine. साइकिल is feminine."
+      ]
+     ],
+     "why": "After the noun, the possessive is what the sentence says about it: “is mine”."
+    },
+    {
+     "id": "po:5",
+     "t": "mc",
+     "q": "Fill the gap: “Our grandmother is very old.”",
+     "hi": "___ दादी जी बहुत बूढ़ी हैं ।",
+     "say": "हमारी दादी जी बहुत बूढ़ी हैं ।",
+     "en": "Our[0] grandmother[1] is[5] very[3] old[4].",
+     "a": "हमारी",
+     "wrong": [
+      [
+       "हमारे",
+       "Respect makes a masculine possessive plural (हमारे पिता जी), but a feminine one stays हमारी."
+      ],
+      [
+       "हमारा",
+       "हमारा is masculine. दादी is feminine."
+      ]
+     ],
+     "why": "हमारा “our” agrees with दादी."
+    },
+    {
+     "id": "po:6",
+     "t": "mc",
+     "q": "Fill the gap: “Prakash ji is here; this is his son.”",
+     "hi": "प्रकाश जी यहाँ हैं, यह ___ बेटा है ।",
+     "say": "प्रकाश जी यहाँ हैं, यह इनका बेटा है ।",
+     "en": "{Prakash ji}[0+1] is[3] here[2]; this[4] is[7] his[5] son[6].",
+     "a": "इनका",
+     "wrong": [
+      [
+       "इसका",
+       "इसका is for someone spoken of plainly. प्रकाश जी is respected, so the plural इनका."
+      ],
+      [
+       "इनके",
+       "इनके is plural or oblique. बेटा is singular and direct."
+      ]
+     ],
+     "why": "A respected person is referred to in the plural: इनका, उनका."
+    }
+   ]
+  },
+  {
+   "id": "apna",
+   "title": "अपना",
+   "desc": "The reflexive possessive",
+   "skill": "apna",
+   "items": [
+    {
+     "id": "ap:0",
+     "t": "mc",
+     "q": "Fill the gap: “Sita goes to the market with her (own) brother.”",
+     "hi": "सीता ___ भाई के साथ बाज़ार जाती है ।",
+     "say": "सीता अपने भाई के साथ बाज़ार जाती है ।",
+     "en": "Sita[0] goes[6+7] {to the market}[5] with[3+4] {her (own)}[1] brother[2].",
+     "a": "अपने",
+     "wrong": [
+      [
+       "उसके",
+       "उसके would mean someone else's brother. When the owner is the subject of the clause, Hindi uses अपना instead."
+      ],
+      [
+       "अपनी",
+       "अपना agrees with भाई, which is masculine and oblique before के साथ, not with Sita."
+      ]
+     ],
+     "why": "अपना refers back to the subject and agrees with the thing possessed."
+    },
+    {
+     "id": "ap:1",
+     "t": "mc",
+     "q": "Fill the gap: “I wash my clothes.”",
+     "hi": "मैं ___ कपड़े धोता हूँ ।",
+     "say": "मैं अपने कपड़े धोता हूँ ।",
+     "en": "I[0] wash[3+4] my[1] clothes[2].",
+     "a": "अपने",
+     "wrong": [
+      [
+       "मेरे",
+       "The owner is मैं, the subject. When the owner is the subject of the clause, Hindi uses अपना instead."
+      ],
+      [
+       "अपना",
+       "अपना is singular. कपड़े is plural."
+      ]
+     ],
+     "why": "“My” referring back to मैं is अपना."
+    },
+    {
+     "id": "ap:2",
+     "t": "mc",
+     "q": "Fill the gap: “You put your shoes here.”",
+     "hi": "तुम ___ जूते यहाँ रखो ।",
+     "say": "तुम अपने जूते यहाँ रखो ।",
+     "en": "You[0] put[4] your[1] shoes[2] here[3].",
+     "a": "अपने",
+     "wrong": [
+      [
+       "तुम्हारे",
+       "In a command “your” is always अपना, because the subject of a command is “you”."
+      ],
+      [
+       "अपनी",
+       "अपनी is feminine. जूते is masculine plural."
+      ]
+     ],
+     "why": "Commands always take अपना for “your”."
+    },
+    {
+     "id": "ap:3",
+     "t": "mc",
+     "q": "Fill the gap: “My sister and I learn Hindi. (a man speaking)”",
+     "hi": "मैं और ___ बहिन हिन्दी सीखते हैं ।",
+     "say": "मैं और मेरी बहिन हिन्दी सीखते हैं ।",
+     "en": "My[2] sister[3] and[1] I[0] learn[5+6] Hindi[4]. (a man speaking)",
+     "a": "मेरी",
+     "wrong": [
+      [
+       "अपनी",
+       "मैं और मेरी बहिन is a joint subject. अपना refers back to a subject; it cannot be part of one."
+      ],
+      [
+       "मेरा",
+       "मेरा is masculine. बहिन is feminine."
+      ]
+     ],
+     "why": "In a joint subject joined by और the ordinary possessive is used."
+    },
+    {
+     "id": "ap:4",
+     "t": "mc",
+     "q": "Fill the gap: “My brother works in the post office.”",
+     "hi": "___ भाई डाकघर में काम करता है ।",
+     "say": "मेरा भाई डाकघर में काम करता है ।",
+     "en": "My[0] brother[1] works[4+5+6] in[3] {the post office}[2].",
+     "a": "मेरा",
+     "wrong": [
+      [
+       "अपना",
+       "भाई is itself the subject, so there is nothing for अपना to refer back to."
+      ],
+      [
+       "मेरी",
+       "मेरी is feminine. भाई is masculine."
+      ]
+     ],
+     "why": "अपना never goes with the subject itself."
+    },
+    {
+     "id": "ap:5",
+     "t": "mc",
+     "q": "Which says that Mohan reads his own newspaper?",
+     "a": "मोहन अपना अख़बार पढ़ता है ।",
+     "wrong": [
+      [
+       "मोहन उसका अख़बार पढ़ता है ।",
+       "उसका here means someone else's newspaper. When the owner is the subject of the clause, Hindi uses अपना instead."
+      ],
+      [
+       "मोहन अपनी अख़बार पढ़ता है ।",
+       "अख़बार is masculine, so it is अपना."
+      ]
+     ],
+     "why": "अपना points back to the subject, Mohan."
+    },
+    {
+     "id": "ap:6",
+     "t": "mc",
+     "q": "Fill the gap: “These are my very own clothes.”",
+     "hi": "ये मेरे ___ कपड़े हैं ।",
+     "say": "ये मेरे अपने कपड़े हैं ।",
+     "en": "These[0] are[4] {my very own}[1+2] clothes[3].",
+     "a": "अपने",
+     "wrong": [
+      [
+       "अपना",
+       "अपना is singular. कपड़े is plural."
+      ],
+      [
+       "अपनी",
+       "अपनी is feminine. कपड़े is masculine."
+      ]
+     ],
+     "why": "A possessive followed by अपना is emphatic: “my very own”."
+    },
+    {
+     "id": "ap:7",
+     "t": "mc",
+     "q": "Fill the gap: “They love their (own) grandmother very much.”",
+     "hi": "वे ___ दादी जी से बहुत प्यार करते हैं ।",
+     "say": "वे अपनी दादी जी से बहुत प्यार करते हैं ।",
+     "en": "They[0] love[4+6+7+8] {their (own)}[1] grandmother[2] {very much}[5].",
+     "a": "अपनी",
+     "wrong": [
+      [
+       "उनकी",
+       "उनकी would mean someone else's grandmother. When the owner is the subject of the clause, Hindi uses अपना instead."
+      ],
+      [
+       "अपने",
+       "Respect makes masculine forms plural, but दादी is feminine: अपनी."
+      ]
+     ],
+     "why": "प्यार करना “to love” marks the person loved with से or को."
+    },
+    {
+     "id": "ap:8",
+     "t": "mc",
+     "q": "When does Hindi use अपना instead of मेरा, उसका and so on?",
+     "a": "When the owner is the subject of the same clause",
+     "wrong": [
+      [
+       "Whenever the owner is a person",
+       "मेरा भाई डाकघर में काम करता है uses मेरा because the owner (मैं) is not the subject."
+      ],
+      [
+       "Only with मैं and हम",
+       "अपना works with every subject: सीता अपने भाई के साथ बाज़ार जाती है."
+      ]
+     ],
+     "why": "If you can add “own” without changing the sense, use अपना (except in a joint subject)."
+    }
+   ]
+  },
+  {
+   "id": "cpp",
+   "title": "के लिए, की तरफ़",
+   "desc": "Compound postpositions",
+   "skill": "cpp",
+   "items": [
+    {
+     "id": "cp:0",
+     "t": "mc",
+     "q": "Fill the gap: “The dog is under the bed.”",
+     "hi": "कुत्ता पलंग ___ नीचे है ।",
+     "say": "कुत्ता पलंग के नीचे है ।",
+     "en": "{The dog}[0] is[4] under[2+3] the bed[1].",
+     "a": "के",
+     "wrong": [
+      [
+       "की",
+       "की is used only with तरफ़ and तरह, which are feminine. नीचे takes के."
+      ],
+      [
+       "का",
+       "Compound postpositions begin with के, not का."
+      ]
+     ],
+     "why": "के नीचे “beneath, below”."
+    },
+    {
+     "id": "cp:1",
+     "t": "mc",
+     "q": "Fill the gap: “Who is behind the door?”",
+     "hi": "___ के पीछे कौन है ?",
+     "say": "दरवाज़े के पीछे कौन है ?",
+     "en": "Who[3] is[4] behind[1+2] the door[0]?",
+     "a": "दरवाज़े",
+     "wrong": [
+      [
+       "दरवाज़ा",
+       "A compound postposition takes the oblique, like a simple one: दरवाज़े."
+      ],
+      [
+       "दरवाज़ों",
+       "दरवाज़ों is plural. There is one door."
+      ]
+     ],
+     "why": "के पीछे “behind” needs the oblique case."
+    },
+    {
+     "id": "cp:2",
+     "t": "mc",
+     "q": "Fill the gap: “We go towards the station.”",
+     "hi": "हम स्टेशन ___ तरफ़ जाते हैं ।",
+     "say": "हम स्टेशन की तरफ़ जाते हैं ।",
+     "en": "We[0] go[4+5] towards[2+3] the station[1].",
+     "a": "की",
+     "wrong": [
+      [
+       "के",
+       "तरफ़ is a feminine noun, so the postposition is की तरफ़."
+      ],
+      [
+       "का",
+       "Compound postpositions never begin with का. तरफ़ is feminine, so it is की तरफ़."
+      ]
+     ],
+     "why": "की तरफ़ “towards” and की तरह “like” use की."
+    },
+    {
+     "id": "cp:3",
+     "t": "mc",
+     "q": "Fill the gap: “This tea is for you. (to तुम)”",
+     "hi": "यह चाय ___ लिए है ।",
+     "say": "यह चाय तुम्हारे लिए है ।",
+     "en": "This[0] tea[1] is[4] for[3] you[2]. (to तुम)",
+     "a": "तुम्हारे",
+     "wrong": [
+      [
+       "तुम के",
+       "With pronouns, compound postpositions are built on the possessive form. तुम्हारा gives तुम्हारे लिए."
+      ],
+      [
+       "तुम्हारी",
+       "लिए is preceded by के, so तुम्हारा becomes तुम्हारे."
+      ]
+     ],
+     "why": "मेरे लिए, तुम्हारे लिए, उसके लिए …"
+    },
+    {
+     "id": "cp:4",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan goes to the office with me.”",
+     "hi": "मोहन ___ साथ दफ़्तर जाता है ।",
+     "say": "मोहन मेरे साथ दफ़्तर जाता है ।",
+     "en": "Mohan[0] goes[4+5] {to the office}[3] with[2] me[1].",
+     "a": "मेरे",
+     "wrong": [
+      [
+       "मुझ के",
+       "With pronouns, compound postpositions are built on the possessive form. मेरा gives मेरे साथ."
+      ],
+      [
+       "मेरी",
+       "साथ is preceded by के, so मेरा becomes मेरे."
+      ]
+     ],
+     "why": "के साथ “with”: मेरे साथ “with me”."
+    },
+    {
+     "id": "cp:5",
+     "t": "mc",
+     "q": "Fill the gap: “Sita laughs like her mother.”",
+     "hi": "सीता अपनी माँ ___ तरह हँसती है ।",
+     "say": "सीता अपनी माँ की तरह हँसती है ।",
+     "en": "Sita[0] laughs[5+6] like[3+4] her[1] mother[2].",
+     "a": "की",
+     "wrong": [
+      [
+       "के",
+       "तरह is a feminine noun, so it is की तरह."
+      ],
+      [
+       "का",
+       "Postpositions use की or के, never का."
+      ]
+     ],
+     "why": "की तरह “like”."
+    },
+    {
+     "id": "cp:6",
+     "t": "mc",
+     "q": "Fill the gap: “We go to Uncle's place on Fridays.”",
+     "hi": "हम शुक्रवार को चाचा जी ___ यहाँ जाते हैं ।",
+     "say": "हम शुक्रवार को चाचा जी के यहाँ जाते हैं ।",
+     "en": "We[0] go[7+8] {to Uncle's}[3+5] place[6] {on Fridays}[1+2].",
+     "a": "के",
+     "wrong": [
+      [
+       "की",
+       "यहाँ is not a feminine noun. It is के यहाँ."
+      ],
+      [
+       "में",
+       "के यहाँ means “at the place of”. में cannot go before यहाँ."
+      ]
+     ],
+     "why": "के यहाँ “at someone's place (home)”."
+    },
+    {
+     "id": "cp:7",
+     "t": "mc",
+     "q": "Fill the gap: “Please come before nine o'clock.”",
+     "hi": "नौ बजे ___ पहले आइए ।",
+     "say": "नौ बजे से पहले आइए ।",
+     "en": "{Please come}[4] before[2+3] {nine o'clock}[0+1].",
+     "a": "से",
+     "wrong": [
+      [
+       "की",
+       "पहले takes से or के, never की."
+      ],
+      [
+       "पर",
+       "पर means “on”. “Before” is से पहले."
+      ]
+     ],
+     "why": "पहले “before” can take से or के."
+    },
+    {
+     "id": "cp:8",
+     "t": "mc",
+     "q": "Fill the gap: “I often think about my village.”",
+     "hi": "मैं अक्सर अपने गाँव ___ सोचता हूँ ।",
+     "say": "मैं अक्सर अपने गाँव के बारे में सोचता हूँ ।",
+     "en": "I[0] often[1] think[7+8] about[4+5+6] my[2] village[3].",
+     "a": "के बारे में",
+     "wrong": [
+      [
+       "के साथ",
+       "के साथ means “with”."
+      ],
+      [
+       "के लिए",
+       "के लिए means “for”."
+      ]
+     ],
+     "why": "के बारे में “about, concerning” has three words."
+    },
+    {
+     "id": "cp:9",
+     "t": "mc",
+     "q": "Fill the gap: “The post office is opposite the station.”",
+     "hi": "डाकघर स्टेशन के ___ है ।",
+     "say": "डाकघर स्टेशन के सामने है ।",
+     "en": "{The post office}[0] is[4] opposite[2+3] the station[1].",
+     "a": "सामने",
+     "wrong": [
+      [
+       "पीछे",
+       "के पीछे means “behind”."
+      ],
+      [
+       "ऊपर",
+       "के ऊपर means “on top of”."
+      ]
+     ],
+     "why": "के सामने “facing, opposite”."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "{The guests}[0] drink[4+5] tea[3] in[2] the garden[1].",
+     "ans": [
+      "मेहमान",
+      "बग़ीचे",
+      "में",
+      "चाय",
+      "पीते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "पीता",
+       "मेहमान is plural here, as हैं shows, so the participle is पीते."
+      ],
+      [
+       "बग़ीचा",
+       "बग़ीचा is direct. Before में it is oblique: बग़ीचे."
+      ]
+     ],
+     "alt": [
+      [
+       "मेहमान",
+       "चाय",
+       "बग़ीचे",
+       "में",
+       "पीते",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Pinki[0] amuses[3+4] the children[1+2].",
+     "ans": [
+      "पिंकी",
+      "बच्चों",
+      "को",
+      "हँसाती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हँसती",
+       "हँसना is “to laugh”. “To make laugh” is हँसाना, so हँसाती."
+      ],
+      [
+       "बच्चे",
+       "Before को the oblique plural is needed: बच्चों."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "My[0] sister[1] is[5] sixteen[2] years[3] old[4].",
+     "ans": [
+      "मेरी",
+      "बहिन",
+      "सोलह",
+      "साल",
+      "की",
+      "है"
+     ],
+     "wrong": [
+      [
+       "का",
+       "का agrees with the subject, बहिन, which is feminine: की."
+      ],
+      [
+       "सालों",
+       "The sixteen years form one block of time, so साल is not made oblique plural."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Raj[0] sits[5+6] near[3+4] {his (own)}[1] father[2].",
+     "ans": [
+      "राज",
+      "अपने",
+      "पिता",
+      "के",
+      "पास",
+      "बैठता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "उसके",
+       "उसके would be someone else's father. When the owner is the subject, Hindi uses अपना."
+      ],
+      [
+       "अपना",
+       "Before के पास the possessive is oblique: अपने."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Do[5] you[1+2] know[4] Sanskrit[3]? (to आप)",
+     "ans": [
+      "क्या",
+      "आप",
+      "को",
+      "संस्कृत",
+      "आती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "आता",
+       "The verb agrees with संस्कृत, which is feminine: आती."
+      ],
+      [
+       "हैं",
+       "The verb agrees with संस्कृत, which is singular: है."
+      ]
+     ],
+     "alt": [
+      [
+       "आप",
+       "को",
+       "संस्कृत",
+       "आती",
+       "है",
+       "क्या"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "{The books}[0] are[4] {on top of}[2+3] the cupboard[1].",
+     "ans": [
+      "किताबें",
+      "अलमारी",
+      "के",
+      "ऊपर",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "की",
+       "Only तरफ़ and तरह take की. ऊपर takes के."
+      ],
+      [
+       "है",
+       "किताबें is plural, so the verb is हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{Please sit}[0+4] under[2+3] the tree[1]. (to आप)",
+     "ans": [
+      "आप",
+      "पेड़",
+      "के",
+      "नीचे",
+      "बैठिए"
+     ],
+     "wrong": [
+      [
+       "बैठो",
+       "बैठो is the तुम command. आप takes बैठिए."
+      ],
+      [
+       "की",
+       "Only तरफ़ and तरह take की. नीचे takes के."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "{The children}[0] sleep[3+4] {at ten o'clock}[1+2].",
+     "ans": [
+      "बच्चे",
+      "दस",
+      "बजे",
+      "सोते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "सोता",
+       "सोता is singular. बच्चे is plural."
+      ],
+      [
+       "सोना",
+       "सोना is the infinitive. The tense uses the participle."
+      ]
+     ],
+     "alt": [
+      [
+       "दस",
+       "बजे",
+       "बच्चे",
+       "सोते",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "What[3] is[5] this[0] fruit[1] called[2+4]?",
+     "ans": [
+      "इस",
+      "फल",
+      "को",
+      "क्या",
+      "कहते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "कहता",
+       "The unstated subject is “they”, plural: कहते हैं."
+      ],
+      [
+       "बोलते",
+       "बोलना is “to speak”. “To call” is कहना."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "This[0] room[1] is[3] ours[2].",
+     "ans": [
+      "यह",
+      "कमरा",
+      "हमारा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हमारी",
+       "हमारी is feminine. कमरा is masculine."
+      ],
+      [
+       "हमारे",
+       "हमारे is plural or oblique. कमरा here is singular and direct."
+      ]
+     ],
+     "order": "यह हमारा कमरा है would mean “This is our room”. To say the room is ours, the possessive comes after the noun."
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Their[0] friends[1] live[5+6] near[3+4] the station[2].",
+     "ans": [
+      "उनके",
+      "दोस्त",
+      "स्टेशन",
+      "के",
+      "पास",
+      "रहते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "उनका",
+       "दोस्त is plural here, so उनका becomes उनके."
+      ],
+      [
+       "रहता",
+       "रहता is singular. The friends are several."
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Pratap[0] {is afraid of}[2+3+4] dogs[1].",
+     "ans": [
+      "प्रताप",
+      "कुत्तों",
+      "से",
+      "डरता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "को",
+       "डरना marks what is feared with से."
+      ],
+      [
+       "कुत्ते",
+       "Before से the oblique plural is needed: कुत्तों."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे चाचा जी कभी नहीं हँसते ।",
+     "audio": true,
+     "a": "My uncle never laughs.",
+     "wrong": [
+      [
+       "My uncle always laughs.",
+       "“Always” would be हमेशा. कभी नहीं is “never”."
+      ],
+      [
+       "My uncle sometimes laughs.",
+       "“Sometimes” would be कभी कभी."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे पति को संस्कृत नहीं आती ।",
+     "audio": true,
+     "a": "My husband doesn't know Sanskrit.",
+     "wrong": [
+      [
+       "My husband doesn't like Sanskrit.",
+       "Liking is पसंद, as in मेरे पति को संस्कृत पसंद नहीं है."
+      ],
+      [
+       "My husband doesn't learn Sanskrit.",
+       "Learning is सीखना, as in मेरे पति संस्कृत नहीं सीखते."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "सीता अपनी सहेली के साथ स्कूल जाती है ।",
+     "audio": true,
+     "a": "Sita goes to school with her friend.",
+     "wrong": [
+      [
+       "Sita's friend goes to school.",
+       "Sita is the subject, and के साथ means “with”."
+      ],
+      [
+       "Sita goes to her friend's school.",
+       "के साथ means “with”, not “of”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मोहन उसकी गाड़ी में दफ़्तर जाता है ।",
+     "audio": true,
+     "a": "Mohan goes to the office in his (someone else's) car.",
+     "wrong": [
+      [
+       "Mohan goes to the office in his own car.",
+       "“His own” would be अपनी गाड़ी. उसकी refers to someone other than the subject."
+      ],
+      [
+       "Mohan goes to his office by bus.",
+       "गाड़ी is a car; a bus would be बस."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "गाँवों में लोग जल्दी उठते हैं ।",
+     "audio": true,
+     "a": "In villages people get up early.",
+     "wrong": [
+      [
+       "In the village people got up early.",
+       "उठते हैं is the imperfective present, a habit, not the past. गाँवों is plural."
+      ],
+      [
+       "In villages people go to bed early.",
+       "उठना is “to get up”. Going to bed would be सोना."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मालूम होता है कि मालिक आज बीमार हैं ।",
+     "audio": true,
+     "a": "It seems the boss is ill today.",
+     "wrong": [
+      [
+       "I know the boss is ill today.",
+       "“I know” would be मुझे मालूम है कि …. मालूम होता है means “it seems”."
+      ],
+      [
+       "The boss knows he is ill today.",
+       "मालिक is the subject of the second clause only. मालूम होता है means “it seems”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हमारे दफ़्तर के पीछे एक बड़ा पेड़ है ।",
+     "audio": true,
+     "a": "There is a big tree behind our office.",
+     "wrong": [
+      [
+       "There is a big tree in front of our office.",
+       "“In front of” is के आगे or के सामने. के पीछे is “behind”."
+      ],
+      [
+       "There is a big tree inside our office.",
+       "“Inside” is के अंदर."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पिंकी हमेशा सब को हँसाती है ।",
+     "audio": true,
+     "a": "Pinki always makes everyone laugh.",
+     "wrong": [
+      [
+       "Pinki always laughs at everyone.",
+       "हँसाना is “to make laugh”. Laughing is हँसना, as in हँसती."
+      ],
+      [
+       "Pinki never makes anyone laugh.",
+       "हमेशा means “always”. “Never” is कभी नहीं."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "The auxiliary, अपना and postpositions",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "ru:0",
+     "t": "mc",
+     "q": "When can हूँ, है, हो or हैं be dropped after the participle?",
+     "a": "In negative sentences",
+     "wrong": [
+      [
+       "In questions",
+       "Questions keep the auxiliary: तुम रात को क्या पढ़ते हो ?"
+      ],
+      [
+       "Whenever the subject is plural",
+       "Plural subjects keep हैं, as in बच्चे बग़ीचे में खेलते हैं."
+      ]
+     ],
+     "why": "After नहीं the auxiliary is often left out: मोहन दफ़्तर नहीं जाता."
+    },
+    {
+     "id": "ru:1",
+     "t": "mc",
+     "q": "What does the imperfective present describe?",
+     "a": "Habits and regular events, and ongoing states of mind",
+     "wrong": [
+      [
+       "An action going on right now, like “he is speaking”",
+       "Continuous actions have a separate tense, taught in Unit 8."
+      ],
+      [
+       "A single event in the past",
+       "The past of होना is था. This tense is present."
+      ]
+     ],
+     "why": "बोलता है “speaks” (habitually); सोचता है “thinks”."
+    },
+    {
+     "id": "ru:2",
+     "t": "mc",
+     "q": "How are compound postpositions used with pronouns?",
+     "a": "With the possessive form: मेरे लिए, उसके साथ",
+     "wrong": [
+      [
+       "With the direct pronoun: मैं के लिए",
+       "A postposition never follows a direct pronoun. With pronouns, compound postpositions are built on the possessive form."
+      ],
+      [
+       "With the oblique pronoun: मुझ के लिए",
+       "With pronouns, compound postpositions are built on the possessive form. मेरा gives मेरे लिए."
+      ]
+     ],
+     "why": "मेरा → मेरे लिए, हमारा → हमारी तरफ़, अपना → अपने बारे में."
+    },
+    {
+     "id": "ru:3",
+     "t": "mc",
+     "q": "Which word is the grammatical subject of उसे ज़ुकाम है ?",
+     "a": "ज़ुकाम",
+     "wrong": [
+      [
+       "उसे",
+       "उसे is उस को. A word followed by को is never the subject: the subject must be in the direct case."
+      ],
+      [
+       "है",
+       "है is the verb."
+      ]
+     ],
+     "why": "In the को construction the thing (here ज़ुकाम) is the subject, and the person takes को."
+    },
+    {
+     "id": "ru:4",
+     "t": "mc",
+     "q": "Why do की तरफ़ and की तरह use की ?",
+     "a": "Because those two nouns are feminine",
+     "wrong": [
+      [
+       "Because the noun before them is feminine",
+       "The noun before does not matter: बहिन के साथ, घर की तरफ़. Only तरफ़ and तरह make it की."
+      ],
+      [
+       "Because the postposition means “towards”",
+       "की is the feminine form of का. तरफ़ is a noun meaning “direction”."
+      ]
+     ],
+     "why": "Other compound postpositions begin with के."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "pres": 3,
+  "neg": 2,
+  "uses": 2,
+  "poss": 2,
+  "apna": 2,
+  "cpp": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "हँसतें": "hãstẽ",
+  "सालों": "sālõ"
+ }
+}
