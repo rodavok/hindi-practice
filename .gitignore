@@ -3,3 +3,17 @@ pages/
 dist/
 node_modules/
 .env
+
+# local environment and tool config
+.bash_profile
+.bashrc
+.profile
+.zprofile
+.zshrc
+.gitconfig
+.gitmodules
+.ripgreprc
+.mcp.json
+.idea
+.vscode
+.claude/
