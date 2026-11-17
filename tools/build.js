@@ -25,4 +25,8 @@ const data = JSON.stringify({units, ledger, audio}).replace(/</g, "\\u003c");
 const out = shell.replace("/*CSS*/", () => css).replace("/*DATA*/", () => `window.HINDI = ${data};`).replace("/*ENGINE*/", () => js);
 fs.mkdirSync(path.join(ROOT, "dist"), {recursive: true});
 fs.writeFileSync(path.join(ROOT, "dist/index.html"), out);
+// dist/artifact.html: the same page without the document skeleton, which the claude.ai artifact host adds itself.
+const frag = out.replace(/<!DOCTYPE html>\s*<html[^>]*>\s*<head>\s*/i, "").replace(/<meta charset="utf-8">\s*<meta name="viewport"[^>]*>\s*/i, "")
+  .replace(/<\/head>\s*<body>\s*/i, "").replace(/\s*<\/body>\s*<\/html>\s*$/i, "\n");
+fs.writeFileSync(path.join(ROOT, "dist/artifact.html"), frag);
 console.log(`dist/index.html: ${units.length} unit(s), ${Object.keys(audio).length} clip(s), ${(out.length / 1024).toFixed(0)} KB`);

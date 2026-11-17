@@ -32,19 +32,111 @@ const sample = (a, n) => shuffle(a).slice(0, n);
 const today = () => Math.floor((Date.now() - new Date().getTimezoneOffset() * 60000) / 86400000);
 
 /* ---- storage: one key per unit (the pilot's key for Unit 1), plus app-wide settings ---- */
-const APPKEY = "hindi-practice:app";
+/* Each stored object carries _t, the time it last changed. localStorage is the working copy;
+   when the hosted page offers a per-user store (claude.use("db")), it syncs on top (see sync). */
+const PFX = "hindi-practice:", APPKEY = PFX + "app";
 const load = k => { try { return JSON.parse(localStorage.getItem(k)) || null; } catch (e) { return null; } };
 const store = (k, v) => { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} };
+const body = v => { const {_t, ...b} = v; return JSON.stringify(b); };
+const seen = {}; // key -> body last stored, so save() writes only what changed
 let app = Object.assign({translit:true, level:1, unlockAll:false, reviewDay:null, reviewBest:null}, load(APPKEY) || {});
-if (!load(APPKEY)){ const u1 = load("hindi-practice:unit1"); if (u1){ if (u1.translit != null) app.translit = u1.translit; if (u1.level != null) app.level = u1.level; } }
+if (!load(APPKEY)){ const u1 = load(PFX + "unit1"); if (u1){ if (u1.translit != null) app.translit = u1.translit; if (u1.level != null) app.level = u1.level; } }
 if (!LEVELS[app.level]) app.level = 1;
+seen[APPKEY] = body(app);
 const ustate = {};
 function ust(u){
-  if (!ustate[u.id]) ustate[u.id] = Object.assign({best:{}, missed:{}, skills:{}, srs:{}}, load("hindi-practice:" + u.id) || {});
-  const s = ustate[u.id]; s.srs = s.srs || {}; return s;
+  if (!ustate[u.id]){ const s = ustate[u.id] = Object.assign({best:{}, missed:{}, skills:{}, srs:{}}, load(PFX + u.id) || {}); s.srs = s.srs || {}; seen[PFX + u.id] = body(s); }
+  return ustate[u.id];
 }
-const save = () => { store(APPKEY, app); Object.keys(ustate).forEach(id => store("hindi-practice:" + id, ustate[id])); };
+const getKey = k => k === APPKEY ? app : ustate[k.slice(PFX.length)];
+function save(){
+  const now = Date.now();
+  [APPKEY, ...Object.keys(ustate).map(id => PFX + id)].forEach(k => {
+    const v = getKey(k), b = body(v);
+    if (seen[k] === b) return;
+    seen[k] = b; v._t = now; store(k, v); sync.dirty(k);
+  });
+}
 const L = () => LEVELS[app.level];
+
+/* ---- cloud sync: one private document per unit plus one for settings, under data/users/<id>/ ----
+   Merge rule: the newer copy wins, except best scores, which keep the higher of the two,
+   so a passed test (and the units it unlocks) is never lost. */
+const sync = (() => {
+  let db = null, uid = null, status = "connecting", pending = new Set(), timer = null, pulling = null;
+  const chain = {};
+  const ref = k => db.collection("data/users/" + uid).doc(k.slice(PFX.length));
+  const allKeys = () => [APPKEY, ...UNITS.map(u => PFX + u.id)];
+  const set = s => { status = s; const el = document.getElementById("syncnote"); if (el) el.textContent = label(); };
+  function label(){
+    return {connecting:"Checking for saved progress…", synced:"Progress syncs to your claude.ai account, so it follows you between devices.",
+      syncing:"Saving progress…", local:"Progress is saved on this device only. Open this page on claude.ai while signed in to sync it across devices.",
+      error:"Could not reach your saved progress. It is kept on this device and will sync next time."}[status];
+  }
+  function dirty(k){ if (!db) return; pending.add(k); clearTimeout(timer); timer = setTimeout(flush, 1500); }
+  function write(k){
+    const v = getKey(k); if (!v) return Promise.resolve();
+    const doc = {_t: v._t || Date.now(), json: body(v)};
+    return chain[k] = (chain[k] || Promise.resolve()).then(() => ref(k).set(doc));
+  }
+  function flush(){
+    clearTimeout(timer);
+    if (!db || !pending.size) return;
+    const ks = [...pending]; pending.clear(); set("syncing");
+    Promise.all(ks.map(write)).then(() => set("synced"), () => { ks.forEach(k => pending.add(k)); set("error"); });
+  }
+  function merge(k, local, remote){
+    const lt = local._t || 0, rt = remote._t || 0;
+    const out = JSON.parse(JSON.stringify(rt > lt ? remote : local));
+    if (k !== APPKEY){
+      out.best = Object.assign({}, local.best, remote.best);
+      for (const id in local.best) out.best[id] = Math.max(local.best[id] || 0, (remote.best || {})[id] || 0);
+    }
+    out._t = Math.max(lt, rt);
+    return out;
+  }
+  async function pullOne(k){
+    if (k !== APPKEY) ust(UNITS.find(u => PFX + u.id === k));
+    const snap = await ref(k).get(), local = getKey(k), hadLocal = load(k) != null;
+    if (!snap.exists){ if (hadLocal) await write(k); return false; }
+    const d = snap.data(); let remote;
+    try { remote = Object.assign(JSON.parse(d.json), {_t: d._t || 0}); } catch (e) { return false; }
+    const out = merge(k, local, remote), ob = body(out), rb = body(remote);
+    if (ob !== rb) out._t = Date.now(); // the merge made a version neither side had
+    const changed = ob !== seen[k];
+    if (changed || (local._t || 0) !== out._t){
+      if (k === APPKEY){ app = Object.assign({translit:true, level:1, unlockAll:false, reviewDay:null, reviewBest:null}, out); if (!LEVELS[app.level]) app.level = 1; }
+      else ustate[k.slice(PFX.length)] = Object.assign({best:{}, missed:{}, skills:{}, srs:{}}, out);
+      seen[k] = ob; store(k, getKey(k));
+    }
+    if (ob !== rb) await write(k);
+    return changed;
+  }
+  function pull(){
+    if (!db || pulling) return pulling;
+    set("syncing");
+    pulling = Promise.all(allKeys().map(pullOne)).then(ch => {
+      set("synced");
+      if (ch.some(Boolean) && (view === "home" || view === "unit")) rerender();
+    }, () => set("error")).finally(() => { pulling = null; });
+    return pulling;
+  }
+  async function start(){
+    const c = window.claude;
+    if (!c || typeof c.use !== "function") return set("local");
+    const timeout = new Promise(r => setTimeout(() => r(null), 10000));
+    try {
+      const [d, u] = await Promise.race([Promise.all([c.use("db"), c.use("user")]), timeout.then(() => [null, null])]);
+      uid = u ? await u.id() : null;
+      db = d && uid ? d : null;
+    } catch (e) { db = null; }
+    if (!db) return set("local");
+    await pull();
+    document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flush(); else pull(); });
+    window.addEventListener("pagehide", flush);
+  }
+  return {dirty, start, label};
+})();
 
 /* ---- audio: recorded clip, then a Hindi browser voice, then the hosted page's voice ---- */
 let voice = null, cloudTTS = null, askClaude = null;
@@ -257,7 +349,8 @@ function home(){
       return `<button class="lesson" data-u="${u.id}" ${open ? "" : "disabled"}><span class="n">${u.n}</span><span><b>${esc(u.title)}</b> <span class="hi" lang="hi" style="color:var(--muted)">${esc(u.titleHi)}</span><small>${esc(u.scope)}</small><div class="bar" style="margin-top:6px"><i style="width:${Math.round(100 * doneL / totL)}%"></i></div><small>${doneL} of ${totL} lessons at ${PASS}%+</small></span>${!open ? `<span class="score">Locked</span>` : tb == null ? `<span class="score">Test: new</span>` : `<span class="score${tb >= PASS ? " ok" : ""}">Test ${tb}%</span>`}</button>`; }).join("")}
   </div>
   <label class="note" style="display:flex;gap:8px;align-items:center"><input type="checkbox" id="unlock" ${app.unlockAll ? "checked" : ""}> Unlock every unit (normally a unit opens when the previous unit's test is passed)</label>
-  <p class="note">Progress is kept in this browser only. Keys: 1 to 6 choose, Enter checks.</p>`;
+  <p class="note" id="syncnote">${esc(sync.label())}</p>
+  <p class="note keys">Keys: 1 to 6 choose, Enter checks.</p>`;
   wireTools();
   document.getElementById("unlock").onchange = e => { app.unlockAll = e.target.checked; save(); home(); };
   root.querySelectorAll("[data-u]").forEach(b => b.onclick = () => unitView(UNITS.find(u => u.id === b.dataset.u)));
@@ -436,6 +529,9 @@ document.addEventListener("keydown", e => {
 
 if ("speechSynthesis" in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
 home();
+sync.start();
+/* Keep the last question clear of the fixed check bar, whose height varies on a phone. */
+if ("ResizeObserver" in window) new ResizeObserver(() => document.body.style.setProperty("--foot-h", (foot.hidden ? 0 : foot.offsetHeight) + "px")).observe(foot);
 /* Optional capabilities: the hosted page's hooks, else the local explain helper if it is running. */
 if (window.claude && typeof window.claude.use === "function"){
   window.claude.use("sample").then(s => { askClaude = s || null; }).catch(() => {});

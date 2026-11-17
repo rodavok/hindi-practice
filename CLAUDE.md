@@ -9,7 +9,8 @@ A personal, Duolingo-style practice app for Snell & Weightman, *Complete Hindi* 
 - `content/authoring/unitNN.js` — the script that generates `unitNN.json` and the unit's ledger entry. Edit this, not the JSON. Run `node content/authoring/unitNN.js`. Helpers in `tools/author.js` (`gap`, `meaning`, `mc`, `tiles`, `agreeWhy`, `writeUnit`).
 - `src/engine.js`, `src/style.css`, `src/shell.html` — the shared engine, split out of `pilot/index.html` (kept for reference).
 - `tools/validate.js` — must pass before anything is committed: `node tools/validate.js [unit]`.
-- `tools/build.js` — writes `dist/index.html` (one self-contained page, gitignored).
+- `tools/build.js` — writes `dist/index.html` (one self-contained page, gitignored) and `dist/artifact.html` (the same page without the document skeleton).
+- The app is published privately at https://claude.ai/artifact/ALQsr6PWsLSuLkKLYZhHeb, which is how it runs on the phone. To update it, publish `dist/artifact.html` to that URL and leave `capabilities` out so it keeps db, user, sample and tts. Progress is kept in localStorage and synced per user through `db` (`data/users/<id>/<app|unitN>`; newer copy wins, best scores keep the max).
 - `PROGRESS.md` — one row per unit, plus items to review.
 
 ## Rules for every unit
