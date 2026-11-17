@@ -52,7 +52,7 @@ One file per unit, `content/unitNN.json`, plus the cumulative `content/ledger.js
   "order": "optional explanation for right words in the wrong order" }
 ```
 
-- `ans` the tiles in order; `alt` other accepted orders (same tiles); `wrong` the extra tiles with the explanation shown if the learner uses one. Hard level pads the bank with the unit's `distractors` forms (single words only), explained as “not a correct form here”. Never put a real word that could fit a tile sentence into `distractors`.
+- `ans` the tiles in order; `alt` other accepted answers: other orders, or a correct shorter sentence using only some of the tiles; `wrong` the extra tiles with the explanation shown if the learner uses one. Hard level pads the bank with the unit's `distractors` forms (single words only), explained as “not a correct form here”. Never put a real word that could fit a tile sentence into `distractors`.
 
 ## Validator rules
 

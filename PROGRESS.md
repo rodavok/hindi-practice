@@ -13,6 +13,7 @@
 | 9 | Done, validated (not committed) | 80 | 90 | 22 | book 104–116 (117 blank) |
 | 10 | Done, validated (not committed) | 80 | 75 | 22 | book 118–128 (129 blank) |
 | 11 | Done, validated (not committed) | 80 | 78 | 22 | book 130–143 (144 Test yourself, 145 blank) |
+| 12 | Done, validated (not committed) | 80 | 81 | 22 | book 146–158 (159 blank) |
 
 ## Items to review
 
@@ -403,6 +404,62 @@
   - Avoided the 11.3 frames: चिट्ठियाँ लिखीं (`ne:2` is साड़ी भेजी, `tl:2` कहानी पढ़ी), कुरते ख़रीदे and मूर्तियाँ ख़रीदीं (`ne:0` is साड़ियाँ बेचीं), खिड़की तोड़ी (`tl:5` गिलास तोड़ा, `ne:6` कैमरा उठाया था), खिड़की खोली (`pr:3` दरवाज़ा खोला), फ़ैक्स भेजा (`tl:6` घर साफ़ किया था), कपड़े धोए (`ne:4` कैमरे बेचे हैं), चाय पी (`tl:3` कॉफ़ी, `ir:5` ठंडा पानी).
   - Avoided कल रात को … लौटा (`in:1` uses परसों), लड़कियाँ कल सुबह बनारस पहुँचीं (`in:0` सीता दो बजे स्टेशन पहुँची), देर तक सोईं (`tl:0` दोपहर को सोया), पिताजी ने … रुपए उधार लिए (`ir:2` किताब उधार ली), उन्हें बहुत आनंद आया (`mn:5` uses नींद), मैंने अपना कैमरा बेचा, दादाजी न पहुँचे हों (`tl:8` uses मोहन दफ़्तर).
   - Remaining resemblances that are the construction itself: `in:10` and `mn:5` नींद आई (like रात को हमें नींद नहीं आई); `in:9`, `tl:9` मज़ा आया (like ख़ूब मज़ा भी आया होगा); `ir:4` शिकायत की; `pr:2` उन्होंने … दी (like उन्होंने सही क़ीमत दी); `te:1` घर पहुँचा हो.
+
+### Unit 12
+- Vocabulary: the end list (pp. 155–157) plus the Quick Vocab words, पौने (12.2 table), the 12.4 compounds बैठ जाना, सो जाना, समझ जाना, हो जाना, आ जाना and the 12.5 pairs लौट आना, लौट जाना, निकल आना, निकल जाना (not in the end list). चला आना and चला जाना are two entries.
+  - Earlier words re-listed only for a new sense: आम “mango” (unit 8 has आम “ordinary”), मगर “crocodile” (unit 10 “but”), भेंट “meeting, encounter” (unit 11 “presentation, gift”), पाना “(after a verb stem) to manage to” (unit 11 “to find, obtain”). Not repeated: आवश्यकता (unit 11), कि “or” (unit 10), सात (unit 6).
+  - Entries with the bracketed postposition kept in: को छोड़कर, से होकर.
+  - Left out: dialogue and example names (खन्ना, अरुण, सुरेश, हरीश, छोटू, लक्ष्मी, रजनी, रामायण), सर, and words used only in examples (सड़क, कुर्सी).
+  - गृह मंत्री is m/f in the book. I entered it as m with the gloss “home minister (m or f)” and kept it out of every item.
+- Glosses chosen to keep English answers distinct: कृपा करके “kindly, please (formal)” / मेहरबानी करके “kindly, please (Perso-Arabic)”; चला आना “to come along, approach” (12.5 text) / लौट आना “to come back” (the end list glosses चला आना “to come back”); पौन “three-quarters (12.45 in telling the time)” / पौना “three-quarter (adjective)” / पौने “a quarter to (with an hour)”; खेद “regret” / पछताना “to regret, repent”; भोजन “food (formal)”; नहाना “to bathe” (the book has “to bathe, wash”).
+- Romanisations I could not confirm from the book (mirroring the ledger's style): अंत ant, अद्भुत adbhut, अवकाश avkāś, आठों āṭhõ, गृह gṛh, मंत्री mantrī, ग्वालियर gvāliyar, जी-हुज़ूरी jī-huzūrī, डिगरी ḍigrī, परीक्षा parīkṣā, पौन paun, प्रकाशक prakāśak, बर्थ barth, बाँटना bā̃ṭnā, साढ़े sāṛhe, मिनट minaṭ, होल्ड holḍ, लेना-देना lenā-denā.
+- Unit 12 forms declared: the conjunctive participles (जाकर, नहाकर, पहुँचकर, लौटकर, बैठकर, दौड़कर, हँसकर, सुनकर, करके, छोड़कर, होकर, भूलकर, जान-बूझकर, बजकर…); बजा, बजने, बज, बजनेवाले; सकना, पाना, चुकना forms (सकता, सकती, सकतीं, सकते, सकेगा, सकेगी, सकेंगे, सका, सकी, सकूँ, पाया, पाई, पाईं, पाए, चुका, चुकी, चुके); चली, चले; and bare stems used before a second verb (चल, देख, बेच, पहुँच, खो, धो, तोड़, बदल, बैठ, सो, समझ, हो, लौट, निकल, ले, दे, पी, पा, सक).
+  - सक is a form, not a fake: it appears only in the wrong choice सुन सक रहा हूँ (`md:5`), since सकना is never continuous.
+- Forms that earlier units' rules produce, declared here: करेगा, चलेगी (futures); नहाता, होता, बजता (imperfective participles, wrong choices only); नहाया, दौड़ा, पहुँचे, निकली, ख़रीदीं (perfectives); पूरी, धीमी (feminine adjectives).
+- Deliberately wrong forms (Hard tile pool), all non-words:
+  - करकर, कियाकर: करना has only करके.
+  - जानाकर, नहानाकर, बैठनाकर, दौड़नाकर, खानाकर: कर on the infinitive. गयाकर: कर on the perfective.
+  - सकया, चुकया, पाआ: wrong perfectives (सका, चुका, पाया).
+  - बजेकर: कर on the oblique बजे.
+  - I avoided anything ending in ‑ाकर that is a real causative (बजाकर, सुनाकर, पढ़ाकर, बनाकर, मिलाकर), चुकता and चुकाया (real words), and the colloquial के forms (जाके, खोलके), which the book teaches. -करके on other stems (जाकरके) is also heard regionally, so it is not used.
+- Statements that follow the book's hedges or usage, not a strict rule:
+  - `tm:2` treats साढ़े एक as wrong for 1.30: “The book uses साढ़े from three upwards.” साढ़े एक is sometimes heard.
+  - बजा is tested only with one o'clock against two and upwards (`tm:0`, `tm:1`, `tl:9`, `tl:10`). सवा बजा, डेढ़ बजा, पौन बजा appear only in explanations and `_grammar`.
+  - `md:8`: चुकना “is rarely used in the negative” (the book). The wrong reply वह अभी पत्र नहीं पढ़ चुका है is explained in those terms.
+  - `cv:10`, `us:6`: compounds are “much less” used with negatives, not never.
+  - `md:2`: सकतीं हो is treated as wrong, by the unit 11 nasal rule (nasal only on the last word, and तुम … हो takes none).
+  - `us:3`: “both verbs must be ने verbs” is the book's rule. The example वह हँस दी is mine.
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `md:0`, `md:6`, `tl:0` “(a man speaking)”; `md:2` “(to a woman)”.
+  - `tm:3` (डेढ़, सवा दो), `tm:4` (सवा), `tm:6` (बजने में), `tm:11` (साढ़े, पौने), `tl:9` (पौने): the times are all real, ruled out by the English.
+  - `cb:0` लौट गए “went back” against the cue “came back”; `cb:1` ले आइए “bring” against “take”.
+  - `cv:5`: पढ़ लो and पढ़कर दो are real, ruled out by “read her letter out to her”.
+  - `cv:6`, `cv:7`: खो दी, बदल दिया are real compounds but need a doer with ने, and the sentence has none.
+  - `cp:7`: राज को भूलकर सब लोग आए is grammatical (“having forgotten Raj, everyone came”). The explanation says so and points to को छोड़कर for “except”.
+  - `tl:7`: the extra आओ makes यह थैला अपने साथ ले आओ “bring this bag with you”, ruled out by “Take”.
+  - `tl:10`: दस बजकर छह मिनट हैं uses the same tiles. It is ruled out by the cue, and the `order` note says the hour comes first.
+- Tile answers must use every answer tile (the engine compares the whole sequence), so two correct shorter sentences are rejected: `tl:6` दादी ने बच्चों को सेब दिए (without दे) and `tl:8` संगीता घर से बाहर आई (without निकल). `tl:2` and `tl:3` accept नहीं between the stem and the second verb (आ नहीं सकते, पहुँच नहीं पाया), and `tl:0` accepts नहाकर मैं आऊँगा.
+- `tl:3` uses पहुँच पाया, not ढूँढ़ पाया or a plain पाना “find”: Unit 11's पाना “to find, obtain” takes ने, so its tiles could have built a second correct sentence. The explanations and `us:1` say “after a verb stem” when they state that पाना takes no ने.
+- Choices never set against each other because both are correct:
+  - सकना against पाना outside the continuous (only `md:5`, with रहा, sets them against each other).
+  - Stem + कर against a compound or combination (लौटकर आया / लौट आया, लेकर जाओ / ले जाओ). `tl:7` has no लेकर tile.
+  - धो लिए against धो दिए (`cv:2`), सो गया against सोया, जाकर against जाके, कृपा करके against मेहरबानी करके.
+  - `tl:2` हम आज नहीं आ सकते uses आज, because कल would allow both “yesterday” and “tomorrow” readings with other tiles.
+- Sentences I'm unsure about:
+  - `cv:5` राज, दादी का पत्र पढ़ दो for “read her letter out to her”. This follows the book's कविता पढ़ दो, but पढ़कर सुना दो would be more usual.
+  - `cv:9` अरे, बस आ गई है ! Without है it would be more natural. I kept है to test the agreement.
+  - `tm:8` जल्दी करो, पाँच बज रहे हैं ! is translated “five is just striking”.
+  - `tm:0` क्या एक बजा है ? “Is it one o'clock?”.
+  - `tl:7` treats तुम्हारे साथ as wrong for the subject's own company (the unit 6 अपना rule).
+  - `cp:5` बच्चे दौड़कर बाहर गए “went out running”; `cb:4` रात को चाँद निकल आया; `mn:3` सो जाता है as a habitual compound.
+  - `md:10` दूधवाला अब तक आ चुका होगा “will have already come by now”.
+  - `cv:2` सीता ने सारे कपड़े धो लिए “washed all the clothes”, with लेना.
+- Near-match check against pp. 146–158: I typed the dialogues, the 12.1–12.5 examples and the 12.2 table, exercises 12A–12B and Test yourself into a scratch file, compared every `say` and tile answer by shared words, checked the wrong-choice sentences, explanations and `_grammar` examples against it by eye, then deleted the file.
+  - Changes I made: the `_grammar` example for सकना, पाना, चुकना (originally close to the 12.3 पाना example; now सीता वह चिट्ठी नहीं पढ़ सकी), `us:7` (संगीता चली गई instead of a name + चली गई frame), `tm:0` (Test yourself has अभी एक बजा है), `tm:2` and `tl:9` (the table's डेढ़ बजा है and सवा दो बजे हैं), `cv:10` (Test yourself 8, a negative with अभी तक), `cb:1` (इस बदमाश को ले जाओ).
+  - Frames avoided while writing: the 12A.1 model and 12A.2 (आकर चाय पी, घर जाकर रेडियो सुनेंगे; `cp:9` is घर लौटकर अख़बार पढ़ा), फ़र्श पर बैठकर आम खाया (`tl:1` बग़ीचे में बैठकर अख़बार पढ़ा), हँसकर कहा, माली दौड़कर पहुँचा, मुझको छोड़कर कोई नहीं बोला, the 12.3 examples (पूरे सेब, चाय पी चुके, खाना खा चुके, नाश्ता कर चुकी), and the 12.4 examples (गाड़ी ख़रीद ली, गाड़ी बेच दिया, मिठाइयाँ बाँट दीजिए, कहानी सुना दी, सारा काम कर लिया).
+  - Remaining resemblances that are the construction itself: `md:5` (like मैं यह दरवाज़ा नहीं खोल पा रहा हूँ), `cp:8` (X से होकर Y), `tm:5` (चार बजने में बीस मिनट हैं, like सात बजने में दस मिनट हैं), `tm:7` एक बजे, `cv:6` चाबी खो गई (like मोती खो गए), `cb:3` … होकर संगीता चली गई (like … देखकर वह चली गई), `md:10` चुका होगा (like धो चुका होगा), `cp:11` कृपा करके धीमी आवाज़ में (the dialogue has आवाज़ धीमी करके).
+
+- Fixed after review: `tl:6` and `tl:8` now accept the correct shorter sentences (दादी ने बच्चों को सेब दिए, संगीता घर से बाहर आई) as alternatives; the validator now allows an `alt` that uses only some of the tiles. `cv:5` now answers राज, दादी का पत्र पढ़कर सुना दो (“read it out to her”) instead of … पढ़ दो.
 
 ## Known issues and not yet done
 

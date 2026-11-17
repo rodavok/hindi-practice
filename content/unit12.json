@@ -1,0 +1,2288 @@
+{
+ "id": "unit12",
+ "n": 12,
+ "title": "Ask him and tell me",
+ "titleHi": "उनसे पूछकर मुझे बता दो",
+ "scope": "The conjunctive participle (stem + कर, करना करके, colloquial stem + के) linking actions, independent of ने, and as adverbs (दौड़कर, जान-बूझकर, कृपा करके, को छोड़कर, से होकर, भूलकर भी); telling the time with बजना (एक बजा है, दो बजे हैं, सवा, साढ़े, पौने, पौन, डेढ़, ढाई, बजकर, बजने में, बज रहे हैं, बजनेवाले हैं, पहर); सकना, पाना, चुकना after a stem, without ने; compound verbs with जाना, लेना, देना and the ने rule for them; verbs in combination (लौट आना, ले जाना, निकल आना, चला जाना); कि “or”",
+ "pages": "book 146–158 (159 blank)",
+ "skills": {
+  "cp": "Conjunctive participle",
+  "time": "Telling the time",
+  "modal": "सकना, पाना, चुकना",
+  "comp": "Compound verbs",
+  "comb": "Verbs in combination",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अंत",
+   "en": "end",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अद्भुत",
+   "en": "remarkable",
+   "c": "a"
+  },
+  {
+   "hi": "अवकाश",
+   "en": "leisure, free time",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आठों पहर",
+   "en": "all day long",
+   "c": "x"
+  },
+  {
+   "hi": "आम",
+   "en": "mango",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आराम करना",
+   "en": "to rest",
+   "c": "v"
+  },
+  {
+   "hi": "आवाज़",
+   "en": "voice, sound",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कविता",
+   "en": "poem, poetry",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कृपा",
+   "en": "kindness, grace",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कृपा करके",
+   "en": "kindly, please (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "खेद",
+   "en": "regret",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "खोना",
+   "en": "to lose, be lost",
+   "c": "v"
+  },
+  {
+   "hi": "गृह मंत्री",
+   "en": "home minister (m or f)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ग्वालियर",
+   "en": "Gwalior",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चला आना",
+   "en": "to come along, approach",
+   "c": "v"
+  },
+  {
+   "hi": "चला जाना",
+   "en": "to go away, go one's way",
+   "c": "v"
+  },
+  {
+   "hi": "चिढ़ाना",
+   "en": "to irritate, tease",
+   "c": "v"
+  },
+  {
+   "hi": "चुकना",
+   "en": "(after a verb stem) to have already done",
+   "c": "v"
+  },
+  {
+   "hi": "को छोड़कर",
+   "en": "apart from, except for",
+   "c": "x"
+  },
+  {
+   "hi": "जान-बूझकर",
+   "en": "deliberately",
+   "c": "x"
+  },
+  {
+   "hi": "जी-हुज़ूरी",
+   "en": "sycophancy, flattery",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "टैक्सी",
+   "en": "taxi",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "डिगरी",
+   "en": "degree",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "डिनर",
+   "en": "dinner",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ढाई",
+   "en": "two and a half",
+   "c": "a"
+  },
+  {
+   "hi": "तीसरे पहर",
+   "en": "in the afternoon",
+   "c": "x"
+  },
+  {
+   "hi": "दौड़ना",
+   "en": "to run",
+   "c": "v"
+  },
+  {
+   "hi": "धीमा",
+   "en": "low, faint",
+   "c": "a"
+  },
+  {
+   "hi": "नहाना",
+   "en": "to bathe",
+   "c": "v"
+  },
+  {
+   "hi": "नाश्ता",
+   "en": "breakfast",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पछताना",
+   "en": "to regret, repent",
+   "c": "v"
+  },
+  {
+   "hi": "परीक्षा",
+   "en": "examination",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "परीक्षा देना",
+   "en": "to take (sit) an exam",
+   "c": "v"
+  },
+  {
+   "hi": "पाना",
+   "en": "(after a verb stem) to manage to",
+   "c": "v"
+  },
+  {
+   "hi": "पार करना",
+   "en": "to cross",
+   "c": "v"
+  },
+  {
+   "hi": "पास करना",
+   "en": "to pass (an exam)",
+   "c": "v"
+  },
+  {
+   "hi": "पौन",
+   "en": "three-quarters (12.45 in telling the time)",
+   "c": "a"
+  },
+  {
+   "hi": "पौना",
+   "en": "three-quarter (adjective)",
+   "c": "a"
+  },
+  {
+   "hi": "पौने",
+   "en": "a quarter to (with an hour)",
+   "c": "a"
+  },
+  {
+   "hi": "प्रकाशक",
+   "en": "publisher",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बदमाश",
+   "en": "villain, rogue",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बदलना",
+   "en": "to change",
+   "c": "v"
+  },
+  {
+   "hi": "बर्थ",
+   "en": "berth",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बाँटना",
+   "en": "to divide, share out",
+   "c": "v"
+  },
+  {
+   "hi": "बोतल",
+   "en": "bottle",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भाभी",
+   "en": "elder brother's wife",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भूलकर भी",
+   "en": "even by mistake",
+   "c": "x"
+  },
+  {
+   "hi": "भेंट",
+   "en": "meeting, encounter",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भोजन",
+   "en": "food (formal)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भोजन करना",
+   "en": "to dine",
+   "c": "v"
+  },
+  {
+   "hi": "मगर",
+   "en": "crocodile",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मिठाई",
+   "en": "sweet, sweet dish",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मिनट",
+   "en": "minute",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुड़ना",
+   "en": "to turn",
+   "c": "v"
+  },
+  {
+   "hi": "मेहरबानी करके",
+   "en": "kindly, please (Perso-Arabic)",
+   "c": "x"
+  },
+  {
+   "hi": "रेडियो",
+   "en": "radio",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ले आना",
+   "en": "to bring",
+   "c": "v"
+  },
+  {
+   "hi": "ले जाना",
+   "en": "to take away",
+   "c": "v"
+  },
+  {
+   "hi": "लेना-देना",
+   "en": "dealings, connection",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "विवाह",
+   "en": "marriage",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "विशेष",
+   "en": "particular",
+   "c": "a"
+  },
+  {
+   "hi": "वैर",
+   "en": "hostility",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सकना",
+   "en": "(after a verb stem) to be able",
+   "c": "v"
+  },
+  {
+   "hi": "समाचार",
+   "en": "news",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सवा",
+   "en": "one and a quarter, plus a quarter",
+   "c": "a"
+  },
+  {
+   "hi": "साढ़े",
+   "en": "plus a half",
+   "c": "a"
+  },
+  {
+   "hi": "साथी",
+   "en": "companion, friend",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "साबुन",
+   "en": "soap",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सेब",
+   "en": "apple",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "से होकर",
+   "en": "via",
+   "c": "x"
+  },
+  {
+   "hi": "होली",
+   "en": "Holi, spring festival of colours",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "होल्ड करना",
+   "en": "to hold (a phone line)",
+   "c": "v"
+  },
+  {
+   "hi": "बैठ जाना",
+   "en": "to sit down",
+   "c": "v"
+  },
+  {
+   "hi": "सो जाना",
+   "en": "to go to sleep",
+   "c": "v"
+  },
+  {
+   "hi": "समझ जाना",
+   "en": "to realize",
+   "c": "v"
+  },
+  {
+   "hi": "हो जाना",
+   "en": "to become",
+   "c": "v"
+  },
+  {
+   "hi": "आ जाना",
+   "en": "to arrive",
+   "c": "v"
+  },
+  {
+   "hi": "लौट आना",
+   "en": "to come back",
+   "c": "v"
+  },
+  {
+   "hi": "लौट जाना",
+   "en": "to go back",
+   "c": "v"
+  },
+  {
+   "hi": "निकल आना",
+   "en": "to come out",
+   "c": "v"
+  },
+  {
+   "hi": "निकल जाना",
+   "en": "to go out, leave",
+   "c": "v"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "cp",
+   "title": "जाकर, खाकर, करके",
+   "desc": "The conjunctive participle: “having gone, after eating”",
+   "skill": "cp",
+   "items": [
+    {
+     "id": "cp:0",
+     "t": "mc",
+     "q": "Fill the gap: “After bathing Raj will have breakfast.”",
+     "hi": "राज ___ नाश्ता करेगा ।",
+     "say": "राज नहाकर नाश्ता करेगा ।",
+     "en": "{After bathing}[1] Raj[0] {will have}[3] breakfast[2].",
+     "a": "नहाकर",
+     "wrong": [
+      [
+       "नहाता",
+       "नहाता is the imperfective participle, “bathing (habitually)”. A first action linked to the main verb is stem + कर."
+      ],
+      [
+       "नहाया",
+       "नहाया is the perfective, “bathed”. Hindi does not join two verbs this way. The first action is stem + कर."
+      ],
+      [
+       "नहानाकर",
+       "Not a word. कर goes on the bare stem, not on the infinitive: नहाकर."
+      ]
+     ],
+     "why": "The conjunctive participle is the verb stem + कर (नहाकर “having bathed”, “after bathing”). It links a first action to the main verb."
+    },
+    {
+     "id": "cp:1",
+     "t": "mc",
+     "q": "Fill the gap: “We will phone you after reaching Delhi.”",
+     "hi": "हम दिल्ली ___ तुम्हें फ़ोन करेंगे ।",
+     "say": "हम दिल्ली पहुँचकर तुम्हें फ़ोन करेंगे ।",
+     "en": "We[0] {will phone}[4+5] you[3] {after reaching}[2] Delhi[1].",
+     "a": "पहुँचकर",
+     "wrong": [
+      [
+       "पहुँचे",
+       "पहुँचे is the perfective or the subjunctive. The first of two actions is stem + कर."
+      ],
+      [
+       "पहुँचना",
+       "पहुँचना is the infinitive. The conjunctive participle is the stem + कर."
+      ]
+     ],
+     "why": "The conjunctive participle is the verb stem + कर (नहाकर “having bathed”, “after bathing”). It links a first action to the main verb."
+    },
+    {
+     "id": "cp:2",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan got the luggage ready and went to the station.”",
+     "hi": "मोहन सामान तैयार ___ स्टेशन गया ।",
+     "say": "मोहन सामान तैयार करके स्टेशन गया ।",
+     "en": "Mohan[0] got[3] the luggage[1] ready[2] and went[5] to the station[4].",
+     "a": "करके",
+     "wrong": [
+      [
+       "करकर",
+       "Not a word. करना is the exception: its conjunctive participle is करके only."
+      ],
+      [
+       "किया",
+       "किया is the perfective, “did”. The first action takes the conjunctive participle."
+      ],
+      [
+       "कियाकर",
+       "Not a word. कर never goes on the perfective participle, and करना has करके."
+      ]
+     ],
+     "why": "करना is the exception: its conjunctive participle is करके only."
+    },
+    {
+     "id": "cp:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sita went to the market and bought a sari.”",
+     "hi": "सीता ने बाज़ार ___ एक साड़ी ख़रीदी ।",
+     "say": "सीता ने बाज़ार जाकर एक साड़ी ख़रीदी ।",
+     "en": "Sita[0] went[3] to the market[2] and bought[6] a[4] sari[5].",
+     "a": "जाकर",
+     "wrong": [
+      [
+       "जानाकर",
+       "Not a word. कर goes on the bare stem, not on the infinitive: जाकर."
+      ],
+      [
+       "गयाकर",
+       "Not a word. कर goes on the bare stem, not on the perfective: जाकर."
+      ],
+      [
+       "गई",
+       "गई is the perfective. Hindi does not string two finite verbs together like this. The first action is जाकर."
+      ]
+     ],
+     "why": "The conjunctive participle is the verb stem + कर (नहाकर “having bathed”, “after bathing”). It links a first action to the main verb. The main verb ख़रीदना still takes ने, सीता ने."
+    },
+    {
+     "id": "cp:4",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki drank her milk and went to sleep.”",
+     "hi": "___ दूध पीकर सो गई ।",
+     "say": "पिंकी दूध पीकर सो गई ।",
+     "en": "Pinki[0] drank[2] {her milk}[1] and {went to sleep}[3+4].",
+     "a": "पिंकी",
+     "wrong": [
+      [
+       "पिंकी ने",
+       "The main verb सो जाना is intransitive, so there is no ने, even though पीकर has an object."
+      ],
+      [
+       "पिंकी को",
+       "को does not mark the subject of सो जाना. The subject stays in the plain form."
+      ]
+     ],
+     "why": "The conjunctive participle does not affect the main clause: whether the doer takes ने depends only on the main verb."
+    },
+    {
+     "id": "cp:5",
+     "t": "mc",
+     "q": "Fill the gap: “The children went out running.”",
+     "hi": "बच्चे ___ बाहर गए ।",
+     "say": "बच्चे दौड़कर बाहर गए ।",
+     "en": "{The children}[0] went[3] out[2] running[1].",
+     "a": "दौड़कर",
+     "wrong": [
+      [
+       "दौड़ना",
+       "दौड़ना is the infinitive. The manner of the main action is stem + कर."
+      ],
+      [
+       "दौड़ा",
+       "दौड़ा is the perfective, “ran”, and it is singular. The manner of the main action is stem + कर."
+      ],
+      [
+       "दौड़नाकर",
+       "Not a word. कर goes on the bare stem: दौड़कर."
+      ]
+     ],
+     "why": "Some conjunctive participles work as adverbs of manner: दौड़कर “running”, हँसकर “laughingly”."
+    },
+    {
+     "id": "cp:6",
+     "t": "mc",
+     "q": "Fill the gap: “He broke my glass deliberately.”",
+     "hi": "उसने ___ मेरा गिलास तोड़ा ।",
+     "say": "उसने जान-बूझकर मेरा गिलास तोड़ा ।",
+     "en": "He[0] broke[4] my[2] glass[3] deliberately[1].",
+     "a": "जान-बूझकर",
+     "wrong": [
+      [
+       "छोड़कर",
+       "छोड़कर “apart from” follows a noun with को (राज को छोड़कर)."
+      ],
+      [
+       "होकर",
+       "होकर “via” follows the name of a place (लखनऊ से होकर)."
+      ]
+     ],
+     "why": "जान-बूझकर “deliberately” is built on two conjunctive participles."
+    },
+    {
+     "id": "cp:7",
+     "t": "mc",
+     "q": "Fill the gap: “Everyone came except Raj.”",
+     "hi": "राज को ___ सब लोग आए ।",
+     "say": "राज को छोड़कर सब लोग आए ।",
+     "en": "Everyone[3+4] came[5] except[1+2] Raj[0].",
+     "a": "छोड़कर",
+     "wrong": [
+      [
+       "होकर",
+       "होकर means “via”, of a route."
+      ],
+      [
+       "भूलकर",
+       "राज को भूलकर would mean “having forgotten Raj”, and भूलकर भी is “even by mistake”. “Except” is को छोड़कर."
+      ]
+     ],
+     "why": "X को छोड़कर “apart from X, except X”."
+    },
+    {
+     "id": "cp:8",
+     "t": "mc",
+     "q": "Fill the gap: “We went to Banaras via Lucknow.”",
+     "hi": "हम लखनऊ से ___ बनारस गए ।",
+     "say": "हम लखनऊ से होकर बनारस गए ।",
+     "en": "We[0] went[5] to Banaras[4] via[2+3] Lucknow[1].",
+     "a": "होकर",
+     "wrong": [
+      [
+       "होता",
+       "होता is the imperfective participle of होना. “Via” is (से) होकर."
+      ],
+      [
+       "छोड़कर",
+       "छोड़कर “except” follows को, not a route."
+      ]
+     ],
+     "why": "(से) होकर “via”: लखनऊ से होकर “via Lucknow”."
+    },
+    {
+     "id": "cp:9",
+     "t": "mc",
+     "q": "Join the two sentences with a conjunctive participle",
+     "a": "मोहन ने घर लौटकर अख़बार पढ़ा ।",
+     "wrong": [
+      [
+       "मोहन घर लौटकर अख़बार पढ़ा ।",
+       "पढ़ना is transitive and the main verb is perfective, so the doer takes ने. लौटकर does not change that."
+      ],
+      [
+       "मोहन ने घर लौटा अख़बार पढ़ा ।",
+       "लौटा is the perfective. The first action goes into the conjunctive participle, लौटकर."
+      ]
+     ],
+     "why": "The conjunctive participle does not affect the main clause: whether the doer takes ने depends only on the main verb.",
+     "hi": "मोहन घर लौटा । उसने अख़बार पढ़ा ।",
+     "audio": true,
+     "say": "मोहन ने घर लौटकर अख़बार पढ़ा ।",
+     "en": "Mohan[0] returned[3] home[2] and read[5] the newspaper[4]."
+    },
+    {
+     "id": "cp:10",
+     "t": "mc",
+     "q": "Use a conjunctive participle instead of “… के बाद”",
+     "a": "खाना खाकर हम बाज़ार गए ।",
+     "wrong": [
+      [
+       "खाना खाकर हमने बाज़ार गए ।",
+       "जाना is intransitive, so हम takes no ने. खाकर does not change that."
+      ],
+      [
+       "खाना खाता हम बाज़ार गए ।",
+       "खाता is the imperfective participle. Use stem + कर, खाकर."
+      ],
+      [
+       "खाना खानाकर हम बाज़ार गए ।",
+       "खानाकर is not a word. कर goes on the bare stem: खाकर."
+      ]
+     ],
+     "why": "The conjunctive participle is the verb stem + कर (नहाकर “having bathed”, “after bathing”). It links a first action to the main verb.",
+     "hi": "खाना खाने के बाद हम बाज़ार गए ।",
+     "audio": true,
+     "say": "खाना खाकर हम बाज़ार गए ।",
+     "en": "{After a meal}[0+1] we[2] went[4] to the market[3]."
+    },
+    {
+     "id": "cp:11",
+     "t": "mc",
+     "q": "Fill the gap: “Please speak in a low voice.”",
+     "hi": "कृपा ___ धीमी आवाज़ में बोलिए ।",
+     "say": "कृपा करके धीमी आवाज़ में बोलिए ।",
+     "en": "Please[0+1] speak[5] {in a low voice}[2+3+4].",
+     "a": "करके",
+     "wrong": [
+      [
+       "कीजिए",
+       "कीजिए is the polite imperative. “Kindly” is the fixed phrase कृपा करके."
+      ],
+      [
+       "करकर",
+       "Not a word. करना is the exception: its conjunctive participle is करके only."
+      ]
+     ],
+     "why": "कृपा करके and मेहरबानी करके “kindly, please” are conjunctive participles of करना."
+    }
+   ]
+  },
+  {
+   "id": "time",
+   "title": "कितने बजे हैं ?",
+   "desc": "Telling the time: बजा, बजे, सवा, साढ़े, पौने, बजकर, बजने में",
+   "skill": "time",
+   "items": [
+    {
+     "id": "tm:0",
+     "t": "mc",
+     "q": "Fill the gap: “Is it one o'clock?”",
+     "hi": "क्या एक ___ है ?",
+     "say": "क्या एक बजा है ?",
+     "en": "{Is it}[3] one[1] o'clock[2]?",
+     "a": "बजा",
+     "wrong": [
+      [
+       "बजे",
+       "बजे is plural, used from two o'clock upwards (दो बजे हैं). One o'clock is singular."
+      ],
+      [
+       "बजता",
+       "बजता is the imperfective, “strikes (regularly)”. Telling the time uses the perfective बजा."
+      ]
+     ],
+     "why": "Telling the time: एक बजा है, but दो बजे हैं and upwards. “At” a time is the oblique बजे, even for one o'clock."
+    },
+    {
+     "id": "tm:1",
+     "t": "mc",
+     "q": "Fill the gap: “It's half past four.”",
+     "hi": "साढ़े चार ___ हैं ।",
+     "say": "साढ़े चार बजे हैं ।",
+     "en": "It's[3] {half past}[0] four[1+2].",
+     "a": "बजे",
+     "wrong": [
+      [
+       "बजा",
+       "बजा goes with one o'clock (एक बजा है). साढ़े चार is plural."
+      ],
+      [
+       "बजकर",
+       "बजकर adds minutes past the hour (चार बजकर दस मिनट)."
+      ]
+     ],
+     "why": "Telling the time: एक बजा है, but दो बजे हैं and upwards. “At” a time is the oblique बजे, even for one o'clock."
+    },
+    {
+     "id": "tm:2",
+     "t": "mc",
+     "q": "How do you say “The film will start at half past one”?",
+     "a": "फ़िल्म डेढ़ बजे शुरू होगी ।",
+     "wrong": [
+      [
+       "फ़िल्म साढ़े एक बजे शुरू होगी ।",
+       "The book uses साढ़े from three upwards. Half past one is डेढ़, “one and a half”."
+      ],
+      [
+       "फ़िल्म सवा बजे शुरू होगी ।",
+       "सवा बजे is at a quarter past one."
+      ]
+     ],
+     "why": "सवा “plus a quarter”, साढ़े “plus a half” (from three upwards), पौने “less a quarter”. 1.30 is डेढ़, 2.30 is ढाई.",
+     "say": "फ़िल्म डेढ़ बजे शुरू होगी ।",
+     "en": "{The film}[0] {will start}[3+4] at[2] {half past one}[1]."
+    },
+    {
+     "id": "tm:3",
+     "t": "mc",
+     "q": "Fill the gap: “Our bus will leave at half past two.”",
+     "hi": "हमारी बस ___ बजे चलेगी ।",
+     "say": "हमारी बस ढाई बजे चलेगी ।",
+     "en": "Our[0] bus[1] {will leave}[4] at[3] {half past two}[2].",
+     "a": "ढाई",
+     "wrong": [
+      [
+       "डेढ़",
+       "डेढ़ बजे is at half past one."
+      ],
+      [
+       "सवा दो",
+       "सवा दो is a quarter past two."
+      ]
+     ],
+     "why": "सवा “plus a quarter”, साढ़े “plus a half” (from three upwards), पौने “less a quarter”. 1.30 is डेढ़, 2.30 is ढाई."
+    },
+    {
+     "id": "tm:4",
+     "t": "mc",
+     "q": "Fill the gap: “I get up at a quarter to seven every day.”",
+     "hi": "मैं हर दिन ___ सात बजे उठता हूँ ।",
+     "say": "मैं हर दिन पौने सात बजे उठता हूँ ।",
+     "en": "I[0] {get up}[6+7] at[5] {a quarter to}[3] seven[4] every[1] day[2].",
+     "a": "पौने",
+     "wrong": [
+      [
+       "पौन",
+       "पौन “three-quarters” is used alone for a quarter to one (पौन बजा). Before an hour it is पौने."
+      ],
+      [
+       "सवा",
+       "सवा सात is a quarter past seven."
+      ]
+     ],
+     "why": "सवा “plus a quarter”, साढ़े “plus a half” (from three upwards), पौने “less a quarter”. 1.30 is डेढ़, 2.30 is ढाई."
+    },
+    {
+     "id": "tm:5",
+     "t": "mc",
+     "q": "Fill the gap: “It's twenty minutes to four.”",
+     "hi": "चार ___ में बीस मिनट हैं ।",
+     "say": "चार बजने में बीस मिनट हैं ।",
+     "en": "It's[5] twenty[3] minutes[4] to[1+2] four[0].",
+     "a": "बजने",
+     "wrong": [
+      [
+       "बजकर",
+       "बजकर gives minutes past the hour. Minutes to the hour use बजने में."
+      ],
+      [
+       "बजे",
+       "बजे is not used here. Minutes to the hour use the oblique infinitive, बजने में."
+      ]
+     ],
+     "why": "Minutes past the hour use बजकर (दो बजकर दस मिनट), minutes to the hour use बजने में (दो बजने में दस मिनट)."
+    },
+    {
+     "id": "tm:6",
+     "t": "mc",
+     "q": "Fill the gap: “The guests arrived at twenty-five minutes past three.”",
+     "hi": "मेहमान तीन ___ पच्चीस मिनट पर पहुँचे ।",
+     "say": "मेहमान तीन बजकर पच्चीस मिनट पर पहुँचे ।",
+     "en": "{The guests}[0] arrived[6] at[5] twenty-five[3] minutes[4] past[2] three[1].",
+     "a": "बजकर",
+     "wrong": [
+      [
+       "बजने में",
+       "तीन बजने में पच्चीस मिनट is twenty-five to three."
+      ],
+      [
+       "बजे",
+       "बजे cannot take minutes after it. Minutes past the hour use बजकर."
+      ],
+      [
+       "बजेकर",
+       "Not a word. कर goes on the bare stem of बजना, बजकर."
+      ]
+     ],
+     "why": "Minutes past the hour use बजकर (दो बजकर दस मिनट), minutes to the hour use बजने में (दो बजने में दस मिनट)."
+    },
+    {
+     "id": "tm:7",
+     "t": "mc",
+     "q": "Fill the gap: “Meet me at one tomorrow.”",
+     "hi": "कल एक ___ मुझसे मिलो ।",
+     "say": "कल एक बजे मुझसे मिलो ।",
+     "en": "Meet[4] me[3] at[2] one[1] tomorrow[0].",
+     "a": "बजे",
+     "wrong": [
+      [
+       "बजा",
+       "बजा is used in telling the time (एक बजा है). “At” a time takes the oblique बजे, even for one o'clock."
+      ],
+      [
+       "बजकर",
+       "बजकर adds minutes past the hour (एक बजकर दस मिनट)."
+      ]
+     ],
+     "why": "Telling the time: एक बजा है, but दो बजे हैं and upwards. “At” a time is the oblique बजे, even for one o'clock."
+    },
+    {
+     "id": "tm:8",
+     "t": "mc",
+     "q": "Fill the gap: “Hurry up, it's just striking five!”",
+     "hi": "जल्दी करो, पाँच बज ___ हैं !",
+     "say": "जल्दी करो, पाँच बज रहे हैं !",
+     "en": "{Hurry up}[0+1], it's[5] {just striking}[3+4] five[2]!",
+     "a": "रहे",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is singular. पाँच takes the plural, बज रहे हैं."
+      ],
+      [
+       "रही",
+       "रही is feminine. The time is told with masculine forms."
+      ]
+     ],
+     "why": "The continuous of बजना, बज रहे हैं, gives “it's just … o'clock”."
+    },
+    {
+     "id": "tm:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बारह बजनेवाले हैं ।",
+     "audio": true,
+     "a": "It's about to strike twelve.",
+     "wrong": [
+      [
+       "It's half past twelve.",
+       "That would be साढ़े बारह बजे हैं. बजनेवाले हैं means “about to strike”."
+      ],
+      [
+       "It's ten past twelve.",
+       "That would be बारह बजकर दस मिनट हैं. Infinitive + वाला means “about to”."
+      ]
+     ],
+     "why": "बजनेवाले हैं — “(the hour) is about to strike”."
+    },
+    {
+     "id": "tm:10",
+     "t": "mc",
+     "q": "What does तीसरे पहर mean?",
+     "a": "in the afternoon",
+     "wrong": [
+      [
+       "all day long",
+       "That is आठों पहर, “all eight watches”."
+      ],
+      [
+       "at three o'clock",
+       "पहर is a watch of about three hours, not an hour. Three o'clock is तीन बजे."
+      ]
+     ],
+     "why": "पहर is one of the eight three-hour watches of the traditional day. It survives in दोपहर, तीसरे पहर and आठों पहर."
+    },
+    {
+     "id": "tm:11",
+     "t": "mc",
+     "q": "Fill the gap: “The children reached school at a quarter past nine.”",
+     "hi": "बच्चे ___ नौ बजे स्कूल पहुँचे ।",
+     "say": "बच्चे सवा नौ बजे स्कूल पहुँचे ।",
+     "en": "{The children}[0] reached[5] school[4] at[3] {a quarter past}[1] nine[2].",
+     "a": "सवा",
+     "wrong": [
+      [
+       "साढ़े",
+       "साढ़े नौ is half past nine."
+      ],
+      [
+       "पौने",
+       "पौने नौ is a quarter to nine."
+      ]
+     ],
+     "why": "सवा “plus a quarter”, साढ़े “plus a half” (from three upwards), पौने “less a quarter”. 1.30 is डेढ़, 2.30 is ढाई."
+    }
+   ]
+  },
+  {
+   "id": "modal",
+   "title": "सकना, पाना, चुकना",
+   "desc": "“Can”, “manage to”, “have already”",
+   "skill": "modal",
+   "items": [
+    {
+     "id": "md:0",
+     "t": "mc",
+     "q": "Fill the gap: “I can't come this evening. (a man speaking)”",
+     "hi": "मैं आज शाम को नहीं आ ___ ।",
+     "say": "मैं आज शाम को नहीं आ सकता ।",
+     "en": "I[0] can't[4+6] come[5] {this evening}[1+2+3]. (a man speaking)",
+     "a": "सकता",
+     "wrong": [
+      [
+       "सकती",
+       "सकती is feminine. The speaker is a man."
+      ],
+      [
+       "सकूँ",
+       "सकूँ is the subjunctive, “that I may be able”. A plain statement “I can't” is सकता."
+      ]
+     ],
+     "why": "सकना follows the bare stem: आ सकता “can come”. In the negative the auxiliary हूँ is usually dropped."
+    },
+    {
+     "id": "md:1",
+     "t": "mc",
+     "q": "Fill the gap: “Sita couldn't read that letter.”",
+     "hi": "___ वह चिट्ठी नहीं पढ़ सकी ।",
+     "say": "सीता वह चिट्ठी नहीं पढ़ सकी ।",
+     "en": "Sita[0] couldn't[3+5] read[4] that[1] letter[2].",
+     "a": "सीता",
+     "wrong": [
+      [
+       "सीता ने",
+       "सकना never takes ने, even after a transitive stem like पढ़."
+      ],
+      [
+       "सीता को",
+       "को does not mark the subject of सकना. The subject stays in the plain form."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "md:2",
+     "t": "mc",
+     "q": "Fill the gap: “Can you come to the market with me tomorrow? (to a woman)”",
+     "hi": "क्या तुम कल मेरे साथ बाज़ार चल ___ हो ?",
+     "say": "क्या तुम कल मेरे साथ बाज़ार चल सकती हो ?",
+     "en": "Can[7+8] you[1] come[6] to the market[5] with[4] me[3] tomorrow[2]? (to a woman)",
+     "a": "सकती",
+     "wrong": [
+      [
+       "सकते",
+       "सकते is masculine. The cue is to a woman."
+      ],
+      [
+       "सकतीं",
+       "With an auxiliary the feminine plural nasal goes on the last word only, and तुम … हो needs none: सकती हो."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "md:3",
+     "t": "mc",
+     "q": "Fill the gap: “Raj won't be able to get to the office tomorrow.”",
+     "hi": "राज कल दफ़्तर नहीं पहुँच ___ ।",
+     "say": "राज कल दफ़्तर नहीं पहुँच सकेगा ।",
+     "en": "Raj[0] {won't be able to}[3+5] get[4] to the office[2] tomorrow[1].",
+     "a": "सकेगा",
+     "wrong": [
+      [
+       "सकेगी",
+       "सकेगी is feminine. Raj is a man."
+      ],
+      [
+       "सकेंगे",
+       "सकेंगे is plural. Raj, spoken of plainly, takes the singular."
+      ]
+     ],
+     "why": "सकना has a future: सकेगा, सकेगी, सकेंगे “will be able”."
+    },
+    {
+     "id": "md:4",
+     "t": "mc",
+     "q": "Fill the gap: “The children didn't manage to hear the whole story.”",
+     "hi": "बच्चे पूरी कहानी नहीं सुन ___ ।",
+     "say": "बच्चे पूरी कहानी नहीं सुन पाए ।",
+     "en": "{The children}[0] {didn't manage to}[3+5] hear[4] the whole[1] story[2].",
+     "a": "पाए",
+     "wrong": [
+      [
+       "पाया",
+       "पाया is singular. बच्चे is plural."
+      ],
+      [
+       "पाईं",
+       "पाईं is feminine plural, as if agreeing with कहानी. पाना agrees with the subject, बच्चे."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "md:5",
+     "t": "mc",
+     "q": "Which says “I can't hear your voice” (a man on the phone, trying)?",
+     "a": "मैं तुम्हारी आवाज़ नहीं सुन पा रहा हूँ ।",
+     "wrong": [
+      [
+       "मैं तुम्हारी आवाज़ नहीं सुन सक रहा हूँ ।",
+       "सकना is never used in the continuous. पाना can be: सुन पा रहा हूँ."
+      ],
+      [
+       "मैं तुम्हारी आवाज़ नहीं सुनकर पा रहा हूँ ।",
+       "पाना follows the bare stem (सुन), not the conjunctive participle."
+      ]
+     ],
+     "why": "पाना “manage to” can be continuous, सकना cannot.",
+     "say": "मैं तुम्हारी आवाज़ नहीं सुन पा रहा हूँ ।",
+     "en": "I[0] {am not managing}[3+5+6+7] to hear[4] your[1] voice[2]."
+    },
+    {
+     "id": "md:6",
+     "t": "mc",
+     "q": "Fill the gap: “I have already seen this film. (a man speaking)”",
+     "hi": "मैं यह फ़िल्म देख ___ हूँ ।",
+     "say": "मैं यह फ़िल्म देख चुका हूँ ।",
+     "en": "I[0] {have already seen}[3+4+5] this[1] film[2]. (a man speaking)",
+     "a": "चुका",
+     "wrong": [
+      [
+       "चुकी",
+       "चुकी is feminine. The speaker is a man."
+      ],
+      [
+       "चुके",
+       "चुके is plural. मैं takes the singular."
+      ],
+      [
+       "चुकया",
+       "Not a word. The perfective of चुकना is चुका, with no -y-."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "md:7",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki has already written the letter.”",
+     "hi": "___ चिट्ठी लिख चुकी है ।",
+     "say": "पिंकी चिट्ठी लिख चुकी है ।",
+     "en": "Pinki[0] {has already written}[2+3+4] the letter[1].",
+     "a": "पिंकी",
+     "wrong": [
+      [
+       "पिंकी ने",
+       "चुकना never takes ने, even after a transitive stem like लिख."
+      ],
+      [
+       "पिंकी को",
+       "को does not mark the subject of चुकना. The subject stays in the plain form."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "md:8",
+     "t": "mc",
+     "q": "Answer “No, he hasn't read it yet.”",
+     "a": "नहीं, उसने अभी पत्र नहीं पढ़ा है ।",
+     "wrong": [
+      [
+       "नहीं, वह अभी पत्र नहीं पढ़ चुका है ।",
+       "The book notes that चुकना is rarely used in the negative. The usual reply drops it and uses the plain perfective, with ने."
+      ],
+      [
+       "नहीं, उसने अभी पत्र नहीं पढ़ चुका है ।",
+       "चुकना never takes ने, and in the negative the plain perfective is used instead: उसने … नहीं पढ़ा है."
+      ]
+     ],
+     "why": "चुकना is rarely negative. “Not yet” uses the plain perfective.",
+     "hi": "क्या राज पत्र पढ़ चुका है ?",
+     "audio": true,
+     "say": "नहीं, उसने अभी पत्र नहीं पढ़ा है ।",
+     "en": "No[0], he[1] {hasn't}[4+6] read[5] the letter[3] yet[2]."
+    },
+    {
+     "id": "md:9",
+     "t": "mc",
+     "q": "Which sentence is correct?",
+     "a": "मैं हिन्दी बोल सकता हूँ ।",
+     "wrong": [
+      [
+       "मैं हिन्दी सकता हूँ ।",
+       "सकना cannot stand alone. It always follows a verb stem, बोल सकता."
+      ],
+      [
+       "मैं हिन्दी बोलना सकता हूँ ।",
+       "सकना follows the bare stem, not the infinitive, बोल सकता."
+      ]
+     ],
+     "why": "सकना, पाना and चुकना never stand alone: the stem of the main verb comes first.",
+     "say": "मैं हिन्दी बोल सकता हूँ ।",
+     "en": "I[0] can[3+4] speak[2] Hindi[1]."
+    },
+    {
+     "id": "md:10",
+     "t": "mc",
+     "q": "Fill the gap: “The milkman will have already come by now.”",
+     "hi": "दूधवाला अब तक आ ___ होगा ।",
+     "say": "दूधवाला अब तक आ चुका होगा ।",
+     "en": "{The milkman}[0] {will have}[5] {already come}[3+4] {by now}[1+2].",
+     "a": "चुका",
+     "wrong": [
+      [
+       "चुकी",
+       "चुकी is feminine. दूधवाला is a man."
+      ],
+      [
+       "चुके",
+       "चुके is plural. दूधवाला is one man."
+      ]
+     ],
+     "why": "चुका होगा “will have already …, must have already …”."
+    }
+   ]
+  },
+  {
+   "id": "comp",
+   "title": "सो गया, खा लिया, दे दिया",
+   "desc": "Compound verbs with जाना, लेना, देना",
+   "skill": "comp",
+   "items": [
+    {
+     "id": "cv:0",
+     "t": "mc",
+     "q": "Fill the gap: “The little child fell asleep quickly.”",
+     "hi": "छोटा बच्चा जल्दी सो ___ ।",
+     "say": "छोटा बच्चा जल्दी सो गया ।",
+     "en": "The little[0] child[1] {fell asleep}[3+4] quickly[2].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गई",
+       "गई is feminine. बच्चा is masculine."
+      ],
+      [
+       "गए",
+       "गए is plural. छोटा बच्चा is one child."
+      ]
+     ],
+     "why": "जाना as the second verb gives completeness or a change of state (सो जाना, बदल जाना, हो जाना)."
+    },
+    {
+     "id": "cv:1",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan drank up all the milk.”",
+     "hi": "___ सारा दूध पी गया ।",
+     "say": "मोहन सारा दूध पी गया ।",
+     "en": "Mohan[0] {drank up}[3+4] all[1] {the milk}[2].",
+     "a": "मोहन",
+     "wrong": [
+      [
+       "मोहन ने",
+       "पी जाना ends in जाना, which is intransitive, so there is no ने."
+      ],
+      [
+       "मोहन को",
+       "को does not mark the subject. The subject of पी जाना stays in the plain form."
+      ]
+     ],
+     "why": "A compound verb takes ने only when both verbs are ने verbs (बेच दिया, खा लिया). With जाना as the second verb there is no ने."
+    },
+    {
+     "id": "cv:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita washed all the clothes.”",
+     "hi": "सीता ने सारे कपड़े धो ___ ।",
+     "say": "सीता ने सारे कपड़े धो लिए ।",
+     "en": "Sita[0] washed[4+5] all[2] {the clothes}[3].",
+     "a": "लिए",
+     "wrong": [
+      [
+       "ली",
+       "ली would agree with सीता. With ने the verb agrees with कपड़े, masculine plural."
+      ],
+      [
+       "लिया",
+       "लिया is singular. कपड़े is plural."
+      ]
+     ],
+     "why": "A compound verb takes ने only when both verbs are ने verbs (बेच दिया, खा लिया). With जाना as the second verb there is no ने."
+    },
+    {
+     "id": "cv:3",
+     "t": "mc",
+     "q": "Fill the gap: “Raj broke that old glass.”",
+     "hi": "___ वह पुराना गिलास तोड़ दिया ।",
+     "say": "राज ने वह पुराना गिलास तोड़ दिया ।",
+     "en": "Raj[0] broke[5+6] that[2] old[3] glass[4].",
+     "a": "राज ने",
+     "wrong": [
+      [
+       "राज",
+       "In तोड़ देना both verbs are ने verbs, so the doer takes ने."
+      ],
+      [
+       "राज को",
+       "को does not mark the doer. The doer of a transitive perfective takes ने."
+      ]
+     ],
+     "why": "A compound verb takes ने only when both verbs are ने verbs (बेच दिया, खा लिया). With जाना as the second verb there is no ने."
+    },
+    {
+     "id": "cv:4",
+     "t": "mc",
+     "q": "Fill the gap: “Sita made tea for me.”",
+     "hi": "सीता ने मेरे लिए चाय बना ___ ।",
+     "say": "सीता ने मेरे लिए चाय बना दी ।",
+     "en": "Sita[0] made[5+6] tea[4] for[3] me[2].",
+     "a": "दी",
+     "wrong": [
+      [
+       "दिया",
+       "दिया is masculine. With ने the verb agrees with चाय, feminine."
+      ],
+      [
+       "दीं",
+       "दीं is plural. चाय is singular."
+      ]
+     ],
+     "why": "लेना as the second verb turns the benefit towards the doer, देना away from the doer. A compound verb takes ने only when both verbs are ने verbs (बेच दिया, खा लिया). With जाना as the second verb there is no ने."
+    },
+    {
+     "id": "cv:5",
+     "t": "mc",
+     "q": "Grandma can't read. Ask Raj to read her letter out to her.",
+     "a": "राज, दादी का पत्र पढ़कर सुना दो ।",
+     "wrong": [
+      [
+       "राज, दादी का पत्र पढ़ लो ।",
+       "With लेना the benefit flows towards the doer, “read it to yourself”. Reading aloud to someone is पढ़कर सुनाना, with देना because it is done for her."
+      ],
+      [
+       "राज, दादी का पत्र पढ़कर दो ।",
+       "पढ़कर दो is two actions, “read it and then hand it over”, not reading it out."
+      ]
+     ],
+     "why": "लेना as the second verb turns the benefit towards the doer, देना away from the doer.",
+     "say": "राज, दादी का पत्र पढ़कर सुना दो ।",
+     "en": "Raj[0], {read out}[4+5+6] Grandma's[1+2] letter[3]."
+    },
+    {
+     "id": "cv:6",
+     "t": "mc",
+     "q": "Fill the gap: “My key got lost.”",
+     "hi": "मेरी चाबी खो ___ ।",
+     "say": "मेरी चाबी खो गई ।",
+     "en": "My[0] key[1] {got lost}[2+3].",
+     "a": "गई",
+     "wrong": [
+      [
+       "दी",
+       "खो देना is transitive, “to lose something”, and needs a doer with ने (मैंने चाबी खो दी). Here चाबी itself is the subject."
+      ],
+      [
+       "गया",
+       "गया is masculine. चाबी is feminine."
+      ]
+     ],
+     "why": "With verbs that can be transitive or intransitive (खोना, बदलना), जाना as the second verb makes the use intransitive."
+    },
+    {
+     "id": "cv:7",
+     "t": "mc",
+     "q": "Fill the gap: “This town has changed a lot.”",
+     "hi": "यह शहर बहुत बदल ___ है ।",
+     "say": "यह शहर बहुत बदल गया है ।",
+     "en": "This[0] town[1] {has changed}[3+4+5] {a lot}[2].",
+     "a": "गया",
+     "wrong": [
+      [
+       "दिया",
+       "बदल देना is transitive, “to change something”, and needs a doer with ने. Here the town itself has changed."
+      ],
+      [
+       "गई",
+       "गई is feminine. शहर is masculine."
+      ]
+     ],
+     "why": "With verbs that can be transitive or intransitive (खोना, बदलना), जाना as the second verb makes the use intransitive."
+    },
+    {
+     "id": "cv:8",
+     "t": "mc",
+     "q": "Fill the gap: “The weather has turned cold.”",
+     "hi": "मौसम ठंडा हो ___ है ।",
+     "say": "मौसम ठंडा हो गया है ।",
+     "en": "{The weather}[0] {has turned}[2+3+4] cold[1].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गई",
+       "गई is feminine. मौसम is masculine."
+      ],
+      [
+       "गए",
+       "गए is plural. मौसम is singular."
+      ]
+     ],
+     "why": "जाना as the second verb gives completeness or a change of state (सो जाना, बदल जाना, हो जाना)."
+    },
+    {
+     "id": "cv:9",
+     "t": "mc",
+     "q": "Fill the gap: “Oh, the bus has arrived!”",
+     "hi": "अरे, बस आ ___ है !",
+     "say": "अरे, बस आ गई है !",
+     "en": "Oh[0], the bus[1] {has arrived}[2+3+4]!",
+     "a": "गई",
+     "wrong": [
+      [
+       "गया",
+       "गया is masculine. बस is feminine."
+      ],
+      [
+       "गईं",
+       "गईं is plural, and before है there is no nasal. It is one bus."
+      ]
+     ],
+     "why": "जाना as the second verb gives completeness or a change of state (सो जाना, बदल जाना, हो जाना)."
+    },
+    {
+     "id": "cv:10",
+     "t": "mc",
+     "q": "Which sentence is more natural?",
+     "a": "आज राज ने अख़बार नहीं पढ़ा ।",
+     "wrong": [
+      [
+       "आज राज ने अख़बार नहीं पढ़ लिया ।",
+       "Compound verbs express manner, so they are much less used in the negative: an action that hasn't happened has no manner."
+      ],
+      [
+       "आज राज ने अख़बार नहीं पढ़ दिया ।",
+       "पढ़ देना is “read out for someone”, and a compound is out of place in a plain negative statement anyway."
+      ]
+     ],
+     "why": "Compound verbs are mostly used with completed actions and commands, much less with negatives.",
+     "say": "आज राज ने अख़बार नहीं पढ़ा ।",
+     "en": "Raj[1] {didn't read}[4+5] the newspaper[3] today[0]."
+    }
+   ]
+  },
+  {
+   "id": "comb",
+   "title": "लौट आना, ले जाना",
+   "desc": "Verbs in combination, and चला जाना",
+   "skill": "comb",
+   "items": [
+    {
+     "id": "cb:0",
+     "t": "mc",
+     "q": "Fill the gap: “Father came back home in the evening.”",
+     "hi": "पिता जी शाम को घर लौट ___ ।",
+     "say": "पिता जी शाम को घर लौट आए ।",
+     "en": "Father[0+1] {came back}[5+6] home[4] {in the evening}[2+3].",
+     "a": "आए",
+     "wrong": [
+      [
+       "गए",
+       "लौट गए is “went back”. The cue is “came back”."
+      ],
+      [
+       "आया",
+       "आया is singular. पिता जी takes the respectful plural."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    },
+    {
+     "id": "cb:1",
+     "t": "mc",
+     "q": "Fill the gap: “Please take the children to school.”",
+     "hi": "बच्चों को स्कूल ले ___ ।",
+     "say": "बच्चों को स्कूल ले जाइए ।",
+     "en": "{Please take}[3+4] the children[0+1] to school[2].",
+     "a": "जाइए",
+     "wrong": [
+      [
+       "आइए",
+       "ले आइए is “bring (here)”. Taking them away to school is ले जाइए."
+      ],
+      [
+       "गए",
+       "गए is the perfective, “took”. The cue is a command."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    },
+    {
+     "id": "cb:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita brought a lot of luggage with her.”",
+     "hi": "___ अपने साथ बहुत सामान ले आई ।",
+     "say": "सीता अपने साथ बहुत सामान ले आई ।",
+     "en": "Sita[0] brought[5+6] {a lot of}[3] luggage[4] {with her}[1+2].",
+     "a": "सीता",
+     "wrong": [
+      [
+       "सीता ने",
+       "ले आना ends in आना, so there is no ने, though लेना is transitive."
+      ],
+      [
+       "सीता को",
+       "को does not mark the subject. The subject of ले आना stays in the plain form."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    },
+    {
+     "id": "cb:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sangeeta got angry with me and went away.”",
+     "hi": "मुझसे नाराज़ होकर संगीता ___ गई ।",
+     "say": "मुझसे नाराज़ होकर संगीता चली गई ।",
+     "en": "Sangeeta[3] {got angry}[1+2] with me[0] and {went away}[4+5].",
+     "a": "चली",
+     "wrong": [
+      [
+       "चला",
+       "चला is masculine. In चला जाना the first verb is a participle and agrees with the subject."
+      ],
+      [
+       "चले",
+       "चले is plural. संगीता, spoken of plainly, takes चली."
+      ]
+     ],
+     "why": "In चला जाना “to go away” चला is a participle, not a stem, so it agrees with the subject: संगीता चली गई."
+    },
+    {
+     "id": "cb:4",
+     "t": "mc",
+     "q": "Fill the gap: “The moon came out at night.”",
+     "hi": "रात को चाँद निकल ___ ।",
+     "say": "रात को चाँद निकल आया ।",
+     "en": "The moon[2] {came out}[3+4] {at night}[0+1].",
+     "a": "आया",
+     "wrong": [
+      [
+       "आई",
+       "आई is feminine. चाँद is masculine."
+      ],
+      [
+       "आए",
+       "आए is plural. There is one moon."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    },
+    {
+     "id": "cb:5",
+     "t": "mc",
+     "q": "What is the difference between ले आना and ले जाना?",
+     "a": "ले आना “bring”, ले जाना “take away”",
+     "wrong": [
+      [
+       "ले आना “take away”, ले जाना “bring”",
+       "It is the other way round: आना is towards the speaker, जाना away."
+      ],
+      [
+       "ले आना takes ने, ले जाना does not",
+       "Neither takes ने. The last verb, आना or जाना, is intransitive."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    },
+    {
+     "id": "cb:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उषा अपनी किताबें ले गई ।",
+     "audio": true,
+     "a": "Usha took her books away.",
+     "wrong": [
+      [
+       "Usha brought her books.",
+       "That would be ले आई. ले गई is “took away”."
+      ],
+      [
+       "Usha bought her books.",
+       "“Bought” would be ख़रीदीं. ले गई is “took away”."
+      ]
+     ],
+     "why": "In लौट आना, ले जाना, निकल आना both verbs keep their meaning. The last verb is आना or जाना, so there is no ने."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "I[0] {will come}[2] {after bathing}[1]. (a man speaking)",
+     "ans": [
+      "मैं",
+      "नहाकर",
+      "आऊँगा"
+     ],
+     "wrong": [
+      [
+       "नहाना",
+       "नहाना is the infinitive. The first action is stem + कर, नहाकर."
+      ],
+      [
+       "मैंने",
+       "आना is intransitive, so मैं takes no ने."
+      ],
+      [
+       "नहानाकर",
+       "Not a word. कर goes on the bare stem: नहाकर."
+      ]
+     ],
+     "alt": [
+      [
+       "नहाकर",
+       "मैं",
+       "आऊँगा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Sita[0] sat[4] in[3] the garden[2] and read[6] the newspaper[5].",
+     "ans": [
+      "सीता",
+      "ने",
+      "बग़ीचे",
+      "में",
+      "बैठकर",
+      "अख़बार",
+      "पढ़ा"
+     ],
+     "wrong": [
+      [
+       "पढ़ी",
+       "पढ़ी would agree with सीता. With ने the verb agrees with अख़बार, masculine."
+      ],
+      [
+       "बैठा",
+       "बैठा is a participle, “seated”. The first action is the conjunctive participle बैठकर."
+      ],
+      [
+       "बैठनाकर",
+       "Not a word. कर goes on the bare stem: बैठकर."
+      ]
+     ],
+     "alt": [
+      [
+       "बग़ीचे",
+       "में",
+       "बैठकर",
+       "सीता",
+       "ने",
+       "अख़बार",
+       "पढ़ा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "We[0] can't[2+4] come[3] today[1].",
+     "ans": [
+      "हम",
+      "आज",
+      "नहीं",
+      "आ",
+      "सकते"
+     ],
+     "wrong": [
+      [
+       "सकता",
+       "सकता is singular. हम takes सकते."
+      ],
+      [
+       "हमने",
+       "सकना never takes ने."
+      ],
+      [
+       "सकया",
+       "Not a word. The perfective of सकना is सका, with no -y-, and here the present सकते is needed."
+      ]
+     ],
+     "alt": [
+      [
+       "आज",
+       "हम",
+       "नहीं",
+       "आ",
+       "सकते"
+      ],
+      [
+       "हम",
+       "आज",
+       "आ",
+       "नहीं",
+       "सकते"
+      ],
+      [
+       "आज",
+       "हम",
+       "आ",
+       "नहीं",
+       "सकते"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Raj[0] couldn't[2+4] {get to}[3] the station[1].",
+     "ans": [
+      "राज",
+      "स्टेशन",
+      "नहीं",
+      "पहुँच",
+      "पाया"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "पाना after a verb stem never takes ने, and पहुँचना is intransitive anyway."
+      ],
+      [
+       "पाई",
+       "पाई is feminine. पाना agrees with the subject, राज."
+      ],
+      [
+       "पाआ",
+       "Not a word. After a vowel stem the masculine singular inserts -y-: पाया."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "स्टेशन",
+       "पहुँच",
+       "नहीं",
+       "पाया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "{The guests}[0] {have already reached}[2+3+4] the station[1].",
+     "ans": [
+      "मेहमान",
+      "स्टेशन",
+      "पहुँच",
+      "चुके",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "चुका",
+       "चुका is singular. The guests are plural (हैं)."
+      ],
+      [
+       "पहुँचकर",
+       "चुकना follows the bare stem, पहुँच चुके."
+      ],
+      [
+       "चुकया",
+       "Not a word. The perfective of चुकना is चुका, चुके, चुकी."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Pinki[0] {went to sleep}[3+4] at[2] ten[1].",
+     "ans": [
+      "पिंकी",
+      "दस",
+      "बजे",
+      "सो",
+      "गई"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "सो जाना is intransitive, so there is no ने."
+      ],
+      [
+       "बजा",
+       "“At” a time takes the oblique बजे."
+      ]
+     ],
+     "alt": [
+      [
+       "दस",
+       "बजे",
+       "पिंकी",
+       "सो",
+       "गई"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "Grandma[0] gave[5+6] the children[2+3] apples[4].",
+     "ans": [
+      "दादी",
+      "ने",
+      "बच्चों",
+      "को",
+      "सेब",
+      "दे",
+      "दिए"
+     ],
+     "wrong": [
+      [
+       "दी",
+       "दी would agree with दादी. With ने the verb agrees with सेब, masculine plural here."
+      ],
+      [
+       "दीं",
+       "दीं is feminine plural. सेब is masculine."
+      ]
+     ],
+     "alt": [
+      [
+       "दादी",
+       "ने",
+       "सेब",
+       "बच्चों",
+       "को",
+       "दे",
+       "दिए"
+      ],
+      [
+       "दादी",
+       "ने",
+       "बच्चों",
+       "को",
+       "सेब",
+       "दिए"
+      ],
+      [
+       "दादी",
+       "ने",
+       "सेब",
+       "बच्चों",
+       "को",
+       "दिए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Take[4+5] this[0] bag[1] {with you}[2+3].",
+     "ans": [
+      "यह",
+      "थैला",
+      "अपने",
+      "साथ",
+      "ले",
+      "जाओ"
+     ],
+     "wrong": [
+      [
+       "आओ",
+       "ले आओ is “bring”. “Take away” is ले जाओ."
+      ],
+      [
+       "तुम्हारे",
+       "The subject's own company is अपने साथ, not तुम्हारे साथ."
+      ]
+     ],
+     "alt": [
+      [
+       "अपने",
+       "साथ",
+       "यह",
+       "थैला",
+       "ले",
+       "जाओ"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Sangeeta[0] came[4+5] out[3] of[2] the house[1].",
+     "ans": [
+      "संगीता",
+      "घर",
+      "से",
+      "बाहर",
+      "निकल",
+      "आई"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "निकल आना ends in आना, so there is no ने."
+      ],
+      [
+       "आया",
+       "आया is masculine. Sangeeta is a woman."
+      ]
+     ],
+     "alt": [
+      [
+       "संगीता",
+       "घर",
+       "से",
+       "बाहर",
+       "आई"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "It's[3] {a quarter past}[0] five[1+2].",
+     "ans": [
+      "सवा",
+      "पाँच",
+      "बजे",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बजा",
+       "बजा goes with one o'clock (एक बजा है). Two and upwards take बजे हैं."
+      ],
+      [
+       "पौने",
+       "पौने पाँच is a quarter to five."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "It's[4] ten[2] minutes[3] past[1] six[0].",
+     "ans": [
+      "छह",
+      "बजकर",
+      "दस",
+      "मिनट",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बजने",
+       "छह बजने में दस मिनट would be “ten to six”."
+      ],
+      [
+       "बजा",
+       "बजा goes with one o'clock (एक बजा है). Minutes past the hour use बजकर."
+      ],
+      [
+       "बजेकर",
+       "Not a word. कर goes on the bare stem of बजना, बजकर."
+      ]
+     ],
+     "order": "The hour comes first: छह बजकर दस मिनट is ten past six, दस बजकर छह मिनट would be six minutes past ten."
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "{The children}[0] ate[4+5] all[2] {the mangoes}[3].",
+     "ans": [
+      "बच्चों",
+      "ने",
+      "सारे",
+      "आम",
+      "खा",
+      "लिए"
+     ],
+     "wrong": [
+      [
+       "लिया",
+       "लिया is singular. सारे आम is plural."
+      ],
+      [
+       "बच्चे",
+       "Before ने the noun is oblique, बच्चों."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "राज जान-बूझकर देर से आया ।",
+     "audio": true,
+     "a": "Raj came late on purpose.",
+     "wrong": [
+      [
+       "Raj came late by mistake.",
+       "That is the opposite. जान-बूझकर is “deliberately”."
+      ],
+      [
+       "Raj knew he would come late.",
+       "जान-बूझकर is one adverb, “deliberately”, not a separate verb “knew”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पिंकी को छोड़कर सब बच्चे सो गए ।",
+     "audio": true,
+     "a": "All the children except Pinki went to sleep.",
+     "wrong": [
+      [
+       "Only Pinki went to sleep.",
+       "It is the other way round: everyone except Pinki went to sleep."
+      ],
+      [
+       "All the children went to sleep near Pinki.",
+       "को छोड़कर means “except”, not “near” (के पास)."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "तुम आज आओगे कि कल ?",
+     "audio": true,
+     "a": "Will you come today or tomorrow?",
+     "wrong": [
+      [
+       "Will you come today and tomorrow?",
+       "कि between two simple alternatives in a question means “or”, not “and”."
+      ],
+      [
+       "Did you come today or yesterday?",
+       "आओगे is future, so कल here is “tomorrow”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरा छोटा भाई तीसरे पहर सो जाता है ।",
+     "audio": true,
+     "a": "My little brother goes to sleep in the afternoon.",
+     "wrong": [
+      [
+       "My little brother sleeps for three hours.",
+       "पहर is a watch of about three hours, but तीसरे पहर is a phrase, “in the afternoon”."
+      ],
+      [
+       "My little brother went to sleep at three.",
+       "सो जाता है is the present habitual, and “at three” would be तीन बजे."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह तुम्हारी बात समझ गया ।",
+     "audio": true,
+     "a": "He realized what you meant.",
+     "wrong": [
+      [
+       "He couldn't understand what you said.",
+       "That would be नहीं समझ पाया or नहीं समझ सका."
+      ],
+      [
+       "He understood you and left.",
+       "समझ गया is one compound verb, “realized”. There is no leaving."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "सीता दस बजकर बीस मिनट पर घर से निकली ।",
+     "audio": true,
+     "a": "Sita left home at twenty past ten.",
+     "wrong": [
+      [
+       "Sita left home at twenty to ten.",
+       "That would be दस बजने में बीस मिनट पर."
+      ],
+      [
+       "Sita left home at half past ten.",
+       "That would be साढ़े दस बजे."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आप अब घर जा सकते हैं ।",
+     "audio": true,
+     "a": "You can go home now.",
+     "wrong": [
+      [
+       "You managed to go home.",
+       "That would be पाना in the past, जा पाए."
+      ],
+      [
+       "You have already gone home.",
+       "That would be चुकना, जा चुके हैं."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Conjunctive participle, सकना, compounds",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Does the conjunctive participle decide whether the main verb takes ने?",
+     "a": "No, only the main verb decides about ने",
+     "wrong": [
+      [
+       "Yes, a transitive conjunctive participle brings ने",
+       "No. In पिंकी दूध पीकर सो गई there is no ने, because सो जाना is intransitive."
+      ],
+      [
+       "Yes, an intransitive conjunctive participle removes ने",
+       "No. In सीता ने बाज़ार जाकर साड़ी ख़रीदी the doer keeps ने."
+      ]
+     ],
+     "why": "The conjunctive participle does not affect the main clause: whether the doer takes ने depends only on the main verb."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "After a verb stem, which of सकना, पाना and चुकना take ने?",
+     "a": "None of them",
+     "wrong": [
+      [
+       "All three, after a transitive stem",
+       "They never take ने. Compare सीता वह चिट्ठी नहीं पढ़ सकी."
+      ],
+      [
+       "Only the one meaning “have already”",
+       "चुकना doesn't take ने either: पिंकी चिट्ठी लिख चुकी है."
+      ]
+     ],
+     "why": "सकना “can”, पाना “manage to” and चुकना “have already” follow the bare stem of another verb, agree with the subject and never take ने."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "Which of these is never used in the continuous?",
+     "a": "सकना",
+     "wrong": [
+      [
+       "पाना",
+       "पाना can be, as in सुन पा रहा हूँ."
+      ],
+      [
+       "होना",
+       "होना has a continuous, हो रहा है."
+      ]
+     ],
+     "why": "सकना is never continuous. To say “I can't … (right now)” use पाना, as in नहीं सुन पा रहा हूँ."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "When does a compound verb take ने?",
+     "a": "When both verbs are ने verbs (बेच दिया)",
+     "wrong": [
+      [
+       "Whenever the main verb is transitive (पी गया)",
+       "Not enough. पी गया has no ने, because जाना is intransitive."
+      ],
+      [
+       "Whenever the second verb is transitive (हँस दी)",
+       "Not enough. हँसना is intransitive, so वह हँस दी has no ने."
+      ]
+     ],
+     "why": "A compound verb takes ने only when both verbs are ने verbs (बेच दिया, खा लिया). With जाना as the second verb there is no ने."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "What does लेना suggest as the second verb of a compound?",
+     "a": "The benefit flows towards the doer",
+     "wrong": [
+      [
+       "The benefit flows away from the doer",
+       "That is देना."
+      ],
+      [
+       "The action is already finished",
+       "That is चुकना."
+      ]
+     ],
+     "why": "लेना as the second verb turns the benefit towards the doer, देना away from the doer."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "What does जाना add as the second verb of a compound?",
+     "a": "Completeness or a change of state",
+     "wrong": [
+      [
+       "Motion away from the speaker",
+       "In a compound जाना loses that meaning. It keeps it only in combinations such as लौट जाना."
+      ],
+      [
+       "Ability",
+       "That is सकना."
+      ]
+     ],
+     "why": "जाना as the second verb gives completeness or a change of state (सो जाना, बदल जाना, हो जाना)."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "Why are compound verbs rarely used in negative sentences?",
+     "a": "They express manner, and an action that didn't happen has no manner",
+     "wrong": [
+      [
+       "They always take ने",
+       "They don't. सो गया has no ने."
+      ],
+      [
+       "They cannot be used in the past",
+       "They are mostly used with completed actions, as in खा लिया."
+      ]
+     ],
+     "why": "Compound verbs are mostly used with completed actions and commands, much less with negatives, continuous tenses and conjunctive participles."
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "How do लौट आना and चला जाना differ in form?",
+     "a": "लौट is a bare stem, चला a participle that agrees (चली गई)",
+     "wrong": [
+      [
+       "Both लौट and चला are bare stems",
+       "चला agrees with the subject, as in संगीता चली गई."
+      ],
+      [
+       "Both लौट and चला are participles that agree",
+       "लौट never changes, as in सीता लौट आई, वे लौट आए."
+      ]
+     ],
+     "why": "In लौट आना the first verb is a stem. In चला जाना, चला आना it is a participle that agrees with the subject."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "cp": 3,
+  "time": 3,
+  "modal": 3,
+  "comp": 3,
+  "comb": 1,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "नहानाकर": "nahānākar",
+  "करकर": "karkar",
+  "कियाकर": "kiyākar",
+  "जानाकर": "jānākar",
+  "गयाकर": "gayākar",
+  "दौड़नाकर": "dauṛnākar",
+  "खानाकर": "khānākar",
+  "बजेकर": "bajekar",
+  "चुकया": "cukyā",
+  "बैठनाकर": "baiṭhnākar",
+  "सकया": "sakyā",
+  "पाआ": "pāā"
+ }
+}

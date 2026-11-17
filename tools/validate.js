@@ -80,7 +80,7 @@ for (const u of units){
       } else if (it.t === "tiles"){
         if (!Array.isArray(it.ans) || !it.ans.length) { err(u, w, "tiles item needs ans"); continue; }
         it.ans.forEach(t => { checkTr(w, t); checkTaught(w, t); });
-        (it.alt || []).forEach(a => { a.forEach(t => checkTaught(w + " alt", t)); if (a.slice().sort().join() !== it.ans.slice().sort().join()) err(u, w, "alt answer must use the same tiles as ans"); });
+        (it.alt || []).forEach(a => { a.forEach(t => checkTaught(w + " alt", t)); const pool = it.ans.slice(); if (!a.every(t => { const i = pool.indexOf(t); if (i < 0) return false; pool.splice(i, 1); return true; })) err(u, w, "alt answer may only use tiles from ans"); });
         if (wrong.length < 2) err(u, w, "needs at least two extra tiles");
         wrong.forEach(([c]) => { if (it.ans.includes(c)) err(u, w, `extra tile “${c}” is also in the answer`); });
         if (new Set(wrong.map(x => x[0])).size !== wrong.length) err(u, w, "duplicate extra tiles");
