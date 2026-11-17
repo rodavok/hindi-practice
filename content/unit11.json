@@ -1,0 +1,2157 @@
+{
+ "id": "unit11",
+ "n": 11,
+ "title": "Pratap has come back",
+ "titleHi": "प्रताप वापस आया है",
+ "scope": "Transitivity; perfective participles (stem + -ā, -e, -ī, -ī̃; य after vowel stems, irregular गया and हुआ, किया, लिया, दिया, पिया); perfective tenses of intransitive verbs agreeing with the subject (उठा, उठा है, उठा था); the ने construction of transitive verbs, with agreement with the object, and masculine singular with no object or an object with को; ने forms of pronouns (मैंने, उसने, उन्होंने, किसने, किसीने); लाना without ने and समझना with ने only when it has an object; perfective + होगा “will/must have” and + हो “may have”; हुआ against था; मज़ा आना, नींद आना",
+ "pages": "book 130–143 (144 Test yourself, 145 blank)",
+ "skills": {
+  "intr": "Intransitive perfective",
+  "ne": "The ने construction",
+  "irr": "Irregular participles",
+  "pron": "ने with pronouns",
+  "ko": "को, no object, लाना",
+  "tense": "Perfective tenses",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "आख़िर में",
+   "en": "in the end",
+   "c": "x"
+  },
+  {
+   "hi": "आनंद",
+   "en": "joy, enjoyment",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आनंद आना",
+   "en": "to feel enjoyment",
+   "c": "v"
+  },
+  {
+   "hi": "आवश्यकता",
+   "en": "necessity",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "उँगली",
+   "en": "finger",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "उठाना",
+   "en": "to pick up",
+   "c": "v"
+  },
+  {
+   "hi": "उधार",
+   "en": "loan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उधार लेना",
+   "en": "to borrow",
+   "c": "v"
+  },
+  {
+   "hi": "उपहार",
+   "en": "gift (formal)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कब",
+   "en": "when?",
+   "c": "x"
+  },
+  {
+   "hi": "क़ीमत",
+   "en": "price, value, cost",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कैमरा",
+   "en": "camera",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "खोलना",
+   "en": "to open",
+   "c": "v"
+  },
+  {
+   "hi": "गंगा",
+   "en": "Ganges",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गिलास",
+   "en": "tumbler (glass or metal)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गीत",
+   "en": "song",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गुज़ारना",
+   "en": "to spend (time)",
+   "c": "v"
+  },
+  {
+   "hi": "घाट",
+   "en": "(steps at) riverbank",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "घूमना",
+   "en": "to tour, roam",
+   "c": "v"
+  },
+  {
+   "hi": "चोर",
+   "en": "thief",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "छूटना",
+   "en": "to be left, fall back",
+   "c": "v"
+  },
+  {
+   "hi": "जारी",
+   "en": "current, continuing",
+   "c": "a"
+  },
+  {
+   "hi": "जारी रखना",
+   "en": "to maintain, keep up",
+   "c": "v"
+  },
+  {
+   "hi": "ज़ेवर",
+   "en": "(piece of) jewellery",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ट्रेकिंग",
+   "en": "trekking",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तमाशा",
+   "en": "spectacle, show",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तिब्बती",
+   "en": "Tibetan",
+   "c": "a"
+  },
+  {
+   "hi": "तोड़ना",
+   "en": "to break",
+   "c": "v"
+  },
+  {
+   "hi": "तोहफ़ा",
+   "en": "present (everyday word)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दवा",
+   "en": "medicine",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दादा",
+   "en": "paternal grandfather",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दुकानदार",
+   "en": "shopkeeper",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दुर्घटना",
+   "en": "accident",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "देर तक",
+   "en": "until late",
+   "c": "x"
+  },
+  {
+   "hi": "दोपहर",
+   "en": "noon, afternoon",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नाक",
+   "en": "nose",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नींद",
+   "en": "sleep",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नींद आना",
+   "en": "to feel sleepy",
+   "c": "v"
+  },
+  {
+   "hi": "पच्चीस",
+   "en": "twenty-five",
+   "c": "a"
+  },
+  {
+   "hi": "पढ़ाई",
+   "en": "studies, studying",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "परसों",
+   "en": "the day before yesterday; the day after tomorrow",
+   "c": "x"
+  },
+  {
+   "hi": "पहनना",
+   "en": "to put on, wear",
+   "c": "v"
+  },
+  {
+   "hi": "पाठ",
+   "en": "lesson, chapter",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पाना",
+   "en": "to find, obtain",
+   "c": "v"
+  },
+  {
+   "hi": "पेट",
+   "en": "stomach",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्याला",
+   "en": "cup",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्रसिद्ध",
+   "en": "famous",
+   "c": "a"
+  },
+  {
+   "hi": "फ़िल्म",
+   "en": "film",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "फ़िल्मी",
+   "en": "film-related, film-style",
+   "c": "a"
+  },
+  {
+   "hi": "फ़ैक्स",
+   "en": "fax",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फ़ोटो",
+   "en": "photograph (f or m)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बजना",
+   "en": "to resound, chime",
+   "c": "v"
+  },
+  {
+   "hi": "बाँह",
+   "en": "(upper) arm",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बीस",
+   "en": "twenty",
+   "c": "a"
+  },
+  {
+   "hi": "बेचना",
+   "en": "to sell",
+   "c": "v"
+  },
+  {
+   "hi": "भूत",
+   "en": "ghost",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भेंट",
+   "en": "presentation, gift",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मजबूरी",
+   "en": "compulsion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मज़ा",
+   "en": "fun, pleasure",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मज़ा आना",
+   "en": "to enjoy, have fun",
+   "c": "v"
+  },
+  {
+   "hi": "मानना",
+   "en": "to accept, believe",
+   "c": "v"
+  },
+  {
+   "hi": "माफ़ करना",
+   "en": "to forgive, excuse",
+   "c": "v"
+  },
+  {
+   "hi": "माफ़ी",
+   "en": "forgiveness",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "माफ़ी माँगना",
+   "en": "to apologize",
+   "c": "v"
+  },
+  {
+   "hi": "माली",
+   "en": "gardener",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मीठा",
+   "en": "sweet",
+   "c": "a"
+  },
+  {
+   "hi": "मुमकिन",
+   "en": "possible (Perso-Arabic word)",
+   "c": "a"
+  },
+  {
+   "hi": "रोना",
+   "en": "to weep, cry",
+   "c": "v"
+  },
+  {
+   "hi": "लाठी",
+   "en": "lathi, stick",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "वापस लेना",
+   "en": "to take back",
+   "c": "v"
+  },
+  {
+   "hi": "शब्द",
+   "en": "word",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शिकायत",
+   "en": "complaint",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शिकायत करना",
+   "en": "to complain",
+   "c": "v"
+  },
+  {
+   "hi": "साथ साथ",
+   "en": "together",
+   "c": "x"
+  },
+  {
+   "hi": "सुनाना",
+   "en": "to relate, tell, recite",
+   "c": "v"
+  },
+  {
+   "hi": "नेपाली",
+   "en": "Nepali",
+   "c": "a"
+  },
+  {
+   "hi": "रुपया",
+   "en": "rupee",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ने",
+   "en": "(marks the doer of a transitive perfective verb)",
+   "c": "x"
+  }
+ ],
+ "gloss": {
+  "ने": "marks the doer of a transitive verb in the perfective; not translated"
+ },
+ "lessons": [
+  {
+   "id": "intr",
+   "title": "वह आया",
+   "desc": "Perfective of intransitive verbs: “went, came, has gone”",
+   "skill": "intr",
+   "items": [
+    {
+     "id": "in:0",
+     "t": "mc",
+     "q": "Fill the gap: “Sita reached the station at two o'clock.”",
+     "hi": "सीता दो बजे स्टेशन ___ ।",
+     "say": "सीता दो बजे स्टेशन पहुँची ।",
+     "en": "Sita[0] reached[4] the station[3] {at two o'clock}[1+2].",
+     "a": "पहुँची",
+     "wrong": [
+      [
+       "पहुँचा",
+       "पहुँचा is masculine. Sita is a woman."
+      ],
+      [
+       "पहुँचीं",
+       "पहुँचीं is plural. Sita, spoken of plainly, takes the singular: पहुँची."
+      ]
+     ],
+     "why": "Intransitive verbs agree with the subject in the perfective: stem + -ā, -e, -ī, -ī̃ (उठा, उठे, उठी, उठीं)."
+    },
+    {
+     "id": "in:1",
+     "t": "mc",
+     "q": "Fill the gap: “My friends returned from London the day before yesterday.”",
+     "hi": "मेरे दोस्त परसों लंदन से ___ ।",
+     "say": "मेरे दोस्त परसों लंदन से लौटे ।",
+     "en": "My[0] friends[1] returned[5] from[4] London[3] {the day before yesterday}[2].",
+     "a": "लौटे",
+     "wrong": [
+      [
+       "लौटा",
+       "लौटा is singular. मेरे दोस्त is plural."
+      ],
+      [
+       "लौटीं",
+       "लौटीं is feminine plural. मेरे दोस्त is masculine plural."
+      ]
+     ],
+     "why": "Intransitive verbs agree with the subject in the perfective: stem + -ā, -e, -ī, -ī̃ (उठा, उठे, उठी, उठीं)."
+    },
+    {
+     "id": "in:2",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki went to the market with her friend.”",
+     "hi": "पिंकी अपनी सहेली के साथ बाज़ार ___ ।",
+     "say": "पिंकी अपनी सहेली के साथ बाज़ार गई ।",
+     "en": "Pinki[0] went[6] to the market[5] with[3+4] her[1] friend[2].",
+     "a": "गई",
+     "wrong": [
+      [
+       "गया",
+       "गया is masculine. Pinki is a girl."
+      ],
+      [
+       "गईं",
+       "गईं is plural. Pinki, spoken of plainly, takes the singular: गई."
+      ]
+     ],
+     "why": "After a vowel stem the masculine singular inserts -y- — आया, लाया, रोया. जाना and होना are irregular: गया, गए, गई, गईं and हुआ, हुए, हुई, हुईं."
+    },
+    {
+     "id": "in:3",
+     "t": "mc",
+     "q": "Fill the gap: “An accident happened in the town yesterday.”",
+     "hi": "कल शहर में एक दुर्घटना ___ ।",
+     "say": "कल शहर में एक दुर्घटना हुई ।",
+     "en": "An[3] accident[4] happened[5] in[2] the town[1] yesterday[0].",
+     "a": "हुई",
+     "wrong": [
+      [
+       "हुआ",
+       "हुआ is masculine. दुर्घटना is feminine."
+      ],
+      [
+       "थी",
+       "थी “was” describes a state. An event that took place is हुआ, हुई “happened”."
+      ]
+     ],
+     "why": "होना has an irregular perfective: हुआ, हुए, हुई, हुईं — “happened”."
+    },
+    {
+     "id": "in:4",
+     "t": "mc",
+     "q": "Fill the gap: “My father came this morning.”",
+     "hi": "मेरे पिता जी आज सुबह ___ ।",
+     "say": "मेरे पिता जी आज सुबह आए ।",
+     "en": "My[0] father[1] came[5] {this morning}[3+4].",
+     "a": "आए",
+     "wrong": [
+      [
+       "आया",
+       "आया is singular. A father is spoken of with respect, in the plural: आए."
+      ],
+      [
+       "आआ",
+       "Not a word: after a vowel stem the masculine singular inserts -y- (आया), and the plural is आए."
+      ]
+     ],
+     "why": "पिता जी takes the respectful plural. After a vowel stem the masculine singular inserts -y- — आया, लाया, रोया. जाना and होना are irregular: गया, गए, गई, गईं and हुआ, हुए, हुई, हुईं."
+    },
+    {
+     "id": "in:5",
+     "t": "mc",
+     "q": "Fill the gap: “Have you ever been to Agra? (to a man)”",
+     "hi": "क्या तुम कभी आगरा ___ हो ?",
+     "say": "क्या तुम कभी आगरा गए हो ?",
+     "en": "Have[5] you[1] ever[2] been[4] to Agra[3]? (to a man)",
+     "a": "गए",
+     "wrong": [
+      [
+       "गया",
+       "गया is singular. तुम takes the plural form: गए हो."
+      ],
+      [
+       "गई",
+       "गई is feminine. The cue is to a man."
+      ]
+     ],
+     "why": "Perfective + हो, है, हैं — “has, have …”. तुम takes the -e form."
+    },
+    {
+     "id": "in:6",
+     "t": "mc",
+     "q": "Fill the gap: “Mother and Grandma have gone to the temple.”",
+     "hi": "माँ और दादी मंदिर ___ हैं ।",
+     "say": "माँ और दादी मंदिर गई हैं ।",
+     "en": "Mother[0] and[1] Grandma[2] {have gone}[4+5] to the temple[3].",
+     "a": "गई",
+     "wrong": [
+      [
+       "गईं",
+       "Here the auxiliary हैं carries the plural. With an auxiliary, the feminine plural nasal goes only on the last word: उठी हैं, उठी थीं (the book's rule)."
+      ],
+      [
+       "गए",
+       "गए is masculine. माँ and दादी are women."
+      ]
+     ],
+     "why": "With an auxiliary, the feminine plural nasal goes only on the last word: उठी हैं, उठी थीं (the book's rule)."
+    },
+    {
+     "id": "in:7",
+     "t": "mc",
+     "q": "Fill the gap: “Why did the little child cry? (a boy)”",
+     "hi": "छोटा बच्चा क्यों ___ ?",
+     "say": "छोटा बच्चा क्यों रोया ?",
+     "en": "Why[2] did the little[0] child[1] cry[3]? (a boy)",
+     "a": "रोया",
+     "wrong": [
+      [
+       "रोआ",
+       "Not a word: after a vowel stem the masculine singular inserts -y- — रोया."
+      ],
+      [
+       "रोई",
+       "रोई is feminine. The child is a boy (छोटा बच्चा)."
+      ]
+     ],
+     "why": "After a vowel stem the masculine singular inserts -y- — आया, लाया, रोया. जाना and होना are irregular: गया, गए, गई, गईं and हुआ, हुए, हुई, हुईं."
+    },
+    {
+     "id": "in:8",
+     "t": "mc",
+     "q": "Fill the gap: “I met your brother yesterday. (a woman speaking)”",
+     "hi": "मैं कल तुम्हारे भाई से ___ ।",
+     "say": "मैं कल तुम्हारे भाई से मिली ।",
+     "en": "I[0] met[5] your[2] brother[3+4] yesterday[1]. (a woman speaking)",
+     "a": "मिली",
+     "wrong": [
+      [
+       "मिला",
+       "मिला is masculine. The speaker is a woman."
+      ],
+      [
+       "मिलीं",
+       "मिलीं is plural. मैं takes the singular."
+      ]
+     ],
+     "why": "मिलना “to meet” is intransitive: X से मिलना, and the verb agrees with the subject."
+    },
+    {
+     "id": "in:9",
+     "t": "mc",
+     "q": "Fill the gap: “We had great fun in Mussoorie.”",
+     "hi": "हमें मसूरी में बड़ा मज़ा ___ ।",
+     "say": "हमें मसूरी में बड़ा मज़ा आया ।",
+     "en": "We[0] {had great fun}[3+4+5] in[2] Mussoorie[1].",
+     "a": "आया",
+     "wrong": [
+      [
+       "आए",
+       "आए is plural, as if agreeing with हमें. The verb agrees with मज़ा, masculine singular."
+      ],
+      [
+       "आई",
+       "आई is feminine. मज़ा is masculine."
+      ]
+     ],
+     "why": "In मज़ा आना, आनंद आना and नींद आना the person takes को and आना agrees with मज़ा, आनंद or नींद."
+    },
+    {
+     "id": "in:10",
+     "t": "mc",
+     "q": "Fill the gap: “Grandma felt sleepy in the afternoon.”",
+     "hi": "दादी को दोपहर को नींद ___ ।",
+     "say": "दादी को दोपहर को नींद आई ।",
+     "en": "Grandma[0+1] {felt sleepy}[4+5] {in the afternoon}[2+3].",
+     "a": "आई",
+     "wrong": [
+      [
+       "आया",
+       "आया is masculine. नींद is feminine."
+      ],
+      [
+       "आईं",
+       "आईं is plural, as if agreeing with a respected दादी. आना agrees with नींद, one thing: आई."
+      ]
+     ],
+     "why": "In मज़ा आना, आनंद आना and नींद आना the person takes को and आना agrees with मज़ा, आनंद or नींद."
+    },
+    {
+     "id": "in:11",
+     "t": "mc",
+     "q": "Fill the gap: “Pratap brought fruit from the market.”",
+     "hi": "प्रताप बाज़ार से फल ___ ।",
+     "say": "प्रताप बाज़ार से फल लाया ।",
+     "en": "Pratap[0] brought[4] fruit[3] from[2] the market[1].",
+     "a": "लाया",
+     "wrong": [
+      [
+       "लाआ",
+       "Not a word: after a vowel stem the masculine singular inserts -y- — लाया."
+      ],
+      [
+       "लाई",
+       "लाई is feminine. Pratap is a man."
+      ]
+     ],
+     "why": "लाना “to bring” is transitive but never takes ने — it agrees with its subject like आना."
+    }
+   ]
+  },
+  {
+   "id": "ne",
+   "title": "उसने देखा",
+   "desc": "The ने construction: the verb agrees with the object",
+   "skill": "ne",
+   "items": [
+    {
+     "id": "ne:0",
+     "t": "mc",
+     "q": "Fill the gap: “Sita sold two of her old saris.”",
+     "hi": "सीता ने अपनी दो पुरानी साड़ियाँ ___ ।",
+     "say": "सीता ने अपनी दो पुरानी साड़ियाँ बेचीं ।",
+     "en": "Sita[0] sold[6] two[3] {of her}[2] old[4] saris[5].",
+     "a": "बेचीं",
+     "wrong": [
+      [
+       "बेची",
+       "बेची is singular. साड़ियाँ is plural, so the verb takes the nasal: बेचीं."
+      ],
+      [
+       "बेचे",
+       "बेचे is masculine plural. साड़ियाँ is feminine."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:1",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki sang a film song.”",
+     "hi": "पिंकी ने एक फ़िल्मी गीत ___ ।",
+     "say": "पिंकी ने एक फ़िल्मी गीत गाया ।",
+     "en": "Pinki[0] sang[5] a[2] film[3] song[4].",
+     "a": "गाया",
+     "wrong": [
+      [
+       "गाई",
+       "गाई would agree with पिंकी. With ने the verb agrees with the object, गीत, which is masculine."
+      ],
+      [
+       "गाए",
+       "गाए is plural. Pinki sang one song."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:2",
+     "t": "mc",
+     "q": "Fill the gap: “Raj sent his sister a sari.”",
+     "hi": "राज ने अपनी बहिन को एक साड़ी ___ ।",
+     "say": "राज ने अपनी बहिन को एक साड़ी भेजी ।",
+     "en": "Raj[0] sent[7] his[2] sister[3+4] a[5] sari[6].",
+     "a": "भेजी",
+     "wrong": [
+      [
+       "भेजा",
+       "भेजा would agree with राज. With ने the verb agrees with साड़ी, feminine. बहिन को is the one it was sent to."
+      ],
+      [
+       "भेजीं",
+       "भेजीं is plural. Raj sent one sari."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:3",
+     "t": "mc",
+     "q": "Fill the gap: “The children saw two films on Saturday.”",
+     "hi": "बच्चों ने शनिवार को दो फ़िल्में ___ ।",
+     "say": "बच्चों ने शनिवार को दो फ़िल्में देखीं ।",
+     "en": "{The children}[0] saw[6] two[4] films[5] on[3] Saturday[2].",
+     "a": "देखीं",
+     "wrong": [
+      [
+       "देखे",
+       "देखे would agree with बच्चों. With ने the verb agrees with फ़िल्में, feminine plural."
+      ],
+      [
+       "देखी",
+       "देखी is singular. फ़िल्में is plural, so the verb takes the nasal."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:4",
+     "t": "mc",
+     "q": "Fill the gap: “The shopkeeper has sold a lot of cameras today.”",
+     "hi": "दुकानदार ने आज बहुत-से कैमरे बेचे ___ ।",
+     "say": "दुकानदार ने आज बहुत-से कैमरे बेचे हैं ।",
+     "en": "{The shopkeeper}[0] {has sold}[5+6] {a lot of}[3] cameras[4] today[2].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "है",
+       "है would agree with दुकानदार. With ने the auxiliary agrees with the object too: कैमरे is plural."
+      ],
+      [
+       "हो",
+       "हो goes with तुम."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle."
+    },
+    {
+     "id": "ne:5",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki made tea for everyone.”",
+     "hi": "पिंकी ने सब के लिए चाय ___ ।",
+     "say": "पिंकी ने सब के लिए चाय बनाई ।",
+     "en": "Pinki[0] made[6] tea[5] for[3+4] everyone[2].",
+     "a": "बनाई",
+     "wrong": [
+      [
+       "बनाया",
+       "बनाया is masculine. चाय is feminine."
+      ],
+      [
+       "बनाईं",
+       "बनाईं is plural. चाय is singular."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:6",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki had picked up my camera.”",
+     "hi": "पिंकी ने मेरा कैमरा उठाया ___ ।",
+     "say": "पिंकी ने मेरा कैमरा उठाया था ।",
+     "en": "Pinki[0] {had picked up}[4+5] my[2] camera[3].",
+     "a": "था",
+     "wrong": [
+      [
+       "थी",
+       "थी would agree with पिंकी. With ने the auxiliary agrees with कैमरा, masculine."
+      ],
+      [
+       "थे",
+       "थे is plural. कैमरा is singular."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle."
+    },
+    {
+     "id": "ne:7",
+     "t": "mc",
+     "q": "Fill the gap: “Mother sang the children an old song.”",
+     "hi": "माँ ने बच्चों को एक पुराना गीत ___ ।",
+     "say": "माँ ने बच्चों को एक पुराना गीत सुनाया ।",
+     "en": "Mother[0] sang[7] the children[2+3] an[4] old[5] song[6].",
+     "a": "सुनाया",
+     "wrong": [
+      [
+       "सुनाई",
+       "सुनाई would agree with माँ. With ने the verb agrees with गीत, masculine."
+      ],
+      [
+       "सुनाए",
+       "सुनाए is plural. गीत here is one song (एक पुराना गीत)."
+      ]
+     ],
+     "why": "सुनाना “to relate, recite” — of a song, “to sing to someone”. Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:8",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki didn't say anything to me.”",
+     "hi": "पिंकी ने मुझसे कुछ नहीं ___ ।",
+     "say": "पिंकी ने मुझसे कुछ नहीं कहा ।",
+     "en": "Pinki[0] {didn't}[4] say[5] anything[3] to me[2].",
+     "a": "कहा",
+     "wrong": [
+      [
+       "कही",
+       "कही would agree with पिंकी. The object is कुछ, which takes the masculine singular."
+      ],
+      [
+       "कहे",
+       "कहे is plural. कुछ takes the masculine singular: कहा."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "ne:9",
+     "t": "mc",
+     "q": "Fill the gap: “Sita has put on a red sari today.”",
+     "hi": "आज सीता ने लाल साड़ी ___ है ।",
+     "say": "आज सीता ने लाल साड़ी पहनी है ।",
+     "en": "Sita[1] {has put on}[5+6] a red[3] sari[4] today[0].",
+     "a": "पहनी",
+     "wrong": [
+      [
+       "पहना",
+       "पहना is masculine. With ने the verb agrees with साड़ी, feminine."
+      ],
+      [
+       "पहनीं",
+       "पहनीं is plural. साड़ी is singular."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    }
+   ]
+  },
+  {
+   "id": "irr",
+   "title": "किया, लिया, दिया, पिया",
+   "desc": "Irregular perfective participles",
+   "skill": "irr",
+   "items": [
+    {
+     "id": "ir:0",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan finished his work.”",
+     "hi": "मोहन ने अपना काम ख़त्म ___ ।",
+     "say": "मोहन ने अपना काम ख़त्म किया ।",
+     "en": "Mohan[0] finished[4+5] his[2] work[3].",
+     "a": "किया",
+     "wrong": [
+      [
+       "की",
+       "की is feminine. In काम ख़त्म करना the verb agrees with काम, masculine."
+      ],
+      [
+       "किए",
+       "किए is plural. काम is singular here."
+      ]
+     ],
+     "why": "करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    },
+    {
+     "id": "ir:1",
+     "t": "mc",
+     "q": "Fill the gap: “Raj gave me a present.”",
+     "hi": "राज ने मुझे एक तोहफ़ा ___ ।",
+     "say": "राज ने मुझे एक तोहफ़ा दिया ।",
+     "en": "Raj[0] gave[5] me[2] a[3] present[4].",
+     "a": "दिया",
+     "wrong": [
+      [
+       "देया",
+       "Not a word: देना is irregular. Its participle is दिया."
+      ],
+      [
+       "दी",
+       "दी is feminine. तोहफ़ा is masculine."
+      ]
+     ],
+     "why": "करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    },
+    {
+     "id": "ir:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita borrowed a book from her friend.”",
+     "hi": "सीता ने अपनी सहेली से एक किताब उधार ___ ।",
+     "say": "सीता ने अपनी सहेली से एक किताब उधार ली ।",
+     "en": "Sita[0] borrowed[7+8] a[5] book[6] from[4] her[2] friend[3].",
+     "a": "ली",
+     "wrong": [
+      [
+       "लिया",
+       "लिया is masculine. With ने the verb agrees with किताब, feminine."
+      ],
+      [
+       "लेया",
+       "Not a word: लेना is irregular. Its participle is लिया, लिए, ली, लीं."
+      ]
+     ],
+     "why": "उधार लेना “to borrow”: the verb agrees with the thing borrowed. करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    },
+    {
+     "id": "ir:3",
+     "t": "mc",
+     "q": "Fill the gap: “The children drank milk.”",
+     "hi": "बच्चों ने दूध ___ ।",
+     "say": "बच्चों ने दूध पिया ।",
+     "en": "{The children}[0] drank[3] milk[2].",
+     "a": "पिया",
+     "wrong": [
+      [
+       "पिए",
+       "पिए would agree with बच्चों. With ने the verb agrees with दूध, masculine singular."
+      ],
+      [
+       "पी",
+       "पी is feminine. दूध is masculine."
+      ]
+     ],
+     "why": "करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    },
+    {
+     "id": "ir:4",
+     "t": "mc",
+     "q": "Fill the gap: “The neighbours complained about us to the police.”",
+     "hi": "पड़ोसियों ने पुलिस से हमारी शिकायत ___ ।",
+     "say": "पड़ोसियों ने पुलिस से हमारी शिकायत की ।",
+     "en": "{The neighbours}[0] complained[5+6] {about us}[4] to[3] the police[2].",
+     "a": "की",
+     "wrong": [
+      [
+       "किया",
+       "किया is masculine. In शिकायत करना the verb agrees with शिकायत, feminine."
+      ],
+      [
+       "कीं",
+       "कीं is plural. शिकायत is singular here."
+      ]
+     ],
+     "why": "शिकायत करना “to complain”: X की शिकायत करना “to complain about X”. करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    },
+    {
+     "id": "ir:5",
+     "t": "mc",
+     "q": "Which sentence is correct?",
+     "a": "लड़कियों ने ठंडा पानी पिया ।",
+     "wrong": [
+      [
+       "लड़कियों ने ठंडा पानी पी ।",
+       "पी is feminine, as if agreeing with लड़कियों. With ने the verb agrees with पानी, masculine: पिया."
+      ],
+      [
+       "लड़कियाँ ठंडा पानी पीं ।",
+       "पीना is transitive, so in the perfective the subject takes ने (लड़कियों ने) and the verb agrees with पानी."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer.",
+     "say": "लड़कियों ने ठंडा पानी पिया ।",
+     "en": "{The girls}[0] drank[4] cold[2] water[3]."
+    },
+    {
+     "id": "ir:6",
+     "t": "mc",
+     "q": "What are the perfective participles of लेना?",
+     "a": "लिया, लिए, ली, लीं",
+     "wrong": [
+      [
+       "किया, किए, की, कीं",
+       "Those are the forms of करना."
+      ],
+      [
+       "लेता, लेते, लेती, लेतीं",
+       "Those are the imperfective participles, “taking”."
+      ]
+     ],
+     "why": "करना, लेना, देना and पीना have irregular participles: किया, किए, की, कीं — लिया, लिए, ली, लीं — दिया, दिए, दी, दीं — पिया, पिए, पी, पीं."
+    }
+   ]
+  },
+  {
+   "id": "pron",
+   "title": "मैंने, उसने, किसने",
+   "desc": "Pronouns before ने",
+   "skill": "pron",
+   "items": [
+    {
+     "id": "pr:0",
+     "t": "mc",
+     "q": "Fill the gap: “Where did you buy this book from? (to तुम)”",
+     "hi": "___ यह किताब कहाँ से ख़रीदी ?",
+     "say": "तुमने यह किताब कहाँ से ख़रीदी ?",
+     "en": "Where[3] did you[0] buy[5] this[1] book[2] from[4]? (to तुम)",
+     "a": "तुमने",
+     "wrong": [
+      [
+       "तुम",
+       "ख़रीदना is transitive, so in the perfective तुम takes ने — तुमने."
+      ],
+      [
+       "तुम्हें",
+       "तुम्हें is तुम + को. The doer of a transitive perfective takes ने — तुमने."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:1",
+     "t": "mc",
+     "q": "Fill the gap: “He heard a good song yesterday.”",
+     "hi": "___ कल एक अच्छा गीत सुना ।",
+     "say": "उसने कल एक अच्छा गीत सुना ।",
+     "en": "He[0] heard[5] a[2] good[3] song[4] yesterday[1].",
+     "a": "उसने",
+     "wrong": [
+      [
+       "वहने",
+       "Not a word: वह becomes उस before ने — उसने."
+      ],
+      [
+       "उसे",
+       "उसे is वह + को. The doer takes ने — उसने."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:2",
+     "t": "mc",
+     "q": "Fill the gap: “They gave us a lot of help.”",
+     "hi": "___ हमें बहुत मदद दी ।",
+     "say": "उन्होंने हमें बहुत मदद दी ।",
+     "en": "They[0] gave[4] us[1] {a lot of}[2] help[3].",
+     "a": "उन्होंने",
+     "wrong": [
+      [
+       "वेने",
+       "Not a word: before ने, वे becomes उन्होंने."
+      ],
+      [
+       "उसने",
+       "उसने is singular, “he” or “she”. “They” is उन्होंने."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:3",
+     "t": "mc",
+     "q": "Fill the gap: “Who opened this door?”",
+     "hi": "___ यह दरवाज़ा खोला ?",
+     "say": "किसने यह दरवाज़ा खोला ?",
+     "en": "Who[0] opened[3] this[1] door[2]?",
+     "a": "किसने",
+     "wrong": [
+      [
+       "कौनने",
+       "Not a word: कौन becomes किस before ने — किसने."
+      ],
+      [
+       "कौन",
+       "कौन is the direct form. खोलना is transitive, so “who” takes ने — किसने."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:4",
+     "t": "mc",
+     "q": "Fill the gap: “What did you eat this morning? (to आप)”",
+     "hi": "___ आज सुबह क्या खाया ?",
+     "say": "आपने आज सुबह क्या खाया ?",
+     "en": "What[3] did you[0] eat[4] {this morning}[1+2]? (to आप)",
+     "a": "आपने",
+     "wrong": [
+      [
+       "आप",
+       "खाना is transitive, so in the perfective आप takes ने — आपने."
+      ],
+      [
+       "तुमने",
+       "तुमने is the तुम form. The cue is to आप."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:5",
+     "t": "mc",
+     "q": "Fill the gap: “I did a lot of work today.”",
+     "hi": "___ आज बहुत काम किया ।",
+     "say": "मैंने आज बहुत काम किया ।",
+     "en": "I[0] did[4] {a lot of}[2] work[3] today[1].",
+     "a": "मैंने",
+     "wrong": [
+      [
+       "मुझने",
+       "Not a word: मैं stays मैं before ने — मैंने."
+      ],
+      [
+       "मुझे",
+       "मुझे is मैं + को. The doer takes ने — मैंने."
+      ]
+     ],
+     "why": "Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    },
+    {
+     "id": "pr:6",
+     "t": "mc",
+     "q": "Fill the gap: “This person helped me a lot.”",
+     "hi": "___ मेरी बहुत मदद की ।",
+     "say": "इसने मेरी बहुत मदद की ।",
+     "en": "{This person}[0] helped[3+4] me[1] {a lot}[2].",
+     "a": "इसने",
+     "wrong": [
+      [
+       "यहने",
+       "Not a word: before ने, यह becomes इस — इसने."
+      ],
+      [
+       "इसे",
+       "इसे is यह + को. The doer takes ने — इसने."
+      ]
+     ],
+     "why": "मदद करना — the verb agrees with मदद, feminine: की. Before ने — मैंने, तूने, इसने, उसने, हमने, तुमने, आपने, इन्होंने, उन्होंने, किसने, किन्होंने, किसीने."
+    }
+   ]
+  },
+  {
+   "id": "ko",
+   "title": "को और लाना",
+   "desc": "Objects with को, no object, and the exception लाना",
+   "skill": "ko",
+   "items": [
+    {
+     "id": "ko:0",
+     "t": "mc",
+     "q": "Fill the gap: “Sita called her brother.”",
+     "hi": "सीता ने अपने भाई को ___ ।",
+     "say": "सीता ने अपने भाई को बुलाया ।",
+     "en": "Sita[0] called[5] her[2] brother[3+4].",
+     "a": "बुलाया",
+     "wrong": [
+      [
+       "बुलाई",
+       "बुलाई would agree with सीता. With ने the verb never agrees with the doer."
+      ],
+      [
+       "बुलाए",
+       "बुलाए is plural. With को on the object the verb is masculine singular."
+      ]
+     ],
+     "why": "When the object takes को, or there is no object, the verb with ने is masculine singular."
+    },
+    {
+     "id": "ko:1",
+     "t": "mc",
+     "q": "Fill the gap: “We saw those girls at the station.”",
+     "hi": "हमने उन लड़कियों को स्टेशन पर ___ ।",
+     "say": "हमने उन लड़कियों को स्टेशन पर देखा ।",
+     "en": "We[0] saw[6] those[1] girls[2+3] at[5] the station[4].",
+     "a": "देखा",
+     "wrong": [
+      [
+       "देखीं",
+       "देखीं would agree with लड़कियों. With को on the object the verb no longer agrees: देखा."
+      ],
+      [
+       "देखे",
+       "देखे is plural. With को on the object the verb is masculine singular."
+      ]
+     ],
+     "why": "When the object takes को, or there is no object, the verb with ने is masculine singular."
+    },
+    {
+     "id": "ko:2",
+     "t": "mc",
+     "q": "Add को to the object",
+     "a": "राज ने दोनों गाड़ियों को चलाया ।",
+     "wrong": [
+      [
+       "राज ने दोनों गाड़ियों को चलाईं ।",
+       "With को on the object the verb no longer agrees with it: चलाया."
+      ],
+      [
+       "राज ने दोनों गाड़ियाँ को चलाया ।",
+       "Before को the noun is oblique: गाड़ियों."
+      ]
+     ],
+     "why": "When the object takes को, or there is no object, the verb with ने is masculine singular.",
+     "hi": "राज ने दोनों गाड़ियाँ चलाईं ।",
+     "audio": true,
+     "say": "राज ने दोनों गाड़ियों को चलाया ।",
+     "en": "Raj[0] drove[5] both[2] cars[3+4]."
+    },
+    {
+     "id": "ko:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sita wrote until late.”",
+     "hi": "सीता ने देर तक ___ ।",
+     "say": "सीता ने देर तक लिखा ।",
+     "en": "Sita[0] wrote[4] {until late}[2+3].",
+     "a": "लिखा",
+     "wrong": [
+      [
+       "लिखी",
+       "लिखी would agree with सीता. With ने and no object the verb is masculine singular."
+      ],
+      [
+       "लिखे",
+       "लिखे is plural. With ने and no object the verb is masculine singular."
+      ]
+     ],
+     "why": "When the object takes को, or there is no object, the verb with ने is masculine singular."
+    },
+    {
+     "id": "ko:4",
+     "t": "mc",
+     "q": "Which sentence is correct?",
+     "a": "मोहन मेरे लिए एक तोहफ़ा लाया ।",
+     "wrong": [
+      [
+       "मोहन ने मेरे लिए एक तोहफ़ा लाया ।",
+       "लाना never takes ने, though it has an object: मोहन … लाया."
+      ],
+      [
+       "मोहन मेरे लिए एक तोहफ़ा लाई ।",
+       "लाई is feminine. Mohan is a man."
+      ]
+     ],
+     "why": "लाना “to bring” is transitive but never takes ने — it agrees with its subject like आना.",
+     "say": "मोहन मेरे लिए एक तोहफ़ा लाया ।",
+     "en": "Mohan[0] brought[5] a[3] present[4] for[2] me[1]."
+    },
+    {
+     "id": "ko:5",
+     "t": "mc",
+     "q": "Fill the gap: “Raj and Pratap had brought a lot of luggage with them.”",
+     "hi": "राज और प्रताप अपने साथ बहुत सामान लाए ___ ।",
+     "say": "राज और प्रताप अपने साथ बहुत सामान लाए थे ।",
+     "en": "Raj[0] and[1] Pratap[2] {had brought}[7+8] {a lot of}[5] luggage[6] {with them}[3+4].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था would agree with सामान, as if लाना took ने. लाना agrees with its subject, राज और प्रताप, plural."
+      ],
+      [
+       "थी",
+       "थी is feminine singular. राज और प्रताप are two men."
+      ]
+     ],
+     "why": "लाना “to bring” is transitive but never takes ने — it agrees with its subject like आना."
+    },
+    {
+     "id": "ko:6",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki didn't understand this question.”",
+     "hi": "पिंकी ने यह सवाल नहीं ___ ।",
+     "say": "पिंकी ने यह सवाल नहीं समझा ।",
+     "en": "Pinki[0] {didn't}[4] understand[5] this[2] question[3].",
+     "a": "समझा",
+     "wrong": [
+      [
+       "समझी",
+       "समझी would agree with पिंकी. With ने the verb agrees with सवाल, masculine."
+      ],
+      [
+       "समझे",
+       "समझे is plural. सवाल is singular."
+      ]
+     ],
+     "why": "समझना takes ने when it has an object. Here ने is used, so the verb agrees with the object."
+    },
+    {
+     "id": "ko:7",
+     "t": "mc",
+     "q": "Which sentence is correct?",
+     "a": "औरतें कल शाम को लौटीं ।",
+     "wrong": [
+      [
+       "औरतों ने कल शाम को लौटीं ।",
+       "लौटना is intransitive, so there is no ने — औरतें … लौटीं."
+      ],
+      [
+       "औरतें कल शाम को लौटे ।",
+       "लौटे is masculine. औरतें is feminine."
+      ]
+     ],
+     "why": "Intransitive verbs agree with the subject in the perfective: stem + -ā, -e, -ī, -ī̃ (उठा, उठे, उठी, उठीं).",
+     "say": "औरतें कल शाम को लौटीं ।",
+     "en": "{The women}[0] returned[4] {yesterday evening}[1+2+3]."
+    }
+   ]
+  },
+  {
+   "id": "tense",
+   "title": "गया है, गया था, गया होगा",
+   "desc": "“has, had, must have, may have …”",
+   "skill": "tense",
+   "items": [
+    {
+     "id": "te:0",
+     "t": "mc",
+     "q": "Make it “had gone”",
+     "a": "उषा बनारस गई थी ।",
+     "wrong": [
+      [
+       "उषा बनारस गई है ।",
+       "है gives “has gone”."
+      ],
+      [
+       "उषा बनारस जाती थी ।",
+       "जाती थी is the imperfective, “used to go”."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle.",
+     "hi": "उषा बनारस गई ।",
+     "audio": true,
+     "say": "उषा बनारस गई थी ।",
+     "en": "Usha[0] {had gone}[2+3] to Banaras[1]."
+    },
+    {
+     "id": "te:1",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan may have reached home.”",
+     "hi": "शायद मोहन घर पहुँचा ___ ।",
+     "say": "शायद मोहन घर पहुँचा हो ।",
+     "en": "Mohan[1] may[0+4] {have reached}[3] home[2].",
+     "a": "हो",
+     "wrong": [
+      [
+       "हों",
+       "हों is plural. Mohan, spoken of plainly, takes हो."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "Perfective + subjunctive हो — “may have …”."
+    },
+    {
+     "id": "te:2",
+     "t": "mc",
+     "q": "Fill the gap: “The train will have reached Agra by now.”",
+     "hi": "रेलगाड़ी अब तक आगरा पहुँची ___ ।",
+     "say": "रेलगाड़ी अब तक आगरा पहुँची होगी ।",
+     "en": "The train[0] {will have reached}[4+5] Agra[3] {by now}[1+2].",
+     "a": "होगी",
+     "wrong": [
+      [
+       "होगा",
+       "होगा is masculine. रेलगाड़ी is feminine."
+      ],
+      [
+       "होंगी",
+       "होंगी is plural. रेलगाड़ी is singular."
+      ]
+     ],
+     "why": "Perfective + होगा — “will have …, must have …”."
+    },
+    {
+     "id": "te:3",
+     "t": "mc",
+     "q": "What does वे आए होंगे mean?",
+     "a": "They must have come.",
+     "wrong": [
+      [
+       "They will come.",
+       "That is the future: वे आएँगे."
+      ],
+      [
+       "They may have come.",
+       "“May have” takes the subjunctive: वे आए हों."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle."
+    },
+    {
+     "id": "te:4",
+     "t": "mc",
+     "q": "Fill the gap: “Last year we had gone to Nepal twice.”",
+     "hi": "पिछले साल हम दो बार नेपाल गए ___ ।",
+     "say": "पिछले साल हम दो बार नेपाल गए थे ।",
+     "en": "{Last year}[0+1] we[2] {had gone}[6+7] to Nepal[5] twice[3+4].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular. हम takes the plural."
+      ],
+      [
+       "थी",
+       "थी is feminine singular. हम takes the plural."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle."
+    },
+    {
+     "id": "te:5",
+     "t": "mc",
+     "q": "Make it “have returned”",
+     "a": "मेरी बहिनें स्कूल से लौटी हैं ।",
+     "wrong": [
+      [
+       "मेरी बहिनें स्कूल से लौटीं हैं ।",
+       "With an auxiliary, the feminine plural nasal goes only on the last word: उठी हैं, उठी थीं (the book's rule)."
+      ],
+      [
+       "मेरी बहिनें स्कूल से लौटती हैं ।",
+       "लौटती हैं is the imperfective, “return (regularly)”."
+      ]
+     ],
+     "why": "With an auxiliary, the feminine plural nasal goes only on the last word: उठी हैं, उठी थीं (the book's rule).",
+     "hi": "मेरी बहिनें स्कूल से लौटीं ।",
+     "audio": true,
+     "say": "मेरी बहिनें स्कूल से लौटी हैं ।",
+     "en": "My[0] sisters[1] {have returned}[4+5] from[3] school[2]."
+    },
+    {
+     "id": "te:6",
+     "t": "mc",
+     "q": "Fill the gap: “The weather was very good yesterday.”",
+     "hi": "कल मौसम बहुत अच्छा ___ ।",
+     "say": "कल मौसम बहुत अच्छा था ।",
+     "en": "{The weather}[1] was[4] very[2] good[3] yesterday[0].",
+     "a": "था",
+     "wrong": [
+      [
+       "हुआ",
+       "हुआ means “happened” and describes an event. A state, “was”, takes था."
+      ],
+      [
+       "थी",
+       "थी is feminine. मौसम is masculine."
+      ]
+     ],
+     "why": "हुआ “happened” describes an action; था “was” describes a state."
+    },
+    {
+     "id": "te:7",
+     "t": "mc",
+     "q": "Make it “may have …”",
+     "a": "दादा जी ने अख़बार पढ़ा हो ।",
+     "wrong": [
+      [
+       "दादा जी ने अख़बार पढ़ा हों ।",
+       "हों is plural. The verb agrees with अख़बार, masculine singular, not with दादा जी — हो."
+      ],
+      [
+       "दादा जी ने अख़बार पढ़ता हो ।",
+       "पढ़ता is the imperfective participle. ने goes only with perfective verbs: पढ़ा हो."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle.",
+     "hi": "दादा जी ने अख़बार पढ़ा होगा ।",
+     "audio": true,
+     "say": "दादा जी ने अख़बार पढ़ा हो ।",
+     "en": "Grandpa[0] {may have read}[4+5] the newspaper[3]."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Raj[0] slept[3] {in the afternoon}[1+2].",
+     "ans": [
+      "राज",
+      "दोपहर",
+      "को",
+      "सोया"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "सोना is intransitive, so there is no ने."
+      ],
+      [
+       "सोई",
+       "सोई is feminine. Raj is a man."
+      ]
+     ],
+     "alt": [
+      [
+       "दोपहर",
+       "को",
+       "राज",
+       "सोया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Sita[0] {has come}[3+4] from[2] Delhi[1].",
+     "ans": [
+      "सीता",
+      "दिल्ली",
+      "से",
+      "आई",
+      "है"
+     ],
+     "wrong": [
+      [
+       "आया",
+       "आया is masculine. Sita is a woman."
+      ],
+      [
+       "आईं",
+       "आईं is plural. Sita is one person, and before है the participle has no nasal."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "I[0] read[4] a[2] story[3] yesterday[1].",
+     "ans": [
+      "मैंने",
+      "कल",
+      "एक",
+      "कहानी",
+      "पढ़ी"
+     ],
+     "wrong": [
+      [
+       "पढ़ा",
+       "पढ़ा is masculine. With ने the verb agrees with कहानी, feminine."
+      ],
+      [
+       "मैं",
+       "पढ़ना with an object takes ने in the perfective: मैंने."
+      ]
+     ],
+     "alt": [
+      [
+       "कल",
+       "मैंने",
+       "एक",
+       "कहानी",
+       "पढ़ी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "{The guests}[0] drank[3] coffee[2].",
+     "ans": [
+      "मेहमानों",
+      "ने",
+      "कॉफ़ी",
+      "पी"
+     ],
+     "wrong": [
+      [
+       "पिया",
+       "पिया is masculine. With ने the verb agrees with कॉफ़ी, feminine."
+      ],
+      [
+       "मेहमान",
+       "मेहमान ने would be one guest. “The guests” before ने is oblique plural: मेहमानों."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "We[0] saw[3] Mohan[1+2].",
+     "ans": [
+      "हमने",
+      "मोहन",
+      "को",
+      "देखा"
+     ],
+     "wrong": [
+      [
+       "देखे",
+       "देखे is plural. With को on the object the verb is masculine singular."
+      ],
+      [
+       "हम",
+       "देखना is transitive: in the perfective हम takes ने, हमने."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Who[0] broke[3] this[1] glass[2]?",
+     "ans": [
+      "किसने",
+      "यह",
+      "गिलास",
+      "तोड़ा"
+     ],
+     "wrong": [
+      [
+       "कौन",
+       "कौन becomes किस before ने — किसने."
+      ],
+      [
+       "तोड़ी",
+       "तोड़ी is feminine. गिलास is masculine."
+      ]
+     ],
+     "alt": [
+      [
+       "यह",
+       "गिलास",
+       "किसने",
+       "तोड़ा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "They[0] {had cleaned}[3+4+5] their[1] house[2].",
+     "ans": [
+      "उन्होंने",
+      "अपना",
+      "घर",
+      "साफ़",
+      "किया",
+      "था"
+     ],
+     "wrong": [
+      [
+       "थे",
+       "थे would agree with उन्होंने. With ने the auxiliary agrees with घर — था."
+      ],
+      [
+       "वेने",
+       "Not a word: before ने, वे becomes उन्होंने."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Pratap[0] brought[3] some[1] fruit[2].",
+     "ans": [
+      "प्रताप",
+      "कुछ",
+      "फल",
+      "लाया"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "लाना never takes ने, though it has an object."
+      ],
+      [
+       "लाआ",
+       "Not a word: after a vowel stem the masculine singular inserts -y- — लाया."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Mohan[0] {must have gone}[2+3] to the office[1].",
+     "ans": [
+      "मोहन",
+      "दफ़्तर",
+      "गया",
+      "होगा"
+     ],
+     "wrong": [
+      [
+       "होगी",
+       "होगी is feminine. Mohan is a man."
+      ],
+      [
+       "गई",
+       "गई is feminine. Mohan is a man."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "{The children}[0+1] had[4] {a lot of}[2] fun[3].",
+     "ans": [
+      "बच्चों",
+      "को",
+      "बहुत",
+      "मज़ा",
+      "आया"
+     ],
+     "wrong": [
+      [
+       "बच्चे",
+       "Before को the noun is oblique: बच्चों."
+      ],
+      [
+       "आई",
+       "आई is feminine. आना agrees with मज़ा, masculine."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "{The shopkeeper}[0] {has opened}[3+4] the shop[2].",
+     "ans": [
+      "दुकानदार",
+      "ने",
+      "दुकान",
+      "खोली",
+      "है"
+     ],
+     "wrong": [
+      [
+       "खोला",
+       "खोला is masculine. With ने the verb agrees with दुकान, feminine."
+      ],
+      [
+       "खोलीं",
+       "खोलीं is plural. दुकान is singular."
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Sita[0] gave[5] me[2] a[3] book[4].",
+     "ans": [
+      "सीता",
+      "ने",
+      "मुझे",
+      "एक",
+      "किताब",
+      "दी"
+     ],
+     "wrong": [
+      [
+       "दिया",
+       "दिया is masculine. With ने the verb agrees with किताब, feminine."
+      ],
+      [
+       "देया",
+       "Not a word: देना is irregular. Its participle is दिया, दिए, दी, दीं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:12",
+     "t": "tiles",
+     "en": "Did you[1] meet[4] Raj[2+3]? (to आप, a man)",
+     "ans": [
+      "क्या",
+      "आप",
+      "राज",
+      "से",
+      "मिले"
+     ],
+     "wrong": [
+      [
+       "आपने",
+       "मिलना is intransitive, so there is no ने."
+      ],
+      [
+       "मिला",
+       "मिला is singular. आप takes the plural: मिले."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "राज वहाँ गया होगा ।",
+     "audio": true,
+     "a": "Raj must have gone there.",
+     "wrong": [
+      [
+       "Raj will go there.",
+       "That would be the future: जाएगा. गया होगा is “must have gone”."
+      ],
+      [
+       "Raj had gone there.",
+       "“Had gone” would be गया था. होगा makes it “must have”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "किसीने मेज़ पर फल रखे थे ।",
+     "audio": true,
+     "a": "Someone had put fruit on the table.",
+     "wrong": [
+      [
+       "Someone was putting fruit on the table.",
+       "That would be the continuous: रख रहा था."
+      ],
+      [
+       "Someone used to put fruit on the table.",
+       "That would be the imperfective: रखता था."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मोहन ने अपने बेटे को कुछ पैसे दिए ।",
+     "audio": true,
+     "a": "Mohan gave his son some money.",
+     "wrong": [
+      [
+       "Mohan's son gave him some money.",
+       "Mohan has ने, so he is the doer. बेटे को is the one who received."
+      ],
+      [
+       "Mohan borrowed some money from his son.",
+       "Borrowing would be उधार लेना with से. दिए is “gave”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उन्होंने मुझे नहीं देखा ।",
+     "audio": true,
+     "a": "They didn't see me.",
+     "wrong": [
+      [
+       "I didn't see them.",
+       "That would be मैंने उन्हें नहीं देखा. उन्होंने is the doer."
+      ],
+      [
+       "They don't see me.",
+       "That would be the imperfective, देखते. देखा is perfective."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शायद सीता ने यह फ़िल्म देखी हो ।",
+     "audio": true,
+     "a": "Sita may have seen this film.",
+     "wrong": [
+      [
+       "Sita must have seen this film.",
+       "“Must have” would be देखी होगी. हो is “may have”."
+      ],
+      [
+       "Sita may see this film.",
+       "That would be the plain subjunctive, देखे. देखी हो is “may have seen”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दादा जी को फ़िल्म में नींद आई ।",
+     "audio": true,
+     "a": "Grandpa felt sleepy during the film.",
+     "wrong": [
+      [
+       "We felt sleepy during Grandpa's film.",
+       "दादा जी को marks the one who felt sleepy. There is no “we”."
+      ],
+      [
+       "Grandpa came late to the film.",
+       "आई goes with नींद — नींद आना “to feel sleepy”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "माली ने मुझसे माफ़ी माँगी ।",
+     "audio": true,
+     "a": "The gardener apologized to me.",
+     "wrong": [
+      [
+       "I apologized to the gardener.",
+       "That would be मैंने माली से माफ़ी माँगी. माली ने is the doer."
+      ],
+      [
+       "The gardener forgave me.",
+       "“To forgive” is माफ़ करना. माफ़ी माँगना is “to apologize”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Transitivity, ने, agreement",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Which verbs take ने in the perfective?",
+     "a": "Most transitive verbs",
+     "wrong": [
+      [
+       "All verbs",
+       "Intransitive verbs such as आना, जाना and लौटना never take ने."
+      ],
+      [
+       "Intransitive verbs",
+       "It is the other way round: ने goes with transitive verbs."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "With ने, what does the verb agree with?",
+     "a": "The direct object, if it has no को",
+     "wrong": [
+      [
+       "The doer (the word before ने)",
+       "The verb never agrees with a doer marked by ने."
+      ],
+      [
+       "Always the masculine singular (देखा, किया)",
+       "Only when there is no object, or when the object takes को."
+      ]
+     ],
+     "why": "Transitive verbs in the perfective take ने after the doer, and the verb agrees with the direct object, not with the doer. When the object takes को, or there is no object, the verb with ने is masculine singular."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "लाना “to bring” is transitive. Does it take ने?",
+     "a": "No: वह किताब लाया",
+     "wrong": [
+      [
+       "Yes: उसने किताब लाई",
+       "लाना is the exception. It never takes ने."
+      ],
+      [
+       "Only with a feminine object (उसने साड़ी लाई)",
+       "There is no such rule. लाना never takes ने."
+      ]
+     ],
+     "why": "लाना “to bring” is transitive but never takes ने — it agrees with its subject like आना."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Which verb takes ने only when it has an object?",
+     "a": "समझना",
+     "wrong": [
+      [
+       "लाना",
+       "लाना never takes ने."
+      ],
+      [
+       "लिखना",
+       "लिखना takes ने in the perfective with or without an object."
+      ]
+     ],
+     "why": "A few verbs, such as समझना, take ने only when a direct object is expressed: हम समझे, but हमने बात समझी."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "What is the masculine singular perfective of खाना?",
+     "a": "खाया",
+     "wrong": [
+      [
+       "खाआ",
+       "Not a word: after a vowel stem the masculine singular inserts -y-, खाया."
+      ],
+      [
+       "खाता",
+       "खाता is the imperfective participle, “eats, eating”."
+      ]
+     ],
+     "why": "After a vowel stem the masculine singular inserts -y- — आया, लाया, रोया. जाना and होना are irregular: गया, गए, गई, गईं and हुआ, हुए, हुई, हुईं."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "How do हुआ and था differ?",
+     "a": "हुआ “happened” is an event, था “was” a state",
+     "wrong": [
+      [
+       "हुआ is masculine, था feminine",
+       "Both are masculine singular. The feminines are हुई and थी."
+      ],
+      [
+       "हुआ is present, था past",
+       "Both refer to the past."
+      ]
+     ],
+     "why": "हुआ “happened” describes an action; था “was” describes a state."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "What does a perfective + होगा mean?",
+     "a": "“will have …” or “must have …”",
+     "wrong": [
+      [
+       "“may have …”",
+       "That is perfective + हो — आया हो."
+      ],
+      [
+       "“had …”",
+       "That is perfective + था — आया था."
+      ]
+     ],
+     "why": "Perfective + है “has …”, + था “had …”, + होगा “will have, must have …”, + हो “may have …”. The auxiliary agrees like the participle."
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "In the feminine plural with an auxiliary, which word has the nasal?",
+     "a": "Only the auxiliary: उठी हैं, उठी थीं",
+     "wrong": [
+      [
+       "Both words: उठीं हैं",
+       "The book writes the nasal only on the last word, as in उठी हैं."
+      ],
+      [
+       "Only the participle: उठीं है",
+       "है is singular. The plural must show on the auxiliary: उठी हैं."
+      ]
+     ],
+     "why": "With an auxiliary, the feminine plural nasal goes only on the last word: उठी हैं, उठी थीं (the book's rule)."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "intr": 3,
+  "ne": 3,
+  "irr": 1,
+  "pron": 2,
+  "ko": 2,
+  "tense": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "आआ": "āā",
+  "रोआ": "roā",
+  "लाआ": "lāā",
+  "देया": "deyā",
+  "लेया": "leyā",
+  "वहने": "vahne",
+  "वेने": "vene",
+  "कौनने": "kaunne",
+  "मुझने": "mujhne",
+  "यहने": "yahne",
+  "खाआ": "khāā"
+ }
+}

@@ -12,6 +12,7 @@
 | 8 | Done, validated (not committed) | 80 | 96 | 22 | book 90–103 |
 | 9 | Done, validated (not committed) | 80 | 90 | 22 | book 104–116 (117 blank) |
 | 10 | Done, validated (not committed) | 80 | 75 | 22 | book 118–128 (129 blank) |
+| 11 | Done, validated (not committed) | 80 | 78 | 22 | book 130–143 (144 Test yourself, 145 blank) |
 
 ## Items to review
 
@@ -357,6 +358,51 @@
   - `mn:2`, like मजनूँ लैला को बहुत चाहता था.
   - The `_grammar` titles use my own examples.
 - Meaning items carry no alignment, as in units 2–9. कि and तो keep their existing `gloss` entries and are also aligned where they have an English counterpart (“that”, “then”, “or”). No new glosses were added, because glosses are merged across all units.
+
+### Unit 11
+- Vocabulary: the end list (pp. 141–143) plus नेपाली and रुपया “rupee” (Quick Vocab p. 134; unit 5 has पैसा “money”) and ने. पीछे is not repeated (unit 6). Compound entries are kept separate from their parts, as in units 9–10: आनंद / आनंद आना, नींद / नींद आना, मज़ा / मज़ा आना, उधार / उधार लेना, माफ़ी / माफ़ी माँगना, शिकायत / शिकायत करना, जारी / जारी रखना, plus माफ़ करना, वापस लेना, देर तक, साथ साथ, आख़िर में.
+  - Left out: dialogue-only words and names (डिफ़ेंस कालोनी, इसलिए, अनीता, गीता, राम) and the insight-box words ईमेल, ई-पत्र, डाक.
+  - माँगना is declared because the entry माफ़ी माँगना needs it (माँगी appears in `mn:6`).
+- Spellings and romanisations I chose:
+  - भेंट bhẽṭ (nasal vowel, like खींचना khī̃cnā); नींद nī̃d; उँगली ũglī; बाँह bā̃h; पहनना pahannā; फ़ैक्स faiks; ट्रेकिंग ṭreking; कैमरा kaimrā; उपहार upahār (check against the book's romanisation, which I could not confirm: it may be uphār); रुपया rupayā.
+  - The ने pronoun forms are written joined, as in the book's table: मैंने, उसने, उन्होंने, किसने, किसीने (the book also once prints मैं ने separately). Nouns keep ने separate: लड़के ने.
+  - Perfectives use the book's main spellings (आए, आई, गए, गई, किए, लिए, दिए, पिए), not the optional य spellings (आये, आयी, गये…).
+- Genders: the book gives फ़ोटो as m/f (f/m in the end list). I entered it as f with the gloss “photograph (f or m)” and kept it out of every item.
+- Glosses chosen to keep English answers distinct: उपहार “gift (formal)”, भेंट “presentation, gift”, तोहफ़ा “present (everyday word)”; आनंद “joy, enjoyment” / मज़ा “fun, pleasure”; मुमकिन “possible (Perso-Arabic word)” (unit 10 has संभव “possible”); जारी रखना “to maintain, keep up”.
+- ने is glossed (“marks the doer … not translated”) instead of aligned. This adds a gloss entry, merged across units.
+- Forms that earlier units' rules produce, declared here: फ़िल्में, कैमरे (plurals); पड़ोसियों, औरतों (oblique plurals); लेता, लेते, लेती, लेतीं, लौटती, रखता, पढ़ता, देखते (imperfective participles, used in wrong choices and explanations); सोया (perfective of the unit 4 verb सोना); रख (stem, in “रख रहा था”).
+- Deliberately wrong forms (Hard tile pool), all non-words:
+  - खाआ, लाआ, आआ, रोआ: no -y- glide after a vowel stem.
+  - लेया, देया: regularised irregular participles.
+  - वहने, यहने, वेने, मुझने, कौनने: ने stuck on the direct pronoun.
+  - I avoided the attested variants आये, आयी, गये, किये, लिये, दिये, हुये, पीया, the colloquial करा and करी, the dialect forms उनने and इनने, and जाया (as in जाया करना). सोया, धोया, खोया are real words, and so is सोआ (dill), so the glide fakes use other verbs.
+- Choices never set against each other because both are correct:
+  - गया against गया था (the book: गया था can be a plain remote past). Tense items cue “has”, “had”, “must have” or “may have” explicitly, and the wrong choices are otherwise agreement errors.
+  - किताब पढ़ी against किताब को पढ़ा: `ko:2` asks explicitly to add को; no tile item offers को together with the masculine singular participle as extras.
+  - बोलना, समझना, खेलना, पढ़ना “study” with and without ने: not tested. `ko:6` (पिंकी ने यह सवाल नहीं समझा) fixes ने in the prompt and tests only object agreement. `tl:2` uses पढ़ना with an object (कहानी), where ने is required.
+  - Respect plurals: पिता जी is treated as respectful (आए, `in:4`), Sita, Pinki, Mohan and Raj as spoken of plainly. माँ appears only with ने or in a plural subject, so plain against respectful never matters.
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `in:5` क्या तुम कभी आगरा गए हो ? “(to a man)” rules out गई. `in:8` “(a woman speaking)” rules out मिला. `tl:12` “(to आप, a man)”.
+  - `tl:8` मोहन दफ़्तर गया होगा: “must have”.
+  - `te:0`: गई है is “has gone”, offered as wrong against the cue “had gone”.
+  - `tl:3` offers मेहमान: मेहमान ने कॉफ़ी पी is grammatical but means “the guest”.
+  - `pr:2` offers उसने (“he/she”) and `pr:4` offers तुमने: both make grammatical sentences, ruled out by the cues “They” and “(to आप)”.
+  - `pr:6` uses इसने for “this person”. A respectful इन्होंने would also be possible and is not offered.
+- `in:6`, `te:5` and `us:7` treat गईं हैं and लौटीं हैं as wrong, following the book's table (उठी हैं, उठी थीं). The double nasal is often seen in writing, and the explanation says it is the book's rule.
+- `in:10` दादी को दोपहर को नींद आई: two को in one sentence. The wrong choice आईं is explained as agreeing with नींद, not with a respected दादी.
+- `in:3` offers थी against हुई for an accident (“an accident was in the town” is wrong). `te:6` offers हुआ against था for the weather.
+- `ne:7` माँ ने बच्चों को एक पुराना गीत सुनाया: सुनाना “to relate, recite”, translated “sang”. Check you're happy with the English.
+- `ne:9` आज सीता ने लाल साड़ी पहनी है is translated “has put on”; “is wearing” is the natural English sense.
+- `ko:3` सीता ने देर तक लिखा “Sita wrote until late”: लिखना with no object.
+- `ko:0` सीता ने अपने भाई को बुलाया: बुलाना “to call”.
+- `ir:4` पड़ोसियों ने पुलिस से हमारी शिकायत की: X की शिकायत करना “complain about X”, X से “to X”. The book shows only शिकायत की with no complement.
+- `te:4` पिछले साल हम दो बार नेपाल गए थे is translated “had gone”, in the remote-past sense.
+- `mn:5` दादा जी को फ़िल्म में नींद आई “Grandpa felt sleepy during the film”: में for “during”.
+- `us:3`: समझना is the book's example of a verb that takes ने only with an expressed object. In speech मैं आपकी बात नहीं समझा is also heard; no item tests it.
+- Near-match check against pp. 130–144: I typed the dialogues, the 11.2–11.4 examples, exercises 11A–11C and Test yourself into a scratch file and compared every `say` and tile answer by shared words. Changes I made before writing:
+  - Avoided the 11.3 frames: चिट्ठियाँ लिखीं (`ne:2` is साड़ी भेजी, `tl:2` कहानी पढ़ी), कुरते ख़रीदे and मूर्तियाँ ख़रीदीं (`ne:0` is साड़ियाँ बेचीं), खिड़की तोड़ी (`tl:5` गिलास तोड़ा, `ne:6` कैमरा उठाया था), खिड़की खोली (`pr:3` दरवाज़ा खोला), फ़ैक्स भेजा (`tl:6` घर साफ़ किया था), कपड़े धोए (`ne:4` कैमरे बेचे हैं), चाय पी (`tl:3` कॉफ़ी, `ir:5` ठंडा पानी).
+  - Avoided कल रात को … लौटा (`in:1` uses परसों), लड़कियाँ कल सुबह बनारस पहुँचीं (`in:0` सीता दो बजे स्टेशन पहुँची), देर तक सोईं (`tl:0` दोपहर को सोया), पिताजी ने … रुपए उधार लिए (`ir:2` किताब उधार ली), उन्हें बहुत आनंद आया (`mn:5` uses नींद), मैंने अपना कैमरा बेचा, दादाजी न पहुँचे हों (`tl:8` uses मोहन दफ़्तर).
+  - Remaining resemblances that are the construction itself: `in:10` and `mn:5` नींद आई (like रात को हमें नींद नहीं आई); `in:9`, `tl:9` मज़ा आया (like ख़ूब मज़ा भी आया होगा); `ir:4` शिकायत की; `pr:2` उन्होंने … दी (like उन्होंने सही क़ीमत दी); `te:1` घर पहुँचा हो.
 
 ## Known issues and not yet done
 
