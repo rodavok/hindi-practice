@@ -1,0 +1,1831 @@
+{
+ "id": "unit2",
+ "n": 2,
+ "title": "Questions and answers",
+ "titleHi": "सवाल और जवाब",
+ "scope": "Question words क्या, कौन, कैसा, कितना, क्यों; adjective agreement with mixed genders and with आप and तुम; भी and न; honorific and numerical plurals; greetings and polite words",
+ "pages": "book 14–24",
+ "skills": {
+  "ask": "Question words",
+  "agree": "Agreement",
+  "plural": "Plurals",
+  "usage": "Usage and conventions",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अख़बार",
+   "en": "newspaper",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अध्यापक",
+   "en": "teacher",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अभी",
+   "en": "right now",
+   "c": "x"
+  },
+  {
+   "hi": "आज",
+   "en": "today",
+   "c": "x"
+  },
+  {
+   "hi": "काग़ज़",
+   "en": "paper",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कितना",
+   "en": "how much, how many",
+   "c": "x"
+  },
+  {
+   "hi": "किताब",
+   "en": "book",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कृपया",
+   "en": "please (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "कैसा",
+   "en": "what kind of, how",
+   "c": "x"
+  },
+  {
+   "hi": "कौन",
+   "en": "who",
+   "c": "x"
+  },
+  {
+   "hi": "क्यों",
+   "en": "why",
+   "c": "x"
+  },
+  {
+   "hi": "क्योंकि",
+   "en": "because",
+   "c": "x"
+  },
+  {
+   "hi": "ख़राब",
+   "en": "bad, spoiled",
+   "c": "a"
+  },
+  {
+   "hi": "ख़ुश",
+   "en": "happy",
+   "c": "a"
+  },
+  {
+   "hi": "गंदा",
+   "en": "dirty",
+   "c": "a"
+  },
+  {
+   "hi": "चप्पल",
+   "en": "sandal",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "चिट्ठी",
+   "en": "letter, note",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "छात्र",
+   "en": "student (male)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "छात्रा",
+   "en": "student (female)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जवाब",
+   "en": "answer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जूता",
+   "en": "shoe",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ज़्यादातर",
+   "en": "mostly",
+   "c": "x"
+  },
+  {
+   "hi": "दिल्ली",
+   "en": "Delhi",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दुबला",
+   "en": "thin (of a person)",
+   "c": "a"
+  },
+  {
+   "hi": "धन्यवाद",
+   "en": "thank you (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "नमस्कार",
+   "en": "hello (formal)",
+   "c": "x"
+  },
+  {
+   "hi": "नया",
+   "en": "new",
+   "c": "a"
+  },
+  {
+   "hi": "नाराज़",
+   "en": "angry",
+   "c": "a"
+  },
+  {
+   "hi": "नौ",
+   "en": "nine",
+   "c": "x"
+  },
+  {
+   "hi": "पतला",
+   "en": "thin",
+   "c": "a"
+  },
+  {
+   "hi": "पर",
+   "en": "but",
+   "c": "x"
+  },
+  {
+   "hi": "परेशान",
+   "en": "upset, troubled",
+   "c": "a"
+  },
+  {
+   "hi": "पाँच",
+   "en": "five",
+   "c": "x"
+  },
+  {
+   "hi": "पागल",
+   "en": "crazy",
+   "c": "a"
+  },
+  {
+   "hi": "प्रदूषण",
+   "en": "pollution",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बहिन",
+   "en": "sister",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बात",
+   "en": "matter, thing",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बिलकुल",
+   "en": "completely",
+   "c": "x"
+  },
+  {
+   "hi": "बीमार",
+   "en": "ill",
+   "c": "a"
+  },
+  {
+   "hi": "बुरा",
+   "en": "bad",
+   "c": "a"
+  },
+  {
+   "hi": "बेटा",
+   "en": "son",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बेटी",
+   "en": "daughter",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भाई",
+   "en": "brother",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भी",
+   "en": "also, too",
+   "c": "x"
+  },
+  {
+   "hi": "महँगा",
+   "en": "expensive",
+   "c": "a"
+  },
+  {
+   "hi": "मालूम नहीं",
+   "en": "I don't know",
+   "c": "x"
+  },
+  {
+   "hi": "मेहरबानी",
+   "en": "kindness",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मोटा",
+   "en": "fat, thick",
+   "c": "a"
+  },
+  {
+   "hi": "मौसम",
+   "en": "weather",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "या",
+   "en": "or",
+   "c": "x"
+  },
+  {
+   "hi": "लंबा",
+   "en": "tall, long",
+   "c": "a"
+  },
+  {
+   "hi": "विद्यार्थी",
+   "en": "student",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शब्दकोश",
+   "en": "dictionary",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "श्री",
+   "en": "Mr",
+   "c": "x"
+  },
+  {
+   "hi": "श्रीमती",
+   "en": "Mrs",
+   "c": "x"
+  },
+  {
+   "hi": "सख़्त",
+   "en": "strict",
+   "c": "a"
+  },
+  {
+   "hi": "सब",
+   "en": "everything, all",
+   "c": "x"
+  },
+  {
+   "hi": "सवाल",
+   "en": "question",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सस्ता",
+   "en": "cheap",
+   "c": "a"
+  },
+  {
+   "hi": "साहब",
+   "en": "sir, Mr",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सोमवार",
+   "en": "Monday",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सोलह",
+   "en": "sixteen",
+   "c": "x"
+  },
+  {
+   "hi": "चौदह",
+   "en": "fourteen",
+   "c": "x"
+  },
+  {
+   "hi": "हलो",
+   "en": "hello (casual)",
+   "c": "x"
+  },
+  {
+   "hi": "हवा",
+   "en": "air",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "हाल",
+   "en": "condition, state",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हिन्दी",
+   "en": "Hindi",
+   "c": "n",
+   "g": "f"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "ask",
+   "title": "क्या, कौन, कैसा, कितना, क्यों",
+   "desc": "Pick the right question word and its form",
+   "skill": "ask",
+   "items": [
+    {
+     "id": "ask:0",
+     "t": "mc",
+     "q": "Fill the gap: “What is this?”",
+     "hi": "यह ___ है ?",
+     "say": "यह क्या है ?",
+     "en": "What[1] is[2] this[0]?",
+     "a": "क्या",
+     "wrong": [
+      [
+       "कौन",
+       "कौन asks “who?”, about a person."
+      ],
+      [
+       "क्यों",
+       "क्यों asks “why?”."
+      ]
+     ],
+     "why": "The question is about a thing, so it takes क्या."
+    },
+    {
+     "id": "ask:1",
+     "t": "mc",
+     "q": "Fill the gap: “Who is that girl?”",
+     "hi": "वह लड़की ___ है ?",
+     "say": "वह लड़की कौन है ?",
+     "en": "Who[2] is[3] that[0] girl[1]?",
+     "a": "कौन",
+     "wrong": [
+      [
+       "क्या",
+       "क्या asks “what?” about a thing (at the very start of a sentence it instead turns the sentence into a yes/no question)."
+      ],
+      [
+       "कितनी",
+       "कितनी is the -ī form of कितना, for feminine words."
+      ]
+     ],
+     "why": "The question is about a person, so it takes कौन."
+    },
+    {
+     "id": "ask:2",
+     "t": "mc",
+     "q": "Fill the gap: “How are you? (to a man)”",
+     "hi": "आप ___ हैं ?",
+     "say": "आप कैसे हैं ?",
+     "en": "How[1] are[2] you[0]? (to a man)",
+     "a": "कैसे",
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा (“what kind of, how”) in its -ā form goes only with a masculine singular word."
+      ],
+      [
+       "कौन",
+       "कौन asks “who?”, about a person."
+      ]
+     ],
+     "why": "आप is grammatically plural, so कैसा takes its -e form, कैसे."
+    },
+    {
+     "id": "ask:3",
+     "t": "mc",
+     "q": "Fill the gap: “What is the weather like?”",
+     "hi": "मौसम ___ है ?",
+     "say": "मौसम कैसा है ?",
+     "en": "{What is}[2] the weather[0] like[1]?",
+     "a": "कैसा",
+     "wrong": [
+      [
+       "कैसी",
+       "कैसी is the -ī form of कैसा, for feminine words."
+      ],
+      [
+       "कैसे",
+       "कैसे is the -e form of कैसा, for masculine plurals and for आप and तुम."
+      ]
+     ],
+     "why": "मौसम is masculine singular, so कैसा keeps its -ā form."
+    },
+    {
+     "id": "ask:4",
+     "t": "mc",
+     "q": "Fill the gap: “How many female students are here?”",
+     "hi": "यहाँ ___ छात्राएँ हैं ?",
+     "say": "यहाँ कितनी छात्राएँ हैं ?",
+     "en": "{How many}[1] {female students}[2] are[3] here[0]?",
+     "a": "कितनी",
+     "wrong": [
+      [
+       "कितने",
+       "कितने (“how many”) is the -e form of कितना, for masculine plurals."
+      ],
+      [
+       "कितना",
+       "कितना (“how much”) in its -ā form goes with a masculine singular word."
+      ]
+     ],
+     "why": "छात्राएँ is feminine, so it takes कितनी."
+    },
+    {
+     "id": "ask:5",
+     "t": "mc",
+     "q": "Fill the gap: “Why is Sangeeta upset?”",
+     "hi": "संगीता ___ परेशान है ?",
+     "say": "संगीता क्यों परेशान है ?",
+     "en": "Why[1] is[3] Sangeeta[0] upset[2]?",
+     "a": "क्यों",
+     "wrong": [
+      [
+       "कौन",
+       "कौन asks “who?”, about a person."
+      ],
+      [
+       "कैसी",
+       "कैसी is the -ī form of कैसा, for feminine words."
+      ]
+     ],
+     "why": "Asking for a reason needs क्यों."
+    },
+    {
+     "id": "ask:6",
+     "t": "mc",
+     "q": "Fill the gap: “What is that thick book?”",
+     "hi": "वह मोटी किताब ___ है ?",
+     "say": "वह मोटी किताब क्या है ?",
+     "en": "What[3] is[4] that[0] thick[1] book[2]?",
+     "a": "क्या",
+     "wrong": [
+      [
+       "कौन",
+       "कौन asks “who?”, about a person."
+      ],
+      [
+       "कितनी",
+       "कितनी is the -ī form of कितना, for feminine words."
+      ]
+     ],
+     "why": "The question is about a thing, so it takes क्या."
+    },
+    {
+     "id": "ask:7",
+     "t": "mc",
+     "q": "Fill the gap: “What kind of shoes are these?”",
+     "hi": "ये ___ जूते हैं ?",
+     "say": "ये कैसे जूते हैं ?",
+     "en": "{What kind of}[1] shoes[2] are[3] these[0]?",
+     "a": "कैसे",
+     "wrong": [
+      [
+       "कैसी",
+       "कैसी is the -ī form of कैसा, for feminine words."
+      ],
+      [
+       "कैसा",
+       "कैसा (“what kind of, how”) in its -ā form goes only with a masculine singular word."
+      ]
+     ],
+     "why": "जूते is masculine plural, so it takes कैसे."
+    },
+    {
+     "id": "ask:8",
+     "t": "mc",
+     "q": "Fill the gap: “What kind of letter is that?”",
+     "hi": "वह ___ चिट्ठी है ?",
+     "say": "वह कैसी चिट्ठी है ?",
+     "en": "{What kind of}[1] letter[2] is[3] that[0]?",
+     "a": "कैसी",
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा (“what kind of, how”) in its -ā form goes only with a masculine singular word."
+      ],
+      [
+       "कैसे",
+       "कैसे is the -e form of कैसा, for masculine plurals and for आप and तुम."
+      ]
+     ],
+     "why": "चिट्ठी is feminine, so it takes कैसी."
+    },
+    {
+     "id": "ask:9",
+     "t": "mc",
+     "q": "Fill the gap: “How expensive is the dictionary?”",
+     "hi": "शब्दकोश ___ महँगा है ?",
+     "say": "शब्दकोश कितना महँगा है ?",
+     "en": "{How expensive}[1+2] is[3] the dictionary[0]?",
+     "a": "कितना",
+     "wrong": [
+      [
+       "कितनी",
+       "कितनी is the -ī form of कितना, for feminine words."
+      ],
+      [
+       "कितने",
+       "कितने (“how many”) is the -e form of कितना, for masculine plurals."
+      ]
+     ],
+     "why": "शब्दकोश is masculine singular, so it takes कितना, just like महँगा."
+    },
+    {
+     "id": "ask:10",
+     "t": "mc",
+     "q": "Fill the gap: “How many students are there today?”",
+     "hi": "आज ___ विद्यार्थी हैं ?",
+     "say": "आज कितने विद्यार्थी हैं ?",
+     "en": "{How many}[1] students[2] {are there}[3] today[0]?",
+     "a": "कितने",
+     "wrong": [
+      [
+       "कितना",
+       "कितना (“how much”) in its -ā form goes with a masculine singular word."
+      ],
+      [
+       "कितनी",
+       "कितनी is the -ī form of कितना, for feminine words."
+      ]
+     ],
+     "why": "A count of students (a group, or male students) takes the masculine plural कितने."
+    },
+    {
+     "id": "ask:11",
+     "t": "mc",
+     "q": "Fill the gap: “Who are you?”",
+     "hi": "तुम ___ हो ?",
+     "say": "तुम कौन हो ?",
+     "en": "Who[1] are[2] you[0]?",
+     "a": "कौन",
+     "wrong": [
+      [
+       "क्या",
+       "क्या asks “what?” about a thing (at the very start of a sentence it instead turns the sentence into a yes/no question)."
+      ],
+      [
+       "क्यों",
+       "क्यों asks “why?”."
+      ]
+     ],
+     "why": "The question is about a person, so it takes कौन."
+    }
+   ]
+  },
+  {
+   "id": "agree",
+   "title": "Agreement",
+   "desc": "Mixed genders, आप and तुम, invariable adjectives",
+   "skill": "agree",
+   "items": [
+    {
+     "id": "ag:0",
+     "t": "mc",
+     "q": "Fill the gap: “Pratap and Sangeeta are tall.”",
+     "hi": "प्रताप और संगीता ___ हैं ।",
+     "say": "प्रताप और संगीता लंबे हैं ।",
+     "en": "Pratap[0] and[1] Sangeeta[2] are[4] tall[3].",
+     "a": "लंबे",
+     "wrong": [
+      [
+       "लंबी",
+       "लंबी is feminine. Sangeeta alone would take it, but a mixed group of people takes the masculine plural."
+      ],
+      [
+       "लंबा",
+       "लंबा is masculine singular, but the subject is two people."
+      ]
+     ],
+     "why": "A group of people of mixed gender takes the masculine plural."
+    },
+    {
+     "id": "ag:1",
+     "t": "mc",
+     "q": "Fill the gap: “These shoes and sandals are new.”",
+     "hi": "ये जूते और चप्पलें ___ हैं ।",
+     "say": "ये जूते और चप्पलें नई हैं ।",
+     "en": "These[0] shoes[1] and[2] sandals[3] are[5] new[4].",
+     "a": "नई",
+     "wrong": [
+      [
+       "नए",
+       "नए would agree with जूते, but with things of mixed gender the adjective agrees with the nearest noun, चप्पलें."
+      ],
+      [
+       "नया",
+       "नया is masculine singular, but the subject is plural."
+      ]
+     ],
+     "why": "With things of mixed gender, the adjective agrees with the nearest noun. चप्पलें is feminine."
+    },
+    {
+     "id": "ag:2",
+     "t": "mc",
+     "q": "Fill the gap: “These books and newspapers are old.”",
+     "hi": "ये किताबें और अख़बार ___ हैं ।",
+     "say": "ये किताबें और अख़बार पुराने हैं ।",
+     "en": "These[0] books[1] and[2] newspapers[3] are[5] old[4].",
+     "a": "पुराने",
+     "wrong": [
+      [
+       "पुरानी",
+       "पुरानी would agree with किताबें, but the nearest noun is अख़बार, which is masculine."
+      ],
+      [
+       "पुराना",
+       "पुराना is masculine singular, but there are several newspapers."
+      ]
+     ],
+     "why": "With things of mixed gender, the adjective agrees with the nearest noun. अख़बार here is masculine plural."
+    },
+    {
+     "id": "ag:3",
+     "t": "mc",
+     "q": "Fill the gap: “You are very tall. (to a man)”",
+     "hi": "आप बहुत ___ हैं ।",
+     "say": "आप बहुत लंबे हैं ।",
+     "en": "You[0] are[3] very[1] tall[2]. (to a man)",
+     "a": "लंबे",
+     "wrong": [
+      [
+       "लंबा",
+       "आप is grammatically plural, so even for one man the adjective takes the plural -e form."
+      ],
+      [
+       "लंबी",
+       "लंबी would suit a woman, but this is said to a man."
+      ]
+     ],
+     "why": "आप is grammatically plural, so the adjective is plural too."
+    },
+    {
+     "id": "ag:4",
+     "t": "mc",
+     "q": "Fill the gap: “How are you? (to a woman)”",
+     "hi": "आप ___ हैं ?",
+     "say": "आप कैसी हैं ?",
+     "en": "How[1] are[2] you[0]? (to a woman)",
+     "a": "कैसी",
+     "wrong": [
+      [
+       "कैसे",
+       "कैसे is right for a man or a group. A woman is addressed with the feminine कैसी."
+      ],
+      [
+       "कैसा",
+       "कैसा is masculine singular, and आप is grammatically plural in any case."
+      ]
+     ],
+     "why": "Feminine forms stay -ī in the plural, so a woman is asked आप कैसी हैं ?"
+    },
+    {
+     "id": "ag:5",
+     "t": "mc",
+     "q": "Fill the gap: “You are a good daughter.”",
+     "hi": "तुम ___ बेटी हो ।",
+     "say": "तुम अच्छी बेटी हो ।",
+     "en": "You[0] are[3] a good[1] daughter[2].",
+     "a": "अच्छी",
+     "wrong": [
+      [
+       "अच्छे",
+       "अच्छे is the -e form, which goes with masculine plural nouns and with आप, तुम and respected people."
+      ],
+      [
+       "अच्छा",
+       "अच्छा is the -ā form, which goes only with a masculine singular noun."
+      ]
+     ],
+     "why": "बेटी is feminine, so the adjective takes -ī."
+    },
+    {
+     "id": "ag:6",
+     "t": "mc",
+     "q": "Fill the gap: “You are a good son.”",
+     "hi": "तुम अच्छे ___ हो ।",
+     "say": "तुम अच्छे बेटे हो ।",
+     "en": "You[0] are[3] a good[1] son[2].",
+     "a": "बेटे",
+     "wrong": [
+      [
+       "बेटा",
+       "With तुम, a masculine noun in -ā shows its -e plural even for one person."
+      ],
+      [
+       "बेटी",
+       "बेटी means “daughter”."
+      ]
+     ],
+     "why": "तुम is grammatically plural, so बेटा becomes बेटे, as in तुम लड़के."
+    },
+    {
+     "id": "ag:7",
+     "t": "mc",
+     "q": "Fill the gap: “You are good daughters.”",
+     "hi": "तुम अच्छी ___ हो ।",
+     "say": "तुम अच्छी बेटियाँ हो ।",
+     "en": "You[0] are[3] good[1] daughters[2].",
+     "a": "बेटियाँ",
+     "wrong": [
+      [
+       "बेटी",
+       "बेटी is one daughter. Feminine nouns show their plural only when there really are several."
+      ],
+      [
+       "बेटे",
+       "बेटे means “son” or “sons”."
+      ]
+     ],
+     "why": "There are several daughters, so the numerical plural बेटियाँ is needed."
+    },
+    {
+     "id": "ag:8",
+     "t": "mc",
+     "q": "Fill the gap: “That book is very expensive.”",
+     "hi": "वह किताब बहुत ___ है ।",
+     "say": "वह किताब बहुत महँगी है ।",
+     "en": "That[0] book[1] is[4] very[2] expensive[3].",
+     "a": "महँगी",
+     "wrong": [
+      [
+       "महँगा",
+       "महँगा is the -ā form, which goes only with a masculine singular noun."
+      ],
+      [
+       "महँगे",
+       "महँगे is the -e form, which goes with masculine plural nouns and with आप, तुम and respected people."
+      ]
+     ],
+     "why": "किताब is feminine."
+    },
+    {
+     "id": "ag:9",
+     "t": "mc",
+     "q": "Fill the gap: “This dictionary is cheap.”",
+     "hi": "यह शब्दकोश ___ है ।",
+     "say": "यह शब्दकोश सस्ता है ।",
+     "en": "This[0] dictionary[1] is[3] cheap[2].",
+     "a": "सस्ता",
+     "wrong": [
+      [
+       "सस्ती",
+       "सस्ती is the -ī form, which goes with feminine nouns, singular or plural."
+      ],
+      [
+       "सस्ते",
+       "सस्ते is the -e form, which goes with masculine plural nouns and with आप, तुम and respected people."
+      ]
+     ],
+     "why": "शब्दकोश is masculine singular."
+    },
+    {
+     "id": "ag:10",
+     "t": "mc",
+     "q": "Fill the gap: “The air is dirty.”",
+     "hi": "हवा ___ है ।",
+     "say": "हवा गंदी है ।",
+     "en": "The air[0] is[2] dirty[1].",
+     "a": "गंदी",
+     "wrong": [
+      [
+       "गंदा",
+       "गंदा is the -ā form, which goes only with a masculine singular noun."
+      ],
+      [
+       "गंदे",
+       "गंदे is the -e form, which goes with masculine plural nouns and with आप, तुम and respected people."
+      ]
+     ],
+     "why": "हवा ends in -ā but is feminine, so the adjective takes -ī."
+    },
+    {
+     "id": "ag:11",
+     "t": "mc",
+     "q": "Fill the gap: “That girl is happy.”",
+     "hi": "वह लड़की ___ है ।",
+     "say": "वह लड़की ख़ुश है ।",
+     "en": "That[0] girl[1] is[3] happy[2].",
+     "a": "ख़ुश",
+     "wrong": [
+      [
+       "ख़ुशी",
+       "ख़ुश never changes. ख़ुशी is a different word, a noun meaning “happiness”."
+      ],
+      [
+       "ख़ुशा",
+       "ख़ुश never changes, so this is not a real form."
+      ]
+     ],
+     "why": "Adjectives that do not end in -ā, like ख़ुश, never change."
+    },
+    {
+     "id": "ag:12",
+     "t": "mc",
+     "q": "Fill the gap: “This is a new newspaper.”",
+     "hi": "यह ___ अख़बार है ।",
+     "say": "यह नया अख़बार है ।",
+     "en": "This[0] is[3] a new[1] newspaper[2].",
+     "a": "नया",
+     "wrong": [
+      [
+       "नई",
+       "नई is the -ī form, which goes with feminine nouns, singular or plural."
+      ],
+      [
+       "नए",
+       "नए is the -e form, which goes with masculine plural nouns and with आप, तुम and respected people."
+      ]
+     ],
+     "why": "अख़बार is masculine singular."
+    },
+    {
+     "id": "ag:13",
+     "t": "mc",
+     "q": "Fill the gap: “two dirty shoes”",
+     "hi": "दो ___ जूते",
+     "say": "दो गंदे जूते",
+     "en": "two[0] dirty[1] shoes[2]",
+     "a": "गंदे",
+     "wrong": [
+      [
+       "गंदा",
+       "गंदा is the -ā form, which goes only with a masculine singular noun."
+      ],
+      [
+       "गंदी",
+       "गंदी is the -ī form, which goes with feminine nouns, singular or plural."
+      ]
+     ],
+     "why": "जूते is masculine plural."
+    },
+    {
+     "id": "ag:14",
+     "t": "mc",
+     "q": "Fill the gap: “Mrs Sharma is strict.”",
+     "hi": "श्रीमती शर्मा ___ हैं ।",
+     "say": "श्रीमती शर्मा सख़्त हैं ।",
+     "en": "Mrs[0] Sharma[1] is[3] strict[2].",
+     "a": "सख़्त",
+     "wrong": [
+      [
+       "सख़्ता",
+       "सख़्त never changes, so this is not a real form."
+      ],
+      [
+       "सख़्ते",
+       "सख़्त never changes, so this is not a real form."
+      ]
+     ],
+     "why": "Adjectives that do not end in -ā, like सख़्त, never change."
+    }
+   ]
+  },
+  {
+   "id": "plural",
+   "title": "More plurals",
+   "desc": "New nouns, honorific and real plurals",
+   "skill": "plural",
+   "items": [
+    {
+     "id": "pl:0",
+     "t": "mc",
+     "q": "Pick the plural of “female student” (feminine)",
+     "a": "छात्राएँ",
+     "wrong": [
+      [
+       "छात्रें",
+       "-ẽ is added to the whole word, so छात्रा keeps its -ā."
+      ],
+      [
+       "छात्रियाँ",
+       "-iyā̃ belongs to feminine nouns ending in -ī."
+      ],
+      [
+       "छात्रा",
+       "This is the singular. Feminine nouns change in the plural."
+      ]
+     ],
+     "why": "Feminine nouns that do not end in -ī add -ẽ, even when they end in -ā.",
+     "hi": "छात्रा",
+     "audio": true
+    },
+    {
+     "id": "pl:1",
+     "t": "mc",
+     "q": "Pick the plural of “daughter” (feminine)",
+     "a": "बेटियाँ",
+     "wrong": [
+      [
+       "बेटीएँ",
+       "Feminine nouns in -ī do not just add -ẽ."
+      ],
+      [
+       "बेटे",
+       "बेटे is the plural of बेटा, “son”."
+      ]
+     ],
+     "why": "Feminine nouns ending in -ī change it to -iyā̃.",
+     "hi": "बेटी",
+     "audio": true
+    },
+    {
+     "id": "pl:2",
+     "t": "mc",
+     "q": "Pick the plural of “letter” (feminine)",
+     "a": "चिट्ठियाँ",
+     "wrong": [
+      [
+       "चिट्ठीएँ",
+       "Feminine nouns in -ī do not just add -ẽ."
+      ],
+      [
+       "चिट्ठे",
+       "The -e plural is for masculine nouns in -ā."
+      ]
+     ],
+     "why": "Feminine nouns ending in -ī change it to -iyā̃.",
+     "hi": "चिट्ठी",
+     "audio": true
+    },
+    {
+     "id": "pl:3",
+     "t": "mc",
+     "q": "Pick the plural of “sandal” (feminine)",
+     "a": "चप्पलें",
+     "wrong": [
+      [
+       "चप्पलियाँ",
+       "-iyā̃ belongs to feminine nouns ending in -ī."
+      ],
+      [
+       "चप्पले",
+       "The -e plural is for masculine nouns in -ā."
+      ]
+     ],
+     "why": "Feminine nouns that do not end in -ī add -ẽ.",
+     "hi": "चप्पल",
+     "audio": true
+    },
+    {
+     "id": "pl:4",
+     "t": "mc",
+     "q": "Pick the plural of “sister” (feminine)",
+     "a": "बहिनें",
+     "wrong": [
+      [
+       "बहिनियाँ",
+       "-iyā̃ belongs to feminine nouns ending in -ī."
+      ],
+      [
+       "बहिने",
+       "The -e plural is for masculine nouns in -ā."
+      ]
+     ],
+     "why": "Feminine nouns that do not end in -ī add -ẽ.",
+     "hi": "बहिन",
+     "audio": true
+    },
+    {
+     "id": "pl:5",
+     "t": "mc",
+     "q": "Pick the plural of “shoe” (masculine)",
+     "a": "जूते",
+     "wrong": [
+      [
+       "जूताएँ",
+       "-ẽ is a feminine plural ending."
+      ],
+      [
+       "जूता",
+       "This is the singular. Masculine nouns in -ā change."
+      ]
+     ],
+     "why": "Masculine nouns ending in -ā change it to -e.",
+     "hi": "जूता",
+     "audio": true
+    },
+    {
+     "id": "pl:6",
+     "t": "mc",
+     "q": "Pick the plural of “son” (masculine)",
+     "a": "बेटे",
+     "wrong": [
+      [
+       "बेटाएँ",
+       "-ẽ is a feminine plural ending."
+      ],
+      [
+       "बेटियाँ",
+       "बेटियाँ means “daughters”."
+      ]
+     ],
+     "why": "Masculine nouns ending in -ā change it to -e.",
+     "hi": "बेटा",
+     "audio": true
+    },
+    {
+     "id": "pl:7",
+     "t": "mc",
+     "q": "Pick the plural of “brother” (masculine)",
+     "a": "भाई",
+     "wrong": [
+      [
+       "भाईएँ",
+       "-ẽ is a feminine plural ending."
+      ],
+      [
+       "भाये",
+       "Only masculine nouns ending in -ā take -e."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā stay the same in the plural.",
+     "hi": "भाई",
+     "audio": true
+    },
+    {
+     "id": "pl:8",
+     "t": "mc",
+     "q": "Pick the plural of “newspaper” (masculine)",
+     "a": "अख़बार",
+     "wrong": [
+      [
+       "अख़बारें",
+       "-ẽ is a feminine plural ending, and अख़बार is masculine."
+      ],
+      [
+       "अख़बारे",
+       "Only masculine nouns ending in -ā take -e."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā stay the same in the plural.",
+     "hi": "अख़बार",
+     "audio": true
+    },
+    {
+     "id": "pl:9",
+     "t": "mc",
+     "q": "Pick the plural of “question” (masculine)",
+     "a": "सवाल",
+     "wrong": [
+      [
+       "सवालें",
+       "-ẽ is a feminine plural ending, and सवाल is masculine."
+      ],
+      [
+       "सवाले",
+       "Only masculine nouns ending in -ā take -e."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā stay the same in the plural.",
+     "hi": "सवाल",
+     "audio": true
+    },
+    {
+     "id": "pl:10",
+     "t": "mc",
+     "q": "तुम अच्छे बेटे हो । can mean…",
+     "a": "“You are a good son” or “You are good sons”",
+     "wrong": [
+      [
+       "only “You are good sons”",
+       "With तुम, बेटा takes its -e form even for one son, so the sentence fits one son too."
+      ],
+      [
+       "only “You are a good son”",
+       "बेटे is also the ordinary plural, so the sentence fits several sons too."
+      ]
+     ],
+     "why": "With तुम, masculine nouns in -ā show -e for one person as well as for several. लोग can be added to make a plural clear.",
+     "hi": "तुम अच्छे बेटे हो ।",
+     "audio": true
+    },
+    {
+     "id": "pl:11",
+     "t": "mc",
+     "q": "तुम अच्छी बेटी हो । can mean…",
+     "a": "only “You are a good daughter”",
+     "wrong": [
+      [
+       "only “You are good daughters”",
+       "For several daughters the noun itself becomes plural: बेटियाँ."
+      ],
+      [
+       "either one daughter or several",
+       "Feminine nouns show the plural only when there really are several, so बेटी means one."
+      ]
+     ],
+     "why": "Feminine nouns change only for a real (numerical) plural.",
+     "hi": "तुम अच्छी बेटी हो ।",
+     "audio": true
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Who[2] is[3] that[0] man[1]?",
+     "ans": [
+      "वह",
+      "आदमी",
+      "कौन",
+      "है"
+     ],
+     "wrong": [
+      [
+       "क्या",
+       "क्या asks “what?”. For a person, use कौन."
+      ],
+      [
+       "हैं",
+       "हैं goes with plural or respected subjects. One man spoken of plainly takes है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "How[1] are[2] you[0]? (formal, to a man)",
+     "ans": [
+      "आप",
+      "कैसे",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "कैसा",
+       "आप is grammatically plural, so it needs कैसे, not the singular कैसा."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम. आप takes हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "This[0] newspaper[1] is[4] quite[2] cheap[3].",
+     "ans": [
+      "यह",
+      "अख़बार",
+      "काफ़ी",
+      "सस्ता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "सस्ती",
+       "सस्ती is feminine, but अख़बार is masculine."
+      ],
+      [
+       "हैं",
+       "हैं is plural. One newspaper takes है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "These[0] sandals[1] are[4] very[2] dirty[3].",
+     "ans": [
+      "ये",
+      "चप्पलें",
+      "बहुत",
+      "गंदी",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "गंदे",
+       "गंदे is masculine plural, but चप्पलें is feminine."
+      ],
+      [
+       "है",
+       "है is singular. Several sandals take हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "The student[0] is[3] ill[2] too[1].",
+     "ans": [
+      "विद्यार्थी",
+      "भी",
+      "बीमार",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हैं",
+       "हैं is plural. One student spoken of plainly takes है."
+      ],
+      [
+       "क्यों",
+       "क्यों means “why”, which is not in the sentence."
+      ]
+     ],
+     "order": "भी follows the word it qualifies. “The student too” is विद्यार्थी भी, and the verb comes last."
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Why[1] is[3] Kamala[0] angry[2]?",
+     "ans": [
+      "कमला",
+      "क्यों",
+      "नाराज़",
+      "है"
+     ],
+     "wrong": [
+      [
+       "कौन",
+       "कौन means “who”, but the question asks “why”."
+      ],
+      [
+       "हैं",
+       "हैं is plural. Kamala spoken of plainly takes है."
+      ]
+     ],
+     "alt": [
+      [
+       "क्यों",
+       "कमला",
+       "नाराज़",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{How many}[0] girls[1] {are there}[2]?",
+     "ans": [
+      "कितनी",
+      "लड़कियाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "कितने",
+       "कितने is masculine plural, but लड़कियाँ is feminine."
+      ],
+      [
+       "है",
+       "है is singular. Several girls take हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "The weather[1] is[3] bad[2] today[0].",
+     "ans": [
+      "आज",
+      "मौसम",
+      "ख़राब",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हैं",
+       "हैं is plural. मौसम is singular."
+      ],
+      [
+       "कैसा",
+       "कैसा means “what like?”, but this sentence is a statement."
+      ]
+     ],
+     "alt": [
+      [
+       "मौसम",
+       "आज",
+       "ख़राब",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Sangeeta[0] and[1] Rishi[2] are[4] tall[3].",
+     "ans": [
+      "संगीता",
+      "और",
+      "ऋषि",
+      "लंबे",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "लंबी",
+       "A mixed group of people takes the masculine plural, लंबे."
+      ],
+      [
+       "है",
+       "है is singular. Two people take हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Is[3] the book[1] new[2] or[4] old[5]?",
+     "ans": [
+      "क्या",
+      "किताब",
+      "नई",
+      "है",
+      "या",
+      "पुरानी"
+     ],
+     "wrong": [
+      [
+       "नया",
+       "नया is masculine, but किताब is feminine."
+      ],
+      [
+       "हैं",
+       "हैं is plural. One book takes है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "We[0+1] are[4] not[3] upset[2].",
+     "ans": [
+      "हम",
+      "लोग",
+      "परेशान",
+      "नहीं",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "है",
+       "है goes with one person or thing. हम takes हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम."
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "That[0] is[4] not[3] a bad[1] thing[2].",
+     "ans": [
+      "वह",
+      "बुरी",
+      "बात",
+      "नहीं",
+      "है"
+     ],
+     "wrong": [
+      [
+       "बुरा",
+       "बुरा is masculine, but बात is feminine."
+      ],
+      [
+       "बुरे",
+       "बुरे is masculine plural, but बात is feminine singular."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शब्दकोश सस्ता है, लेकिन किताब महँगी है ।",
+     "audio": true,
+     "a": "The dictionary is cheap, but the book is expensive.",
+     "wrong": [
+      [
+       "The dictionary is expensive, but the book is cheap.",
+       "सस्ता (“cheap”) goes with शब्दकोश and महँगी (“expensive”) with किताब."
+      ],
+      [
+       "The dictionary and the book are both cheap.",
+       "लेकिन means “but”, and महँगी means “expensive”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "कितने लड़के बीमार हैं ?",
+     "audio": true,
+     "a": "How many boys are ill?",
+     "wrong": [
+      [
+       "Why are the boys ill?",
+       "“Why” is क्यों. कितने means “how many”."
+      ],
+      [
+       "Are the boys ill?",
+       "A plain yes/no question would start with क्या. कितने asks for a number."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अभी सब ठीक है ।",
+     "audio": true,
+     "a": "Everything is fine at the moment.",
+     "wrong": [
+      [
+       "Everything is fine today.",
+       "“Today” is आज. अभी means “at the moment, right now”."
+      ],
+      [
+       "Is everything fine now?",
+       "There is no क्या or question mark, so this is a statement."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "भाई बीमार है और बहिन भी बीमार है ।",
+     "audio": true,
+     "a": "The brother is ill and the sister is ill too.",
+     "wrong": [
+      [
+       "The brother is ill, but the sister is well.",
+       "और means “and”, and भी बीमार means “ill too”."
+      ],
+      [
+       "Is the brother ill too?",
+       "This is a statement, and भी follows बहिन, not भाई."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह जवाब बिलकुल ठीक है ।",
+     "audio": true,
+     "a": "This answer is completely right.",
+     "wrong": [
+      [
+       "This question is completely right.",
+       "“Question” is सवाल. जवाब means “answer”."
+      ],
+      [
+       "This answer is not right at all.",
+       "बिलकुल नहीं would mean “not at all”. Here बिलकुल means “completely”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "ज़्यादातर छात्राएँ जापानी हैं ।",
+     "audio": true,
+     "a": "Most of the female students are Japanese.",
+     "wrong": [
+      [
+       "All the students are Japanese.",
+       "ज़्यादातर means “mostly, most”, not “all”."
+      ],
+      [
+       "Most of the boys are Japanese.",
+       "छात्राएँ are female students."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "प्रदूषण बहुत ख़राब है, पर हवा आज साफ़ है ।",
+     "audio": true,
+     "a": "Pollution is very bad, but the air is clean today.",
+     "wrong": [
+      [
+       "Pollution is very bad, and the air is dirty today.",
+       "पर means “but”, and साफ़ means “clean”."
+      ],
+      [
+       "Is the pollution bad today?",
+       "This is a statement, not a question."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आप कौन हैं, साहब ?",
+     "audio": true,
+     "a": "Who are you, sir?",
+     "wrong": [
+      [
+       "How are you, sir?",
+       "That would be आप कैसे हैं ? कौन asks “who”."
+      ],
+      [
+       "What is this, sir?",
+       "That would be यह क्या है ? आप means “you”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "भी, न and polite words",
+   "desc": "Word position and conversational conventions",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Which sentence means “Rishi is ill too” (as well as someone else)?",
+     "a": "ऋषि भी बीमार है ।",
+     "wrong": [
+      [
+       "ऋषि बीमार भी है ।",
+       "भी qualifies the word just before it. Here that is बीमार, so this means Rishi is ill as well as being something else."
+      ],
+      [
+       "भी ऋषि बीमार है ।",
+       "भी never comes first. It follows the word it qualifies."
+      ]
+     ],
+     "why": "भी (“also, too”) qualifies the word immediately before it."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which sentence means “The book is cheap too” (as well as good)?",
+     "a": "किताब सस्ती भी है ।",
+     "wrong": [
+      [
+       "किताब भी सस्ती है ।",
+       "Here भी follows किताब, so it means the book too is cheap, as well as other things."
+      ],
+      [
+       "भी किताब सस्ती है ।",
+       "भी never comes first. It follows the word it qualifies."
+      ]
+     ],
+     "why": "भी (“also, too”) qualifies the word immediately before it."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "What does न add at the end of this sentence?",
+     "a": "It asks the listener to agree: “…aren't you?”",
+     "wrong": [
+      [
+       "It makes the sentence negative: “You aren't Indian.”",
+       "A negative needs नहीं before the verb. न after the sentence asks for agreement."
+      ],
+      [
+       "It turns it into a plain yes/no question, like क्या",
+       "A plain yes/no question starts with क्या. न at the end expects the answer “yes”."
+      ]
+     ],
+     "why": "After a statement, न works like “isn't it?” or the French “n'est-ce pas?”.",
+     "hi": "आप हिन्दुस्तानी हैं, न ?",
+     "audio": true
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "What does this greeting mean?",
+     "a": "How are things?",
+     "wrong": [
+      [
+       "What is this?",
+       "That would be यह क्या है ? हाल means “condition”."
+      ],
+      [
+       "What is the weather like?",
+       "That would be मौसम कैसा है ?"
+      ]
+     ],
+     "why": "क्या हाल है ? is literally “what is the condition?”, a casual “how are things?”.",
+     "hi": "क्या हाल है ?",
+     "audio": true
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "Which word is the formal “please”?",
+     "a": "कृपया",
+     "wrong": [
+      [
+       "धन्यवाद",
+       "धन्यवाद is the formal “thank you”."
+      ],
+      [
+       "मेहरबानी",
+       "मेहरबानी means “kindness”; मेहरबानी है is a way of saying “thank you”."
+      ],
+      [
+       "शुक्रिया",
+       "शुक्रिया is a colloquial “thanks”."
+      ]
+     ]
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Which greeting is the formal one?",
+     "a": "नमस्कार",
+     "wrong": [
+      [
+       "हलो",
+       "हलो is a casual loanword greeting."
+      ],
+      [
+       "धन्यवाद",
+       "धन्यवाद means “thank you”, not “hello”."
+      ]
+     ],
+     "why": "नमस्ते and नमस्कार are the formal greetings, usually said with the hands folded."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "What does लोग add in this sentence?",
+     "a": "It makes clear that several people are meant",
+     "wrong": [
+      [
+       "It shows extra respect",
+       "आप or जी show respect. लोग marks a real plural of several people."
+      ],
+      [
+       "It turns the sentence into a question",
+       "Nothing here is a question; क्या or a question word would be needed."
+      ]
+     ],
+     "why": "Since वे can be a respectful way to refer to one person, adding लोग makes the number clear.",
+     "hi": "वे लोग परेशान हैं ।",
+     "audio": true
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "आप कैसे हैं ? can be said to…",
+     "a": "one man, or a group of people",
+     "wrong": [
+      [
+       "only a group of people",
+       "आप is grammatically plural, so कैसे fits one man as well."
+      ],
+      [
+       "only a woman",
+       "A woman is asked आप कैसी हैं ?"
+      ]
+     ],
+     "why": "आप is grammatically plural, so its adjective is plural whether one or many are meant."
+    },
+    {
+     "id": "us:8",
+     "t": "mc",
+     "q": "What does मालूम नहीं mean?",
+     "a": "I don't know",
+     "wrong": [
+      [
+       "Not at all",
+       "That is बिलकुल नहीं."
+      ],
+      [
+       "No, thank you",
+       "That would need धन्यवाद or शुक्रिया."
+      ]
+     ],
+     "why": "मालूम नहीं is literally “not known”."
+    },
+    {
+     "id": "us:9",
+     "t": "mc",
+     "q": "How does जी change शर्मा जी compared with plain शर्मा?",
+     "a": "It adds respect, roughly “Mr Sharma”",
+     "wrong": [
+      [
+       "It means “Mrs Sharma”",
+       "Mrs is श्रीमती, placed before the name."
+      ],
+      [
+       "It means “Sharma's son”",
+       "जी adds respect; it says nothing about family."
+      ]
+     ],
+     "why": "जी after a name is polite and cordial, about as formal as आप."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 5,
+  "ask": 4,
+  "agree": 4,
+  "plural": 2,
+  "build": 3,
+  "meaning": 2,
+  "usage": 3
+ },
+ "distractors": {
+  "ख़ुशी": "khuśī",
+  "ख़ुशा": "khuśā",
+  "सख़्ता": "sakhtā",
+  "सख़्ते": "sakhte",
+  "छात्रें": "chātrẽ",
+  "छात्रियाँ": "chātriyā̃",
+  "बेटीएँ": "beṭīẽ",
+  "चिट्ठीएँ": "ciṭṭhīẽ",
+  "चिट्ठे": "ciṭṭhe",
+  "चप्पलियाँ": "cappaliyā̃",
+  "चप्पले": "cappale",
+  "बहिनियाँ": "bahiniyā̃",
+  "बहिने": "bahine",
+  "जूताएँ": "jūtāẽ",
+  "बेटाएँ": "beṭāẽ",
+  "भाईएँ": "bhāīẽ",
+  "भाये": "bhāye",
+  "अख़बारें": "akhbārẽ",
+  "अख़बारे": "akhbāre",
+  "सवालें": "savālẽ",
+  "सवाले": "savāle"
+ }
+}

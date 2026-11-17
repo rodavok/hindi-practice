@@ -1,0 +1,59 @@
+# Content schema
+
+One file per unit, `content/unitNN.json`, plus the cumulative `content/ledger.json`.
+`node tools/validate.js` checks all of it; `node tools/build.js` bundles it into `dist/index.html`.
+
+## ledger.json
+
+```json
+{ "1": { "forms": { "लड़का": "laṛkā", "लड़के": "laṛke" },
+         "grammar": [ { "id": "be-present", "title": "Present tense of होना" } ] },
+  "2": { ... } }
+```
+
+- `forms`: every Hindi word form the book has taught by the end of that unit and that is not in an earlier unit's entry, with its romanisation. Inflected forms are listed separately (लड़का, लड़के, लड़कों are three entries). Proper names used in items go here too.
+- `grammar`: the grammar points the unit introduces. Items may only rely on grammar from this unit or earlier.
+- A form is usable in unit N if it appears in the ledger entry for N or any earlier unit.
+
+## unitNN.json
+
+| key | meaning |
+| --- | --- |
+| `id`, `n` | `"unit2"`, `2`. `id` is also the localStorage key suffix (`hindi-practice:unit2`). |
+| `title`, `titleHi`, `scope`, `pages` | Display title, a Hindi subtitle, one-line scope (also sent to the LLM helper), book pages read. |
+| `skills` | `{ key: label }` for the item skills used in this unit. `vocab`, `listen` and `build` exist already. |
+| `vocab` | `[{ hi, en, c, g? }]`. `c`: `n` noun, `a` adjective, `p` pronoun, `v` verb, `x` other. `g`: `m`/`f`, required for nouns. Drives the generated word, listening and matching lessons. |
+| `gloss` | `{ hindiWord: "note" }` for words with no English counterpart in alignments (क्या, जी, को…). |
+| `distractors` | `{ form: romanisation }` for wrong-choice forms that are not taught words, including deliberately wrong forms such as लड़काएँ. |
+| `lessons` | `[{ id, title, desc, skill, items: [...] }]`. Lesson ids `words`, `listen`, `match`, `test`, `mistakes` are reserved (generated). |
+| `test` | `{ vocab: 5, lessonId: n, ... }`: how many items the unit test draws from each lesson. |
+
+### Item: multiple choice (`"t": "mc"`)
+
+```json
+{ "id": "be:2", "t": "mc", "q": "Fill the gap", "hi": "यह कमरा साफ़ ___ ।",
+  "say": "यह कमरा साफ़ है ।", "en": "This[0] room[1] is[3] clean[2].",
+  "a": "है",
+  "wrong": [["हैं", "हैं goes with plural subjects…"], ["हो", "…"]],
+  "why": "The subject is one thing, so it takes है." }
+```
+
+- `q` question text; `hi` Hindi prompt shown large (optional, `___` marks a gap); `audio: true` shows a play button for `hi`.
+- `say`: the full Hindi sentence, read aloud after answering and used for the word-by-word panel.
+- `en`: English with alignment marks for `say`. `word[i]` ties a word to Hindi word `i` (0-based, punctuation not counted), `{two words}[i]` ties a phrase, `word[i+j]` ties one English word to two Hindi words. Every Hindi word in `say` must be aligned or glossed.
+- `a`: right answer. `wrong`: `[choice, explanation]` pairs, at least two. The explanation is shown when that choice is picked, followed by `why` (unless already contained in it).
+
+### Item: tap the tiles (`"t": "tiles"`)
+
+```json
+{ "id": "tl:0", "t": "tiles", "en": "This[0] room[1] is[3] big[2].",
+  "ans": ["यह","कमरा","बड़ा","है"], "alt": [["…"]],
+  "wrong": [["बड़ी", "You used बड़ी where बड़ा is needed…"], ["हैं", "…"]],
+  "order": "optional explanation for right words in the wrong order" }
+```
+
+- `ans` the tiles in order; `alt` other accepted orders (same tiles); `wrong` the extra tiles with the explanation shown if the learner uses one. Hard level adds further tiles from the unit's other tile items, explained generically.
+
+## Validator rules
+
+Fails when: a Hindi token has no romanisation; an answer is missing from its choices; choices or extra tiles contain duplicates; an alignment mark points outside the sentence or a Hindi word is neither aligned nor glossed; a wrong choice or extra tile has no explanation; a prompt, sentence, right answer or vocab word uses a form not in the ledger up to that unit; a wrong choice is neither in the ledger nor in the unit's `distractors`.

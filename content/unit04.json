@@ -1,0 +1,2057 @@
+{
+ "id": "unit4",
+ "n": 4,
+ "title": "Who was that handsome man?",
+ "titleHi": "वह ख़ूबसूरत आदमी कौन था ?",
+ "scope": "Past tense था, थी, थे, थीं; तो “so, as for”; comparison with से, ज़्यादा, कम, सब से; को constructions (मुझ को ज़ुकाम है, पसंद, मालूम); कि clauses; the vocative case",
+ "pages": "book 38–49",
+ "skills": {
+  "past": "Past tense of होना",
+  "to": "तो",
+  "cmp": "Comparison",
+  "ko": "को constructions",
+  "voc": "Vocative",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "था",
+   "en": "was (masculine)",
+   "c": "v"
+  },
+  {
+   "hi": "थी",
+   "en": "was (feminine)",
+   "c": "v"
+  },
+  {
+   "hi": "थे",
+   "en": "were (masculine)",
+   "c": "v"
+  },
+  {
+   "hi": "थीं",
+   "en": "were (feminine)",
+   "c": "v"
+  },
+  {
+   "hi": "अकेला",
+   "en": "alone",
+   "c": "a"
+  },
+  {
+   "hi": "अफ़सोस",
+   "en": "regret",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अरे",
+   "en": "oh! what!",
+   "c": "x"
+  },
+  {
+   "hi": "उम्र",
+   "en": "age",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "एकदम",
+   "en": "completely",
+   "c": "x"
+  },
+  {
+   "hi": "और",
+   "en": "more (in comparisons)",
+   "c": "x"
+  },
+  {
+   "hi": "कम",
+   "en": "less, little",
+   "c": "a"
+  },
+  {
+   "hi": "कल",
+   "en": "yesterday; tomorrow",
+   "c": "x"
+  },
+  {
+   "hi": "काम",
+   "en": "work",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कालेज",
+   "en": "college",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कि",
+   "en": "that (joins a clause)",
+   "c": "x"
+  },
+  {
+   "hi": "कुछ नहीं",
+   "en": "nothing",
+   "c": "x"
+  },
+  {
+   "hi": "क्लास",
+   "en": "class",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "खाना",
+   "en": "food",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ख़ुशी",
+   "en": "happiness, pleasure",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ख़ूबसूरत",
+   "en": "beautiful, handsome",
+   "c": "a"
+  },
+  {
+   "hi": "गरम",
+   "en": "warm, hot",
+   "c": "a"
+  },
+  {
+   "hi": "गोली",
+   "en": "tablet, pill",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घर पर",
+   "en": "at home",
+   "c": "x"
+  },
+  {
+   "hi": "चाँदी",
+   "en": "silver",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "चाचा",
+   "en": "uncle (father's brother)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चाय",
+   "en": "tea",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़ुकाम",
+   "en": "a cold (illness)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ज़्यादा",
+   "en": "more, very",
+   "c": "a"
+  },
+  {
+   "hi": "ठंडा",
+   "en": "cold, cool",
+   "c": "a"
+  },
+  {
+   "hi": "तो",
+   "en": "so; as for",
+   "c": "x"
+  },
+  {
+   "hi": "दफ़्तर",
+   "en": "office",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दाल",
+   "en": "daal, lentils",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दुकान",
+   "en": "shop",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दोस्त",
+   "en": "friend",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पड़ोसी",
+   "en": "neighbour",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पसंद",
+   "en": "liked, pleasing",
+   "c": "a"
+  },
+  {
+   "hi": "पहले",
+   "en": "previously, before",
+   "c": "x"
+  },
+  {
+   "hi": "पहाड़",
+   "en": "hill, mountain",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्यारा",
+   "en": "dear, lovely",
+   "c": "a"
+  },
+  {
+   "hi": "प्रिय",
+   "en": "dear (in letters)",
+   "c": "a"
+  },
+  {
+   "hi": "बंद",
+   "en": "closed, shut",
+   "c": "a"
+  },
+  {
+   "hi": "बाज़ार",
+   "en": "market",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बाल-बच्चे",
+   "en": "children, family",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बाहर",
+   "en": "out, outside",
+   "c": "x"
+  },
+  {
+   "hi": "बुख़ार",
+   "en": "fever",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मज़बूत",
+   "en": "strong",
+   "c": "a"
+  },
+  {
+   "hi": "मतलब",
+   "en": "meaning",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "महल",
+   "en": "palace",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "माँ",
+   "en": "Ma, mother",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मालूम",
+   "en": "known",
+   "c": "a"
+  },
+  {
+   "hi": "मित्र",
+   "en": "friend (formal word)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मेहनती",
+   "en": "hardworking",
+   "c": "a"
+  },
+  {
+   "hi": "रिश्तेदार",
+   "en": "relative",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वाराणसी",
+   "en": "Varanasi, Banaras",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "विदेश",
+   "en": "abroad, foreign country",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "समोसा",
+   "en": "samosa",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "साल",
+   "en": "year",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सोना",
+   "en": "gold",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सौ",
+   "en": "hundred",
+   "c": "x"
+  },
+  {
+   "hi": "होशियार",
+   "en": "clever, intelligent",
+   "c": "a"
+  },
+  {
+   "hi": "आशा",
+   "en": "hope",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ऊँचा",
+   "en": "high, lofty",
+   "c": "a"
+  }
+ ],
+ "gloss": {
+  "तो": "after a word, sets it against something else (“as for …, at least”); at the start of a sentence it means “so”",
+  "कि": "“that”, introducing the clause that follows; English often leaves it out"
+ },
+ "lessons": [
+  {
+   "id": "past",
+   "title": "था, थी, थे, थीं",
+   "desc": "“Was” and “were”: the past tense shows gender",
+   "skill": "past",
+   "items": [
+    {
+     "id": "pa:0",
+     "t": "mc",
+     "q": "Fill the gap: “Yesterday I was in the market. (a woman speaking)”",
+     "hi": "कल मैं बाज़ार में ___ ।",
+     "say": "कल मैं बाज़ार में थी ।",
+     "en": "Yesterday[0] I[1] was[4] in[3] the market[2]. (a woman speaking)",
+     "a": "थी",
+     "wrong": [
+      [
+       "था",
+       "था is masculine singular. A woman says मैं थी."
+      ],
+      [
+       "थीं",
+       "थीं is plural. मैं is one person, so a woman says मैं थी."
+      ]
+     ],
+     "why": "Unlike है, the past tense shows gender: मैं था (man), मैं थी (woman)."
+    },
+    {
+     "id": "pa:1",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki was ill yesterday.”",
+     "hi": "पिंकी कल बीमार ___ ।",
+     "say": "पिंकी कल बीमार थी ।",
+     "en": "Pinki[0] was[3] ill[2] yesterday[1].",
+     "a": "थी",
+     "wrong": [
+      [
+       "था",
+       "था is masculine singular. Pinki is a woman."
+      ],
+      [
+       "थे",
+       "थे is masculine plural (also used for आप, तुम, हम and respected people)."
+      ]
+     ],
+     "why": "One woman spoken of plainly takes थी."
+    },
+    {
+     "id": "pa:2",
+     "t": "mc",
+     "q": "Fill the gap: “Both shops were closed.”",
+     "hi": "दोनों दुकानें बंद ___ ।",
+     "say": "दोनों दुकानें बंद थीं ।",
+     "en": "Both[0] shops[1] were[3] closed[2].",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थी",
+       "थी is singular, but there are two shops."
+      ],
+      [
+       "थे",
+       "थे is masculine. दुकान is feminine."
+      ]
+     ],
+     "why": "दुकानें is feminine plural, so the verb is थीं."
+    },
+    {
+     "id": "pa:3",
+     "t": "mc",
+     "q": "Fill the gap: “The samosas were very hot.”",
+     "hi": "समोसे बहुत गरम ___ ।",
+     "say": "समोसे बहुत गरम थे ।",
+     "en": "The samosas[0] were[3] very[1] hot[2].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular, but समोसे is plural."
+      ],
+      [
+       "थीं",
+       "थीं is feminine. समोसा is masculine."
+      ]
+     ],
+     "why": "समोसे is masculine plural, so the verb is थे."
+    },
+    {
+     "id": "pa:4",
+     "t": "mc",
+     "q": "Fill the gap: “Mr Sharma was in Varanasi before.”",
+     "hi": "शर्मा जी पहले वाराणसी में ___ ।",
+     "say": "शर्मा जी पहले वाराणसी में थे ।",
+     "en": "{Mr Sharma}[0+1] was[5] in[4] Varanasi[3] before[2].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "A respected man (शर्मा जी) takes the honorific plural थे, though he is one person."
+      ],
+      [
+       "थीं",
+       "थीं is feminine plural (also used for आप, तुम, हम and respected women). Mr Sharma is a man."
+      ]
+     ],
+     "why": "Respect works in the past as in the present: शर्मा जी … थे."
+    },
+    {
+     "id": "pa:5",
+     "t": "mc",
+     "q": "Fill the gap: “Where were you yesterday? (to a woman)”",
+     "hi": "आप कल कहाँ ___ ?",
+     "say": "आप कल कहाँ थीं ?",
+     "en": "Where[2] were[3] you[0] yesterday[1]? (to a woman)",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थी",
+       "आप is grammatically plural, so even for one woman the verb is थीं."
+      ],
+      [
+       "थे",
+       "थे is right for a man. A woman is asked आप … थीं ?"
+      ]
+     ],
+     "why": "आप takes the plural: थे for a man, थीं for a woman."
+    },
+    {
+     "id": "pa:6",
+     "t": "mc",
+     "q": "Fill the gap: “We were out yesterday. (men speaking)”",
+     "hi": "हम लोग कल बाहर ___ ।",
+     "say": "हम लोग कल बाहर थे ।",
+     "en": "We[0+1] were[4] out[3] yesterday[2]. (men speaking)",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular, but हम लोग is plural."
+      ],
+      [
+       "थीं",
+       "थीं would be said by women. Men say हम थे."
+      ]
+     ],
+     "why": "हम is plural: थे for men or a mixed group, थीं for women."
+    },
+    {
+     "id": "pa:7",
+     "t": "mc",
+     "q": "Fill the gap: “The room was very dirty.”",
+     "hi": "कमरा बहुत गंदा ___ ।",
+     "say": "कमरा बहुत गंदा था ।",
+     "en": "The room[0] was[3] very[1] dirty[2].",
+     "a": "था",
+     "wrong": [
+      [
+       "थी",
+       "थी is feminine, but कमरा is masculine."
+      ],
+      [
+       "थे",
+       "थे is plural, but here कमरा is one room."
+      ]
+     ],
+     "why": "कमरा is masculine singular, like गंदा, so the verb is था."
+    },
+    {
+     "id": "pa:8",
+     "t": "mc",
+     "q": "Fill the gap: “These mountains were very high.”",
+     "hi": "ये पहाड़ बहुत ऊँचे ___ ।",
+     "say": "ये पहाड़ बहुत ऊँचे थे ।",
+     "en": "These[0] mountains[1] were[4] very[2] high[3].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "पहाड़ looks the same in the plural, but ये and ऊँचे show that it is plural here."
+      ],
+      [
+       "थीं",
+       "थीं is feminine. पहाड़ is masculine."
+      ]
+     ],
+     "why": "ये पहाड़ is masculine plural, so the verb is थे."
+    },
+    {
+     "id": "pa:9",
+     "t": "mc",
+     "q": "Fill the gap: “Where were the books?”",
+     "hi": "किताबें कहाँ ___ ?",
+     "say": "किताबें कहाँ थीं ?",
+     "en": "Where[1] were[2] the books[0]?",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थी",
+       "थी is singular, but किताबें is plural."
+      ],
+      [
+       "थे",
+       "थे is masculine. किताब is feminine."
+      ]
+     ],
+     "why": "किताबें is feminine plural, so the verb is थीं."
+    },
+    {
+     "id": "pa:10",
+     "t": "mc",
+     "q": "Fill the gap: “Prakash was abroad before.”",
+     "hi": "प्रकाश पहले विदेश में ___ ।",
+     "say": "प्रकाश पहले विदेश में था ।",
+     "en": "Prakash[0] was[4] abroad[2+3] before[1].",
+     "a": "था",
+     "wrong": [
+      [
+       "थी",
+       "थी is feminine singular. Prakash is a man."
+      ],
+      [
+       "थीं",
+       "थीं is feminine plural (also used for आप, तुम, हम and respected women)."
+      ]
+     ],
+     "why": "Prakash spoken of plainly takes था. विदेश में means “abroad”."
+    },
+    {
+     "id": "pa:11",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan wasn't at the shop yesterday.”",
+     "hi": "मोहन कल दुकान पर नहीं ___ ।",
+     "say": "मोहन कल दुकान पर नहीं था ।",
+     "en": "Mohan[0] {wasn't}[4+5] at[3] the shop[2] yesterday[1].",
+     "a": "था",
+     "wrong": [
+      [
+       "थे",
+       "थे would show respect or a plural. Mohan spoken of plainly takes था."
+      ],
+      [
+       "थी",
+       "थी is feminine singular."
+      ]
+     ],
+     "why": "नहीं comes before the verb, as in the present: नहीं था."
+    },
+    {
+     "id": "pa:12",
+     "t": "mc",
+     "q": "Put this sentence into the past tense",
+     "a": "लड़कियाँ बाहर थीं ।",
+     "wrong": [
+      [
+       "लड़कियाँ बाहर थी ।",
+       "थी is singular, but लड़कियाँ is plural."
+      ],
+      [
+       "लड़कियाँ बाहर थे ।",
+       "थे is masculine. लड़की is feminine."
+      ]
+     ],
+     "why": "हैं becomes थीं for a feminine plural subject.",
+     "hi": "लड़कियाँ बाहर हैं ।",
+     "audio": true,
+     "say": "लड़कियाँ बाहर थीं ।",
+     "en": "The girls[0] were[2] outside[1]."
+    }
+   ]
+  },
+  {
+   "id": "to",
+   "title": "तो",
+   "desc": "“So” at the start; contrast after a word",
+   "skill": "to",
+   "items": [
+    {
+     "id": "to:0",
+     "t": "mc",
+     "q": "What does तो do at the start of this question?",
+     "a": "It means “so, then” (तो at the start links to what was said before)",
+     "wrong": [
+      [
+       "It contrasts आप with other people",
+       "That use puts तो after the word: आप तो …. At the start of a sentence तो means “so, then”."
+      ],
+      [
+       "It makes आप oblique",
+       "तो is not a postposition, so it never changes the case of the word before it."
+      ]
+     ],
+     "why": "At the beginning of a sentence or phrase, तो means “so” or “then”.",
+     "hi": "तो आप कल बीमार थे ?",
+     "audio": true,
+     "say": "तो आप कल बीमार थे ?",
+     "en": "So[0] were[4] you[1] ill[3] yesterday[2]? (to a man)"
+    },
+    {
+     "id": "to:1",
+     "t": "mc",
+     "q": "What does तो add after मैं here?",
+     "a": "It contrasts “I” with Pinki: “I, for my part, was at college”",
+     "wrong": [
+      [
+       "It means “so”, linking to the last sentence",
+       "तो means “so” only at the start. After a word it contrasts that word with something else."
+      ],
+      [
+       "It makes मैं oblique",
+       "तो is not a postposition, so it never changes the case of the word before it."
+      ]
+     ],
+     "why": "After a word or phrase, तो sets it against something else in the same context.",
+     "hi": "मैं तो कालेज में थी, पर पिंकी बाहर थी ।",
+     "audio": true,
+     "say": "मैं तो कालेज में थी, पर पिंकी बाहर थी ।",
+     "en": "I[0] was[4] at[3] college[2], but[5] Pinki[6] was[8] out[7]. (a woman speaking)"
+    },
+    {
+     "id": "to:2",
+     "t": "mc",
+     "q": "Fill the gap: “The room was big, but the garden was very small.”",
+     "hi": "कमरा ___ बड़ा था, पर बग़ीचा बहुत छोटा था ।",
+     "say": "कमरा तो बड़ा था, पर बग़ीचा बहुत छोटा था ।",
+     "en": "The room[0] was[3] big[2], but[4] the garden[5] was[8] very[6] small[7].",
+     "a": "तो",
+     "wrong": [
+      [
+       "भी",
+       "भी would say the room too was big, as well as something else. The sentence sets the room against the garden."
+      ],
+      [
+       "से",
+       "से is a postposition (“from, than”). It would need the oblique कमरे and makes no sense here."
+      ]
+     ],
+     "why": "तो after कमरा contrasts the room with the garden. तो is not a postposition, so it never changes the case of the word before it."
+    },
+    {
+     "id": "to:3",
+     "t": "mc",
+     "q": "Is तो a postposition?",
+     "a": "No, so the word before it stays in the direct case",
+     "wrong": [
+      [
+       "Yes, so the word before it becomes oblique",
+       "Postpositions such as में and से make a word oblique. तो does not: कमरा तो, not कमरे तो."
+      ],
+      [
+       "Only when it comes first in the sentence",
+       "At the start तो means “so”. It never works as a postposition."
+      ]
+     ],
+     "why": "तो is not a postposition, so it never changes the case of the word before it."
+    },
+    {
+     "id": "to:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आज तो मौसम अच्छा है ।",
+     "audio": true,
+     "a": "Today the weather is good (on other days it isn't).",
+     "wrong": [
+      [
+       "So the weather is good today?",
+       "“So” would put तो first: तो आज मौसम अच्छा है ? Here it follows आज and contrasts today with other days."
+      ],
+      [
+       "The weather is good today too.",
+       "“Too” is भी. तो sets today against other days."
+      ]
+     ],
+     "why": "तो after आज contrasts today with other days."
+    },
+    {
+     "id": "to:5",
+     "t": "mc",
+     "q": "Fill the gap: “So where was Sita yesterday?”",
+     "hi": "___ सीता कल कहाँ थी ?",
+     "say": "तो सीता कल कहाँ थी ?",
+     "en": "So[0] where[3] was[4] Sita[1] yesterday[2]?",
+     "a": "तो",
+     "wrong": [
+      [
+       "भी",
+       "भी means “too, also” and never comes first."
+      ],
+      [
+       "कि",
+       "कि (“that”) joins a clause to words like मालूम है. It does not open a question."
+      ]
+     ],
+     "why": "At the start of a sentence तो means “so, then”."
+    },
+    {
+     "id": "to:6",
+     "t": "mc",
+     "q": "In मोहन तो बाज़ार में था, which word does तो contrast?",
+     "a": "मोहन — Mohan was at the market, unlike the others",
+     "wrong": [
+      [
+       "बाज़ार — the market, rather than somewhere else",
+       "To contrast the place, तो would follow it: बाज़ार में तो."
+      ],
+      [
+       "था — he was, but no longer is",
+       "तो points back at what comes just before it, here मोहन, not the verb था."
+      ]
+     ],
+     "why": "तो contrasts the word or phrase just before it."
+    }
+   ]
+  },
+  {
+   "id": "cmp",
+   "title": "से, ज़्यादा, कम, सब से",
+   "desc": "Comparisons and superlatives",
+   "skill": "cmp",
+   "items": [
+    {
+     "id": "cm:0",
+     "t": "mc",
+     "q": "Fill the gap: “This palace is bigger than that palace.”",
+     "hi": "यह महल उस महल ___ बड़ा है ।",
+     "say": "यह महल उस महल से बड़ा है ।",
+     "en": "This[0] palace[1] is[6] bigger[5] than[4] that[2] palace[3].",
+     "a": "से",
+     "wrong": [
+      [
+       "में",
+       "में means “in”. “Than” is से."
+      ],
+      [
+       "तक",
+       "तक means “up to, as far as”. “Than” is से."
+      ]
+     ],
+     "why": "Comparisons use से “than” after the thing compared against, and an ordinary adjective."
+    },
+    {
+     "id": "cm:1",
+     "t": "mc",
+     "q": "Fill the gap: “My room is smaller than your room.”",
+     "hi": "मेरा कमरा तुम्हारे ___ से छोटा है ।",
+     "say": "मेरा कमरा तुम्हारे कमरे से छोटा है ।",
+     "en": "My[0] room[1] is[6] smaller[5] than[4] your[2] room[3].",
+     "a": "कमरे",
+     "wrong": [
+      [
+       "कमरा",
+       "कमरा is the direct form. Before से it is oblique: कमरे."
+      ],
+      [
+       "कमरों",
+       "कमरों is the oblique plural, “rooms”. The English says one room."
+      ]
+     ],
+     "why": "The noun before से is oblique, like any noun before a postposition."
+    },
+    {
+     "id": "cm:2",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki is younger than Prakash.”",
+     "hi": "पिंकी प्रकाश से ___ है ।",
+     "say": "पिंकी प्रकाश से छोटी है ।",
+     "en": "Pinki[0] is[4] younger[3] than[2] Prakash[1].",
+     "a": "छोटी",
+     "wrong": [
+      [
+       "छोटा",
+       "The adjective agrees with the subject, Pinki, not with Prakash."
+      ],
+      [
+       "छोटे",
+       "छोटे would be plural or respectful. Pinki spoken of plainly takes the singular."
+      ]
+     ],
+     "why": "The adjective agrees with the subject of the sentence. Of people, छोटा and बड़ा mean “younger” and “older”."
+    },
+    {
+     "id": "cm:3",
+     "t": "mc",
+     "q": "Fill the gap: “This tea is less hot than that tea.”",
+     "hi": "यह चाय उस चाय से ___ गरम है ।",
+     "say": "यह चाय उस चाय से कम गरम है ।",
+     "en": "This[0] tea[1] is[7] less[5] hot[6] than[4] that[2] tea[3].",
+     "a": "कम",
+     "wrong": [
+      [
+       "ज़्यादा",
+       "ज़्यादा means “more”. “Less” is कम."
+      ],
+      [
+       "और",
+       "और before an adjective means “more”, the opposite of “less”."
+      ]
+     ],
+     "why": "कम “less” before the adjective gives “less … than”."
+    },
+    {
+     "id": "cm:4",
+     "t": "mc",
+     "q": "Fill the gap: “Raj is the cleverest of all.”",
+     "hi": "राज सब ___ होशियार है ।",
+     "say": "राज सब से होशियार है ।",
+     "en": "Raj[0] is[4] the cleverest[3] {of all}[1+2].",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "को means “to”. The superlative uses सब से."
+      ],
+      [
+       "तक",
+       "तक means “up to”. The superlative uses सब से."
+      ]
+     ],
+     "why": "सब से “than all” before an adjective makes the superlative."
+    },
+    {
+     "id": "cm:5",
+     "t": "mc",
+     "q": "Fill the gap: “My sister is older than me.”",
+     "hi": "मेरी बहिन ___ से बड़ी है ।",
+     "say": "मेरी बहिन मुझ से बड़ी है ।",
+     "en": "My[0] sister[1] is[5] older[4] than[3] me[2].",
+     "a": "मुझ",
+     "wrong": [
+      [
+       "मैं",
+       "मैं is the direct form. Before से it becomes मुझ."
+      ],
+      [
+       "मेरा",
+       "मेरा means “my”. Before से you need the pronoun itself, मुझ."
+      ]
+     ],
+     "why": "मैं becomes मुझ before a postposition, also before से “than”."
+    },
+    {
+     "id": "cm:6",
+     "t": "mc",
+     "q": "Fill the gap: “This car is newer than those cars.”",
+     "hi": "यह गाड़ी उन ___ से नई है ।",
+     "say": "यह गाड़ी उन गाड़ियों से नई है ।",
+     "en": "This[0] car[1] is[6] newer[5] than[4] those[2] cars[3].",
+     "a": "गाड़ियों",
+     "wrong": [
+      [
+       "गाड़ियाँ",
+       "गाड़ियाँ is the direct plural. Before से the oblique plural is needed."
+      ],
+      [
+       "गाड़ी",
+       "उन is plural, so the noun must be plural too."
+      ]
+     ],
+     "why": "The noun compared against is oblique before से — गाड़ियों."
+    },
+    {
+     "id": "cm:7",
+     "t": "mc",
+     "q": "Fill the gap: “Suhas is more hardworking than those tall boys.”",
+     "hi": "सुहास उन ___ लड़कों से ज़्यादा मेहनती है ।",
+     "say": "सुहास उन लंबे लड़कों से ज़्यादा मेहनती है ।",
+     "en": "Suhas[0] is[7] more[5] hardworking[6] than[4] those[1] tall[2] boys[3].",
+     "a": "लंबे",
+     "wrong": [
+      [
+       "लंबा",
+       "लंबा is the direct form. Its noun लड़कों is oblique, so the adjective is too."
+      ],
+      [
+       "लंबों",
+       "Adjectives never take -õ. Their -e form serves for the oblique plural."
+      ]
+     ],
+     "why": "An -ā adjective before an oblique noun takes -e."
+    },
+    {
+     "id": "cm:8",
+     "t": "mc",
+     "q": "Fill the gap: “The samosas were colder than the daal.”",
+     "hi": "समोसे दाल से ज़्यादा ___ थे ।",
+     "say": "समोसे दाल से ज़्यादा ठंडे थे ।",
+     "en": "The samosas[0] were[5] colder[3+4] than[2] the daal[1].",
+     "a": "ठंडे",
+     "wrong": [
+      [
+       "ठंडी",
+       "ठंडी would agree with दाल. The adjective agrees with the subject, समोसे."
+      ],
+      [
+       "ठंडा",
+       "ठंडा is singular, but समोसे is plural."
+      ]
+     ],
+     "why": "The adjective agrees with the subject, here masculine plural समोसे."
+    },
+    {
+     "id": "cm:9",
+     "t": "mc",
+     "q": "Fill the gap: “My book is older than your book. (to तुम)”",
+     "hi": "मेरी किताब ___ किताब से ज़्यादा पुरानी है ।",
+     "say": "मेरी किताब तुम्हारी किताब से ज़्यादा पुरानी है ।",
+     "en": "My[0] book[1] is[7] older[5+6] than[4] your[2] book[3]. (to तुम)",
+     "a": "तुम्हारी",
+     "wrong": [
+      [
+       "तुम्हारे",
+       "-e is for masculine nouns. Feminine -ī forms never change, even before से."
+      ],
+      [
+       "तुम्हारा",
+       "तुम्हारा is masculine, but किताब is feminine."
+      ]
+     ],
+     "why": "The possessive agrees with किताब, feminine; -ī forms stay -ī in the oblique."
+    },
+    {
+     "id": "cm:10",
+     "t": "mc",
+     "q": "Fill the gap: “Delhi is my dearest city.”",
+     "hi": "दिल्ली मेरा सब से ___ शहर है ।",
+     "say": "दिल्ली मेरा सब से प्यारा शहर है ।",
+     "en": "Delhi[0] is[6] my[1] dearest[2+3+4] city[5].",
+     "a": "प्यारा",
+     "wrong": [
+      [
+       "प्यारी",
+       "प्यारा describes शहर, which is masculine."
+      ],
+      [
+       "प्यारे",
+       "प्यारे is plural or oblique. शहर here is singular and direct."
+      ]
+     ],
+     "why": "In सब से प्यारा शहर the adjective agrees with शहर."
+    }
+   ]
+  },
+  {
+   "id": "ko",
+   "title": "मुझ को ज़ुकाम है",
+   "desc": "को constructions: the verb agrees with the thing",
+   "skill": "ko",
+   "items": [
+    {
+     "id": "ko:0",
+     "t": "mc",
+     "q": "Fill the gap: “Uncle had a fever yesterday.”",
+     "hi": "चाचा जी को कल बुख़ार ___ ।",
+     "say": "चाचा जी को कल बुख़ार था ।",
+     "en": "Uncle[0+1+2] had[5] a fever[4] yesterday[3].",
+     "a": "था",
+     "wrong": [
+      [
+       "थे",
+       "Respect for चाचा जी does not matter here: the subject is बुख़ार, masculine singular."
+      ],
+      [
+       "थी",
+       "थी is feminine. बुख़ार is masculine."
+      ]
+     ],
+     "why": "In X को बुख़ार है the subject is बुख़ार, not the sufferer, so the verb agrees with बुख़ार."
+    },
+    {
+     "id": "ko:1",
+     "t": "mc",
+     "q": "Fill the gap: “Mother hopes that the children are at home.”",
+     "hi": "माँ को आशा ___ कि बच्चे घर पर हैं ।",
+     "say": "माँ को आशा है कि बच्चे घर पर हैं ।",
+     "en": "Mother[0+1] hopes[2+3] that[4] the children[5] are[8] at[7] home[6].",
+     "a": "है",
+     "wrong": [
+      [
+       "हैं",
+       "The verb agrees with आशा, feminine singular, not with माँ, however respected."
+      ],
+      [
+       "हूँ",
+       "हूँ goes only with मैं."
+      ]
+     ],
+     "why": "In X को आशा है the subject is आशा."
+    },
+    {
+     "id": "ko:2",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki likes tea.”",
+     "hi": "पिंकी को चाय पसंद ___ ।",
+     "say": "पिंकी को चाय पसंद है ।",
+     "en": "Pinki[0+1] likes[3+4] tea[2].",
+     "a": "है",
+     "wrong": [
+      [
+       "हैं",
+       "हैं would need a plural subject. The subject is चाय, the thing liked."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम."
+      ]
+     ],
+     "why": "X को Y पसंद है is literally “Y is pleasing to X”: the verb agrees with Y."
+    },
+    {
+     "id": "ko:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sita likes these old cars.”",
+     "hi": "सीता को ये पुरानी गाड़ियाँ पसंद ___ ।",
+     "say": "सीता को ये पुरानी गाड़ियाँ पसंद हैं ।",
+     "en": "Sita[0+1] likes[5+6] these[2] old[3] cars[4].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "है",
+       "है would agree with Sita, but the subject is the thing liked, गाड़ियाँ, which is plural."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम."
+      ]
+     ],
+     "why": "With पसंद the verb agrees with the thing liked."
+    },
+    {
+     "id": "ko:4",
+     "t": "mc",
+     "q": "Fill the gap: “I like this city a lot.”",
+     "hi": "___ को यह शहर बहुत पसंद है ।",
+     "say": "मुझ को यह शहर बहुत पसंद है ।",
+     "en": "I[0+1] like[5+6] this[2] city[3] {a lot}[4].",
+     "a": "मुझ",
+     "wrong": [
+      [
+       "मैं",
+       "मैं is the direct form. Before को it becomes मुझ. The subject here is शहर."
+      ],
+      [
+       "मेरा",
+       "मेरा means “my”. Before को you need the pronoun itself, मुझ."
+      ]
+     ],
+     "why": "The person who likes something is marked with को, so मैं becomes मुझ."
+    },
+    {
+     "id": "ko:5",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki is sorry that the shop is closed.”",
+     "hi": "पिंकी को ___ है कि दुकान बंद है ।",
+     "say": "पिंकी को अफ़सोस है कि दुकान बंद है ।",
+     "en": "Pinki[0+1] {is sorry}[2+3] that[4] the shop[5] is[7] closed[6].",
+     "a": "अफ़सोस",
+     "wrong": [
+      [
+       "ख़ुशी",
+       "ख़ुशी is “happiness”: पिंकी को ख़ुशी है means “Pinki is glad”."
+      ],
+      [
+       "आशा",
+       "आशा is “hope”: पिंकी को आशा है means “Pinki hopes”."
+      ]
+     ],
+     "why": "X को अफ़सोस है is “X is sorry”, literally “to X there is regret”."
+    },
+    {
+     "id": "ko:6",
+     "t": "mc",
+     "q": "Fill the gap: “Sita is glad that the college is closed tomorrow.”",
+     "hi": "सीता को ___ है कि कालेज कल बंद है ।",
+     "say": "सीता को ख़ुशी है कि कालेज कल बंद है ।",
+     "en": "Sita[0+1] is[3] glad[2] that[4] the college[5] is[8] closed[7] tomorrow[6].",
+     "a": "ख़ुशी",
+     "wrong": [
+      [
+       "अफ़सोस",
+       "अफ़सोस is “regret”: सीता को अफ़सोस है means “Sita is sorry”."
+      ],
+      [
+       "ज़ुकाम",
+       "ज़ुकाम is “a cold”: सीता को ज़ुकाम है means “Sita has a cold”, and a cold cannot be about something."
+      ]
+     ],
+     "why": "X को ख़ुशी है कि … is “X is glad that …”. With a present-tense verb, कल means “tomorrow”."
+    },
+    {
+     "id": "ko:7",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan doesn't know who Pinki is.”",
+     "hi": "मोहन को ___ नहीं है कि पिंकी कौन है ।",
+     "say": "मोहन को मालूम नहीं है कि पिंकी कौन है ।",
+     "en": "Mohan[0+1] {doesn't}[3] know[2+4] who[7] Pinki[6] is[8].",
+     "a": "मालूम",
+     "wrong": [
+      [
+       "पसंद",
+       "पसंद means “liked”. “Know” is मालूम, “known”."
+      ],
+      [
+       "ख़ुशी",
+       "ख़ुशी means “happiness”. “Know” is मालूम."
+      ]
+     ],
+     "why": "X को मालूम है is “X knows”, literally “to X it is known”."
+    },
+    {
+     "id": "ko:8",
+     "t": "mc",
+     "q": "Fill the gap: “My brother has a fever.”",
+     "hi": "___ भाई को बुख़ार है ।",
+     "say": "मेरे भाई को बुख़ार है ।",
+     "en": "My[0] brother[1+2] has[4] a fever[3].",
+     "a": "मेरे",
+     "wrong": [
+      [
+       "मेरा",
+       "मेरा is the direct form. भाई is oblique before को, so the possessive takes -e."
+      ],
+      [
+       "मेरी",
+       "मेरी is feminine, but भाई is masculine."
+      ]
+     ],
+     "why": "को is a postposition, so the sufferer and its possessive are oblique."
+    },
+    {
+     "id": "ko:9",
+     "t": "mc",
+     "q": "Fill the gap: “These girls don't like tea.”",
+     "hi": "इन ___ को चाय पसंद नहीं है ।",
+     "say": "इन लड़कियों को चाय पसंद नहीं है ।",
+     "en": "These[0] girls[1+2] {don't}[5] like[4+6] tea[3].",
+     "a": "लड़कियों",
+     "wrong": [
+      [
+       "लड़कियाँ",
+       "लड़कियाँ is the direct plural. Before को the oblique plural is needed."
+      ],
+      [
+       "लड़की",
+       "इन is plural, so the noun must be plural too."
+      ]
+     ],
+     "why": "The person who likes takes को, so the noun is oblique: लड़कियों को."
+    },
+    {
+     "id": "ko:10",
+     "t": "mc",
+     "q": "In मोहन को समोसे पसंद हैं, what is the grammatical subject?",
+     "a": "समोसे",
+     "wrong": [
+      [
+       "मोहन",
+       "Mohan is the one who likes, marked with को. The verb हैं agrees with समोसे, not with him."
+      ],
+      [
+       "पसंद",
+       "पसंद is an adjective, “pleasing”. It describes the subject, समोसे."
+      ]
+     ],
+     "why": "With पसंद the thing liked is the subject; the person is oblique with को."
+    },
+    {
+     "id": "ko:12",
+     "t": "mc",
+     "q": "Put this sentence into the past tense",
+     "a": "बच्चों को बुख़ार था ।",
+     "wrong": [
+      [
+       "बच्चों को बुख़ार थे ।",
+       "थे would agree with the children, but the subject is बुख़ार, masculine singular."
+      ],
+      [
+       "बच्चों को बुख़ार थी ।",
+       "थी is feminine. बुख़ार is masculine."
+      ]
+     ],
+     "why": "The verb agrees with बुख़ार, so है becomes था.",
+     "hi": "बच्चों को बुख़ार है ।",
+     "audio": true,
+     "say": "बच्चों को बुख़ार था ।",
+     "en": "The children[0+1] had[3] a fever[2]."
+    },
+    {
+     "id": "ko:11",
+     "t": "mc",
+     "q": "Which sentence means “Mother likes silver”?",
+     "a": "माँ को चाँदी पसंद है ।",
+     "wrong": [
+      [
+       "माँ चाँदी पसंद है ।",
+       "Without को this does not say who likes it. The person who likes takes को."
+      ],
+      [
+       "माँ को चाँदी पसंद हैं ।",
+       "The verb agrees with चाँदी, which is singular. Respect for माँ does not change it."
+      ]
+     ],
+     "why": "X को Y पसंद है — Y is the subject, and the verb agrees with it."
+    }
+   ]
+  },
+  {
+   "id": "ki",
+   "title": "मालूम है कि …",
+   "desc": "Questions inside a sentence with कि",
+   "skill": "ko",
+   "items": [
+    {
+     "id": "ki:0",
+     "t": "mc",
+     "q": "Which sentence means “Do you know where my glasses are?”",
+     "a": "क्या आप को मालूम है कि मेरा चश्मा कहाँ है ?",
+     "wrong": [
+      [
+       "क्या आप को मालूम है कि कहाँ मेरा चश्मा है ?",
+       "After कि the question keeps its own order, मेरा चश्मा कहाँ है ?, with nothing moved."
+      ],
+      [
+       "क्या आप मालूम हैं कि मेरा चश्मा कहाँ है ?",
+       "The person who knows takes को — आप को मालूम है."
+      ]
+     ],
+     "why": "The core question मेरा चश्मा कहाँ है ? stays unchanged after कि."
+    },
+    {
+     "id": "ki:1",
+     "t": "mc",
+     "q": "Fill the gap: “Does Pinki know how Suhas was yesterday?”",
+     "hi": "क्या पिंकी को मालूम है ___ सुहास कल कैसा था ?",
+     "say": "क्या पिंकी को मालूम है कि सुहास कल कैसा था ?",
+     "en": "Does[0] Pinki[1+2] know[3+4] how[8] Suhas[6] was[9] yesterday[7]?",
+     "a": "कि",
+     "wrong": [
+      [
+       "तो",
+       "तो means “so” or adds contrast. It does not join a clause to मालूम है."
+      ],
+      [
+       "और",
+       "और means “and”. A clause after मालूम है is joined with कि."
+      ]
+     ],
+     "why": "कि “that” introduces the clause after मालूम है. English often leaves it out."
+    },
+    {
+     "id": "ki:2",
+     "t": "mc",
+     "q": "In this sentence, the words after कि…",
+     "a": "keep the order of the plain question, unchanged",
+     "wrong": [
+      [
+       "are rearranged, as English rearranges “where was Pinki?”",
+       "English turns “where was Pinki?” into “where Pinki was”. Hindi leaves the core question पिंकी कल कहाँ थी ? as it is."
+      ],
+      [
+       "lose their verb",
+       "The verb थी stays. The words after कि are a full question."
+      ]
+     ],
+     "why": "The words after कि are the core question, unchanged.",
+     "hi": "माँ को मालूम है कि पिंकी कल कहाँ थी ।",
+     "audio": true,
+     "say": "माँ को मालूम है कि पिंकी कल कहाँ थी ।",
+     "en": "Mother[0+1] knows[2+3] where[7] Pinki[5] was[8] yesterday[6]."
+    },
+    {
+     "id": "ki:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हम को मालूम है कि चाचा जी कल वाराणसी में थे ।",
+     "audio": true,
+     "a": "We know that Uncle was in Varanasi yesterday.",
+     "wrong": [
+      [
+       "We know that Uncle will be in Varanasi tomorrow.",
+       "थे is past, so कल here means “yesterday”."
+      ],
+      [
+       "Does Uncle know that we were in Varanasi?",
+       "हम को मालूम है says “we know”. There is no क्या, and चाचा जी is the one in Varanasi."
+      ]
+     ],
+     "why": "कल means “yesterday” or “tomorrow”; the tense shows which."
+    }
+   ]
+  },
+  {
+   "id": "voc",
+   "title": "बच्चो ! बेटे !",
+   "desc": "The vocative case, for calling out",
+   "skill": "voc",
+   "items": [
+    {
+     "id": "vo:0",
+     "t": "mc",
+     "q": "Fill the gap: “Children, the food is hot!”",
+     "hi": "___, खाना गरम है !",
+     "say": "बच्चो, खाना गरम है !",
+     "en": "Children[0], the food[1] is[3] hot[2]!",
+     "a": "बच्चो",
+     "wrong": [
+      [
+       "बच्चों",
+       "बच्चों, with a nasal, is the oblique plural, used before a postposition. Calling out to people uses -o without the nasal."
+      ],
+      [
+       "बच्चे",
+       "बच्चे is the direct plural. When you address people, the vocative is used."
+      ]
+     ],
+     "why": "The vocative is like the oblique, except that the plural ending -o has no nasal."
+    },
+    {
+     "id": "vo:1",
+     "t": "mc",
+     "q": "Fill the gap: “Son, you are very clever.”",
+     "hi": "___, तुम बहुत होशियार हो ।",
+     "say": "बेटे, तुम बहुत होशियार हो ।",
+     "en": "Son[0], you[1] are[4] very[2] clever[3].",
+     "a": "बेटे",
+     "wrong": [
+      [
+       "बेटा",
+       "बेटा is the direct form. Addressing someone uses the vocative, like the oblique: बेटे."
+      ],
+      [
+       "बेटो",
+       "बेटो is the vocative plural, for several sons."
+      ]
+     ],
+     "why": "A masculine noun in -ā takes -e in the vocative singular, as in the oblique."
+    },
+    {
+     "id": "vo:2",
+     "t": "mc",
+     "q": "Fill the gap: “Boys, the college is closed today.”",
+     "hi": "___, आज कालेज बंद है ।",
+     "say": "लड़को, आज कालेज बंद है ।",
+     "en": "Boys[0], the college[2] is[4] closed[3] today[1].",
+     "a": "लड़को",
+     "wrong": [
+      [
+       "लड़कों",
+       "लड़कों, with a nasal, is the oblique plural. The vocative plural has no nasal."
+      ],
+      [
+       "लड़के",
+       "लड़के is the direct plural, or the vocative of one boy."
+      ]
+     ],
+     "why": "The vocative is like the oblique, except that the plural ending -o has no nasal."
+    },
+    {
+     "id": "vo:3",
+     "t": "mc",
+     "q": "Fill the gap: “Girls, the tea is cold!”",
+     "hi": "___, चाय ठंडी है !",
+     "say": "लड़कियो, चाय ठंडी है !",
+     "en": "Girls[0], the tea[1] is[3] cold[2]!",
+     "a": "लड़कियो",
+     "wrong": [
+      [
+       "लड़कियों",
+       "लड़कियों, with a nasal, is the oblique plural. The vocative plural has no nasal."
+      ],
+      [
+       "लड़कियाँ",
+       "लड़कियाँ is the direct plural. When you address people, the vocative is used."
+      ]
+     ],
+     "why": "Nouns in -ī take -iyo in the vocative plural."
+    },
+    {
+     "id": "vo:4",
+     "t": "mc",
+     "q": "Fill the gap: “Friends, this is my house.”",
+     "hi": "___, यह मेरा घर है ।",
+     "say": "दोस्तो, यह मेरा घर है ।",
+     "en": "Friends[0], this[1] is[4] my[2] house[3].",
+     "a": "दोस्तो",
+     "wrong": [
+      [
+       "दोस्तों",
+       "दोस्तों, with a nasal, is the oblique plural. The vocative plural has no nasal."
+      ],
+      [
+       "दोस्त",
+       "दोस्त is singular, “friend”. The English addresses several."
+      ]
+     ],
+     "why": "The vocative is like the oblique, except that the plural ending -o has no nasal."
+    },
+    {
+     "id": "vo:5",
+     "t": "mc",
+     "q": "Fill the gap: “Brothers, where were you yesterday?”",
+     "hi": "___, कल आप लोग कहाँ थे ?",
+     "say": "भाइयो, कल आप लोग कहाँ थे ?",
+     "en": "Brothers[0], where[4] were[5] you[2+3] yesterday[1]?",
+     "a": "भाइयो",
+     "wrong": [
+      [
+       "भाइयों",
+       "भाइयों, with a nasal, is the oblique plural. Addressing people drops the nasal."
+      ],
+      [
+       "भाई",
+       "भाई is the direct form. The vocative plural is भाइयो."
+      ]
+     ],
+     "why": "भाई takes -iyo in the vocative plural: the -ī shortens, as in the oblique."
+    },
+    {
+     "id": "vo:6",
+     "t": "mc",
+     "q": "How is the vocative (the form for calling out to someone) made?",
+     "a": "Like the oblique, but the plural ending is -o, without a nasal",
+     "wrong": [
+      [
+       "Like the direct case",
+       "The direct case would give बेटा and बच्चे. The vocative gives बेटे and बच्चो."
+      ],
+      [
+       "Like the oblique, with the plural in -õ",
+       "-õ with a nasal is the oblique plural. The vocative plural has a plain -o: बच्चो, not बच्चों."
+      ]
+     ],
+     "why": "The vocative is like the oblique, except that the plural ending -o has no nasal."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Yesterday[0] the shop[1] was[3] closed[2].",
+     "ans": [
+      "कल",
+      "दुकान",
+      "बंद",
+      "थी"
+     ],
+     "wrong": [
+      [
+       "था",
+       "दुकान is feminine, so the verb is थी."
+      ],
+      [
+       "थीं",
+       "थीं is plural, but there is one shop."
+      ]
+     ],
+     "alt": [
+      [
+       "दुकान",
+       "कल",
+       "बंद",
+       "थी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Sita[0] is[4] cleverer[3] than[2] Mohan[1].",
+     "ans": [
+      "सीता",
+      "मोहन",
+      "से",
+      "होशियार",
+      "है"
+     ],
+     "wrong": [
+      [
+       "में",
+       "में means “in”. “Than” is से."
+      ],
+      [
+       "को",
+       "को means “to”. “Than” is से."
+      ]
+     ],
+     "order": "The one compared against comes just before से — सीता मोहन से होशियार है means Sita is cleverer than Mohan."
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "My[0] neighbour[1+2] has[4] a cold[3]. (a man)",
+     "ans": [
+      "मेरे",
+      "पड़ोसी",
+      "को",
+      "ज़ुकाम",
+      "है"
+     ],
+     "wrong": [
+      [
+       "मेरा",
+       "पड़ोसी is oblique before को, so the possessive takes -e: मेरे."
+      ],
+      [
+       "हैं",
+       "The verb agrees with ज़ुकाम, masculine singular."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "My[0] friend[1+2] likes[4+5] samosas[3]. (a man)",
+     "ans": [
+      "मेरे",
+      "दोस्त",
+      "को",
+      "समोसे",
+      "पसंद",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "है",
+       "The verb agrees with the thing liked, समोसे, which is plural."
+      ],
+      [
+       "दोस्तों",
+       "दोस्तों is the oblique plural, “friends”. The English says one friend."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Children[0], the samosas[1] are[4] very[2] hot[3]!",
+     "ans": [
+      "बच्चो",
+      "समोसे",
+      "बहुत",
+      "गरम",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बच्चों",
+       "बच्चों is the oblique plural. Calling out to people uses the vocative बच्चो, without the nasal."
+      ],
+      [
+       "है",
+       "है is singular, but समोसे is plural."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "This[0] palace[1] is[5] the oldest[2+3+4].",
+     "ans": [
+      "यह",
+      "महल",
+      "सब",
+      "से",
+      "पुराना",
+      "है"
+     ],
+     "wrong": [
+      [
+       "पुरानी",
+       "पुरानी is feminine, but महल is masculine."
+      ],
+      [
+       "में",
+       "में means “in”. The superlative is सब से."
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "Does[0] Pinki[1+2] know[3+4] where[7] the tablets[6] are[8]?",
+     "ans": [
+      "क्या",
+      "पिंकी",
+      "को",
+      "मालूम",
+      "है",
+      "कि",
+      "गोलियाँ",
+      "कहाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "थीं",
+       "थीं is past, “were”. The English says “are”."
+      ],
+      [
+       "कौन",
+       "कौन asks “who?”. “Where” is कहाँ."
+      ]
+     ],
+     "order": "After कि the core question keeps its own order: गोलियाँ कहाँ हैं ?"
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Prakash[0+1] was[5] in[4] the market[3] yesterday[2].",
+     "ans": [
+      "प्रकाश",
+      "जी",
+      "कल",
+      "बाज़ार",
+      "में",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "था",
+       "A respected man (प्रकाश जी) takes the honorific plural थे."
+      ],
+      [
+       "थीं",
+       "थीं is feminine. Prakash is a man."
+      ]
+     ],
+     "alt": [
+      [
+       "कल",
+       "प्रकाश",
+       "जी",
+       "बाज़ार",
+       "में",
+       "थे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Those[0] girls[1] were[4] very[2] hardworking[3].",
+     "ans": [
+      "वे",
+      "लड़कियाँ",
+      "बहुत",
+      "मेहनती",
+      "थीं"
+     ],
+     "wrong": [
+      [
+       "थी",
+       "थी is singular, but लड़कियाँ is plural."
+      ],
+      [
+       "थे",
+       "थे is masculine. लड़की is feminine."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Is[5] Pinki[1] older[4] than[3] you[2]? (to तुम)",
+     "ans": [
+      "क्या",
+      "पिंकी",
+      "तुम",
+      "से",
+      "बड़ी",
+      "है"
+     ],
+     "wrong": [
+      [
+       "तुम्हारे",
+       "तुम्हारे means “your”. Before से the pronoun itself stays तुम."
+      ],
+      [
+       "बड़ा",
+       "बड़ा is masculine. The adjective agrees with the subject, Pinki."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "This[0] room[1] is[7] less[5] airy[6] than[4] that[2] one[3].",
+     "ans": [
+      "यह",
+      "कमरा",
+      "उस",
+      "कमरे",
+      "से",
+      "कम",
+      "हवादार",
+      "है"
+     ],
+     "wrong": [
+      [
+       "वह",
+       "वह is the direct form. Before an oblique noun it becomes उस."
+      ],
+      [
+       "कमरों",
+       "कमरों is the oblique plural, “rooms”. The English compares with one room."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरा दोस्त मुझ से ज़्यादा होशियार है ।",
+     "audio": true,
+     "a": "My friend is cleverer than me.",
+     "wrong": [
+      [
+       "I am cleverer than my friend.",
+       "The one before से is the one compared against: मुझ से “than me”."
+      ],
+      [
+       "My friend is very clever, like me.",
+       "मुझ से ज़्यादा means “more than me”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बाहर बहुत ठंडा था ।",
+     "audio": true,
+     "a": "It was very cold outside.",
+     "wrong": [
+      [
+       "It is very cold outside.",
+       "था is past, “was”. “Is” would be है."
+      ],
+      [
+       "It was very hot outside.",
+       "ठंडा means “cold”. “Hot” is गरम."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पहले वाराणसी में मेरे कई रिश्तेदार थे ।",
+     "audio": true,
+     "a": "I used to have several relatives in Varanasi.",
+     "wrong": [
+      [
+       "Several of my relatives are in Varanasi now.",
+       "पहले … थे is past: “previously … were”."
+      ],
+      [
+       "Several of my friends were in Varanasi before.",
+       "रिश्तेदार means “relative”. “Friend” is दोस्त."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "सीता को कल बुख़ार था, पर आज वह ठीक है ।",
+     "audio": true,
+     "a": "Sita had a fever yesterday, but today she is fine.",
+     "wrong": [
+      [
+       "Sita has a fever today, but yesterday she was fine.",
+       "The fever goes with कल … था, and ठीक है with आज."
+      ],
+      [
+       "Sita had a cold yesterday, but today she is fine.",
+       "बुख़ार is “fever”. “A cold” is ज़ुकाम."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "ओ दोस्तो, यह बाज़ार सब से सस्ता है !",
+     "audio": true,
+     "a": "Oh friends, this market is the cheapest!",
+     "wrong": [
+      [
+       "Oh friends, this market is cheaper than the others!",
+       "सब से before the adjective is the superlative, “the cheapest”."
+      ],
+      [
+       "Oh friend, all the markets are cheap!",
+       "दोस्तो is plural, and यह बाज़ार is one market. सब से सस्ता means “cheapest of all”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "क्या आप को यह खाना पसंद नहीं है ?",
+     "audio": true,
+     "a": "Don't you like this food?",
+     "wrong": [
+      [
+       "Do you like this food?",
+       "नहीं makes the question negative."
+      ],
+      [
+       "Don't you know this food?",
+       "मालूम means “known”. पसंद means “liked”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह महल सौ साल पुराना है ।",
+     "audio": true,
+     "a": "This palace is a hundred years old.",
+     "wrong": [
+      [
+       "This palace is ten years old.",
+       "सौ is “hundred”. “Ten” is दस."
+      ],
+      [
+       "This mountain is a hundred years old.",
+       "महल is “palace”. “Mountain” is पहाड़."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "क्या तुम को मालूम है कि दुकान कल बंद थी ?",
+     "audio": true,
+     "a": "Do you know that the shop was closed yesterday?",
+     "wrong": [
+      [
+       "Do you know whether the shop is closed tomorrow?",
+       "थी is past, so कल means “yesterday”."
+      ],
+      [
+       "Do you know why the shop was closed yesterday?",
+       "There is no क्यों “why” here. कि just means “that”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Comparison, the past, कल and क्या",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "What does से mean in यह गाड़ी उस गाड़ी से सस्ती है ?",
+     "a": "than",
+     "wrong": [
+      [
+       "from",
+       "से can mean “from”, but after the thing compared against, with an adjective, it means “than”."
+      ],
+      [
+       "with",
+       "से can mean “with”, but in a comparison it means “than”."
+      ]
+     ],
+     "why": "Comparisons use से “than”. The adjective itself does not change."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which word can mean “more” before the adjective in a comparison?",
+     "a": "either ज़्यादा or और",
+     "wrong": [
+      [
+       "only ज़्यादा",
+       "और also means “more” before an adjective: और लंबा “taller”."
+      ],
+      [
+       "only बहुत",
+       "बहुत means “very”. “More” is ज़्यादा or और."
+      ]
+     ],
+     "why": "ज़्यादा or और before the adjective makes a comparison more specific; it is also used when “than whom” is not stated."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "How does the past tense of “to be” differ from the present?",
+     "a": "It shows gender as well as number",
+     "wrong": [
+      [
+       "The past tense does not show number",
+       "था and थी are singular; थे and थीं are plural."
+      ],
+      [
+       "Both tenses show gender in the same way",
+       "है and हैं are the same for men and women. Only the past shows gender."
+      ]
+     ],
+     "why": "Unlike है, the past tense distinguishes masculine and feminine: था, थी, थे, थीं."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Which phrase means “of all” in a superlative?",
+     "a": "सब से",
+     "wrong": [
+      [
+       "सब को",
+       "को means “to”. The superlative uses सब से, “than all”."
+      ],
+      [
+       "सब तक",
+       "तक means “up to”. The superlative uses सब से."
+      ]
+     ],
+     "why": "सब से अच्छा, literally “better than all”, is “best”."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "What does कल mean in कल मैं बीमार थी ?",
+     "a": "yesterday",
+     "wrong": [
+      [
+       "tomorrow",
+       "कल means both “yesterday” and “tomorrow”. थी is past, so here it is “yesterday”."
+      ],
+      [
+       "today",
+       "“Today” is आज."
+      ]
+     ],
+     "why": "कल is “yesterday” or “tomorrow”; the tense of the verb shows which."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "In casual speech, where else can the question word क्या go in a yes/no question?",
+     "a": "At the very end: वह घर पर है क्या ?",
+     "wrong": [
+      [
+       "Just before the verb: वह घर पर क्या है ?",
+       "That would ask “what is at home?”. Casual speech can move the yes/no क्या to the end."
+      ],
+      [
+       "Nowhere else: क्या must always come first",
+       "In casual speech the yes/no क्या is often put at the very end instead."
+      ]
+     ],
+     "why": "क्या normally starts a yes/no question, but in casual speech it is often added at the end."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "past": 3,
+  "to": 1,
+  "cmp": 3,
+  "ko": 3,
+  "ki": 1,
+  "voc": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "लंबों": "lambõ"
+ }
+}

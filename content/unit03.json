@@ -1,0 +1,2018 @@
+{
+ "id": "unit3",
+ "n": 3,
+ "title": "Rooms in the house",
+ "titleHi": "घर में कमरे",
+ "scope": "Postpositions में, पर, तक, को, से; the oblique case of nouns, adjectives and pronouns; possessives मेरा, तुम्हारा, आपका; “there is” word order and कहाँ",
+ "pages": "book 26–36",
+ "skills": {
+  "post": "Postpositions",
+  "obl": "Oblique nouns",
+  "adj": "Oblique adjectives and possessives",
+  "pron": "Oblique pronouns",
+  "usage": "Rules and word order",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "तुम्हारा",
+   "en": "your (to तुम)",
+   "c": "p"
+  },
+  {
+   "hi": "तबियत",
+   "en": "health",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घर",
+   "en": "house, home",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "परिवार",
+   "en": "family",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पति",
+   "en": "husband",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पत्नी",
+   "en": "wife",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कई",
+   "en": "several",
+   "c": "a"
+  },
+  {
+   "hi": "छह",
+   "en": "six",
+   "c": "x"
+  },
+  {
+   "hi": "सारा",
+   "en": "all, whole",
+   "c": "a"
+  },
+  {
+   "hi": "सामान",
+   "en": "furniture, things",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वग़ैरह",
+   "en": "and so on, etc.",
+   "c": "x"
+  },
+  {
+   "hi": "अब",
+   "en": "now",
+   "c": "x"
+  },
+  {
+   "hi": "फ़र्श",
+   "en": "floor",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दरी",
+   "en": "floor rug",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ओ",
+   "en": "oh!",
+   "c": "x"
+  },
+  {
+   "hi": "कहाँ",
+   "en": "where?",
+   "c": "x"
+  },
+  {
+   "hi": "बाथरूम",
+   "en": "bathroom",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "में",
+   "en": "in",
+   "c": "x"
+  },
+  {
+   "hi": "सुबह",
+   "en": "morning",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "से",
+   "en": "from, by, with, since",
+   "c": "x"
+  },
+  {
+   "hi": "वहाँ",
+   "en": "there",
+   "c": "x"
+  },
+  {
+   "hi": "ख़ैर",
+   "en": "well, anyway",
+   "c": "x"
+  },
+  {
+   "hi": "मेरा",
+   "en": "my, mine",
+   "c": "p"
+  },
+  {
+   "hi": "आपका",
+   "en": "your (to आप)",
+   "c": "p"
+  },
+  {
+   "hi": "चश्मा",
+   "en": "glasses",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "रे",
+   "en": "eh, hey",
+   "c": "x"
+  },
+  {
+   "hi": "पर",
+   "en": "on",
+   "c": "x"
+  },
+  {
+   "hi": "उस",
+   "en": "that (oblique of वह)",
+   "c": "p"
+  },
+  {
+   "hi": "शायद",
+   "en": "perhaps",
+   "c": "x"
+  },
+  {
+   "hi": "दराज़",
+   "en": "drawer",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बहुत-सारा",
+   "en": "lots of",
+   "c": "a"
+  },
+  {
+   "hi": "चीज़",
+   "en": "thing, object",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तक",
+   "en": "up to, as far as",
+   "c": "x"
+  },
+  {
+   "hi": "को",
+   "en": "to, at",
+   "c": "x"
+  },
+  {
+   "hi": "रात",
+   "en": "night",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "समय",
+   "en": "time",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बस",
+   "en": "bus",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आराम",
+   "en": "rest, comfort",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आराम से",
+   "en": "comfortably, easily",
+   "c": "x"
+  },
+  {
+   "hi": "भारत",
+   "en": "India",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "इस",
+   "en": "this (oblique of यह)",
+   "c": "p"
+  },
+  {
+   "hi": "इन",
+   "en": "these (oblique of ये)",
+   "c": "p"
+  },
+  {
+   "hi": "उन",
+   "en": "those (oblique of वे)",
+   "c": "p"
+  },
+  {
+   "hi": "कपड़ा",
+   "en": "cloth, garment",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "क़लम",
+   "en": "pen",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "काला",
+   "en": "black",
+   "c": "a"
+  },
+  {
+   "hi": "किस",
+   "en": "oblique singular of कौन and क्या",
+   "c": "p"
+  },
+  {
+   "hi": "किन",
+   "en": "oblique plural of कौन and क्या",
+   "c": "p"
+  },
+  {
+   "hi": "गाँव",
+   "en": "village",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चार",
+   "en": "four",
+   "c": "x"
+  },
+  {
+   "hi": "तस्वीर",
+   "en": "picture",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तुझ",
+   "en": "oblique of तू",
+   "c": "p"
+  },
+  {
+   "hi": "दस",
+   "en": "ten",
+   "c": "x"
+  },
+  {
+   "hi": "दीवार",
+   "en": "wall",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पर्दा",
+   "en": "curtain",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुझ",
+   "en": "oblique of मैं",
+   "c": "p"
+  },
+  {
+   "hi": "रसोईघर",
+   "en": "kitchen",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लंदन",
+   "en": "London",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शहर",
+   "en": "town, city",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हिन्दू",
+   "en": "Hindu",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मूर्ति",
+   "en": "image, statue",
+   "c": "n",
+   "g": "f"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "post",
+   "title": "में, पर, तक, को, से",
+   "desc": "Pick the postposition that fits",
+   "skill": "post",
+   "items": [
+    {
+     "id": "pp:0",
+     "t": "mc",
+     "q": "Fill the gap: “The books are in the cupboard.”",
+     "hi": "किताबें अलमारी ___ हैं ।",
+     "say": "किताबें अलमारी में हैं ।",
+     "en": "The books[0] are[3] in[2] the cupboard[1].",
+     "a": "में",
+     "wrong": [
+      [
+       "पर",
+       "पर means “on” a surface, or “at” a place or time (घर पर “at home”, समय पर “on time”)."
+      ],
+      [
+       "से",
+       "से means “from, by, with, since”."
+      ]
+     ],
+     "why": "Inside a cupboard is में. Like every postposition, it follows its noun: अलमारी में."
+    },
+    {
+     "id": "pp:1",
+     "t": "mc",
+     "q": "Fill the gap: “The newspaper is on the bed.”",
+     "hi": "अख़बार पलंग ___ है ।",
+     "say": "अख़बार पलंग पर है ।",
+     "en": "The newspaper[0] is[3] on[2] the bed[1].",
+     "a": "पर",
+     "wrong": [
+      [
+       "में",
+       "में would put the newspaper inside the bed. On a surface is पर."
+      ],
+      [
+       "तक",
+       "तक means “up to, as far as, until”."
+      ]
+     ],
+     "why": "On a surface is पर, placed after the noun."
+    },
+    {
+     "id": "pp:2",
+     "t": "mc",
+     "q": "Fill the gap: “Where are you from?”",
+     "hi": "आप कहाँ ___ हैं ?",
+     "say": "आप कहाँ से हैं ?",
+     "en": "Where[1] are[3] you[0] from[2]?",
+     "a": "से",
+     "wrong": [
+      [
+       "में",
+       "कहाँ में is not said. “From where” is कहाँ से."
+      ],
+      [
+       "तक",
+       "कहाँ तक asks “how far?”, not “where from?”."
+      ]
+     ],
+     "why": "“From” is से, so आप कहाँ से हैं ? asks where someone comes from."
+    },
+    {
+     "id": "pp:3",
+     "t": "mc",
+     "q": "Fill the gap: “I am from London.”",
+     "hi": "मैं लंदन ___ हूँ ।",
+     "say": "मैं लंदन से हूँ ।",
+     "en": "I[0] am[3] from[2] London[1].",
+     "a": "से",
+     "wrong": [
+      [
+       "में",
+       "मैं लंदन में हूँ would mean “I am in London”."
+      ],
+      [
+       "पर",
+       "पर means “on” a surface, or “at” a place or time (घर पर “at home”, समय पर “on time”)."
+      ]
+     ],
+     "why": "Where someone comes from takes से."
+    },
+    {
+     "id": "pp:4",
+     "t": "mc",
+     "q": "Fill the gap: “She is in Delhi until Monday.”",
+     "hi": "वह सोमवार ___ दिल्ली में है ।",
+     "say": "वह सोमवार तक दिल्ली में है ।",
+     "en": "She[0] is[5] in[4] Delhi[3] until[2] Monday[1].",
+     "a": "तक",
+     "wrong": [
+      [
+       "से",
+       "सोमवार से would mean “since Monday”, the opposite end of the time."
+      ],
+      [
+       "को",
+       "को means “to”, and with a few time words “at” (रात को “at night”). “Until” is तक."
+      ]
+     ],
+     "why": "“Until” is तक, after the time word."
+    },
+    {
+     "id": "pp:5",
+     "t": "mc",
+     "q": "Fill the gap: “At night the garden is very beautiful.”",
+     "hi": "रात ___ बग़ीचा बहुत सुन्दर है ।",
+     "say": "रात को बग़ीचा बहुत सुन्दर है ।",
+     "en": "At[1] night[0] the garden[2] is[5] very[3] beautiful[4].",
+     "a": "को",
+     "wrong": [
+      [
+       "तक",
+       "रात तक would mean “until night”."
+      ],
+      [
+       "से",
+       "रात से would mean “since last night”."
+      ]
+     ],
+     "why": "रात को is the set phrase for “at night”."
+    },
+    {
+     "id": "pp:6",
+     "t": "mc",
+     "q": "Fill the gap: “Grandmother has been ill since the morning.”",
+     "hi": "दादी जी सुबह ___ बीमार हैं ।",
+     "say": "दादी जी सुबह से बीमार हैं ।",
+     "en": "Grandmother[0] {has been}[5] ill[4] since[3] the morning[2].",
+     "a": "से",
+     "wrong": [
+      [
+       "तक",
+       "सुबह तक would mean “until the morning”."
+      ],
+      [
+       "को",
+       "को means “to”, and with a few time words “at” (रात को “at night”). “Since” is से."
+      ]
+     ],
+     "why": "“Since” a time is से. Hindi uses the present tense for a state that has lasted since then."
+    },
+    {
+     "id": "pp:7",
+     "t": "mc",
+     "q": "Fill the gap: “The bird is on the stone.”",
+     "hi": "चिड़िया पत्थर ___ है ।",
+     "say": "चिड़िया पत्थर पर है ।",
+     "en": "The bird[0] is[3] on[2] the stone[1].",
+     "a": "पर",
+     "wrong": [
+      [
+       "में",
+       "में would put the bird inside the stone. On top of it is पर."
+      ],
+      [
+       "से",
+       "से means “from, by, with, since”."
+      ]
+     ],
+     "why": "On a surface is पर."
+    },
+    {
+     "id": "pp:8",
+     "t": "mc",
+     "q": "Fill the gap: “What is in the drawer?”",
+     "hi": "दराज़ ___ क्या है ?",
+     "say": "दराज़ में क्या है ?",
+     "en": "What[2] is[3] in[1] the drawer[0]?",
+     "a": "में",
+     "wrong": [
+      [
+       "पर",
+       "दराज़ पर would be “on the drawer”, on top of it."
+      ],
+      [
+       "को",
+       "को means “to”, and with a few time words “at” (रात को “at night”)."
+      ]
+     ],
+     "why": "Inside something is में."
+    },
+    {
+     "id": "pp:9",
+     "t": "mc",
+     "q": "Fill the gap: “Everything is clean from here to there.”",
+     "hi": "यहाँ ___ वहाँ तक सब साफ़ है ।",
+     "say": "यहाँ से वहाँ तक सब साफ़ है ।",
+     "en": "Everything[4] is[6] clean[5] from[1] here[0] to[3] there[2].",
+     "a": "से",
+     "wrong": [
+      [
+       "में",
+       "यहाँ में is not said. The starting point is यहाँ से."
+      ],
+      [
+       "को",
+       "को marks “to”, but the starting point of a stretch is से."
+      ]
+     ],
+     "why": "से … तक is “from … to, as far as”."
+    }
+   ]
+  },
+  {
+   "id": "obl",
+   "title": "Nouns before postpositions",
+   "desc": "The oblique case, singular and plural",
+   "skill": "obl",
+   "items": [
+    {
+     "id": "ob:0",
+     "t": "mc",
+     "q": "Fill the gap: “There are two beds in the room.”",
+     "hi": "___ में दो पलंग हैं ।",
+     "say": "कमरे में दो पलंग हैं ।",
+     "en": "There are[4] two[2] beds[3] in[1] the room[0].",
+     "a": "कमरे",
+     "wrong": [
+      [
+       "कमरा",
+       "कमरा is the direct form. In front of में the noun is oblique, so -ā becomes -e."
+      ],
+      [
+       "कमरों",
+       "कमरों is the oblique plural, “in the rooms”, but the sentence is about one room."
+      ]
+     ],
+     "why": "Before a postposition a noun is oblique. Masculine nouns in -ā change it to -e in the oblique singular."
+    },
+    {
+     "id": "ob:1",
+     "t": "mc",
+     "q": "Fill the gap: “The children are in the garden.”",
+     "hi": "बच्चे ___ में हैं ।",
+     "say": "बच्चे बग़ीचे में हैं ।",
+     "en": "The children[0] are[3] in[2] the garden[1].",
+     "a": "बग़ीचे",
+     "wrong": [
+      [
+       "बग़ीचा",
+       "बग़ीचा is the direct form. Before में it must be oblique: बग़ीचे."
+      ],
+      [
+       "बग़ीचों",
+       "बग़ीचों is the oblique plural, “in the gardens”."
+      ]
+     ],
+     "why": "Before a postposition a noun is oblique. Masculine nouns in -ā change it to -e in the oblique singular."
+    },
+    {
+     "id": "ob:2",
+     "t": "mc",
+     "q": "Fill the gap: “There are several children in these houses.”",
+     "hi": "इन ___ में कई बच्चे हैं ।",
+     "say": "इन घरों में कई बच्चे हैं ।",
+     "en": "There are[5] several[3] children[4] in[2] these[0] houses[1].",
+     "a": "घरों",
+     "wrong": [
+      [
+       "घर",
+       "घर is the singular (direct or oblique). इन is plural, so the noun must be the oblique plural."
+      ],
+      [
+       "घरें",
+       "-ẽ is a feminine direct plural ending. घर is masculine, and before में it needs the oblique plural -õ."
+      ]
+     ],
+     "why": "Every noun takes -õ in the oblique plural."
+    },
+    {
+     "id": "ob:3",
+     "t": "mc",
+     "q": "Fill the gap: “There are books on two tables.”",
+     "hi": "दो ___ पर किताबें हैं ।",
+     "say": "दो मेज़ों पर किताबें हैं ।",
+     "en": "There are[4] books[3] on[2] two[0] tables[1].",
+     "a": "मेज़ों",
+     "wrong": [
+      [
+       "मेज़ें",
+       "मेज़ें is the direct plural. Before पर the oblique plural -õ is needed."
+      ],
+      [
+       "मेज़",
+       "मेज़ is singular, but there are two tables."
+      ]
+     ],
+     "why": "Every noun takes -õ in the oblique plural."
+    },
+    {
+     "id": "ob:4",
+     "t": "mc",
+     "q": "Fill the gap: “There are several chairs in these rooms.”",
+     "hi": "इन ___ में कई कुरसियाँ हैं ।",
+     "say": "इन कमरों में कई कुरसियाँ हैं ।",
+     "en": "There are[5] several[3] chairs[4] in[2] these[0] rooms[1].",
+     "a": "कमरों",
+     "wrong": [
+      [
+       "कमरे",
+       "कमरे before में is the oblique singular, “in the room”. इन is plural, so the oblique plural is needed."
+      ],
+      [
+       "कमरा",
+       "कमरा is the direct singular."
+      ]
+     ],
+     "why": "Every noun takes -õ in the oblique plural."
+    },
+    {
+     "id": "ob:5",
+     "t": "mc",
+     "q": "Fill the gap: “Which of those girls is Sangeeta?”",
+     "hi": "उन ___ में संगीता कौन है ?",
+     "say": "उन लड़कियों में संगीता कौन है ?",
+     "en": "Which[4] of[2] those[0] girls[1] is[5] Sangeeta[3]?",
+     "a": "लड़कियों",
+     "wrong": [
+      [
+       "लड़कियाँ",
+       "लड़कियाँ is the direct plural. Before में the oblique plural is needed."
+      ],
+      [
+       "लड़कीयों",
+       "Before -õ, a final -ī shortens to -iy-: लड़कियों."
+      ]
+     ],
+     "why": "Feminine nouns in -ī take -iyõ in the oblique plural. में here means “among”."
+    },
+    {
+     "id": "ob:6",
+     "t": "mc",
+     "q": "Fill the gap: “There are two teachers among these men.”",
+     "hi": "इन ___ में दो अध्यापक हैं ।",
+     "say": "इन आदमियों में दो अध्यापक हैं ।",
+     "en": "There are[5] two[3] teachers[4] among[2] these[0] men[1].",
+     "a": "आदमियों",
+     "wrong": [
+      [
+       "आदमी",
+       "आदमी is the same in the direct singular and plural, but before a postposition the oblique plural is आदमियों."
+      ],
+      [
+       "आदमीयों",
+       "Before -õ, a final -ī shortens to -iy-: आदमियों."
+      ]
+     ],
+     "why": "Masculine nouns in -ī change to -iy- before the oblique plural -õ."
+    },
+    {
+     "id": "ob:7",
+     "t": "mc",
+     "q": "Fill the gap: “Father is in the kitchen.”",
+     "hi": "पिता जी ___ में हैं ।",
+     "say": "पिता जी रसोईघर में हैं ।",
+     "en": "Father[0] is[4] in[3] the kitchen[2].",
+     "a": "रसोईघर",
+     "wrong": [
+      [
+       "रसोईघरे",
+       "Only masculine nouns ending in -ā change to -e. रसोईघर does not change in the oblique singular."
+      ],
+      [
+       "रसोईघरों",
+       "रसोईघरों is the oblique plural, “in the kitchens”."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā, and all feminine nouns, look the same in the oblique singular as in the direct."
+    },
+    {
+     "id": "ob:8",
+     "t": "mc",
+     "q": "Fill the gap: “There are new curtains on the doors.”",
+     "hi": "___ पर नए पर्दे हैं ।",
+     "say": "दरवाज़ों पर नए पर्दे हैं ।",
+     "en": "There are[4] new[2] curtains[3] on[1] the doors[0].",
+     "a": "दरवाज़ों",
+     "wrong": [
+      [
+       "दरवाज़े",
+       "दरवाज़े before पर is the oblique singular, “on the door”. The English says doors."
+      ],
+      [
+       "दरवाज़ा",
+       "दरवाज़ा is the direct singular."
+      ]
+     ],
+     "why": "Every noun takes -õ in the oblique plural."
+    },
+    {
+     "id": "ob:9",
+     "t": "mc",
+     "q": "Fill the gap: “My wife is from this town.”",
+     "hi": "मेरी पत्नी इस ___ से है ।",
+     "say": "मेरी पत्नी इस शहर से है ।",
+     "en": "My[0] wife[1] is[5] from[4] this[2] town[3].",
+     "a": "शहर",
+     "wrong": [
+      [
+       "शहरों",
+       "शहरों is the oblique plural, but इस is singular."
+      ],
+      [
+       "शहरे",
+       "Only masculine nouns ending in -ā change to -e."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā, and all feminine nouns, look the same in the oblique singular as in the direct."
+    },
+    {
+     "id": "ob:10",
+     "t": "mc",
+     "q": "Fill the gap: “The book is in the drawer.”",
+     "hi": "किताब ___ में है ।",
+     "say": "किताब दराज़ में है ।",
+     "en": "The book[0] is[3] in[2] the drawer[1].",
+     "a": "दराज़",
+     "wrong": [
+      [
+       "दराज़ों",
+       "दराज़ों is the oblique plural, “in the drawers”."
+      ],
+      [
+       "दराज़ें",
+       "दराज़ें is the direct plural. Feminine nouns do not change in the oblique singular."
+      ]
+     ],
+     "why": "Masculine nouns that do not end in -ā, and all feminine nouns, look the same in the oblique singular as in the direct."
+    }
+   ]
+  },
+  {
+   "id": "oforms",
+   "title": "Oblique forms",
+   "desc": "Pick the oblique singular or plural of a noun",
+   "skill": "obl",
+   "items": [
+    {
+     "id": "of:0",
+     "t": "mc",
+     "q": "Pick the oblique plural of “room” (masculine)",
+     "a": "कमरों",
+     "wrong": [
+      [
+       "कमरे",
+       "कमरे is the direct plural and the oblique singular, not the oblique plural."
+      ],
+      [
+       "कमराओं",
+       "The final -ā of a masculine noun drops before -õ."
+      ]
+     ],
+     "why": "Masculine nouns in -ā replace it with -õ.",
+     "hi": "कमरा",
+     "audio": true
+    },
+    {
+     "id": "of:1",
+     "t": "mc",
+     "q": "Pick the oblique plural of “girl” (feminine)",
+     "a": "लड़कियों",
+     "wrong": [
+      [
+       "लड़कियाँ",
+       "लड़कियाँ is the direct plural."
+      ],
+      [
+       "लड़कीयों",
+       "Before -õ, a final -ī shortens to -iy-."
+      ]
+     ],
+     "why": "Nouns in -ī take -iyõ.",
+     "hi": "लड़की",
+     "audio": true
+    },
+    {
+     "id": "of:2",
+     "t": "mc",
+     "q": "Pick the oblique plural of “man” (masculine)",
+     "a": "आदमियों",
+     "wrong": [
+      [
+       "आदमी",
+       "आदमी is unchanged in the direct plural, but every noun changes in the oblique plural."
+      ],
+      [
+       "आदमीओं",
+       "A final -ī becomes -iy- before -õ."
+      ]
+     ],
+     "why": "Nouns in -ī take -iyõ, masculine or feminine.",
+     "hi": "आदमी",
+     "audio": true
+    },
+    {
+     "id": "of:3",
+     "t": "mc",
+     "q": "Pick the oblique plural of “Hindu” (masculine)",
+     "a": "हिन्दुओं",
+     "wrong": [
+      [
+       "हिन्दूओं",
+       "A final -ū shortens to -u- before -õ."
+      ],
+      [
+       "हिन्दुयों",
+       "-iy- is for nouns in -ī. Nouns in -ū just shorten the vowel."
+      ]
+     ],
+     "why": "A final -ū shortens to -u- before the -õ ending.",
+     "hi": "हिन्दू",
+     "audio": true
+    },
+    {
+     "id": "of:5",
+     "t": "mc",
+     "q": "Pick the oblique plural of “mother” (feminine)",
+     "a": "माताओं",
+     "wrong": [
+      [
+       "माताएँ",
+       "माताएँ is the direct plural."
+      ],
+      [
+       "मातों",
+       "Only masculine nouns lose their -ā. Feminine माता keeps it and adds -õ."
+      ]
+     ],
+     "why": "Feminine nouns in -ā keep the -ā and add -õ.",
+     "hi": "माता",
+     "audio": true
+    },
+    {
+     "id": "of:7",
+     "t": "mc",
+     "q": "Pick the oblique plural of “bird” (feminine)",
+     "a": "चिड़ियों",
+     "wrong": [
+      [
+       "चिड़ियाँ",
+       "चिड़ियाँ is the direct plural."
+      ],
+      [
+       "चिड़ियाओं",
+       "Nouns in -iyā behave like nouns in -ī and take -iyõ."
+      ]
+     ],
+     "why": "Feminine nouns in -iyā take -iyõ.",
+     "hi": "चिड़िया",
+     "audio": true
+    },
+    {
+     "id": "of:8",
+     "t": "mc",
+     "q": "Pick the oblique singular of “garment” (masculine)",
+     "a": "कपड़े",
+     "wrong": [
+      [
+       "कपड़ा",
+       "कपड़ा is the direct form. A masculine noun in -ā does not keep it before a postposition."
+      ],
+      [
+       "कपड़ों",
+       "कपड़ों is the oblique plural."
+      ]
+     ],
+     "why": "Masculine nouns in -ā change it to -e in the oblique singular.",
+     "hi": "कपड़ा",
+     "audio": true
+    },
+    {
+     "id": "of:9",
+     "t": "mc",
+     "q": "Pick the oblique singular of “wall” (feminine)",
+     "a": "दीवार",
+     "wrong": [
+      [
+       "दीवारें",
+       "दीवारें is the direct plural. Feminine nouns do not change in the oblique singular."
+      ],
+      [
+       "दीवारे",
+       "-e belongs to masculine nouns in -ā."
+      ]
+     ],
+     "why": "Feminine nouns look the same in the oblique singular as in the direct.",
+     "hi": "दीवार",
+     "audio": true
+    },
+    {
+     "id": "of:10",
+     "t": "mc",
+     "q": "Pick the oblique singular of “curtain” (masculine)",
+     "a": "पर्दे",
+     "wrong": [
+      [
+       "पर्दों",
+       "पर्दों is the oblique plural."
+      ],
+      [
+       "पर्दा",
+       "Masculine nouns in -ā change in the oblique singular."
+      ]
+     ],
+     "why": "Masculine nouns in -ā change it to -e in the oblique singular.",
+     "hi": "पर्दा",
+     "audio": true
+    }
+   ]
+  },
+  {
+   "id": "adj",
+   "title": "Adjectives and मेरा, तुम्हारा, आपका",
+   "desc": "Adjectives and possessives in the oblique",
+   "skill": "adj",
+   "items": [
+    {
+     "id": "aj:0",
+     "t": "mc",
+     "q": "Fill the gap: “There are two windows in the big room.”",
+     "hi": "___ कमरे में दो खिड़कियाँ हैं ।",
+     "say": "बड़े कमरे में दो खिड़कियाँ हैं ।",
+     "en": "There are[5] two[3] windows[4] in[2] the big[0] room[1].",
+     "a": "बड़े",
+     "wrong": [
+      [
+       "बड़ा",
+       "बड़ा is the direct form. When its noun is oblique, an -ā adjective changes to -e."
+      ],
+      [
+       "बड़ी",
+       "बड़ी is feminine, but कमरा is masculine."
+      ]
+     ],
+     "why": "कमरे is oblique before में, so the adjective is oblique too: बड़े."
+    },
+    {
+     "id": "aj:1",
+     "t": "mc",
+     "q": "Fill the gap: “Who is on the black chair?”",
+     "hi": "___ कुरसी पर कौन है ?",
+     "say": "काली कुरसी पर कौन है ?",
+     "en": "Who[3] is[4] on[2] the black[0] chair[1]?",
+     "a": "काली",
+     "wrong": [
+      [
+       "काले",
+       "-e is the oblique of masculine -ā adjectives. कुरसी is feminine, and -ī never changes."
+      ],
+      [
+       "काला",
+       "काला is masculine, but कुरसी is feminine."
+      ]
+     ],
+     "why": "Feminine -ī adjectives stay -ī in the oblique."
+    },
+    {
+     "id": "aj:2",
+     "t": "mc",
+     "q": "Fill the gap: “There are several clothes in my cupboard.”",
+     "hi": "___ अलमारी में कई कपड़े हैं ।",
+     "say": "मेरी अलमारी में कई कपड़े हैं ।",
+     "en": "There are[5] several[3] clothes[4] in[2] my[0] cupboard[1].",
+     "a": "मेरी",
+     "wrong": [
+      [
+       "मेरे",
+       "मेरा agrees with the thing possessed, अलमारी, which is feminine. The -e form is for masculine nouns."
+      ],
+      [
+       "मेरा",
+       "मेरा is masculine, but अलमारी is feminine."
+      ]
+     ],
+     "why": "मेरा agrees like an adjective with the thing possessed."
+    },
+    {
+     "id": "aj:3",
+     "t": "mc",
+     "q": "Fill the gap: “Is there a garden at your house?”",
+     "hi": "क्या ___ घर में बग़ीचा है ?",
+     "say": "क्या आपके घर में बग़ीचा है ?",
+     "en": "Is[5] there a garden[4] at[3] your[1] house[2]?",
+     "a": "आपके",
+     "wrong": [
+      [
+       "आपका",
+       "आपका is the direct form. घर is oblique before में, so its possessive is too: आपके."
+      ],
+      [
+       "आपकी",
+       "आपकी is feminine, but घर is masculine."
+      ]
+     ],
+     "why": "आपका works like an -ā adjective: -e before an oblique masculine noun."
+    },
+    {
+     "id": "aj:4",
+     "t": "mc",
+     "q": "Fill the gap: “Grandmother is from a small village.”",
+     "hi": "दादी जी एक ___ गाँव से हैं ।",
+     "say": "दादी जी एक छोटे गाँव से हैं ।",
+     "en": "Grandmother[0] is[6] from[5] a[2] small[3] village[4].",
+     "a": "छोटे",
+     "wrong": [
+      [
+       "छोटा",
+       "छोटा is the direct form. Before से, गाँव is oblique and so is its adjective."
+      ],
+      [
+       "छोटी",
+       "छोटी is feminine. The adjective agrees with गाँव, not with grandmother."
+      ]
+     ],
+     "why": "The adjective agrees with its own noun, गाँव, which is oblique before से."
+    },
+    {
+     "id": "aj:5",
+     "t": "mc",
+     "q": "Fill the gap: “There are new rugs in the small rooms.”",
+     "hi": "___ कमरों में नई दरियाँ हैं ।",
+     "say": "छोटे कमरों में नई दरियाँ हैं ।",
+     "en": "There are[5] new[3] rugs[4] in[2] the small[0] rooms[1].",
+     "a": "छोटे",
+     "wrong": [
+      [
+       "छोटों",
+       "Adjectives never take -õ. Their -e form serves for the oblique singular and plural."
+      ],
+      [
+       "छोटा",
+       "छोटा is the direct singular."
+      ]
+     ],
+     "why": "In the oblique plural, the noun takes -õ but the adjective only -e."
+    },
+    {
+     "id": "aj:6",
+     "t": "mc",
+     "q": "Fill the gap: “Who is in your room? (to तुम)”",
+     "hi": "___ कमरे में कौन है ?",
+     "say": "तुम्हारे कमरे में कौन है ?",
+     "en": "Who[3] is[4] in[2] your[0] room[1]? (to तुम)",
+     "a": "तुम्हारे",
+     "wrong": [
+      [
+       "तुम्हारा",
+       "तुम्हारा is the direct form. कमरे is oblique, so the possessive takes -e."
+      ],
+      [
+       "तुम्हारी",
+       "तुम्हारी is feminine, but कमरा is masculine."
+      ]
+     ],
+     "why": "तुम्हारा works like an -ā adjective."
+    },
+    {
+     "id": "aj:7",
+     "t": "mc",
+     "q": "Fill the gap: “There are four daughters in my family.”",
+     "hi": "___ परिवार में चार बेटियाँ हैं ।",
+     "say": "मेरे परिवार में चार बेटियाँ हैं ।",
+     "en": "There are[5] four[3] daughters[4] in[2] my[0] family[1].",
+     "a": "मेरे",
+     "wrong": [
+      [
+       "मेरी",
+       "मेरी would agree with बेटियाँ, but the possessive goes with परिवार."
+      ],
+      [
+       "मेरा",
+       "मेरा is the direct form. परिवार is oblique before में."
+      ]
+     ],
+     "why": "मेरा agrees with परिवार, masculine and oblique here."
+    },
+    {
+     "id": "aj:8",
+     "t": "mc",
+     "q": "Fill the gap: “There is a picture on that white wall.”",
+     "hi": "उस ___ दीवार पर एक तस्वीर है ।",
+     "say": "उस सफ़ेद दीवार पर एक तस्वीर है ।",
+     "en": "There is[6] a[4] picture[5] on[3] that[0] white[1] wall[2].",
+     "a": "सफ़ेद",
+     "wrong": [
+      [
+       "सफ़ेदे",
+       "सफ़ेद does not end in -ā, so it never changes."
+      ],
+      [
+       "सफ़ेदा",
+       "सफ़ेद never changes, so this is not a real form."
+      ]
+     ],
+     "why": "Adjectives that do not end in -ā never change, in the oblique too."
+    },
+    {
+     "id": "aj:10",
+     "t": "mc",
+     "q": "Fill the gap: “Where is your bicycle? (to तुम)”",
+     "hi": "___ साइकिल कहाँ है ?",
+     "say": "तुम्हारी साइकिल कहाँ है ?",
+     "en": "Where[2] is[3] your[0] bicycle[1]? (to तुम)",
+     "a": "तुम्हारी",
+     "wrong": [
+      [
+       "तुम्हारा",
+       "तुम्हारा is masculine, but साइकिल is feminine."
+      ],
+      [
+       "तुम्हारे",
+       "-e is for masculine nouns, oblique or plural. साइकिल is feminine."
+      ]
+     ],
+     "why": "The possessive agrees with the thing possessed, साइकिल."
+    },
+    {
+     "id": "aj:11",
+     "t": "mc",
+     "q": "Fill the gap: “Where are my clothes?”",
+     "hi": "___ कपड़े कहाँ हैं ?",
+     "say": "मेरे कपड़े कहाँ हैं ?",
+     "en": "Where[2] are[3] my[0] clothes[1]?",
+     "a": "मेरे",
+     "wrong": [
+      [
+       "मेरा",
+       "मेरा is singular, but कपड़े is plural."
+      ],
+      [
+       "मेरी",
+       "मेरी is feminine, but कपड़े is masculine."
+      ]
+     ],
+     "why": "Here कपड़े is the subject, in the direct plural, and मेरे agrees with it."
+    }
+   ]
+  },
+  {
+   "id": "pron",
+   "title": "मुझ, इस, उस, किस…",
+   "desc": "Pronouns before postpositions",
+   "skill": "pron",
+   "items": [
+    {
+     "id": "pr:0",
+     "t": "mc",
+     "q": "Fill the gap: “Who is in this room?”",
+     "hi": "___ कमरे में कौन है ?",
+     "say": "इस कमरे में कौन है ?",
+     "en": "Who[3] is[4] in[2] this[0] room[1]?",
+     "a": "इस",
+     "wrong": [
+      [
+       "यह",
+       "यह is the direct form. Before a noun followed by a postposition it becomes इस."
+      ],
+      [
+       "इन",
+       "इन is the oblique plural, but कमरे here is one room."
+      ]
+     ],
+     "why": "यह becomes इस in the oblique singular."
+    },
+    {
+     "id": "pr:1",
+     "t": "mc",
+     "q": "Fill the gap: “How many people are in those cars?”",
+     "hi": "___ गाड़ियों में कितने लोग हैं ?",
+     "say": "उन गाड़ियों में कितने लोग हैं ?",
+     "en": "{How many}[3] people[4] are[5] in[2] those[0] cars[1]?",
+     "a": "उन",
+     "wrong": [
+      [
+       "वे",
+       "वे is the direct form. Before an oblique noun it becomes उन."
+      ],
+      [
+       "उस",
+       "उस is singular, but गाड़ियों is plural."
+      ]
+     ],
+     "why": "वे becomes उन in the oblique."
+    },
+    {
+     "id": "pr:2",
+     "t": "mc",
+     "q": "Fill the gap: “Which room is your book in?”",
+     "hi": "तुम्हारी किताब ___ कमरे में है ?",
+     "say": "तुम्हारी किताब किस कमरे में है ?",
+     "en": "Which[2] room[3] is[5] your[0] book[1] in[4]?",
+     "a": "किस",
+     "wrong": [
+      [
+       "कौन",
+       "कौन is the direct form. Before a noun and a postposition it becomes किस."
+      ],
+      [
+       "किन",
+       "किन is plural, but the question asks about one room."
+      ]
+     ],
+     "why": "कौन and क्या both become किस in the oblique singular."
+    },
+    {
+     "id": "pr:3",
+     "t": "mc",
+     "q": "Fill the gap: “from me”",
+     "hi": "___ से",
+     "say": "मुझ से",
+     "en": "from[1] me[0]",
+     "a": "मुझ",
+     "wrong": [
+      [
+       "मैं",
+       "मैं is the direct form, only for the subject. Before a postposition it becomes मुझ."
+      ],
+      [
+       "मेरा",
+       "मेरा means “my”. After a postposition you need the pronoun itself, मुझ."
+      ]
+     ],
+     "why": "मैं becomes मुझ before a postposition."
+    },
+    {
+     "id": "pr:4",
+     "t": "mc",
+     "q": "Fill the gap: “What is in that?”",
+     "hi": "___ में क्या है ?",
+     "say": "उस में क्या है ?",
+     "en": "What[2] is[3] in[1] that[0]?",
+     "a": "उस",
+     "wrong": [
+      [
+       "वह",
+       "वह is the direct form. Before में it becomes उस."
+      ],
+      [
+       "उन",
+       "उन is the oblique plural, “in those”."
+      ]
+     ],
+     "why": "वह becomes उस in the oblique singular."
+    },
+    {
+     "id": "pr:5",
+     "t": "mc",
+     "q": "Fill the gap: “Which rooms are there fans in?”",
+     "hi": "___ कमरों में पंखे हैं ?",
+     "say": "किन कमरों में पंखे हैं ?",
+     "en": "Which[0] rooms[1] {are there}[4] fans[3] in[2]?",
+     "a": "किन",
+     "wrong": [
+      [
+       "किस",
+       "किस is singular, but कमरों is plural."
+      ],
+      [
+       "कौन",
+       "कौन is the direct form."
+      ]
+     ],
+     "why": "कौन and क्या become किन in the oblique plural."
+    },
+    {
+     "id": "pr:6",
+     "t": "mc",
+     "q": "Fill the gap: “There are books in these cupboards.”",
+     "hi": "___ अलमारियों में किताबें हैं ।",
+     "say": "इन अलमारियों में किताबें हैं ।",
+     "en": "There are[4] books[3] in[2] these[0] cupboards[1].",
+     "a": "इन",
+     "wrong": [
+      [
+       "ये",
+       "ये is the direct form. Before an oblique noun it becomes इन."
+      ],
+      [
+       "इस",
+       "इस is singular, but अलमारियों is plural."
+      ]
+     ],
+     "why": "ये becomes इन in the oblique."
+    },
+    {
+     "id": "pr:8",
+     "t": "mc",
+     "q": "Fill the gap: “Who are you angry with?”",
+     "hi": "तुम ___ से नाराज़ हो ?",
+     "say": "तुम किस से नाराज़ हो ?",
+     "en": "Who[1] are[4] you[0] angry[3] with[2]?",
+     "a": "किस",
+     "wrong": [
+      [
+       "कौन",
+       "कौन is the direct form. Before से it becomes किस."
+      ],
+      [
+       "क्या",
+       "क्या is a direct form, and it asks about things, not people."
+      ]
+     ],
+     "why": "कौन becomes किस before a postposition."
+    },
+    {
+     "id": "pr:9",
+     "t": "mc",
+     "q": "Fill the gap: “Are you angry with me?”",
+     "hi": "क्या आप ___ से नाराज़ हैं ?",
+     "say": "क्या आप मुझ से नाराज़ हैं ?",
+     "en": "Are[5] you[1] angry[4] with[3] me[2]?",
+     "a": "मुझ",
+     "wrong": [
+      [
+       "मैं",
+       "मैं is only for the subject. Before से it becomes मुझ."
+      ],
+      [
+       "मेरे",
+       "मेरे means “my”. After से you need the pronoun itself, मुझ."
+      ]
+     ],
+     "why": "मैं becomes मुझ before a postposition."
+    },
+    {
+     "id": "pr:10",
+     "t": "mc",
+     "q": "Fill the gap: “Sangeeta is angry with them.”",
+     "hi": "संगीता ___ से नाराज़ है ।",
+     "say": "संगीता उन से नाराज़ है ।",
+     "en": "Sangeeta[0] is[4] angry[3] with[2] them[1].",
+     "a": "उन",
+     "wrong": [
+      [
+       "वे",
+       "वे is the direct form, only for the subject. Before से it becomes उन."
+      ],
+      [
+       "उस",
+       "उस is singular, “him” or “her”."
+      ]
+     ],
+     "why": "वे becomes उन before a postposition."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "There are[3] clothes[2] in[1] the cupboard[0].",
+     "ans": [
+      "अलमारी",
+      "में",
+      "कपड़े",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "पर",
+       "पर means “on”. Inside a cupboard is में."
+      ],
+      [
+       "है",
+       "है is singular, but कपड़े is plural."
+      ]
+     ],
+     "order": "For “there is/are …”, the place comes first and the thing after it: अलमारी में कपड़े हैं."
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "The clothes[0] are[3] in[2] the cupboard[1].",
+     "ans": [
+      "कपड़े",
+      "अलमारी",
+      "में",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "अलमारियों",
+       "अलमारियों is the oblique plural, “cupboards”. There is one cupboard."
+      ],
+      [
+       "कपड़ा",
+       "कपड़ा is singular, but the English says clothes."
+      ]
+     ],
+     "order": "To say where known things are (“the clothes”), they come first and the place follows. Place-first would mean “there are clothes…”."
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Where[2] is[3] your[0] room[1]?",
+     "ans": [
+      "तुम्हारा",
+      "कमरा",
+      "कहाँ",
+      "है"
+     ],
+     "wrong": [
+      [
+       "तुम्हारे",
+       "Here कमरा is the subject, so it is direct singular and so is its possessive: तुम्हारा."
+      ],
+      [
+       "हो",
+       "हो goes with the subject तुम. The subject here is कमरा."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "There are[5] four[3] chairs[4] in[2] this[0] room[1].",
+     "ans": [
+      "इस",
+      "कमरे",
+      "में",
+      "चार",
+      "कुरसियाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "यह",
+       "यह is the direct form. Before a noun with a postposition it becomes इस."
+      ],
+      [
+       "कमरा",
+       "कमरा is direct. Before में it is oblique: कमरे."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Kamala[0] is[4] in[3] the small[1] kitchen[2].",
+     "ans": [
+      "कमला",
+      "छोटे",
+      "रसोईघर",
+      "में",
+      "है"
+     ],
+     "wrong": [
+      [
+       "छोटा",
+       "An -ā adjective before an oblique noun takes -e."
+      ],
+      [
+       "हैं",
+       "हैं is plural or honorific. Kamala spoken of plainly takes है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "My[0] wife[1] is[4] from[3] London[2].",
+     "ans": [
+      "मेरी",
+      "पत्नी",
+      "लंदन",
+      "से",
+      "है"
+     ],
+     "wrong": [
+      [
+       "मेरा",
+       "मेरा is masculine, but पत्नी is feminine."
+      ],
+      [
+       "में",
+       "में means “in”. “From” is से."
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "What[3] is[4] in[2] those[0] drawers[1]?",
+     "ans": [
+      "उन",
+      "दराज़ों",
+      "में",
+      "क्या",
+      "है"
+     ],
+     "wrong": [
+      [
+       "वे",
+       "वे is the direct form. Before an oblique noun it becomes उन."
+      ],
+      [
+       "दराज़ें",
+       "दराज़ें is the direct plural. Before में the oblique plural is needed."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Grandmother[0] is[4] at[3] home[2].",
+     "ans": [
+      "दादी",
+      "जी",
+      "घर",
+      "पर",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "है",
+       "A respected grandmother (दादी जी) takes the honorific plural हैं."
+      ],
+      [
+       "से",
+       "से means “from”. “At home” is घर पर."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "There are[5] {lots of}[3] books[4] on[2] the black[0] tables[1].",
+     "ans": [
+      "काली",
+      "मेज़ों",
+      "पर",
+      "बहुत-सारी",
+      "किताबें",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "मेज़ें",
+       "मेज़ें is the direct plural. Before पर the oblique plural is needed."
+      ],
+      [
+       "बहुत-सारे",
+       "बहुत-सारा agrees with किताबें, which is feminine."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Is[6] there a bus[5] from[2] here[1] to[4] Delhi[3]?",
+     "ans": [
+      "क्या",
+      "यहाँ",
+      "से",
+      "दिल्ली",
+      "तक",
+      "बस",
+      "है"
+     ],
+     "wrong": [
+      [
+       "में",
+       "में means “in”. “From” is से."
+      ],
+      [
+       "पर",
+       "पर means “on” a surface, or “at” a place or time (घर पर “at home”, समय पर “on time”). “As far as” is तक."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Who[3] is[4] in[2] that[0] car[1]?",
+     "ans": [
+      "उस",
+      "गाड़ी",
+      "में",
+      "कौन",
+      "है"
+     ],
+     "wrong": [
+      [
+       "वह",
+       "वह is the direct form. Before a noun with a postposition it becomes उस."
+      ],
+      [
+       "गाड़ियों",
+       "गाड़ियों is the oblique plural, “cars”."
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Perhaps[0] Father[1] is[5] in[4] the garden[3].",
+     "ans": [
+      "शायद",
+      "पिता",
+      "जी",
+      "बग़ीचे",
+      "में",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बग़ीचा",
+       "बग़ीचा is direct. Before में it is oblique: बग़ीचे."
+      ],
+      [
+       "है",
+       "A respected father (पिता जी) takes the honorific plural हैं."
+      ]
+     ],
+     "alt": [
+      [
+       "पिता",
+       "जी",
+       "शायद",
+       "बग़ीचे",
+       "में",
+       "हैं"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "खिड़की पर एक चिड़िया है ।",
+     "audio": true,
+     "a": "There is a bird at the window.",
+     "wrong": [
+      [
+       "The bird is at the window.",
+       "That would be चिड़िया खिड़की पर है. With the place first, the sense is “there is …”."
+      ],
+      [
+       "There are two birds at the window.",
+       "एक means “one”. Two would be दो चिड़ियाँ."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "चिड़िया खिड़की पर है ।",
+     "audio": true,
+     "a": "The bird is at the window.",
+     "wrong": [
+      [
+       "There is a bird at the window.",
+       "That would put the place first: खिड़की पर चिड़िया है."
+      ],
+      [
+       "Where is the bird?",
+       "There is no कहाँ and no question mark. This is the answer to that question."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वे लोग सुबह से यहाँ हैं ।",
+     "audio": true,
+     "a": "Those people have been here since the morning.",
+     "wrong": [
+      [
+       "Those people are here until the morning.",
+       "“Until” is तक. से with a time means “since”."
+      ],
+      [
+       "Those people are from here.",
+       "That would be वे लोग यहाँ से हैं. Here से follows सुबह, “since the morning”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरा भाई लंदन में है और मेरी बहिन भारत में ।",
+     "audio": true,
+     "a": "My brother is in London and my sister is in India.",
+     "wrong": [
+      [
+       "My brother is from London and my sister is from India.",
+       "“From” would be से. में means “in”."
+      ],
+      [
+       "My sister is in London and my brother is in India.",
+       "भाई (brother) goes with लंदन, बहिन (sister) with भारत."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उस घर में सारा सामान पुराना है ।",
+     "audio": true,
+     "a": "All the furniture in that house is old.",
+     "wrong": [
+      [
+       "All the furniture in those houses is old.",
+       "उस is singular. “Those houses” would be उन घरों में."
+      ],
+      [
+       "All the furniture in this house is new.",
+       "उस means “that”, and पुराना means “old”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आप किस शहर से हैं ?",
+     "audio": true,
+     "a": "Which city are you from?",
+     "wrong": [
+      [
+       "Which city are you in?",
+       "“In” would be में. से means “from”."
+      ],
+      [
+       "Who are you angry with?",
+       "There is no नाराज़ here. किस शहर means “which city”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "रात को यह गाँव बहुत सुन्दर है ।",
+     "audio": true,
+     "a": "This village is very beautiful at night.",
+     "wrong": [
+      [
+       "This village is very beautiful until night.",
+       "“Until” would be तक. रात को means “at night”."
+      ],
+      [
+       "This village is very beautiful in the morning.",
+       "“Morning” is सुबह. रात means “night”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "ख़ैर, शायद वह आज बीमार है ।",
+     "audio": true,
+     "a": "Well, perhaps he is ill today.",
+     "wrong": [
+      [
+       "Well, he is certainly ill today.",
+       "शायद means “perhaps”. “Certainly” is ज़रूर."
+      ],
+      [
+       "Well, perhaps he is happy today.",
+       "बीमार means “ill”. “Happy” is ख़ुश."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and word order",
+   "desc": "The oblique case and “there is …”",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Which sentence means “There is a newspaper on the chair”?",
+     "a": "कुरसी पर अख़बार है ।",
+     "wrong": [
+      [
+       "अख़बार कुरसी पर है ।",
+       "This puts the newspaper first: “The newspaper is on the chair”, the answer to “where is the newspaper?”."
+      ],
+      [
+       "कुरसी अख़बार पर है ।",
+       "This says the chair is on the newspaper. पर follows the word it relates to."
+      ]
+     ],
+     "why": "For “there is …”, the place phrase comes first and the thing after it."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which question does this sentence answer?",
+     "a": "अख़बार कहाँ है ?",
+     "wrong": [
+      [
+       "कुरसी पर क्या है ?",
+       "That is answered with the place first: कुरसी पर अख़बार है."
+      ],
+      [
+       "अख़बार कैसा है ?",
+       "कैसा asks what something is like. The answer would describe the paper."
+      ]
+     ],
+     "why": "In an answer, the answer words take the place of the question word: कुरसी पर replaces कहाँ.",
+     "hi": "अख़बार कुरसी पर है ।",
+     "audio": true
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "When must a noun be in the oblique case?",
+     "a": "When a postposition follows it",
+     "wrong": [
+      [
+       "When it is the subject of the verb",
+       "A verb subject is always in the direct case."
+      ],
+      [
+       "Whenever it is plural",
+       "Plural subjects are direct too. Only a following postposition makes a noun oblique."
+      ]
+     ],
+     "why": "Any noun, pronoun or adjective before a postposition is oblique, even when its form does not change."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Which pronouns keep the same form before a postposition?",
+     "a": "हम, तुम, आप",
+     "wrong": [
+      [
+       "मैं, तू, यह",
+       "These change: मुझ, तुझ, इस."
+      ],
+      [
+       "वह, वे, कौन",
+       "These change: उस, उन, and किस or किन."
+      ]
+     ],
+     "why": "हम, तुम and आप are the same in the direct and oblique cases."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "किस is the oblique singular of…",
+     "a": "both कौन and क्या",
+     "wrong": [
+      [
+       "only कौन",
+       "क्या also becomes किस before a postposition."
+      ],
+      [
+       "only यह",
+       "यह becomes इस."
+      ]
+     ],
+     "why": "किस (singular) and किन (plural) are the oblique forms of both कौन and क्या."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Another correct way to write मुझ से is…",
+     "a": "मुझसे",
+     "wrong": [
+      [
+       "मैं से",
+       "मैं is the direct form, only for the subject."
+      ],
+      [
+       "मेरा से",
+       "मेरा means “my”. After a postposition you need the pronoun itself."
+      ]
+     ],
+     "why": "A postposition after a pronoun may be written separately or joined to it as one word."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "In मेज़ पर, which case is मेज़ in?",
+     "a": "Oblique, because a postposition follows it",
+     "wrong": [
+      [
+       "Direct, because its form has not changed",
+       "Feminine nouns look the same in the oblique singular, but a following postposition always makes a noun oblique."
+      ],
+      [
+       "Oblique plural",
+       "The oblique plural would be मेज़ों."
+      ]
+     ],
+     "why": "A noun before a postposition is oblique even when it looks like the direct form."
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "Which phrase means “on the white walls”?",
+     "a": "सफ़ेद दीवारों पर",
+     "wrong": [
+      [
+       "सफ़ेद दीवारें पर",
+       "दीवारें is the direct plural. Before पर the noun takes -õ."
+      ],
+      [
+       "सफ़ेदे दीवारों पर",
+       "सफ़ेद does not end in -ā, so it never changes."
+      ]
+     ],
+     "why": "The noun takes the oblique plural -õ; an adjective not ending in -ā stays the same."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "post": 3,
+  "obl": 3,
+  "oforms": 2,
+  "adj": 3,
+  "pron": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "घरें": "gharẽ",
+  "लड़कीयों": "laṛkīyõ",
+  "आदमीयों": "ādmīyõ",
+  "रसोईघरे": "rasoīghare",
+  "शहरे": "śahare",
+  "कमराओं": "kamrāõ",
+  "आदमीओं": "ādmīõ",
+  "हिन्दूओं": "hindūõ",
+  "हिन्दुयों": "hinduyõ",
+  "मातों": "mātõ",
+  "चिड़ियाओं": "ciṛiyāõ",
+  "दीवारे": "dīvāre",
+  "छोटों": "choṭõ",
+  "सफ़ेदे": "safede",
+  "सफ़ेदा": "safedā"
+ }
+}

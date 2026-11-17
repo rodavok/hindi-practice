@@ -1,0 +1,5 @@
+*.pdf
+pages/
+dist/
+node_modules/
+.env

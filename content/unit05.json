@@ -1,0 +1,2143 @@
+{
+ "id": "unit5",
+ "n": 5,
+ "title": "Please sit here",
+ "titleHi": "यहाँ बैठिए",
+ "scope": "The infinitive and stem; commands for तू, तुम, आप (-ie, -iegā, irregular कीजिए, लीजिए, दीजिए, पीजिए, लो, दो) and the infinitive as a command; न and मत; से with कहना and पूछना; possession with का; को with indirect and specific direct objects; मुझे, उसे, उन्हें …",
+ "pages": "book 50–62",
+ "skills": {
+  "verb": "Infinitive and stem",
+  "cmd": "Commands",
+  "neg": "Negatives, से and को",
+  "ka": "Possession with का",
+  "ko": "को with objects",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "आना",
+   "en": "to come",
+   "c": "v"
+  },
+  {
+   "hi": "इधर",
+   "en": "here, over here",
+   "c": "x"
+  },
+  {
+   "hi": "उधर",
+   "en": "there, over there",
+   "c": "x"
+  },
+  {
+   "hi": "कंबल",
+   "en": "blanket",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "करना",
+   "en": "to do",
+   "c": "v"
+  },
+  {
+   "hi": "कहना",
+   "en": "to say (to)",
+   "c": "v"
+  },
+  {
+   "hi": "का",
+   "en": "'s, of (possession)",
+   "c": "x"
+  },
+  {
+   "hi": "कॉफ़ी",
+   "en": "coffee",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कुत्ता",
+   "en": "dog",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कुरता",
+   "en": "kurta, Indian shirt",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कौनसा",
+   "en": "which?",
+   "c": "a"
+  },
+  {
+   "hi": "ख़त",
+   "en": "letter",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ख़याल",
+   "en": "opinion",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "खान मार्केट",
+   "en": "Khan Market (in Delhi)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "खाना",
+   "en": "to eat",
+   "c": "v"
+  },
+  {
+   "hi": "खिलाना",
+   "en": "to serve, give to eat",
+   "c": "v"
+  },
+  {
+   "hi": "खिलौना",
+   "en": "toy",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "घोड़ा",
+   "en": "horse",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चलना",
+   "en": "to move",
+   "c": "v"
+  },
+  {
+   "hi": "चाबी",
+   "en": "key",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "छूना",
+   "en": "to touch",
+   "c": "v"
+  },
+  {
+   "hi": "जगाना",
+   "en": "to wake (someone) up",
+   "c": "v"
+  },
+  {
+   "hi": "ज़रा",
+   "en": "just, a little",
+   "c": "x"
+  },
+  {
+   "hi": "जल्दी",
+   "en": "quickly, soon, early",
+   "c": "x"
+  },
+  {
+   "hi": "जाना",
+   "en": "to go",
+   "c": "v"
+  },
+  {
+   "hi": "झगड़ा",
+   "en": "quarrel, row",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "झगड़ा करना",
+   "en": "to quarrel",
+   "c": "v"
+  },
+  {
+   "hi": "ठहरना",
+   "en": "to stop, wait",
+   "c": "v"
+  },
+  {
+   "hi": "ढूँढ़ना",
+   "en": "to look for, find",
+   "c": "v"
+  },
+  {
+   "hi": "तैयार",
+   "en": "ready",
+   "c": "a"
+  },
+  {
+   "hi": "थैला",
+   "en": "bag, cloth bag",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दूध",
+   "en": "milk",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "देखना",
+   "en": "to see, look",
+   "c": "v"
+  },
+  {
+   "hi": "देना",
+   "en": "to give",
+   "c": "v"
+  },
+  {
+   "hi": "देवर",
+   "en": "husband's younger brother",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "धोना",
+   "en": "to wash",
+   "c": "v"
+  },
+  {
+   "hi": "धोबी",
+   "en": "dhobi, washerman",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ध्यान",
+   "en": "attention",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ध्यान से",
+   "en": "attentively",
+   "c": "x"
+  },
+  {
+   "hi": "न",
+   "en": "don't (milder, in commands)",
+   "c": "x"
+  },
+  {
+   "hi": "नारा",
+   "en": "slogan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नौकर",
+   "en": "servant",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पड़ा",
+   "en": "lying",
+   "c": "a"
+  },
+  {
+   "hi": "पढ़ना",
+   "en": "to read, study",
+   "c": "v"
+  },
+  {
+   "hi": "पान",
+   "en": "paan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पानी",
+   "en": "water",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पापा",
+   "en": "Papa, Father",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पीना",
+   "en": "to drink; to smoke",
+   "c": "v"
+  },
+  {
+   "hi": "पूछना",
+   "en": "to ask",
+   "c": "v"
+  },
+  {
+   "hi": "पेड़",
+   "en": "tree",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पैसा",
+   "en": "money; paisa",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फल",
+   "en": "fruit",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बंद करना",
+   "en": "to close, shut",
+   "c": "v"
+  },
+  {
+   "hi": "बताना",
+   "en": "to tell",
+   "c": "v"
+  },
+  {
+   "hi": "बुलाना",
+   "en": "to call, invite",
+   "c": "v"
+  },
+  {
+   "hi": "बैठना",
+   "en": "to sit",
+   "c": "v"
+  },
+  {
+   "hi": "बोलना",
+   "en": "to speak",
+   "c": "v"
+  },
+  {
+   "hi": "भैया",
+   "en": "brother",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मत",
+   "en": "don't (more forceful)",
+   "c": "x"
+  },
+  {
+   "hi": "मारना",
+   "en": "to beat, hit",
+   "c": "v"
+  },
+  {
+   "hi": "रखना",
+   "en": "to put, keep",
+   "c": "v"
+  },
+  {
+   "hi": "लाना",
+   "en": "to bring",
+   "c": "v"
+  },
+  {
+   "hi": "लिखना",
+   "en": "to write",
+   "c": "v"
+  },
+  {
+   "hi": "लेना",
+   "en": "to take, receive",
+   "c": "v"
+  },
+  {
+   "hi": "शैतान",
+   "en": "devil",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सचमुच",
+   "en": "really",
+   "c": "x"
+  },
+  {
+   "hi": "सरल",
+   "en": "simple",
+   "c": "a"
+  },
+  {
+   "hi": "साफ़ करना",
+   "en": "to clean",
+   "c": "v"
+  },
+  {
+   "hi": "सिग्रेट",
+   "en": "cigarette",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सुनना",
+   "en": "to listen, hear",
+   "c": "v"
+  },
+  {
+   "hi": "होना",
+   "en": "to be, become",
+   "c": "v"
+  },
+  {
+   "hi": "ऋषि",
+   "en": "sage, seer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अंकल",
+   "en": "uncle",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अम्माँ",
+   "en": "Mum",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "नाम",
+   "en": "name",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पत्र",
+   "en": "letter (formal word)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सुनिए",
+   "en": "excuse me (please listen)",
+   "c": "x"
+  },
+  {
+   "hi": "उसका",
+   "en": "his, her, its",
+   "c": "p"
+  },
+  {
+   "hi": "उनका",
+   "en": "their",
+   "c": "p"
+  },
+  {
+   "hi": "किसका",
+   "en": "whose?",
+   "c": "p"
+  },
+  {
+   "hi": "मुझे",
+   "en": "to me (= मुझ को)",
+   "c": "p"
+  },
+  {
+   "hi": "तुझे",
+   "en": "to you (= तुझ को)",
+   "c": "p"
+  },
+  {
+   "hi": "इसे",
+   "en": "to this one (= इस को)",
+   "c": "p"
+  },
+  {
+   "hi": "उसे",
+   "en": "to him, to her (= उस को)",
+   "c": "p"
+  },
+  {
+   "hi": "हमें",
+   "en": "to us (= हम को)",
+   "c": "p"
+  },
+  {
+   "hi": "तुम्हें",
+   "en": "to you (= तुम को)",
+   "c": "p"
+  },
+  {
+   "hi": "इन्हें",
+   "en": "to these (= इन को)",
+   "c": "p"
+  },
+  {
+   "hi": "उन्हें",
+   "en": "to them (= उन को)",
+   "c": "p"
+  },
+  {
+   "hi": "किसे",
+   "en": "to whom? (= किस को)",
+   "c": "p"
+  },
+  {
+   "hi": "किन्हें",
+   "en": "to whom? (plural, = किन को)",
+   "c": "p"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "verb",
+   "title": "बोलना, बोल",
+   "desc": "The infinitive and the stem",
+   "skill": "verb",
+   "items": [
+    {
+     "id": "inf:0",
+     "t": "mc",
+     "q": "What is the stem of लिखना ?",
+     "a": "लिख",
+     "wrong": [
+      [
+       "लिखना",
+       "लिखना is the infinitive itself. The stem is what is left when the ending -nā is removed."
+      ],
+      [
+       "लिखो",
+       "लिखो is the तुम command, stem + -o."
+      ]
+     ],
+     "why": "The infinitive is the stem plus -nā: likh + nā."
+    },
+    {
+     "id": "inf:1",
+     "t": "mc",
+     "q": "What is the stem of सुनना ?",
+     "a": "सुन",
+     "wrong": [
+      [
+       "सु",
+       "Only the ending -nā comes off. The stem keeps its own न, so it is सुन."
+      ],
+      [
+       "सुनो",
+       "सुनो is the तुम command, stem + -o."
+      ]
+     ],
+     "why": "Remove -nā from सुनना and सुन is left."
+    },
+    {
+     "id": "inf:2",
+     "t": "mc",
+     "q": "Which infinitive does बैठिए come from?",
+     "a": "बैठना",
+     "wrong": [
+      [
+       "बैठिना",
+       "Not a word. Take -ie off बैठिए to get the stem बैठ, then add -nā."
+      ],
+      [
+       "बैठ",
+       "बैठ is the stem (and the तू command), not the infinitive."
+      ]
+     ],
+     "why": "Dictionaries list verbs by the infinitive, stem + -nā."
+    },
+    {
+     "id": "inf:3",
+     "t": "mc",
+     "q": "Which verb means “to bring”?",
+     "a": "लाना",
+     "wrong": [
+      [
+       "लेना",
+       "लेना means “to take, receive”."
+      ],
+      [
+       "रखना",
+       "रखना means “to put, keep”."
+      ]
+     ]
+    },
+    {
+     "id": "inf:4",
+     "t": "mc",
+     "q": "Which verb means “to call, invite”?",
+     "a": "बुलाना",
+     "wrong": [
+      [
+       "बोलना",
+       "बोलना means “to speak”."
+      ],
+      [
+       "बताना",
+       "बताना means “to tell”."
+      ]
+     ]
+    },
+    {
+     "id": "inf:5",
+     "t": "mc",
+     "q": "How is the infinitive ending -nā written?",
+     "a": "Always as a full letter, never as a conjunct",
+     "wrong": [
+      [
+       "As a conjunct when the stem ends in a consonant",
+       "The book stresses that -nā is always written with a full न, as in सुनना."
+      ],
+      [
+       "As -ne in the dictionary form",
+       "Dictionaries list verbs in the -nā form: बोलना, पढ़ना."
+      ]
+     ],
+     "why": "The infinitive is stem + -nā, with a full न."
+    }
+   ]
+  },
+  {
+   "id": "cmd",
+   "title": "बैठ, बैठो, बैठिए",
+   "desc": "Commands for तू, तुम and आप",
+   "skill": "cmd",
+   "items": [
+    {
+     "id": "cd:0",
+     "t": "mc",
+     "q": "Fill the gap: “You read this letter. (to तुम)”",
+     "hi": "तुम यह ख़त ___ ।",
+     "say": "तुम यह ख़त पढ़ो ।",
+     "en": "You[0] read[3] this[1] letter[2]. (to तुम)",
+     "a": "पढ़ो",
+     "wrong": [
+      [
+       "पढ़िए",
+       "पढ़िए is the आप command. With तुम the command is stem + -o."
+      ],
+      [
+       "पढ़",
+       "पढ़ alone is the तू command. With तुम the command is stem + -o."
+      ]
+     ],
+     "why": "Each pronoun has its own command: तू पढ़, तुम पढ़ो, आप पढ़िए."
+    },
+    {
+     "id": "cd:1",
+     "t": "mc",
+     "q": "Fill the gap: “Please come over here for a moment. (to आप)”",
+     "hi": "आप ज़रा इधर ___ ।",
+     "say": "आप ज़रा इधर आइए ।",
+     "en": "{Please come}[0+3] {over here}[2] {for a moment}[1]. (to आप)",
+     "a": "आइए",
+     "wrong": [
+      [
+       "आओ",
+       "आओ is the तुम command. With आप the command is stem + -ie."
+      ],
+      [
+       "आ",
+       "आ is the bare stem, the तू command, far too blunt with आप."
+      ]
+     ],
+     "why": "आप takes stem + -ie: आइए."
+    },
+    {
+     "id": "cd:2",
+     "t": "mc",
+     "q": "Fill the gap: “You go quickly! (to तू)”",
+     "hi": "तू जल्दी ___ !",
+     "say": "तू जल्दी जा !",
+     "en": "You[0] go[2] quickly[1]! (to तू)",
+     "a": "जा",
+     "wrong": [
+      [
+       "जाओ",
+       "जाओ is the तुम command. With तू the command is the bare stem."
+      ],
+      [
+       "जाइए",
+       "जाइए is the polite आप command. With तू the command is the bare stem."
+      ]
+     ],
+     "why": "The तू command is the stem alone. Its brevity shows intimacy or bluntness."
+    },
+    {
+     "id": "cd:3",
+     "t": "mc",
+     "q": "Fill the gap: “Please have some daal. (to आप)”",
+     "hi": "आप दाल ___ ।",
+     "say": "आप दाल खाइए ।",
+     "en": "{Please have}[0+2] some daal[1]. (to आप)",
+     "a": "खाइए",
+     "wrong": [
+      [
+       "खाओ",
+       "खाओ is the तुम command. With आप the command is stem + -ie."
+      ],
+      [
+       "खा",
+       "खा is the bare stem, the तू command."
+      ]
+     ],
+     "why": "खाना gives खाइए, the stem खा + -ie."
+    },
+    {
+     "id": "cd:4",
+     "t": "mc",
+     "q": "Fill the gap: “You close the window. (to तुम)”",
+     "hi": "तुम खिड़की बंद ___ ।",
+     "say": "तुम खिड़की बंद करो ।",
+     "en": "You[0] close[2+3] the window[1]. (to तुम)",
+     "a": "करो",
+     "wrong": [
+      [
+       "कीजिए",
+       "कीजिए is the आप command of करना. With तुम the command is stem + -o."
+      ],
+      [
+       "कर",
+       "कर is the bare stem, the तू command."
+      ]
+     ],
+     "why": "In बंद करना “to close” only करना changes; बंद stays as it is."
+    },
+    {
+     "id": "cd:5",
+     "t": "mc",
+     "q": "Fill the gap: “Children, you come quickly!”",
+     "hi": "बच्चो, तुम लोग जल्दी ___ !",
+     "say": "बच्चो, तुम लोग जल्दी आओ !",
+     "en": "Children[0], you[1+2] come[4] quickly[3]!",
+     "a": "आओ",
+     "wrong": [
+      [
+       "आ",
+       "आ is the तू command, for one person you are very close to. तुम लोग takes आओ."
+      ],
+      [
+       "आइए",
+       "आइए is the आप command. With तुम the command is stem + -o."
+      ]
+     ],
+     "why": "तुम लोग takes the तुम command, stem + -o."
+    },
+    {
+     "id": "cd:6",
+     "t": "mc",
+     "q": "Which is the extra-polite form of पढ़िए ?",
+     "a": "पढ़िएगा",
+     "wrong": [
+      [
+       "पढ़ोगा",
+       "-gā is added only to the आप command: paṛhie + gā."
+      ],
+      [
+       "पढ़ना",
+       "The infinitive पढ़ना can be a command, but it lacks the deference of the आप form."
+      ]
+     ],
+     "why": "Adding -gā to the आप command makes it extra polite: “please be so kind as to read”."
+    },
+    {
+     "id": "cd:7",
+     "t": "mc",
+     "q": "Turn this तुम command into an आप command",
+     "a": "आप वह किताब लाइए ।",
+     "wrong": [
+      [
+       "आप वह किताब लाओ ।",
+       "लाओ is the तुम form. With आप the command is stem + -ie."
+      ],
+      [
+       "आप वह किताब ला ।",
+       "ला is the bare stem, the तू command."
+      ]
+     ],
+     "why": "आप takes stem + -ie: लाइए.",
+     "hi": "तुम वह किताब लाओ ।",
+     "audio": true,
+     "say": "आप वह किताब लाइए ।",
+     "en": "{Please bring}[0+3] that[1] book[2]. (to आप)"
+    },
+    {
+     "id": "cd:8",
+     "t": "mc",
+     "q": "What kind of command is this?",
+     "a": "An infinitive used as a command, to be carried out later",
+     "wrong": [
+      [
+       "The intimate bare-stem command",
+       "The तू command would be the bare stem पढ़. Here the infinitive पढ़ना is used."
+      ],
+      [
+       "The extra-polite command",
+       "That would be पढ़िएगा. The infinitive lacks the deference of the आप command."
+      ]
+     ],
+     "why": "The infinitive often gives a “deferred” command, and is most at home where तुम would be used.",
+     "hi": "रात को यह किताब पढ़ना ।",
+     "audio": true,
+     "say": "रात को यह किताब पढ़ना ।",
+     "en": "Read[4] this[2] book[3] at[1] night[0]."
+    },
+    {
+     "id": "cd:9",
+     "t": "mc",
+     "q": "How do you politely attract someone's attention, like “excuse me”?",
+     "a": "सुनिए",
+     "wrong": [
+      [
+       "सुन",
+       "सुन is the blunt तू command."
+      ],
+      [
+       "सुनो",
+       "सुनो is the familiar तुम command, not the polite one."
+      ]
+     ],
+     "why": "सुनिए “please listen” is the polite way to attract attention."
+    }
+   ]
+  },
+  {
+   "id": "irr",
+   "title": "कीजिए, लीजिए, दीजिए, पीजिए",
+   "desc": "Irregular commands",
+   "skill": "cmd",
+   "items": [
+    {
+     "id": "ir:0",
+     "t": "mc",
+     "q": "Fill the gap: “Please take this book. (to आप)”",
+     "hi": "आप यह किताब ___ ।",
+     "say": "आप यह किताब लीजिए ।",
+     "en": "{Please take}[0+3] this[1] book[2]. (to आप)",
+     "a": "लीजिए",
+     "wrong": [
+      [
+       "लेइए",
+       "Not a word: लेना is irregular, and its आप command is लीजिए."
+      ],
+      [
+       "लो",
+       "लो is the तुम command of लेना."
+      ]
+     ],
+     "why": "Four verbs have irregular आप commands: कीजिए, लीजिए, दीजिए, पीजिए."
+    },
+    {
+     "id": "ir:1",
+     "t": "mc",
+     "q": "Fill the gap: “You give him this fruit. (to तुम)”",
+     "hi": "तुम उसे यह फल ___ ।",
+     "say": "तुम उसे यह फल दो ।",
+     "en": "You[0] give[4] him[1] this[2] fruit[3]. (to तुम)",
+     "a": "दो",
+     "wrong": [
+      [
+       "देओ",
+       "Not a word: देना is irregular in the तुम command too, which is दो."
+      ],
+      [
+       "दीजिए",
+       "दीजिए is the आप command. With तुम it is दो."
+      ]
+     ],
+     "why": "देना and लेना have irregular तुम commands: दो and लो."
+    },
+    {
+     "id": "ir:2",
+     "t": "mc",
+     "q": "Fill the gap: “Please give Sita this bag. (to आप)”",
+     "hi": "आप सीता को यह थैला ___ ।",
+     "say": "आप सीता को यह थैला दीजिए ।",
+     "en": "{Please give}[0+5] Sita[1+2] this[3] bag[4]. (to आप)",
+     "a": "दीजिए",
+     "wrong": [
+      [
+       "देइए",
+       "Not a word: देना is irregular, and its आप command is दीजिए."
+      ],
+      [
+       "दो",
+       "दो is the तुम command. With आप it is दीजिए."
+      ]
+     ],
+     "why": "देना gives the irregular आप command दीजिए."
+    },
+    {
+     "id": "ir:3",
+     "t": "mc",
+     "q": "Fill the gap: “Please rest. (to आप)”",
+     "hi": "आप आराम ___ ।",
+     "say": "आप आराम कीजिए ।",
+     "en": "Please[0] rest[1+2]. (to आप)",
+     "a": "कीजिए",
+     "wrong": [
+      [
+       "करो",
+       "करो is the तुम command. आप takes the irregular कीजिए."
+      ],
+      [
+       "कर",
+       "कर is the bare stem, the तू command."
+      ]
+     ],
+     "why": "आराम करना “to rest”: करना has the irregular आप command कीजिए."
+    },
+    {
+     "id": "ir:4",
+     "t": "mc",
+     "q": "Fill the gap: “Please smoke outside. (to आप)”",
+     "hi": "आप बाहर सिग्रेट ___ ।",
+     "say": "आप बाहर सिग्रेट पीजिए ।",
+     "en": "{Please smoke}[0+2+3] outside[1]. (to आप)",
+     "a": "पीजिए",
+     "wrong": [
+      [
+       "पीइए",
+       "Not a word: पीना is irregular, and its आप command is पीजिए."
+      ],
+      [
+       "पियो",
+       "पियो is the तुम command."
+      ]
+     ],
+     "why": "पीना “to drink; to smoke” gives the irregular आप command पीजिए."
+    },
+    {
+     "id": "ir:5",
+     "t": "mc",
+     "q": "Which four verbs have irregular आप commands?",
+     "a": "करना, लेना, देना, पीना",
+     "wrong": [
+      [
+       "करना, लेना, देना, खाना",
+       "खाना is regular: खाइए."
+      ],
+      [
+       "आना, जाना, लेना, देना",
+       "आना and जाना are regular: आइए, जाइए."
+      ]
+     ],
+     "why": "करना कीजिए, लेना लीजिए, देना दीजिए, पीना पीजिए."
+    },
+    {
+     "id": "ir:6",
+     "t": "mc",
+     "q": "What are the तुम commands of लेना and देना ?",
+     "a": "लो, दो",
+     "wrong": [
+      [
+       "लेओ, देओ",
+       "Not words: these two verbs are irregular, giving लो and दो."
+      ],
+      [
+       "ले, दे",
+       "ले and दे are the bare stems, the तू commands."
+      ]
+     ],
+     "why": "लेना and देना are irregular in the तुम command: लो, दो."
+    },
+    {
+     "id": "ir:7",
+     "t": "mc",
+     "q": "Turn this आप command into a तुम command",
+     "a": "तुम ठंडी कॉफ़ी पियो ।",
+     "wrong": [
+      [
+       "तुम ठंडी कॉफ़ी पीजिए ।",
+       "पीजिए is the आप command. With तुम it is पियो."
+      ],
+      [
+       "तुम ठंडी कॉफ़ी पी ।",
+       "पी is the bare stem, the तू command."
+      ]
+     ],
+     "why": "पीना gives पियो in the तुम command.",
+     "hi": "आप ठंडी कॉफ़ी पीजिए ।",
+     "audio": true,
+     "say": "तुम ठंडी कॉफ़ी पियो ।",
+     "en": "You[0] have[3] some cold[1] coffee[2]. (to तुम)"
+    }
+   ]
+  },
+  {
+   "id": "neg",
+   "title": "मत, न, से कहना",
+   "desc": "Negative commands; से and को with verbs of telling",
+   "skill": "neg",
+   "items": [
+    {
+     "id": "ng:0",
+     "t": "mc",
+     "q": "Fill the gap: “Children, don't sit on that bed!”",
+     "hi": "बच्चो, उस पलंग पर ___ बैठो !",
+     "say": "बच्चो, उस पलंग पर मत बैठो !",
+     "en": "Children[0], don't[4] sit[5] on[3] that[1] bed[2]!",
+     "a": "मत",
+     "wrong": [
+      [
+       "नहीं",
+       "The book makes commands negative with न or मत, not नहीं."
+      ],
+      [
+       "क्या",
+       "क्या asks a question. It cannot make a command negative."
+      ]
+     ],
+     "why": "मत (or the milder न) before the verb makes a command negative."
+    },
+    {
+     "id": "ng:1",
+     "t": "mc",
+     "q": "Which word gives the more forceful “don't”?",
+     "a": "मत",
+     "wrong": [
+      [
+       "न",
+       "न also makes a command negative, but it is the milder word."
+      ],
+      [
+       "नहीं",
+       "The book makes commands negative with न or मत, not नहीं."
+      ]
+     ],
+     "why": "The negative for commands is न or, more forcefully, मत."
+    },
+    {
+     "id": "ng:2",
+     "t": "mc",
+     "q": "Fill the gap: “Ask that washerman where my kurta is. (to तुम)”",
+     "hi": "उस धोबी ___ पूछो कि मेरा कुरता कहाँ है ।",
+     "say": "उस धोबी से पूछो कि मेरा कुरता कहाँ है ।",
+     "en": "Ask[2+3] that[0] washerman[1] where[7] my[5] kurta[6] is[8]. (to तुम)",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "पूछना marks the person asked with से, not को."
+      ],
+      [
+       "पर",
+       "पर means “on”. The person asked takes से."
+      ]
+     ],
+     "why": "पूछना “to ask” and कहना “to say” mark the person addressed with से."
+    },
+    {
+     "id": "ng:3",
+     "t": "mc",
+     "q": "Fill the gap: “Tell that servant that the room is dirty. (to तुम)”",
+     "hi": "उस नौकर ___ कहो कि कमरा गंदा है ।",
+     "say": "उस नौकर से कहो कि कमरा गंदा है ।",
+     "en": "Tell[2+3] that[0] servant[1] that[4] the room[5] is[7] dirty[6]. (to तुम)",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "कहना marks the person told with से, not को. (बताना “to tell” does take को.)"
+      ],
+      [
+       "का",
+       "का shows possession, “the servant's”."
+      ]
+     ],
+     "why": "कहना “to say (to)” takes से for the person addressed."
+    },
+    {
+     "id": "ng:4",
+     "t": "mc",
+     "q": "Fill the gap: “Tell Papa where the car is. (to तुम)”",
+     "hi": "पापा ___ बताओ कि गाड़ी कहाँ है ।",
+     "say": "पापा को बताओ कि गाड़ी कहाँ है ।",
+     "en": "Tell[1+2] Papa[0] where[5] the car[4] is[6]. (to तुम)",
+     "a": "को",
+     "wrong": [
+      [
+       "से",
+       "से goes with कहना and पूछना. बताना “to tell” marks the person with को."
+      ],
+      [
+       "में",
+       "में means “in”."
+      ]
+     ],
+     "why": "बताना takes को for the person told, the indirect object."
+    },
+    {
+     "id": "ng:5",
+     "t": "mc",
+     "q": "Make this command negative",
+     "a": "तुम यह खाना मत खाओ ।",
+     "wrong": [
+      [
+       "तुम यह खाना नहीं खाओ ।",
+       "The book makes commands negative with न or मत, not नहीं."
+      ],
+      [
+       "तुम यह खाना मत खाइए ।",
+       "खाइए is the आप command. With तुम keep खाओ."
+      ]
+     ],
+     "why": "मत (or न) goes just before the verb.",
+     "hi": "तुम यह खाना खाओ ।",
+     "audio": true,
+     "say": "तुम यह खाना मत खाओ ।",
+     "en": "Don't[3] you[0] eat[4] this[1] food[2]."
+    },
+    {
+     "id": "ng:6",
+     "t": "mc",
+     "q": "Fill the gap: “Please don't go there. (to आप)”",
+     "hi": "आप वहाँ ___ जाइए ।",
+     "say": "आप वहाँ न जाइए ।",
+     "en": "{Please don't}[0+2] go[3] there[1]. (to आप)",
+     "a": "न",
+     "wrong": [
+      [
+       "नहीं",
+       "The book makes commands negative with न or मत, not नहीं."
+      ],
+      [
+       "क्या",
+       "क्या asks a question. It cannot make a command negative."
+      ]
+     ],
+     "why": "न before the verb is the milder “don't”; मत would also be correct."
+    }
+   ]
+  },
+  {
+   "id": "ka",
+   "title": "का, की, के",
+   "desc": "Possession with का",
+   "skill": "ka",
+   "items": [
+    {
+     "id": "ka:0",
+     "t": "mc",
+     "q": "Fill the gap: “This is Raj's bag.”",
+     "hi": "यह राज ___ थैला है ।",
+     "say": "यह राज का थैला है ।",
+     "en": "This[0] is[4] Raj's[1+2] bag[3].",
+     "a": "का",
+     "wrong": [
+      [
+       "की",
+       "की is feminine. थैला is masculine."
+      ],
+      [
+       "के",
+       "के is plural or oblique. थैला here is singular and direct."
+      ]
+     ],
+     "why": "का agrees with the thing possessed, थैला, not with Raj."
+    },
+    {
+     "id": "ka:1",
+     "t": "mc",
+     "q": "Fill the gap: “Where is Sita's bicycle?”",
+     "hi": "सीता ___ साइकिल कहाँ है ?",
+     "say": "सीता की साइकिल कहाँ है ?",
+     "en": "Where[3] is[4] Sita's[0+1] bicycle[2]?",
+     "a": "की",
+     "wrong": [
+      [
+       "का",
+       "का is masculine. साइकिल is feminine."
+      ],
+      [
+       "के",
+       "के is masculine plural or oblique. साइकिल is feminine."
+      ]
+     ],
+     "why": "With a feminine thing possessed, का becomes की."
+    },
+    {
+     "id": "ka:2",
+     "t": "mc",
+     "q": "Fill the gap: “These are Mohan's toys.”",
+     "hi": "ये मोहन ___ खिलौने हैं ।",
+     "say": "ये मोहन के खिलौने हैं ।",
+     "en": "These[0] are[4] Mohan's[1+2] toys[3].",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "का is singular. खिलौने is plural."
+      ],
+      [
+       "की",
+       "की is feminine. खिलौना is masculine."
+      ]
+     ],
+     "why": "With a masculine plural thing possessed, का becomes के."
+    },
+    {
+     "id": "ka:3",
+     "t": "mc",
+     "q": "Fill the gap: “That boy's horse is very big.”",
+     "hi": "उस ___ का घोड़ा बहुत बड़ा है ।",
+     "say": "उस लड़के का घोड़ा बहुत बड़ा है ।",
+     "en": "That[0] boy's[1+2] horse[3] is[6] very[4] big[5].",
+     "a": "लड़के",
+     "wrong": [
+      [
+       "लड़का",
+       "का is a postposition, so the owner is oblique: लड़के."
+      ],
+      [
+       "लड़कों",
+       "लड़कों is plural, “boys'”. उस is singular."
+      ]
+     ],
+     "why": "Being a postposition, का needs the oblique case before it."
+    },
+    {
+     "id": "ka:4",
+     "t": "mc",
+     "q": "Fill the gap: “Where are these children's toys?”",
+     "hi": "इन ___ के खिलौने कहाँ हैं ?",
+     "say": "इन बच्चों के खिलौने कहाँ हैं ?",
+     "en": "Where[4] are[5] these[0] children's[1+2] toys[3]?",
+     "a": "बच्चों",
+     "wrong": [
+      [
+       "बच्चे",
+       "बच्चे is the oblique singular (or direct plural). इन is plural, so the oblique plural is needed."
+      ],
+      [
+       "बच्चो",
+       "बच्चो is the vocative, for calling out to children."
+      ]
+     ],
+     "why": "The owner before का is oblique: बच्चों."
+    },
+    {
+     "id": "ka:5",
+     "t": "mc",
+     "q": "Fill the gap: “My glasses are in Brother's room.”",
+     "hi": "मेरा चश्मा भैया ___ कमरे में है ।",
+     "say": "मेरा चश्मा भैया के कमरे में है ।",
+     "en": "My[0] glasses[1] are[6] in[5] Brother's[2+3] room[4].",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "कमरा is oblique before में (कमरे), so का becomes के too."
+      ],
+      [
+       "की",
+       "की is feminine. कमरा is masculine."
+      ]
+     ],
+     "why": "When the thing possessed is oblique, का becomes के."
+    },
+    {
+     "id": "ka:6",
+     "t": "mc",
+     "q": "Fill the gap: “My brother-in-law's car is new. (a woman speaking)”",
+     "hi": "___ देवर की गाड़ी नई है ।",
+     "say": "मेरे देवर की गाड़ी नई है ।",
+     "en": "My[0] brother-in-law's[1+2] car[3] is[5] new[4]. (a woman speaking)",
+     "a": "मेरे",
+     "wrong": [
+      [
+       "मेरा",
+       "देवर is oblique because की follows it, so मेरा becomes मेरे."
+      ],
+      [
+       "मेरी",
+       "मेरी would agree with गाड़ी, but “my” goes with देवर."
+      ]
+     ],
+     "why": "मेरा agrees with देवर, which is oblique before की, although देवर itself does not change."
+    },
+    {
+     "id": "ka:7",
+     "t": "mc",
+     "q": "Fill the gap: “This is his dog.”",
+     "hi": "यह ___ कुत्ता है ।",
+     "say": "यह उसका कुत्ता है ।",
+     "en": "This[0] is[3] his[1] dog[2].",
+     "a": "उसका",
+     "wrong": [
+      [
+       "उसकी",
+       "उसकी is feminine. कुत्ता is masculine."
+      ],
+      [
+       "वह का",
+       "का needs the oblique: वह becomes उस, written उसका."
+      ]
+     ],
+     "why": "उसका “his, her” agrees with the thing possessed, like any का."
+    },
+    {
+     "id": "ka:8",
+     "t": "mc",
+     "q": "Fill the gap: “Whose book is this?”",
+     "hi": "यह ___ किताब है ?",
+     "say": "यह किसकी किताब है ?",
+     "en": "Whose[1] book[2] is[3] this[0]?",
+     "a": "किसकी",
+     "wrong": [
+      [
+       "किसका",
+       "किसका is masculine. किताब is feminine."
+      ],
+      [
+       "कौन की",
+       "कौन becomes किस before a postposition, written किसकी."
+      ]
+     ],
+     "why": "किसका “whose?” agrees with the thing possessed."
+    },
+    {
+     "id": "ka:9",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan and Sita are here, but their children are out.”",
+     "hi": "मोहन और सीता यहाँ हैं, पर ___ बच्चे बाहर हैं ।",
+     "say": "मोहन और सीता यहाँ हैं, पर उनके बच्चे बाहर हैं ।",
+     "en": "Mohan[0] and[1] Sita[2] are[4] here[3], but[5] their[6] children[7] are[9] out[8].",
+     "a": "उनके",
+     "wrong": [
+      [
+       "उनका",
+       "उनका is singular. बच्चे is plural."
+      ],
+      [
+       "उसके",
+       "उसके is “his, her”, for one person. Mohan and Sita are two."
+      ]
+     ],
+     "why": "उनका “their” agrees with बच्चे, masculine plural."
+    },
+    {
+     "id": "ka:10",
+     "t": "mc",
+     "q": "Fill the gap: “Where is Mohan's friend's car?”",
+     "hi": "मोहन ___ दोस्त की गाड़ी कहाँ है ?",
+     "say": "मोहन के दोस्त की गाड़ी कहाँ है ?",
+     "en": "Where[5] is[6] Mohan's[0+1] friend's[2+3] car[4]?",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "दोस्त is oblique because की follows it, so Mohan's का becomes के."
+      ],
+      [
+       "की",
+       "की would agree with गाड़ी. The first का belongs to दोस्त."
+      ]
+     ],
+     "why": "In a chain each का agrees with the next noun, and a noun before a postposition is oblique."
+    },
+    {
+     "id": "ka:11",
+     "t": "mc",
+     "q": "Fill the gap: “This is the servants' room.”",
+     "hi": "यह ___ का कमरा है ।",
+     "say": "यह नौकरों का कमरा है ।",
+     "en": "This[0] is[4] the servants'[1+2] room[3].",
+     "a": "नौकरों",
+     "wrong": [
+      [
+       "नौकर",
+       "नौकर का would be “the servant's”, one servant."
+      ],
+      [
+       "नौकरें",
+       "Not a word: the oblique plural of नौकर is नौकरों."
+      ]
+     ],
+     "why": "The owner before का is oblique, here plural: नौकरों."
+    }
+   ]
+  },
+  {
+   "id": "ko",
+   "title": "को, मुझे, उसे",
+   "desc": "को with objects, and the short pronoun forms",
+   "skill": "ko",
+   "items": [
+    {
+     "id": "ko:0",
+     "t": "mc",
+     "q": "Fill the gap: “Please give this newspaper to Papa. (to आप)”",
+     "hi": "आप पापा ___ यह अख़बार दीजिए ।",
+     "say": "आप पापा को यह अख़बार दीजिए ।",
+     "en": "{Please give}[0+5] this[3] newspaper[4] to[2] Papa[1]. (to आप)",
+     "a": "को",
+     "wrong": [
+      [
+       "से",
+       "देना marks the person given to with को, not से."
+      ],
+      [
+       "का",
+       "पापा का would mean “Papa's”."
+      ]
+     ],
+     "why": "The indirect object, the person something is given to, takes को."
+    },
+    {
+     "id": "ko:1",
+     "t": "mc",
+     "q": "Fill the gap: “You give me that kurta. (to तुम)”",
+     "hi": "तुम ___ वह कुरता दो ।",
+     "say": "तुम मुझे वह कुरता दो ।",
+     "en": "You[0] give[4] me[1] that[2] kurta[3]. (to तुम)",
+     "a": "मुझे",
+     "wrong": [
+      [
+       "मैं",
+       "मैं is the direct form. “To me” is मुझे (= मुझ को)."
+      ],
+      [
+       "मेरा",
+       "मेरा means “my”."
+      ]
+     ],
+     "why": "मुझे is the short form of मुझ को."
+    },
+    {
+     "id": "ko:2",
+     "t": "mc",
+     "q": "Fill the gap: “Please serve these girls samosas. (to आप)”",
+     "hi": "आप इन लड़कियों ___ समोसे खिलाइए ।",
+     "say": "आप इन लड़कियों को समोसे खिलाइए ।",
+     "en": "{Please serve}[0+5] these[1] girls[2+3] samosas[4]. (to आप)",
+     "a": "को",
+     "wrong": [
+      [
+       "से",
+       "खिलाना marks the person fed with को."
+      ],
+      [
+       "के",
+       "के would make “the girls' samosas”, and leave no one being served."
+      ]
+     ],
+     "why": "With खिलाना “to give to eat” the person served is the indirect object, with को."
+    },
+    {
+     "id": "ko:3",
+     "t": "mc",
+     "q": "Fill the gap: “She doesn't like this kurta.”",
+     "hi": "___ यह कुरता पसंद नहीं है ।",
+     "say": "उसे यह कुरता पसंद नहीं है ।",
+     "en": "She[0] doesn't[4] like[3+5] this[1] kurta[2].",
+     "a": "उसे",
+     "wrong": [
+      [
+       "वह",
+       "वह is direct. With पसंद the person takes को, so उस को or उसे."
+      ],
+      [
+       "उसका",
+       "उसका means “his, her (possessive)”."
+      ]
+     ],
+     "why": "उसे is the short form of उस को."
+    },
+    {
+     "id": "ko:4",
+     "t": "mc",
+     "q": "Which is another way of writing उन को ?",
+     "a": "उन्हें",
+     "wrong": [
+      [
+       "उन्हे",
+       "The short form has a nasal: उन्हें."
+      ],
+      [
+       "इन्हें",
+       "इन्हें is इन को, “to these (people)”."
+      ]
+     ],
+     "why": "Oblique pronoun + को has a short form: उन को = उन्हें."
+    },
+    {
+     "id": "ko:5",
+     "t": "mc",
+     "q": "Which pronoun has no short form with को ?",
+     "a": "आप",
+     "wrong": [
+      [
+       "तुम",
+       "तुम को has the short form तुम्हें."
+      ],
+      [
+       "हम",
+       "हम को has the short form हमें."
+      ]
+     ],
+     "why": "आप को has no alternative form."
+    },
+    {
+     "id": "ko:6",
+     "t": "mc",
+     "q": "Fill the gap: “You call that servant. (to तुम)”",
+     "hi": "तुम उस नौकर ___ बुलाओ ।",
+     "say": "तुम उस नौकर को बुलाओ ।",
+     "en": "You[0] call[4] that[1] servant[2+3]. (to तुम)",
+     "a": "को",
+     "wrong": [
+      [
+       "से",
+       "बुलाना takes the person called as a direct object, marked with को."
+      ],
+      [
+       "का",
+       "का shows possession."
+      ]
+     ],
+     "why": "People as direct objects nearly always take को."
+    },
+    {
+     "id": "ko:7",
+     "t": "mc",
+     "q": "Why does कुत्ते have को here?",
+     "a": "The object is one particular animal, so को marks it",
+     "wrong": [
+      [
+       "जगाना always takes से",
+       "से is not used here. को marks a specific direct object."
+      ],
+      [
+       "को means “to”: “wake to the dog”",
+       "With a direct object को is not translated. It marks the object as specific."
+      ]
+     ],
+     "why": "को marks a specific direct object, much like “the” in English.",
+     "hi": "उस कुत्ते को मत जगाओ ।",
+     "audio": true,
+     "say": "उस कुत्ते को मत जगाओ ।",
+     "en": "Don't[3] wake[4] that[0] dog[1+2]. (to तुम)"
+    },
+    {
+     "id": "ko:8",
+     "t": "mc",
+     "q": "Fill the gap: “Don't you bring him here!”",
+     "hi": "तुम ___ यहाँ मत लाओ !",
+     "say": "तुम उसे यहाँ मत लाओ !",
+     "en": "Don't[3] you[0] bring[4] him[1] here[2]!",
+     "a": "उसे",
+     "wrong": [
+      [
+       "वह",
+       "वह is the subject form. The person brought is the object, with को, so उसे."
+      ],
+      [
+       "उसका",
+       "उसका means “his”."
+      ]
+     ],
+     "why": "A person as object takes को, and उसे is short for उस को."
+    },
+    {
+     "id": "ko:9",
+     "t": "mc",
+     "q": "Fill the gap: “Please give these people water. (to आप)”",
+     "hi": "आप ___ पानी दीजिए ।",
+     "say": "आप इन्हें पानी दीजिए ।",
+     "en": "{Please give}[0+3] {these people}[1] water[2]. (to आप)",
+     "a": "इन्हें",
+     "wrong": [
+      [
+       "ये",
+       "ये is direct. The person given to takes को, so इन को or इन्हें."
+      ],
+      [
+       "इनका",
+       "इनका means “their (of these people)”."
+      ]
+     ],
+     "why": "इन्हें is the short form of इन को."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "{Please sit}[0+3] in[2] the garden[1]. (to आप)",
+     "ans": [
+      "आप",
+      "बग़ीचे",
+      "में",
+      "बैठिए"
+     ],
+     "wrong": [
+      [
+       "बैठो",
+       "बैठो is the तुम command. आप takes बैठिए."
+      ],
+      [
+       "बग़ीचा",
+       "बग़ीचा is direct. Before में it is oblique: बग़ीचे."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "You[0] give[4] the money[3] to[2] Mohan[1]. (to तुम)",
+     "ans": [
+      "तुम",
+      "मोहन",
+      "को",
+      "पैसे",
+      "दो"
+     ],
+     "wrong": [
+      [
+       "दीजिए",
+       "दीजिए is the आप command. तुम takes दो."
+      ],
+      [
+       "से",
+       "देना marks the person given to with को."
+      ]
+     ],
+     "alt": [
+      [
+       "तुम",
+       "पैसे",
+       "मोहन",
+       "को",
+       "दो"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Don't[3] you[0] take[4] my[1] book[2]! (to तू)",
+     "ans": [
+      "तू",
+      "मेरी",
+      "किताब",
+      "मत",
+      "ले"
+     ],
+     "wrong": [
+      [
+       "लो",
+       "लो is the तुम command. तू takes the bare stem ले."
+      ],
+      [
+       "नहीं",
+       "The book makes commands negative with न or मत, not नहीं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Mohan's[0+1] sister[2] is[4] clever[3].",
+     "ans": [
+      "मोहन",
+      "की",
+      "बहिन",
+      "होशियार",
+      "है"
+     ],
+     "wrong": [
+      [
+       "का",
+       "का is masculine. बहिन is feminine."
+      ],
+      [
+       "के",
+       "के is plural or oblique. बहिन is feminine singular."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Where[4] are[5] those[0] boys'[1+2] dogs[3]?",
+     "ans": [
+      "उन",
+      "लड़कों",
+      "के",
+      "कुत्ते",
+      "कहाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "लड़के",
+       "लड़के is the oblique singular. उन and “boys'” need लड़कों."
+      ],
+      [
+       "का",
+       "कुत्ते is plural, so का becomes के."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "{Please give}[0+4] me[1] that[2] blanket[3]. (to आप)",
+     "ans": [
+      "आप",
+      "मुझे",
+      "वह",
+      "कंबल",
+      "दीजिए"
+     ],
+     "wrong": [
+      [
+       "मैं",
+       "मैं is direct. “To me” is मुझे."
+      ],
+      [
+       "दो",
+       "दो is the तुम command. आप takes दीजिए."
+      ]
+     ],
+     "alt": [
+      [
+       "आप",
+       "वह",
+       "कंबल",
+       "मुझे",
+       "दीजिए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{Please ask}[0+3] the servant[1+2] where[6] the milk[5] is[7]. (to आप)",
+     "ans": [
+      "आप",
+      "नौकर",
+      "से",
+      "पूछिए",
+      "कि",
+      "दूध",
+      "कहाँ",
+      "है"
+     ],
+     "wrong": [
+      [
+       "को",
+       "पूछना marks the person asked with से."
+      ],
+      [
+       "कौन",
+       "कौन asks “who?”. “Where” is कहाँ."
+      ]
+     ],
+     "order": "After कि the question keeps its own order: दूध कहाँ है ?"
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "You[0] wake[3] the children[1+2]. (to तुम)",
+     "ans": [
+      "तुम",
+      "बच्चों",
+      "को",
+      "जगाओ"
+     ],
+     "wrong": [
+      [
+       "बच्चे",
+       "Before को the oblique plural is needed: बच्चों."
+      ],
+      [
+       "जगाइए",
+       "जगाइए is the आप command. तुम takes जगाओ."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Whose[1] bag[2] is[3] this[0]?",
+     "ans": [
+      "यह",
+      "किसका",
+      "थैला",
+      "है"
+     ],
+     "wrong": [
+      [
+       "किसकी",
+       "किसकी is feminine. थैला is masculine."
+      ],
+      [
+       "कौन",
+       "कौन becomes किस before का, written किसका."
+      ]
+     ],
+     "alt": [
+      [
+       "यह",
+       "थैला",
+       "किसका",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "{Please tell}[0+3] Mother[1+2] that[4] the tea[5] is[7] ready[6]. (to आप)",
+     "ans": [
+      "आप",
+      "माँ",
+      "को",
+      "बताइए",
+      "कि",
+      "चाय",
+      "तैयार",
+      "है"
+     ],
+     "wrong": [
+      [
+       "से",
+       "बताना marks the person told with को. से goes with कहना and पूछना."
+      ],
+      [
+       "हैं",
+       "चाय is singular, so the verb is है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Rishi's[0+1] dog[2] is[4] black[3].",
+     "ans": [
+      "ऋषि",
+      "का",
+      "कुत्ता",
+      "काला",
+      "है"
+     ],
+     "wrong": [
+      [
+       "की",
+       "की is feminine. कुत्ता is masculine."
+      ],
+      [
+       "काली",
+       "काली is feminine. कुत्ता is masculine."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उन्हें कॉफ़ी सचमुच पसंद है ।",
+     "audio": true,
+     "a": "They really like coffee.",
+     "wrong": [
+      [
+       "They really don't like coffee.",
+       "There is no नहीं, so the sentence is positive."
+      ],
+      [
+       "We really like coffee.",
+       "उन्हें is उन को, “to them”. “We” would be हमें."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "राज, ज़रा इधर आओ ।",
+     "audio": true,
+     "a": "Raj, come over here a moment.",
+     "wrong": [
+      [
+       "Raj, go over there a moment.",
+       "इधर is “here” and आओ is “come”. “Go over there” would be उधर जाओ."
+      ],
+      [
+       "Raj, don't come here.",
+       "There is no मत or न, so the command is positive."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसे बताइए कि नौकर बीमार है ।",
+     "audio": true,
+     "a": "Please tell him that the servant is ill.",
+     "wrong": [
+      [
+       "Please ask him whether the servant is ill.",
+       "“Ask” is पूछना, with से. बताइए is “please tell”."
+      ],
+      [
+       "Please tell the servant that he is ill.",
+       "उसे is the person told. नौकर is the one who is ill."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "भैया, कुत्ते को कुछ खिलाओ ।",
+     "audio": true,
+     "a": "Brother, give the dog something to eat.",
+     "wrong": [
+      [
+       "Brother, eat something.",
+       "“Eat” would be खाओ. खिलाओ is “give to eat”."
+      ],
+      [
+       "Brother, don't feed the dog.",
+       "There is no मत or न, so the command is positive."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आप ये फल रसोईघर में रखिए ।",
+     "audio": true,
+     "a": "Please put these fruits in the kitchen.",
+     "wrong": [
+      [
+       "Please bring these fruits from the kitchen.",
+       "रखना is “to put, keep”, and में is “in”. “Bring from” would be से लाइए."
+      ],
+      [
+       "Please eat these fruits in the kitchen.",
+       "“Eat” would be खाइए. रखिए is “please put”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "किसका कुत्ता बाहर है ?",
+     "audio": true,
+     "a": "Whose dog is outside?",
+     "wrong": [
+      [
+       "Which dog is outside?",
+       "“Which” is कौनसा. किसका is “whose”."
+      ],
+      [
+       "Who is outside?",
+       "That would be बाहर कौन है ? किसका asks about the owner."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "कौनसा कुरता आपका है ?",
+     "audio": true,
+     "a": "Which kurta is yours?",
+     "wrong": [
+      [
+       "Whose kurta is this?",
+       "“Whose” is किसका. कौनसा is “which”."
+      ],
+      [
+       "Is this your kurta?",
+       "That would be क्या यह आपका कुरता है ?"
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "कल सुबह जल्दी आना ।",
+     "audio": true,
+     "a": "Come early tomorrow morning.",
+     "wrong": [
+      [
+       "Don't come early tomorrow morning.",
+       "There is no मत or न, so the command is positive."
+      ],
+      [
+       "Come early this morning.",
+       "कल means “yesterday” or “tomorrow”. A command can only look ahead, so it is “tomorrow”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Politeness, से, को and का",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "Which form is the most polite?",
+     "a": "बैठिएगा",
+     "wrong": [
+      [
+       "बैठिए",
+       "बैठिए is the ordinary polite आप command. Adding -gā makes it extra polite."
+      ],
+      [
+       "बैठो",
+       "बैठो is the familiar तुम command."
+      ]
+     ],
+     "why": "The ending -iegā is an extra-polite variant of the आप command."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which postposition do कहना and पूछना use for the person addressed?",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "को goes with बताना and देना. कहना and पूछना take से."
+      ],
+      [
+       "का",
+       "का shows possession."
+      ]
+     ],
+     "why": "माँ से पूछो “ask Mother”; उस से कहो “tell him”."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "What does the bare-stem तू command suggest?",
+     "a": "Intimacy, or bluntness",
+     "wrong": [
+      [
+       "Great respect",
+       "Respect is shown by the आप command, in -ie or -iegā."
+      ],
+      [
+       "A command for later",
+       "That is the infinitive used as a command."
+      ]
+     ],
+     "why": "The तू command is the stem alone; its brevity accentuates its lack of formality."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "When does a direct object usually take को ?",
+     "a": "When it is specific, and nearly always when it is a person",
+     "wrong": [
+      [
+       "Always",
+       "A generic object takes no को, as in फल लाओ “bring some fruit”."
+      ],
+      [
+       "Never: को only means “to”",
+       "को also marks a specific direct object, as in उस नौकर को बुलाओ."
+      ]
+     ],
+     "why": "को marks a specific direct object, often like English “the”."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "When the thing possessed is oblique, का becomes …",
+     "a": "के",
+     "wrong": [
+      [
+       "की",
+       "की is only for feminine things possessed, and does not change."
+      ],
+      [
+       "का",
+       "का stays only when the thing possessed is masculine singular and direct."
+      ]
+     ],
+     "why": "का agrees with the thing possessed in gender, number and case."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Which word means “which?” and agrees like an -ā adjective?",
+     "a": "कौनसा",
+     "wrong": [
+      [
+       "कौन",
+       "कौन means “who?” and does not agree."
+      ],
+      [
+       "किसका",
+       "किसका means “whose?”."
+      ]
+     ],
+     "why": "कौनसा, कौनसी, कौनसे “which?” agree with their noun."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "verb": 1,
+  "cmd": 3,
+  "irr": 2,
+  "neg": 2,
+  "ka": 3,
+  "ko": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "सु": "su",
+  "बैठिना": "baiṭhinā",
+  "पढ़ोगा": "paṛhogā",
+  "लेइए": "leie",
+  "देओ": "deo",
+  "देइए": "deie",
+  "पीइए": "pīie",
+  "लेओ": "leo",
+  "नौकरें": "naukarẽ",
+  "उन्हे": "unhe"
+ }
+}

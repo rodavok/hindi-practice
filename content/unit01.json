@@ -1,0 +1,1650 @@
+{
+ "id": "unit1",
+ "n": 1,
+ "title": "I am Pratap",
+ "titleHi": "मैं · तुम · आप",
+ "scope": "Pronouns, the verb “to be”, yes/no questions, noun plurals, adjective agreement",
+ "pages": "book 2–13",
+ "skills": {
+  "be": "Verb “to be”",
+  "plural": "Plurals",
+  "adj": "Adjective agreement",
+  "build": "Sentence building",
+  "usage": "Usage and word order"
+ },
+ "vocab": [
+  {
+   "hi": "नमस्ते",
+   "en": "hello",
+   "c": "x"
+  },
+  {
+   "hi": "शुक्रिया",
+   "en": "thank you",
+   "c": "x"
+  },
+  {
+   "hi": "जी हाँ",
+   "en": "yes",
+   "c": "x"
+  },
+  {
+   "hi": "जी नहीं",
+   "en": "no",
+   "c": "x"
+  },
+  {
+   "hi": "मैं",
+   "en": "I",
+   "c": "p"
+  },
+  {
+   "hi": "हम",
+   "en": "we",
+   "c": "p"
+  },
+  {
+   "hi": "तुम",
+   "en": "you (familiar)",
+   "c": "p"
+  },
+  {
+   "hi": "आप",
+   "en": "you (formal)",
+   "c": "p"
+  },
+  {
+   "hi": "यह",
+   "en": "this",
+   "c": "p"
+  },
+  {
+   "hi": "वह",
+   "en": "that",
+   "c": "p"
+  },
+  {
+   "hi": "लड़का",
+   "en": "boy",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लड़की",
+   "en": "girl",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आदमी",
+   "en": "man",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लोग",
+   "en": "people",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बच्चा",
+   "en": "child",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दादी",
+   "en": "grandmother",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पिता",
+   "en": "father",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "माता",
+   "en": "mother",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कमरा",
+   "en": "room",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मकान",
+   "en": "house",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बग़ीचा",
+   "en": "garden",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गाड़ी",
+   "en": "car",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साइकिल",
+   "en": "bicycle",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "अलमारी",
+   "en": "cupboard",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मेज़",
+   "en": "table",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कुरसी",
+   "en": "chair",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पंखा",
+   "en": "fan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "खिड़की",
+   "en": "window",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पलंग",
+   "en": "bed",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पत्थर",
+   "en": "stone",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चिड़िया",
+   "en": "bird",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बड़ा",
+   "en": "big",
+   "c": "a"
+  },
+  {
+   "hi": "छोटा",
+   "en": "small",
+   "c": "a"
+  },
+  {
+   "hi": "अच्छा",
+   "en": "good",
+   "c": "a"
+  },
+  {
+   "hi": "पुराना",
+   "en": "old (of things)",
+   "c": "a"
+  },
+  {
+   "hi": "बूढ़ा",
+   "en": "elderly",
+   "c": "a"
+  },
+  {
+   "hi": "दूसरा",
+   "en": "other",
+   "c": "a"
+  },
+  {
+   "hi": "ख़ाली",
+   "en": "empty",
+   "c": "a"
+  },
+  {
+   "hi": "साफ़",
+   "en": "clean",
+   "c": "a"
+  },
+  {
+   "hi": "सुन्दर",
+   "en": "beautiful",
+   "c": "a"
+  },
+  {
+   "hi": "लाल",
+   "en": "red",
+   "c": "a"
+  },
+  {
+   "hi": "सफ़ेद",
+   "en": "white",
+   "c": "a"
+  },
+  {
+   "hi": "हवादार",
+   "en": "airy",
+   "c": "a"
+  },
+  {
+   "hi": "ठीक",
+   "en": "all right",
+   "c": "a"
+  },
+  {
+   "hi": "बहुत",
+   "en": "very",
+   "c": "x"
+  },
+  {
+   "hi": "काफ़ी",
+   "en": "quite",
+   "c": "x"
+  },
+  {
+   "hi": "सिर्फ़",
+   "en": "only",
+   "c": "x"
+  },
+  {
+   "hi": "दोनों",
+   "en": "both",
+   "c": "x"
+  },
+  {
+   "hi": "और",
+   "en": "and",
+   "c": "x"
+  },
+  {
+   "hi": "लेकिन",
+   "en": "but",
+   "c": "x"
+  },
+  {
+   "hi": "यहाँ",
+   "en": "here",
+   "c": "x"
+  },
+  {
+   "hi": "एक",
+   "en": "one",
+   "c": "x"
+  },
+  {
+   "hi": "दो",
+   "en": "two",
+   "c": "x"
+  },
+  {
+   "hi": "तीन",
+   "en": "three",
+   "c": "x"
+  },
+  {
+   "hi": "ज़रूर",
+   "en": "of course",
+   "c": "x"
+  }
+ ],
+ "gloss": {
+  "क्या": "marks a yes/no question, so no English word lines up with it",
+  "जी": "adds respect and is not translated"
+ },
+ "distractors": {
+  "लड़काएँ": "laṛkāẽ",
+  "कमराएँ": "kamrāẽ",
+  "कमरें": "kamrẽ",
+  "मकाने": "makāne",
+  "मकानें": "makānẽ",
+  "मकानियाँ": "makāniyā̃",
+  "आदमियाँ": "ādmiyā̃",
+  "आदमे": "ādme",
+  "आदमीएँ": "ādmīẽ",
+  "लड़कीएँ": "laṛkīẽ",
+  "मेज़े": "meze",
+  "मेज़ियाँ": "meziyā̃",
+  "कुरसीएँ": "kursīẽ",
+  "कुरसे": "kurse",
+  "पंखाएँ": "pankhāẽ",
+  "पंखियाँ": "pankhiyā̃",
+  "माते": "māte",
+  "मातियाँ": "mātiyā̃",
+  "पिते": "pite",
+  "पिताएँ": "pitāẽ",
+  "पितियाँ": "pitiyā̃",
+  "चिड़ियाएँ": "ciṛiyāẽ",
+  "चिड़िये": "ciṛiye",
+  "साइकिलियाँ": "sāikiliyā̃",
+  "साइकिले": "sāikile",
+  "लाली": "lālī",
+  "लाले": "lāle",
+  "लाला": "lālā",
+  "ख़ाले": "khāle",
+  "ख़ाला": "khālā",
+  "सफ़ेदी": "safedī",
+  "सफ़ेदा": "safedā",
+  "सफ़ेदे": "safede",
+  "दरवाज़ाएँ": "darvāzāẽ",
+  "दरवाज़ियाँ": "darvāziyā̃",
+  "किताबे": "kitābe",
+  "किताबियाँ": "kitābiyā̃"
+ },
+ "lessons": [
+  {
+   "id": "be",
+   "title": "हूँ, हो, है or हैं?",
+   "desc": "Pick the right form of “to be”",
+   "skill": "be",
+   "items": [
+    {
+     "id": "be:0",
+     "t": "mc",
+     "q": "Fill the gap: “I am American.”",
+     "hi": "मैं अमरीकन ___ ।",
+     "say": "मैं अमरीकन हूँ ।",
+     "en": "I[0] am[2] American[1].",
+     "a": "हूँ",
+     "wrong": [
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). मैं always takes हूँ."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. मैं always takes हूँ."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. मैं always takes हूँ."
+      ]
+     ]
+    },
+    {
+     "id": "be:1",
+     "t": "mc",
+     "q": "Fill the gap: “Are you OK?”",
+     "hi": "तुम ठीक ___ ?",
+     "say": "तुम ठीक हो ?",
+     "en": "Are[2] you[0] OK[1]?",
+     "a": "हो",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). तुम takes हो."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. तुम takes हो."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. तुम takes हो."
+      ]
+     ]
+    },
+    {
+     "id": "be:2",
+     "t": "mc",
+     "q": "Fill the gap: “This room is clean.”",
+     "hi": "यह कमरा साफ़ ___ ।",
+     "say": "यह कमरा साफ़ है ।",
+     "en": "This[0] room[1] is[3] clean[2].",
+     "a": "है",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). The subject is one thing, so it takes है."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). The subject is one thing, so it takes है."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. The subject is one thing, so it takes है."
+      ]
+     ]
+    },
+    {
+     "id": "be:3",
+     "t": "mc",
+     "q": "Fill the gap: “We are Panjabi.”",
+     "hi": "हम पंजाबी ___ ।",
+     "say": "हम पंजाबी हैं ।",
+     "en": "We[0] are[2] Panjabi[1].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). हम takes हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). हम takes हैं."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. हम takes हैं."
+      ]
+     ]
+    },
+    {
+     "id": "be:4",
+     "t": "mc",
+     "q": "Fill the gap: “Are you German?”",
+     "hi": "क्या आप जर्मन ___ ?",
+     "say": "क्या आप जर्मन हैं ?",
+     "en": "Are[3] you[1] German[2]?",
+     "a": "हैं",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). आप is grammatically plural, so it takes हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). आप is grammatically plural, so it takes हैं."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. आप is grammatically plural, so it takes हैं."
+      ]
+     ]
+    },
+    {
+     "id": "be:5",
+     "t": "mc",
+     "q": "Fill the gap: “Those boys are Russian.”",
+     "hi": "वे लड़के रूसी ___ ।",
+     "say": "वे लड़के रूसी हैं ।",
+     "en": "Those[0] boys[1] are[3] Russian[2].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). The subject is plural, so it takes हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). The subject is plural, so it takes हैं."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. The subject is plural, so it takes हैं."
+      ]
+     ]
+    },
+    {
+     "id": "be:6",
+     "t": "mc",
+     "q": "Fill the gap: “You are a good girl.”",
+     "hi": "तू अच्छी लड़की ___ ।",
+     "say": "तू अच्छी लड़की है ।",
+     "en": "You[0] are[3] a good[1] girl[2].",
+     "a": "है",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). तू takes है, like यह and वह."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). तू takes है, like यह and वह."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. तू takes है, like यह and वह."
+      ]
+     ]
+    },
+    {
+     "id": "be:7",
+     "t": "mc",
+     "q": "Fill the gap: “Both chairs are old.”",
+     "hi": "दोनों कुरसियाँ पुरानी ___ ।",
+     "say": "दोनों कुरसियाँ पुरानी हैं ।",
+     "en": "Both[0] chairs[1] are[3] old[2].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). The subject is plural, so it takes हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). The subject is plural, so it takes हैं."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. The subject is plural, so it takes हैं."
+      ]
+     ]
+    },
+    {
+     "id": "be:8",
+     "t": "mc",
+     "q": "Fill the gap: “That car is white.”",
+     "hi": "वह गाड़ी सफ़ेद ___ ।",
+     "say": "वह गाड़ी सफ़ेद है ।",
+     "en": "That[0] car[1] is[3] white[2].",
+     "a": "है",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). The subject is one thing, so it takes है."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). The subject is one thing, so it takes है."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. The subject is one thing, so it takes है."
+      ]
+     ]
+    },
+    {
+     "id": "be:9",
+     "t": "mc",
+     "q": "Fill the gap: “Are you two Gujarati?”",
+     "hi": "क्या तुम दोनों गुजराती ___ ?",
+     "say": "क्या तुम दोनों गुजराती हो ?",
+     "en": "Are[4] you[1] two[2] Gujarati[3]?",
+     "a": "हो",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). The subject is still तुम, so it takes हो."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. The subject is still तुम, so it takes हो."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. The subject is still तुम, so it takes हो."
+      ]
+     ]
+    },
+    {
+     "id": "be:10",
+     "t": "mc",
+     "q": "Fill the gap: “Grandmother is very nice.”",
+     "hi": "दादी जी बहुत अच्छी ___ ।",
+     "say": "दादी जी बहुत अच्छी हैं ।",
+     "en": "Grandmother[0] is[4] very[2] nice[3].",
+     "a": "हैं",
+     "wrong": [
+      [
+       "हूँ",
+       "हूँ goes only with मैं (I). Respect for a person is shown with the plural verb, हैं."
+      ],
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). Respect for a person is shown with the plural verb, हैं."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. Respect for a person is shown with the plural verb, हैं."
+      ]
+     ]
+    },
+    {
+     "id": "be:11",
+     "t": "mc",
+     "q": "Fill the gap: “I am not Russian.”",
+     "hi": "मैं रूसी नहीं ___ ।",
+     "say": "मैं रूसी नहीं हूँ ।",
+     "en": "I[0] am[3] not[2] Russian[1].",
+     "a": "हूँ",
+     "wrong": [
+      [
+       "हो",
+       "हो goes only with तुम (familiar “you”). मैं always takes हूँ."
+      ],
+      [
+       "है",
+       "है goes with one person or thing: यह, वह, तू or a singular noun. मैं always takes हूँ."
+      ],
+      [
+       "हैं",
+       "हैं goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. मैं always takes हूँ."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "plural",
+   "title": "One and many",
+   "desc": "Noun plurals by gender and ending",
+   "skill": "plural",
+   "items": [
+    {
+     "id": "pl:0",
+     "t": "mc",
+     "q": "Pick the plural of “boy” (masculine)",
+     "hi": "लड़का",
+     "audio": true,
+     "say": "लड़के",
+     "a": "लड़के",
+     "wrong": [
+      [
+       "लड़काएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. लड़का is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "लड़कियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. लड़का is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "लड़का",
+       "लड़का is the singular left as it is, but this noun does change in the plural. लड़का is masculine. Masculine nouns ending in -ā change it to -e."
+      ]
+     ]
+    },
+    {
+     "id": "pl:1",
+     "t": "mc",
+     "q": "Pick the plural of “room” (masculine)",
+     "hi": "कमरा",
+     "audio": true,
+     "say": "कमरे",
+     "a": "कमरे",
+     "wrong": [
+      [
+       "कमरा",
+       "कमरा is the singular left as it is, but this noun does change in the plural. कमरा is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "कमराएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. कमरा is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "कमरें",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. कमरा is masculine. Masculine nouns ending in -ā change it to -e."
+      ]
+     ]
+    },
+    {
+     "id": "pl:2",
+     "t": "mc",
+     "q": "Pick the plural of “house” (masculine)",
+     "hi": "मकान",
+     "audio": true,
+     "say": "मकान",
+     "a": "मकान",
+     "wrong": [
+      [
+       "मकाने",
+       "The ending -e is how masculine nouns in -ā form their plural. मकान is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ],
+      [
+       "मकानें",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. मकान is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ],
+      [
+       "मकानियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. मकान is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ]
+     ]
+    },
+    {
+     "id": "pl:3",
+     "t": "mc",
+     "q": "Pick the plural of “man” (masculine)",
+     "hi": "आदमी",
+     "audio": true,
+     "say": "आदमी",
+     "a": "आदमी",
+     "wrong": [
+      [
+       "आदमियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. आदमी is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ],
+      [
+       "आदमे",
+       "The ending -e is how masculine nouns in -ā form their plural. आदमी is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ],
+      [
+       "आदमीएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. आदमी is masculine. Masculine nouns that do not end in -ā stay the same in the plural."
+      ]
+     ]
+    },
+    {
+     "id": "pl:4",
+     "t": "mc",
+     "q": "Pick the plural of “girl” (feminine)",
+     "hi": "लड़की",
+     "audio": true,
+     "say": "लड़कियाँ",
+     "a": "लड़कियाँ",
+     "wrong": [
+      [
+       "लड़कीएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. लड़की is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ],
+      [
+       "लड़के",
+       "The ending -e is how masculine nouns in -ā form their plural. लड़की is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ],
+      [
+       "लड़की",
+       "लड़की is the singular left as it is, but this noun does change in the plural. लड़की is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ]
+     ]
+    },
+    {
+     "id": "pl:5",
+     "t": "mc",
+     "q": "Pick the plural of “table” (feminine)",
+     "hi": "मेज़",
+     "audio": true,
+     "say": "मेज़ें",
+     "a": "मेज़ें",
+     "wrong": [
+      [
+       "मेज़",
+       "मेज़ is the singular left as it is, but this noun does change in the plural. मेज़ is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ],
+      [
+       "मेज़े",
+       "The ending -e is how masculine nouns in -ā form their plural. मेज़ is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ],
+      [
+       "मेज़ियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. मेज़ is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ]
+     ]
+    },
+    {
+     "id": "pl:6",
+     "t": "mc",
+     "q": "Pick the plural of “chair” (feminine)",
+     "hi": "कुरसी",
+     "audio": true,
+     "say": "कुरसियाँ",
+     "a": "कुरसियाँ",
+     "wrong": [
+      [
+       "कुरसीएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. कुरसी is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ],
+      [
+       "कुरसे",
+       "The ending -e is how masculine nouns in -ā form their plural. कुरसी is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ],
+      [
+       "कुरसी",
+       "कुरसी is the singular left as it is, but this noun does change in the plural. कुरसी is feminine. Feminine nouns ending in -ī change it to -iyā̃."
+      ]
+     ]
+    },
+    {
+     "id": "pl:7",
+     "t": "mc",
+     "q": "Pick the plural of “fan” (masculine)",
+     "hi": "पंखा",
+     "audio": true,
+     "say": "पंखे",
+     "a": "पंखे",
+     "wrong": [
+      [
+       "पंखाएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. पंखा is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "पंखियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. पंखा is masculine. Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "पंखा",
+       "पंखा is the singular left as it is, but this noun does change in the plural. पंखा is masculine. Masculine nouns ending in -ā change it to -e."
+      ]
+     ]
+    },
+    {
+     "id": "pl:8",
+     "t": "mc",
+     "q": "Pick the plural of “mother” (feminine)",
+     "hi": "माता",
+     "audio": true,
+     "say": "माताएँ",
+     "a": "माताएँ",
+     "wrong": [
+      [
+       "माते",
+       "The ending -e is how masculine nouns in -ā form their plural. माता is feminine. Feminine nouns that do not end in -ī add -ẽ, even when they end in -ā."
+      ],
+      [
+       "मातियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. माता is feminine. Feminine nouns that do not end in -ī add -ẽ, even when they end in -ā."
+      ],
+      [
+       "माता",
+       "माता is the singular left as it is, but this noun does change in the plural. माता is feminine. Feminine nouns that do not end in -ī add -ẽ, even when they end in -ā."
+      ]
+     ]
+    },
+    {
+     "id": "pl:9",
+     "t": "mc",
+     "q": "Pick the plural of “father” (masculine)",
+     "hi": "पिता",
+     "audio": true,
+     "say": "पिता",
+     "a": "पिता",
+     "wrong": [
+      [
+       "पिते",
+       "The ending -e is how masculine nouns in -ā form their plural. पिता is masculine. A few masculine relationship words ending in -ā never change."
+      ],
+      [
+       "पिताएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. पिता is masculine. A few masculine relationship words ending in -ā never change."
+      ],
+      [
+       "पितियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. पिता is masculine. A few masculine relationship words ending in -ā never change."
+      ]
+     ]
+    },
+    {
+     "id": "pl:10",
+     "t": "mc",
+     "q": "Pick the plural of “bird” (feminine)",
+     "hi": "चिड़िया",
+     "audio": true,
+     "say": "चिड़ियाँ",
+     "a": "चिड़ियाँ",
+     "wrong": [
+      [
+       "चिड़ियाएँ",
+       "The ending -ẽ belongs to feminine nouns that do not end in -ī. चिड़िया is feminine. Feminine nouns ending in -iyā change it to -iyā̃."
+      ],
+      [
+       "चिड़िये",
+       "The ending -e is how masculine nouns in -ā form their plural. चिड़िया is feminine. Feminine nouns ending in -iyā change it to -iyā̃."
+      ],
+      [
+       "चिड़िया",
+       "चिड़िया is the singular left as it is, but this noun does change in the plural. चिड़िया is feminine. Feminine nouns ending in -iyā change it to -iyā̃."
+      ]
+     ]
+    },
+    {
+     "id": "pl:11",
+     "t": "mc",
+     "q": "Pick the plural of “bicycle” (feminine)",
+     "hi": "साइकिल",
+     "audio": true,
+     "say": "साइकिलें",
+     "a": "साइकिलें",
+     "wrong": [
+      [
+       "साइकिल",
+       "साइकिल is the singular left as it is, but this noun does change in the plural. साइकिल is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ],
+      [
+       "साइकिलियाँ",
+       "The ending -iyā̃ belongs to feminine nouns that end in -ī or -iyā. साइकिल is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ],
+      [
+       "साइकिले",
+       "The ending -e is how masculine nouns in -ā form their plural. साइकिल is feminine. Feminine nouns that do not end in -ī add -ẽ."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "adj",
+   "title": "Adjectives that agree",
+   "desc": "-ā, -e, -ī, or no change",
+   "skill": "adj",
+   "items": [
+    {
+     "id": "adj:0",
+     "t": "mc",
+     "q": "Complete: “big room”",
+     "hi": "___ कमरा",
+     "say": "बड़ा कमरा",
+     "en": "big[0] room[1]",
+     "a": "बड़ा",
+     "wrong": [
+      [
+       "बड़े",
+       "The -e form goes with masculine plural nouns. कमरा is masculine singular. So it needs बड़ा."
+      ],
+      [
+       "बड़ी",
+       "The -ī form goes with feminine nouns, singular or plural. कमरा is masculine singular. So it needs बड़ा."
+      ]
+     ]
+    },
+    {
+     "id": "adj:1",
+     "t": "mc",
+     "q": "Complete: “small girls”",
+     "hi": "___ लड़कियाँ",
+     "say": "छोटी लड़कियाँ",
+     "en": "small[0] girls[1]",
+     "a": "छोटी",
+     "wrong": [
+      [
+       "छोटा",
+       "The -ā form goes with a masculine singular noun. लड़कियाँ is feminine plural. So it needs छोटी."
+      ],
+      [
+       "छोटे",
+       "The -e form goes with masculine plural nouns. लड़कियाँ is feminine plural. So it needs छोटी."
+      ]
+     ]
+    },
+    {
+     "id": "adj:2",
+     "t": "mc",
+     "q": "Complete: “other rooms”",
+     "hi": "___ कमरे",
+     "say": "दूसरे कमरे",
+     "en": "other[0] rooms[1]",
+     "a": "दूसरे",
+     "wrong": [
+      [
+       "दूसरा",
+       "The -ā form goes with a masculine singular noun. कमरे is masculine plural. So it needs दूसरे."
+      ],
+      [
+       "दूसरी",
+       "The -ī form goes with feminine nouns, singular or plural. कमरे is masculine plural. So it needs दूसरे."
+      ]
+     ]
+    },
+    {
+     "id": "adj:3",
+     "t": "mc",
+     "q": "Complete: “old table”",
+     "hi": "___ मेज़",
+     "say": "पुरानी मेज़",
+     "en": "old[0] table[1]",
+     "a": "पुरानी",
+     "wrong": [
+      [
+       "पुराना",
+       "The -ā form goes with a masculine singular noun. मेज़ is feminine singular. So it needs पुरानी."
+      ],
+      [
+       "पुराने",
+       "The -e form goes with masculine plural nouns. मेज़ is feminine singular. So it needs पुरानी."
+      ]
+     ]
+    },
+    {
+     "id": "adj:4",
+     "t": "mc",
+     "q": "Complete: “old bicycles”",
+     "hi": "___ साइकिलें",
+     "say": "पुरानी साइकिलें",
+     "en": "old[0] bicycles[1]",
+     "a": "पुरानी",
+     "wrong": [
+      [
+       "पुराने",
+       "The -e form goes with masculine plural nouns. साइकिलें is feminine plural. So it needs पुरानी."
+      ],
+      [
+       "पुराना",
+       "The -ā form goes with a masculine singular noun. साइकिलें is feminine plural. So it needs पुरानी."
+      ]
+     ]
+    },
+    {
+     "id": "adj:5",
+     "t": "mc",
+     "q": "Complete: “good boys”",
+     "hi": "___ लड़के",
+     "say": "अच्छे लड़के",
+     "en": "good[0] boys[1]",
+     "a": "अच्छे",
+     "wrong": [
+      [
+       "अच्छा",
+       "The -ā form goes with a masculine singular noun. लड़के is masculine plural. So it needs अच्छे."
+      ],
+      [
+       "अच्छी",
+       "The -ī form goes with feminine nouns, singular or plural. लड़के is masculine plural. So it needs अच्छे."
+      ]
+     ]
+    },
+    {
+     "id": "adj:6",
+     "t": "mc",
+     "q": "Complete: “two big houses”",
+     "hi": "दो ___ मकान",
+     "say": "दो बड़े मकान",
+     "en": "two[0] big[1] houses[2]",
+     "a": "बड़े",
+     "wrong": [
+      [
+       "बड़ा",
+       "The -ā form goes with a masculine singular noun. मकान is masculine, and with दो it is plural. So it needs बड़े."
+      ],
+      [
+       "बड़ी",
+       "The -ī form goes with feminine nouns, singular or plural. मकान is masculine, and with दो it is plural. So it needs बड़े."
+      ]
+     ]
+    },
+    {
+     "id": "adj:7",
+     "t": "mc",
+     "q": "Complete: “red chairs”",
+     "hi": "___ कुरसियाँ",
+     "say": "लाल कुरसियाँ",
+     "en": "red[0] chairs[1]",
+     "a": "लाल",
+     "wrong": [
+      [
+       "लाली",
+       "लाली is not a real form. लाल never changes. Only adjectives ending in -ā change to match the noun."
+      ],
+      [
+       "लाले",
+       "लाले is not a real form. लाल never changes. Only adjectives ending in -ā change to match the noun."
+      ],
+      [
+       "लाला",
+       "लाला is not a real form. लाल never changes. Only adjectives ending in -ā change to match the noun."
+      ]
+     ]
+    },
+    {
+     "id": "adj:8",
+     "t": "mc",
+     "q": "Complete: “empty rooms”",
+     "hi": "___ कमरे",
+     "say": "ख़ाली कमरे",
+     "en": "empty[0] rooms[1]",
+     "a": "ख़ाली",
+     "wrong": [
+      [
+       "ख़ाले",
+       "ख़ाले is not a real form. ख़ाली never changes. Only adjectives ending in -ā change to match the noun."
+      ],
+      [
+       "ख़ाला",
+       "ख़ाला is not a real form. ख़ाली never changes. Only adjectives ending in -ā change to match the noun."
+      ]
+     ]
+    },
+    {
+     "id": "adj:9",
+     "t": "mc",
+     "q": "Complete: “an elderly man”",
+     "hi": "एक ___ आदमी",
+     "say": "एक बूढ़ा आदमी",
+     "en": "an[0] elderly[1] man[2]",
+     "a": "बूढ़ा",
+     "wrong": [
+      [
+       "बूढ़ी",
+       "The -ī form goes with feminine nouns, singular or plural. आदमी is masculine singular here. So it needs बूढ़ा."
+      ],
+      [
+       "बूढ़े",
+       "The -e form goes with masculine plural nouns. आदमी is masculine singular here. So it needs बूढ़ा."
+      ]
+     ]
+    },
+    {
+     "id": "adj:10",
+     "t": "mc",
+     "q": "Complete: “elderly grandmother”",
+     "hi": "___ दादी",
+     "say": "बूढ़ी दादी",
+     "en": "elderly[0] grandmother[1]",
+     "a": "बूढ़ी",
+     "wrong": [
+      [
+       "बूढ़ा",
+       "The -ā form goes with a masculine singular noun. दादी is feminine singular. So it needs बूढ़ी."
+      ],
+      [
+       "बूढ़े",
+       "The -e form goes with masculine plural nouns. दादी is feminine singular. So it needs बूढ़ी."
+      ]
+     ]
+    },
+    {
+     "id": "adj:11",
+     "t": "mc",
+     "q": "Complete: “white car”",
+     "hi": "___ गाड़ी",
+     "say": "सफ़ेद गाड़ी",
+     "en": "white[0] car[1]",
+     "a": "सफ़ेद",
+     "wrong": [
+      [
+       "सफ़ेदी",
+       "सफ़ेदी is not a real form. सफ़ेद never changes. Only adjectives ending in -ā change to match the noun."
+      ],
+      [
+       "सफ़ेदा",
+       "सफ़ेदा is not a real form. सफ़ेद never changes. Only adjectives ending in -ā change to match the noun."
+      ],
+      [
+       "सफ़ेदे",
+       "सफ़ेदे is not a real form. सफ़ेद never changes. Only adjectives ending in -ā change to match the noun."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "This[0] room[1] is[3] big[2].",
+     "ans": [
+      "यह",
+      "कमरा",
+      "बड़ा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "बड़ी",
+       "You used बड़ी where बड़ा is needed. The form has to match the gender and number of the noun."
+      ],
+      [
+       "हैं",
+       "You used हैं, which goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. This sentence needs है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "This[0] is[3] a big[1] room[2].",
+     "ans": [
+      "यह",
+      "बड़ा",
+      "कमरा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "बड़े",
+       "You used बड़े where बड़ा is needed. The form has to match the gender and number of the noun."
+      ],
+      [
+       "हो",
+       "You used हो, which goes only with तुम (familiar “you”). This sentence needs है."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Are[3] you[1] Indian[2]? (formal)",
+     "ans": [
+      "क्या",
+      "आप",
+      "हिन्दुस्तानी",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "हो",
+       "You used हो, which goes only with तुम (familiar “you”). This sentence needs हैं."
+      ],
+      [
+       "तुम",
+       "तुम (“you (familiar)”) does not belong in this sentence."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "I[0] am[3] not[2] English[1].",
+     "ans": [
+      "मैं",
+      "अँग्रेज़",
+      "नहीं",
+      "हूँ"
+     ],
+     "wrong": [
+      [
+       "है",
+       "You used है, which goes with one person or thing: यह, वह, तू or a singular noun. This sentence needs हूँ."
+      ],
+      [
+       "हम",
+       "हम (“we”) does not belong in this sentence."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Both[0] cupboards[1] are[3] empty[2].",
+     "ans": [
+      "दोनों",
+      "अलमारियाँ",
+      "ख़ाली",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "अलमारी",
+       "You used अलमारी where अलमारियाँ is needed. The form has to match the gender and number of the noun."
+      ],
+      [
+       "है",
+       "You used है, which goes with one person or thing: यह, वह, तू or a singular noun. This sentence needs हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "That[0] car[1] is[4] not[3] Japanese[2].",
+     "ans": [
+      "वह",
+      "गाड़ी",
+      "जापानी",
+      "नहीं",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हैं",
+       "You used हैं, which goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. This sentence needs है."
+      ],
+      [
+       "यहाँ",
+       "यहाँ (“here”) does not belong in this sentence."
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "{There are}[3] two[1] chairs[2] here[0].",
+     "ans": [
+      "यहाँ",
+      "दो",
+      "कुरसियाँ",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "कुरसी",
+       "You used कुरसी where कुरसियाँ is needed. The form has to match the gender and number of the noun."
+      ],
+      [
+       "है",
+       "You used है, which goes with one person or thing: यह, वह, तू or a singular noun. This sentence needs हैं."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "The window[0] is[3] quite[1] big[2].",
+     "ans": [
+      "खिड़की",
+      "काफ़ी",
+      "बड़ी",
+      "है"
+     ],
+     "wrong": [
+      [
+       "बड़ा",
+       "You used बड़ा where बड़ी is needed. The form has to match the gender and number of the noun."
+      ],
+      [
+       "बहुत",
+       "बहुत (“very”) does not belong in this sentence."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "We[0] are[2] Panjabi[1] but[3] they[4] are[6] Gujarati[5].",
+     "ans": [
+      "हम",
+      "पंजाबी",
+      "हैं",
+      "लेकिन",
+      "वे",
+      "गुजराती",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "हो",
+       "You used हो, which goes only with तुम (familiar “you”). This sentence needs हैं."
+      ],
+      [
+       "और",
+       "और (“and”) does not belong in this sentence."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "The garden[0] is[3] very[1] beautiful[2].",
+     "ans": [
+      "बग़ीचा",
+      "बहुत",
+      "सुन्दर",
+      "है"
+     ],
+     "wrong": [
+      [
+       "हैं",
+       "You used हैं, which goes with हम, आप, ये, वे, plural nouns, and anyone spoken of with respect. This sentence needs है."
+      ],
+      [
+       "काफ़ी",
+       "काफ़ी (“quite”) does not belong in this sentence."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Usage and word order",
+   "desc": "Honorifics, questions, what a sentence means",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "You meet a friend's grandmother for the first time. Which “you” do you use?",
+     "a": "आप",
+     "wrong": [
+      [
+       "तुम",
+       "आप is the respectful default. तुम is for friends and people who expect no formality; तू is only for intimates and small children."
+      ],
+      [
+       "तू",
+       "आप is the respectful default. तुम is for friends and people who expect no formality; तू is only for intimates and small children."
+      ]
+     ]
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Which pronoun takes the verb form हो?",
+     "a": "तुम",
+     "wrong": [
+      [
+       "आप",
+       "Only तुम takes हो. आप takes हैं, मैं takes हूँ, वह takes है."
+      ],
+      [
+       "मैं",
+       "Only तुम takes हो. आप takes हैं, मैं takes हूँ, वह takes है."
+      ],
+      [
+       "वह",
+       "Only तुम takes हो. आप takes हैं, मैं takes हूँ, वह takes है."
+      ]
+     ]
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "तू is safe to use with…",
+     "a": "a small child or someone very close",
+     "wrong": [
+      [
+       "a shopkeeper",
+       "तू marks great intimacy. With anyone else it sounds disrespectful."
+      ],
+      [
+       "your teacher",
+       "तू marks great intimacy. With anyone else it sounds disrespectful."
+      ],
+      [
+       "a new colleague",
+       "तू marks great intimacy. With anyone else it sounds disrespectful."
+      ]
+     ]
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Your teacher is standing beside you. How do you say “He is Indian” respectfully?",
+     "a": "ये हिन्दुस्तानी हैं",
+     "wrong": [
+      [
+       "यह हिन्दुस्तानी है",
+       "For someone you would call आप, use the plural pronoun and verb: ये for someone near, वे for someone further away."
+      ],
+      [
+       "वह हिन्दुस्तानी है",
+       "For someone you would call आप, use the plural pronoun and verb: ये for someone near, वे for someone further away."
+      ],
+      [
+       "तुम हिन्दुस्तानी हो",
+       "For someone you would call आप, use the plural pronoun and verb: ये for someone near, वे for someone further away."
+      ]
+     ]
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "What separates यह from वह?",
+     "a": "Near versus far",
+     "wrong": [
+      [
+       "Male versus female",
+       "यह points to something nearby, वह to something further off. Neither shows gender."
+      ],
+      [
+       "Polite versus casual",
+       "यह points to something nearby, वह to something further off. Neither shows gender."
+      ],
+      [
+       "One versus many",
+       "यह points to something nearby, वह to something further off. Neither shows gender."
+      ]
+     ]
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह गाड़ी लाल है ।",
+     "audio": true,
+     "a": "This car is red.",
+     "wrong": [
+      [
+       "This is a red car.",
+       "The adjective comes after the noun, so “red” is what is being said about the car."
+      ],
+      [
+       "That car is red.",
+       "The adjective comes after the noun, so “red” is what is being said about the car."
+      ],
+      [
+       "Is this car red?",
+       "The adjective comes after the noun, so “red” is what is being said about the car."
+      ]
+     ]
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह लाल गाड़ी है ।",
+     "audio": true,
+     "a": "This is a red car.",
+     "wrong": [
+      [
+       "This car is red.",
+       "The adjective comes before the noun, so the two belong together: “a red car”."
+      ],
+      [
+       "That is a red car.",
+       "The adjective comes before the noun, so the two belong together: “a red car”."
+      ],
+      [
+       "The red car is here.",
+       "The adjective comes before the noun, so the two belong together: “a red car”."
+      ]
+     ]
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "How do you turn तुम ठीक हो into a yes/no question?",
+     "a": "Put क्या at the start",
+     "wrong": [
+      [
+       "Change हो to हैं",
+       "क्या at the start marks a yes/no question. Nothing else in the sentence changes."
+      ],
+      [
+       "Swap the first two words",
+       "क्या at the start marks a yes/no question. Nothing else in the sentence changes."
+      ],
+      [
+       "Add नहीं before हो",
+       "क्या at the start marks a yes/no question. Nothing else in the sentence changes."
+      ]
+     ]
+    },
+    {
+     "id": "us:8",
+     "t": "mc",
+     "q": "Where does नहीं normally go?",
+     "a": "Just before the verb",
+     "wrong": [
+      [
+       "At the very start",
+       "The order is subject first, verb last, with नहीं just before the verb."
+      ],
+      [
+       "After the verb",
+       "The order is subject first, verb last, with नहीं just before the verb."
+      ],
+      [
+       "Before the subject",
+       "The order is subject first, verb last, with नहीं just before the verb."
+      ]
+     ]
+    },
+    {
+     "id": "us:9",
+     "t": "mc",
+     "q": "दरवाज़ा (door) is masculine. Its plural is most likely…",
+     "a": "दरवाज़े",
+     "wrong": [
+      [
+       "दरवाज़ाएँ",
+       "Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "दरवाज़ियाँ",
+       "Masculine nouns ending in -ā change it to -e."
+      ],
+      [
+       "दरवाज़ा",
+       "Masculine nouns ending in -ā change it to -e."
+      ]
+     ]
+    },
+    {
+     "id": "us:10",
+     "t": "mc",
+     "q": "किताब (book) is feminine. Its plural is most likely…",
+     "a": "किताबें",
+     "wrong": [
+      [
+       "किताब",
+       "Feminine nouns ending in a consonant add -ẽ."
+      ],
+      [
+       "किताबे",
+       "Feminine nouns ending in a consonant add -ẽ."
+      ],
+      [
+       "किताबियाँ",
+       "Feminine nouns ending in a consonant add -ẽ."
+      ]
+     ]
+    },
+    {
+     "id": "us:11",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैं अमरीकन नहीं, रूसी हूँ ।",
+     "audio": true,
+     "a": "I'm not American, I'm Russian.",
+     "wrong": [
+      [
+       "I'm American, not Russian.",
+       "नहीं negates what comes before it here. The first हूँ has been dropped, which is allowed after नहीं."
+      ],
+      [
+       "I'm not Russian, I'm American.",
+       "नहीं negates what comes before it here. The first हूँ has been dropped, which is allowed after नहीं."
+      ],
+      [
+       "Am I American or Russian?",
+       "नहीं negates what comes before it here. The first हूँ has been dropped, which is allowed after नहीं."
+      ]
+     ]
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 5,
+  "be": 4,
+  "plural": 3,
+  "adj": 4,
+  "build": 3,
+  "usage": 3
+ }
+}
