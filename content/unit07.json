@@ -1,0 +1,2265 @@
+{
+ "id": "unit7",
+ "n": 7,
+ "title": "Father used to teach Urdu",
+ "titleHi": "पिता जी उर्दू पढ़ाते थे",
+ "scope": "The past imperfective (बोलता था, बोलती थीं) and the routine imperfective; कोई and कुछ as pronouns, adjectives and adverbs, oblique किसी, कोई + number, phrases (हर कोई, सब कुछ, कोई न कोई, कुछ और); चाहिए “is needed” with को and its past; की ज़रूरत है; ordinal numbers (पहला … दसवाँ, -वाँ); aggregatives (दोनों, तीनों, सैकड़ों); conjunct verbs with करना and होना (शुरू करना/होना, बंद करना/होना)",
+ "pages": "book 78–89",
+ "skills": {
+  "past": "Past imperfective",
+  "koi": "कोई and कुछ as pronouns",
+  "kisi": "कोई, कुछ and किसी with nouns",
+  "need": "चाहिए and ज़रूरत",
+  "ord": "Ordinals and aggregatives",
+  "conj": "Conjunct verbs",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अलग",
+   "en": "separate, different",
+   "c": "a"
+  },
+  {
+   "hi": "औरत",
+   "en": "woman",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "करोड़",
+   "en": "ten million (crore)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कानपुर",
+   "en": "Kanpur",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "किसी",
+   "en": "oblique of कोई",
+   "c": "p"
+  },
+  {
+   "hi": "कुछ",
+   "en": "some; somewhat; something",
+   "c": "p"
+  },
+  {
+   "hi": "कुछ और",
+   "en": "something else, some more",
+   "c": "x"
+  },
+  {
+   "hi": "कुछ न कुछ",
+   "en": "something or other",
+   "c": "x"
+  },
+  {
+   "hi": "कुछ नहीं",
+   "en": "nothing",
+   "c": "x"
+  },
+  {
+   "hi": "के नज़दीक",
+   "en": "near, close to",
+   "c": "x"
+  },
+  {
+   "hi": "के समान",
+   "en": "like, equal to",
+   "c": "x"
+  },
+  {
+   "hi": "कोई",
+   "en": "anyone, someone; some, a; about",
+   "c": "p"
+  },
+  {
+   "hi": "कोई और",
+   "en": "someone else",
+   "c": "x"
+  },
+  {
+   "hi": "और कोई",
+   "en": "any other",
+   "c": "x"
+  },
+  {
+   "hi": "कोई न कोई",
+   "en": "someone or other",
+   "c": "x"
+  },
+  {
+   "hi": "कोई नहीं",
+   "en": "no one, nobody",
+   "c": "x"
+  },
+  {
+   "hi": "कौन कौन",
+   "en": "which various people?",
+   "c": "p"
+  },
+  {
+   "hi": "खड़ा",
+   "en": "standing, waiting",
+   "c": "a"
+  },
+  {
+   "hi": "ख़त्म",
+   "en": "finished",
+   "c": "a"
+  },
+  {
+   "hi": "ख़त्म करना",
+   "en": "to finish",
+   "c": "v"
+  },
+  {
+   "hi": "ख़त्म होना",
+   "en": "to end, be finished",
+   "c": "v"
+  },
+  {
+   "hi": "ख़ास",
+   "en": "special, particular",
+   "c": "a"
+  },
+  {
+   "hi": "गर्मी",
+   "en": "heat; summer",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गर्मियाँ",
+   "en": "the hot season (plural)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "चतुर्थ",
+   "en": "fourth (formal), IVth",
+   "c": "a"
+  },
+  {
+   "hi": "चावल",
+   "en": "rice",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चाहिए",
+   "en": "(is) needed, wanted",
+   "c": "x"
+  },
+  {
+   "hi": "चौथा",
+   "en": "fourth",
+   "c": "a"
+  },
+  {
+   "hi": "छठा",
+   "en": "sixth",
+   "c": "a"
+  },
+  {
+   "hi": "छुट्टी",
+   "en": "holiday; free time",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़मीन",
+   "en": "ground; land",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़रूरत",
+   "en": "need",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ज़रूरी",
+   "en": "urgent, necessary",
+   "c": "a"
+  },
+  {
+   "hi": "जवाब देना",
+   "en": "to reply",
+   "c": "v"
+  },
+  {
+   "hi": "जी",
+   "en": "yes (polite)",
+   "c": "x"
+  },
+  {
+   "hi": "जेब",
+   "en": "pocket",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ठीक से",
+   "en": "properly; exactly",
+   "c": "x"
+  },
+  {
+   "hi": "डाक्टर",
+   "en": "doctor",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "डिब्बा",
+   "en": "box; railway compartment",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तरफ़",
+   "en": "side, direction",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तीसरा",
+   "en": "third",
+   "c": "a"
+  },
+  {
+   "hi": "तृतीय",
+   "en": "third (formal), IIIrd",
+   "c": "a"
+  },
+  {
+   "hi": "दर्जन",
+   "en": "a dozen",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दूर",
+   "en": "distant, far, away",
+   "c": "a"
+  },
+  {
+   "hi": "दूसरा",
+   "en": "second",
+   "c": "a"
+  },
+  {
+   "hi": "देर",
+   "en": "delay, a while",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "द्वितीय",
+   "en": "second (formal), IInd",
+   "c": "a"
+  },
+  {
+   "hi": "नवाँ",
+   "en": "ninth",
+   "c": "a"
+  },
+  {
+   "hi": "पंचम",
+   "en": "fifth (formal), Vth",
+   "c": "a"
+  },
+  {
+   "hi": "पढ़ाना",
+   "en": "to teach",
+   "c": "v"
+  },
+  {
+   "hi": "पहला",
+   "en": "first",
+   "c": "a"
+  },
+  {
+   "hi": "पाँचवाँ",
+   "en": "fifth",
+   "c": "a"
+  },
+  {
+   "hi": "प्रथम",
+   "en": "first (formal), Ist",
+   "c": "a"
+  },
+  {
+   "hi": "फ़र्क़",
+   "en": "difference, separation",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बाद में",
+   "en": "later on",
+   "c": "x"
+  },
+  {
+   "hi": "बाबू",
+   "en": "clerk",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बिजली",
+   "en": "electricity",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बेकार",
+   "en": "useless",
+   "c": "a"
+  },
+  {
+   "hi": "बैठा",
+   "en": "seated, sitting",
+   "c": "a"
+  },
+  {
+   "hi": "महायुद्ध",
+   "en": "great war",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मार्च",
+   "en": "March",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुसलमान",
+   "en": "Muslim",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मोती",
+   "en": "pearl",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "रंग",
+   "en": "colour",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "रोटी",
+   "en": "bread; food",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "लाख",
+   "en": "hundred thousand (lakh)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वजह",
+   "en": "reason, cause",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शनिवार",
+   "en": "Saturday",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शाम",
+   "en": "evening",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शुरू करना",
+   "en": "to begin, start (something)",
+   "c": "v"
+  },
+  {
+   "hi": "शुरू होना",
+   "en": "to begin, get started",
+   "c": "v"
+  },
+  {
+   "hi": "सपना",
+   "en": "dream",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सपना देखना",
+   "en": "to dream",
+   "c": "v"
+  },
+  {
+   "hi": "सब कुछ",
+   "en": "everything",
+   "c": "x"
+  },
+  {
+   "hi": "सिनेमा",
+   "en": "cinema",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सैकड़ा",
+   "en": "a hundred (as a group)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सैर",
+   "en": "walk, trip",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सैर करना",
+   "en": "to go for a walk, trip",
+   "c": "v"
+  },
+  {
+   "hi": "स्वर्ग",
+   "en": "heaven",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हज़ार",
+   "en": "thousand",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हर",
+   "en": "each, every",
+   "c": "a"
+  },
+  {
+   "hi": "हर कोई",
+   "en": "everyone",
+   "c": "p"
+  },
+  {
+   "hi": "होटल",
+   "en": "hotel; café",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सातवाँ",
+   "en": "seventh",
+   "c": "a"
+  },
+  {
+   "hi": "आठवाँ",
+   "en": "eighth",
+   "c": "a"
+  },
+  {
+   "hi": "दसवाँ",
+   "en": "tenth",
+   "c": "a"
+  },
+  {
+   "hi": "बारहवाँ",
+   "en": "twelfth",
+   "c": "a"
+  },
+  {
+   "hi": "तीनों",
+   "en": "all three",
+   "c": "x"
+  },
+  {
+   "hi": "चारों",
+   "en": "all four",
+   "c": "x"
+  },
+  {
+   "hi": "दर्जनों",
+   "en": "dozens of",
+   "c": "x"
+  },
+  {
+   "hi": "सैकड़ों",
+   "en": "hundreds of",
+   "c": "x"
+  },
+  {
+   "hi": "हज़ारों",
+   "en": "thousands of",
+   "c": "x"
+  },
+  {
+   "hi": "लाखों",
+   "en": "lakhs of",
+   "c": "x"
+  },
+  {
+   "hi": "करोड़ों",
+   "en": "crores of",
+   "c": "x"
+  },
+  {
+   "hi": "बंद करना",
+   "en": "to shut (something)",
+   "c": "v"
+  },
+  {
+   "hi": "बंद होना",
+   "en": "to close, be shut",
+   "c": "v"
+  },
+  {
+   "hi": "साफ़ करना",
+   "en": "to clean",
+   "c": "v"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "past",
+   "title": "बोलता था, बोलती थी",
+   "desc": "The past imperfective: “used to …”",
+   "skill": "past",
+   "items": [
+    {
+     "id": "ps:0",
+     "t": "mc",
+     "q": "Fill the gap: “My grandmother used to chat with the children in the evening.”",
+     "hi": "मेरी दादी जी शाम को बच्चों के साथ गपशप करती ___ ।",
+     "say": "मेरी दादी जी शाम को बच्चों के साथ गपशप करती थीं ।",
+     "en": "My[0] grandmother[1+2] {used to}[10] chat[8+9] with[6+7] the children[5] {in the evening}[3+4].",
+     "a": "थीं",
+     "wrong": [
+      [
+       "थे",
+       "थे is masculine. दादी is feminine: करती थीं."
+      ],
+      [
+       "था",
+       "था is masculine singular. A respected woman takes the feminine plural थीं."
+      ]
+     ],
+     "why": "The past imperfective is the participle + था, थी, थे, थीं. Respect makes the auxiliary plural: दादी जी … करती थीं."
+    },
+    {
+     "id": "ps:1",
+     "t": "mc",
+     "q": "Fill the gap: “Raj used to get up to a lot of mischief as a child.”",
+     "hi": "राज बचपन में बहुत शरारत ___ था ।",
+     "say": "राज बचपन में बहुत शरारत करता था ।",
+     "en": "Raj[0] {used to}[6] {get up to}[5] {a lot of}[3] mischief[4] {as a child}[1+2].",
+     "a": "करता",
+     "wrong": [
+      [
+       "करती",
+       "करती is feminine. Raj is a boy."
+      ],
+      [
+       "करते",
+       "करते is plural. Raj, spoken of plainly, is one person, as था shows."
+      ]
+     ],
+     "why": "The participle agrees with the subject, and था follows it."
+    },
+    {
+     "id": "ps:2",
+     "t": "mc",
+     "q": "Fill the gap: “Where did you use to work before? (to a man)”",
+     "hi": "तुम पहले कहाँ काम करते ___ ?",
+     "say": "तुम पहले कहाँ काम करते थे ?",
+     "en": "Where[2] {did you use to}[0+5] work[3+4] before[1]? (to a man)",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular. तुम always takes plural agreement: करते थे."
+      ],
+      [
+       "थीं",
+       "थीं is feminine plural, but the participle करते is masculine. The auxiliary agrees with the participle: -tā था, -tī थी, -te थे, and -tī थीं for feminine plural."
+      ]
+     ],
+     "why": "तुम … करते थे to a man; a woman would be asked तुम … करती थीं."
+    },
+    {
+     "id": "ps:3",
+     "t": "mc",
+     "q": "Put this into the past (“used to …”)",
+     "a": "मेरी बहिनें सुबह जल्दी उठती थीं ।",
+     "wrong": [
+      [
+       "मेरी बहिनें सुबह जल्दी उठतीं थीं ।",
+       "Only the auxiliary carries the plural nasal: उठती थीं, just as उठती हैं. The participle is nasalized only when the auxiliary is dropped."
+      ],
+      [
+       "मेरी बहिनें सुबह जल्दी उठती थी ।",
+       "थी is singular. बहिनें is plural: थीं."
+      ]
+     ],
+     "why": "Replace हैं with थीं. The participle stays the same.",
+     "hi": "मेरी बहिनें सुबह जल्दी उठती हैं ।",
+     "audio": true,
+     "say": "मेरी बहिनें सुबह जल्दी उठती थीं ।",
+     "en": "My[0] sisters[1] {used to}[5] {get up}[4] early[3] {in the morning}[2]."
+    },
+    {
+     "id": "ps:4",
+     "t": "mc",
+     "q": "Fill the gap: “In that village girls didn't use to go to school.”",
+     "hi": "उस गाँव में लड़कियाँ स्कूल नहीं ___ थीं ।",
+     "say": "उस गाँव में लड़कियाँ स्कूल नहीं जाती थीं ।",
+     "en": "In[2] that[0] village[1] girls[3] {didn't use to}[5+7] go[6] {to school}[4].",
+     "a": "जाती",
+     "wrong": [
+      [
+       "जातीं",
+       "With थीं present the participle is not nasalized: जाती थीं. The nasal moves to the participle only when the auxiliary is dropped."
+      ],
+      [
+       "जाते",
+       "जाते is masculine. लड़कियाँ are feminine."
+      ]
+     ],
+     "why": "Feminine plural: -tī + थीं."
+    },
+    {
+     "id": "ps:5",
+     "t": "mc",
+     "q": "Fill the gap: “My mother used to know Sanskrit.”",
+     "hi": "मेरी माँ को संस्कृत आती ___ ।",
+     "say": "मेरी माँ को संस्कृत आती थी ।",
+     "en": "My[0] mother[1] {used to know}[2+4+5] Sanskrit[3].",
+     "a": "थी",
+     "wrong": [
+      [
+       "थीं",
+       "The verb agrees with संस्कृत, the subject of the को construction, not with माँ. संस्कृत is singular: थी."
+      ],
+      [
+       "था",
+       "था is masculine. संस्कृत is feminine."
+      ]
+     ],
+     "why": "X को (language) आना in the past: आती थी, agreeing with the language."
+    },
+    {
+     "id": "ps:6",
+     "t": "mc",
+     "q": "Fill the gap: “As children we used to play all day.”",
+     "hi": "बचपन में हम दिन भर ___ थे ।",
+     "say": "बचपन में हम दिन भर खेलते थे ।",
+     "en": "{As children}[0+1] we[2] {used to}[6] play[5] {all day}[3+4].",
+     "a": "खेलते",
+     "wrong": [
+      [
+       "खेलता",
+       "खेलता is singular. हम is plural: खेलते थे."
+      ],
+      [
+       "खेलना",
+       "खेलना is the infinitive. The tense uses the participle, stem + -tā, -tī, -te."
+      ]
+     ],
+     "why": "हम takes the -te participle and थे."
+    },
+    {
+     "id": "ps:7",
+     "t": "mc",
+     "q": "There is no auxiliary here. What does the sentence mean?",
+     "a": "In the summer we would stay in the mountains.",
+     "wrong": [
+      [
+       "In the summer we stay in the mountains.",
+       "A present statement keeps हैं, which is dropped only after नहीं. With no auxiliary at all, the verb tells of a past routine: “we would …”."
+      ],
+      [
+       "Last summer we stayed in the mountains.",
+       "A single past event needs the perfective, taught in Unit 11. The imperfective tells of a habit."
+      ]
+     ],
+     "why": "The ‘routine imperfective’: the participle alone narrates past habits, like English “would”.",
+     "hi": "गर्मियों में हम पहाड़ों पर रहते ।",
+     "audio": true,
+     "say": "गर्मियों में हम पहाड़ों पर रहते ।",
+     "en": "{In the summer}[0+1] we[2] {would stay}[5] in[4] the mountains[3]."
+    },
+    {
+     "id": "ps:8",
+     "t": "mc",
+     "q": "Fill the gap: “In the past the air in this city used to be clean.”",
+     "hi": "पहले इस शहर में हवा साफ़ ___ थी ।",
+     "say": "पहले इस शहर में हवा साफ़ होती थी ।",
+     "en": "{In the past}[0] the air[4] in[3] this[1] city[2] {used to be}[6+7] clean[5].",
+     "a": "होती",
+     "wrong": [
+      [
+       "होता",
+       "होता is masculine. हवा is feminine."
+      ],
+      [
+       "होते",
+       "होते is masculine plural. हवा is feminine singular."
+      ]
+     ],
+     "why": "होता था and होती थी mean “used to be”, for lasting states in the past."
+    },
+    {
+     "id": "ps:9",
+     "t": "mc",
+     "q": "Which means “My brother used to work in Delhi”?",
+     "a": "मेरा भाई दिल्ली में काम करता था ।",
+     "wrong": [
+      [
+       "मेरा भाई दिल्ली में काम करता है ।",
+       "करता है is present: “works”. “Used to” needs था."
+      ],
+      [
+       "मेरा भाई दिल्ली में काम करते थे ।",
+       "करते थे is plural. With मेरा the brother is spoken of plainly, so करता था."
+      ]
+     ],
+     "why": "Participle + था gives करता था “used to do”."
+    },
+    {
+     "id": "ps:10",
+     "t": "mc",
+     "q": "Fill the gap: “Those people didn't use to eat rice.”",
+     "hi": "वे लोग चावल नहीं ___ थे ।",
+     "say": "वे लोग चावल नहीं खाते थे ।",
+     "en": "Those[0] people[1] {didn't use to}[3+5] eat[4] rice[2].",
+     "a": "खाते",
+     "wrong": [
+      [
+       "खाता",
+       "खाता is singular. लोग is plural."
+      ],
+      [
+       "खाती",
+       "खाती is feminine. लोग takes the masculine plural."
+      ]
+     ],
+     "why": "नहीं goes before the participle: नहीं खाते थे."
+    }
+   ]
+  },
+  {
+   "id": "koi",
+   "title": "कोई, कुछ",
+   "desc": "Someone, something, everyone, everything",
+   "skill": "koi",
+   "items": [
+    {
+     "id": "ko:0",
+     "t": "mc",
+     "q": "Fill the gap: “There is someone at the door.”",
+     "hi": "दरवाज़े पर ___ है ।",
+     "say": "दरवाज़े पर कोई है ।",
+     "en": "{There is}[3] someone[2] at[1] the door[0].",
+     "a": "कोई",
+     "wrong": [
+      [
+       "कुछ",
+       "कुछ as a pronoun means “something”. For a person, कोई."
+      ],
+      [
+       "किसी",
+       "किसी is the oblique of कोई, used before a postposition. Here कोई is the subject."
+      ]
+     ],
+     "why": "As pronouns, कोई “someone” is for people and कुछ “something” for things."
+    },
+    {
+     "id": "ko:1",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan knows nothing.”",
+     "hi": "मोहन ___ नहीं जानता ।",
+     "say": "मोहन कुछ नहीं जानता ।",
+     "en": "Mohan[0] knows[3] nothing[1+2].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "कोई",
+       "कोई नहीं means “nobody”. “Nothing” is कुछ नहीं."
+      ],
+      [
+       "किसी",
+       "किसी is the oblique of कोई, which is for people. “Nothing” is कुछ नहीं."
+      ]
+     ],
+     "why": "कुछ नहीं “nothing”, कोई नहीं “nobody”; the two words may stand apart."
+    },
+    {
+     "id": "ko:2",
+     "t": "mc",
+     "q": "Which means “everyone”?",
+     "a": "हर कोई",
+     "wrong": [
+      [
+       "कोई न कोई",
+       "कोई न कोई means “someone or other”."
+      ],
+      [
+       "सब कुछ",
+       "सब कुछ means “everything”."
+      ]
+     ],
+     "why": "हर “each, every” + कोई “someone”."
+    },
+    {
+     "id": "ko:3",
+     "t": "mc",
+     "q": "Fill the gap: “Everyone here speaks Hindi.”",
+     "hi": "यहाँ ___ हिन्दी बोलता है ।",
+     "say": "यहाँ हर कोई हिन्दी बोलता है ।",
+     "en": "Everyone[1+2] here[0] speaks[4+5] Hindi[3].",
+     "a": "हर कोई",
+     "wrong": [
+      [
+       "सब कुछ",
+       "सब कुछ is “everything”, for things. For people, हर कोई."
+      ],
+      [
+       "कुछ न कुछ",
+       "कुछ न कुछ means “something or other”."
+      ]
+     ],
+     "why": "हर कोई takes a singular verb: हर कोई … बोलता है."
+    },
+    {
+     "id": "ko:4",
+     "t": "mc",
+     "q": "Fill the gap: “My mother knows everything.”",
+     "hi": "मेरी माँ ___ जानती हैं ।",
+     "say": "मेरी माँ सब कुछ जानती हैं ।",
+     "en": "My[0] mother[1] knows[4+5] everything[2+3].",
+     "a": "सब कुछ",
+     "wrong": [
+      [
+       "हर कोई",
+       "हर कोई means “everyone”."
+      ],
+      [
+       "कुछ न कुछ",
+       "कुछ न कुछ means “something or other”."
+      ]
+     ],
+     "why": "सब कुछ “everything”."
+    },
+    {
+     "id": "ko:5",
+     "t": "mc",
+     "q": "Fill the gap: “Bring some more milk.”",
+     "hi": "___ और दूध लाओ ।",
+     "say": "कुछ और दूध लाओ ।",
+     "en": "Bring[3] some[0] more[1] milk[2].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "कोई",
+       "कोई और means “someone else”. With a substance like milk, कुछ और “some more”."
+      ],
+      [
+       "हर",
+       "हर means “every”, and goes with a singular countable noun."
+      ]
+     ],
+     "why": "कुछ और “something else, some more”."
+    },
+    {
+     "id": "ko:6",
+     "t": "mc",
+     "q": "Fill the gap: “This isn't my bicycle; it's someone else's.”",
+     "hi": "यह मेरी साइकिल नहीं है, ___ और की है ।",
+     "say": "यह मेरी साइकिल नहीं है, किसी और की है ।",
+     "en": "This[0] isn't[3+4] my[1] bicycle[2]; it's[8] {someone else's}[5+6+7].",
+     "a": "किसी",
+     "wrong": [
+      [
+       "कोई",
+       "Before the postposition की, कोई becomes the oblique किसी, as in किसी और की."
+      ],
+      [
+       "किस",
+       "किस is the oblique of कौन “who?”. किस की would ask “whose?”."
+      ]
+     ],
+     "why": "कोई और “someone else”; oblique किसी और."
+    }
+   ]
+  },
+  {
+   "id": "kisi",
+   "title": "किसी, कुछ, हर",
+   "desc": "Some, about, rather; the oblique किसी",
+   "skill": "kisi",
+   "items": [
+    {
+     "id": "ks:0",
+     "t": "mc",
+     "q": "Fill the gap: “There is some letter on the table.”",
+     "hi": "मेज़ पर ___ चिट्ठी है ।",
+     "say": "मेज़ पर कोई चिट्ठी है ।",
+     "en": "{There is}[4] some[2] letter[3] on[1] the table[0].",
+     "a": "कोई",
+     "wrong": [
+      [
+       "कुछ",
+       "With a single countable item, “some” is कोई. कुछ goes with plurals and with substances."
+      ],
+      [
+       "किसी",
+       "किसी is the oblique form, used before a postposition. Here the noun is direct."
+      ]
+     ],
+     "why": "कोई + singular noun: “some, a certain”."
+    },
+    {
+     "id": "ks:1",
+     "t": "mc",
+     "q": "Fill the gap: “Do you know a good doctor?”",
+     "hi": "क्या आप ___ अच्छे डाक्टर को जानते हैं ?",
+     "say": "क्या आप किसी अच्छे डाक्टर को जानते हैं ?",
+     "en": "Do[7] you[1] know[5+6] a[2] good[3] doctor[4]?",
+     "a": "किसी",
+     "wrong": [
+      [
+       "कोई",
+       "The noun is followed by को, so कोई becomes the oblique किसी."
+      ],
+      [
+       "किस",
+       "किस is the oblique of कौन. किस अच्छे डाक्टर को would mean “which good doctor?”."
+      ]
+     ],
+     "why": "The oblique of कोई is किसी, both as pronoun and as adjective."
+    },
+    {
+     "id": "ks:2",
+     "t": "mc",
+     "q": "Fill the gap: “Some girls play in the garden.”",
+     "hi": "___ लड़कियाँ बग़ीचे में खेलती हैं ।",
+     "say": "कुछ लड़कियाँ बग़ीचे में खेलती हैं ।",
+     "en": "Some[0] girls[1] play[4+5] in[3] the garden[2].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "कोई",
+       "In the plural, कोई changes to कुछ, as in कुछ लड़कियाँ."
+      ],
+      [
+       "किसी",
+       "किसी is the singular oblique. The plural of कोई is कुछ."
+      ]
+     ],
+     "why": "कोई लड़की, but कुछ लड़कियाँ."
+    },
+    {
+     "id": "ks:3",
+     "t": "mc",
+     "q": "Fill the gap: “In the evening I teach Sanskrit to some students.”",
+     "hi": "शाम को मैं ___ विद्यार्थियों को संस्कृत पढ़ाता हूँ ।",
+     "say": "शाम को मैं कुछ विद्यार्थियों को संस्कृत पढ़ाता हूँ ।",
+     "en": "{In the evening}[0+1] I[2] teach[7+8] Sanskrit[6] to[5] some[3] students[4].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "किसी",
+       "किसी is singular. In the plural, कोई and किसी both become कुछ, as in कुछ विद्यार्थियों को."
+      ],
+      [
+       "किन",
+       "किन is the plural oblique of कौन “who?”, not of कोई."
+      ]
+     ],
+     "why": "कुछ stays the same before a postposition: कुछ लड़कों के लिए."
+    },
+    {
+     "id": "ks:4",
+     "t": "mc",
+     "q": "Fill the gap: “Sita brings some daal from the market.”",
+     "hi": "सीता बाज़ार से ___ दाल लाती है ।",
+     "say": "सीता बाज़ार से कुछ दाल लाती है ।",
+     "en": "Sita[0] brings[5+6] some[3] daal[4] from[2] the market[1].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "कोई",
+       "कोई goes with a single countable item. With a substance like daal, “some” is कुछ."
+      ],
+      [
+       "किसी",
+       "किसी is the oblique of कोई, and there is no postposition after दाल."
+      ]
+     ],
+     "why": "कुछ goes with substances, as in कुछ दूध, कुछ पैसा."
+    },
+    {
+     "id": "ks:5",
+     "t": "mc",
+     "q": "Fill the gap: “This room is a bit small.”",
+     "hi": "यह कमरा ___ छोटा है ।",
+     "say": "यह कमरा कुछ छोटा है ।",
+     "en": "This[0] room[1] is[4] {a bit}[2] small[3].",
+     "a": "कुछ",
+     "wrong": [
+      [
+       "कोई",
+       "कोई is not used as an adverb. Before an adjective, “rather, a bit” is कुछ."
+      ],
+      [
+       "कई",
+       "कई means “several” and goes with plural nouns."
+      ]
+     ],
+     "why": "कुछ before an adjective means “rather, somewhat”."
+    },
+    {
+     "id": "ks:6",
+     "t": "mc",
+     "q": "Fill the gap: “There were about a hundred guests in the hotel last night.”",
+     "hi": "कल रात होटल में ___ सौ मेहमान थे ।",
+     "say": "कल रात होटल में कोई सौ मेहमान थे ।",
+     "en": "{There were}[7] about[4] {a hundred}[5] guests[6] in[3] the hotel[2] {last night}[0+1].",
+     "a": "कोई",
+     "wrong": [
+      [
+       "हर",
+       "हर means “every”. Before a number, “about” is कोई."
+      ],
+      [
+       "किसी",
+       "Before a number कोई means “about” and never becomes किसी."
+      ]
+     ],
+     "why": "कोई + number: “about, approximately”."
+    },
+    {
+     "id": "ks:7",
+     "t": "mc",
+     "q": "Fill the gap: “I have been ill for about ten days.”",
+     "hi": "मैं ___ दस दिन से बीमार हूँ ।",
+     "say": "मैं कोई दस दिन से बीमार हूँ ।",
+     "en": "I[0] {have been}[6] ill[5] for[4] about[1] ten[2] days[3].",
+     "a": "कोई",
+     "wrong": [
+      [
+       "किसी",
+       "Before a number, कोई means “about” and stays कोई even before a postposition such as से."
+      ],
+      [
+       "कुछ",
+       "Before a number, “about” is कोई."
+      ]
+     ],
+     "why": "Compare कोई पाँच दिन में “in about five days”."
+    },
+    {
+     "id": "ks:8",
+     "t": "mc",
+     "q": "Fill the gap: “Which city do you live in? (to a man)”",
+     "hi": "आप ___ शहर में रहते हैं ?",
+     "say": "आप किस शहर में रहते हैं ?",
+     "en": "{Which city}[1+2] do you[0] live[4+5] in[3]? (to a man)",
+     "a": "किस",
+     "wrong": [
+      [
+       "किसी",
+       "किसी शहर में means “in some city”. To ask “which?”, use किस, the oblique of कौन."
+      ],
+      [
+       "कौनसा",
+       "Before में, कौनसा becomes oblique: कौनसे."
+      ]
+     ],
+     "why": "Don't confuse किसी (oblique of कोई) with किस (oblique of कौन)."
+    },
+    {
+     "id": "ks:9",
+     "t": "mc",
+     "q": "Fill the gap: “There is a fan in every room.”",
+     "hi": "___ कमरे में एक पंखा है ।",
+     "say": "हर कमरे में एक पंखा है ।",
+     "en": "{There is}[5] a[3] fan[4] in[2] every[0] room[1].",
+     "a": "हर",
+     "wrong": [
+      [
+       "सब",
+       "सब means “all” and goes with a plural: सब कमरों में. With a singular noun, “every” is हर."
+      ],
+      [
+       "कुछ",
+       "कुछ कमरे would be “some rooms”, and they would be plural and oblique: कुछ कमरों में."
+      ]
+     ],
+     "why": "हर “each, every” + a singular noun."
+    }
+   ]
+  },
+  {
+   "id": "need",
+   "title": "चाहिए",
+   "desc": "Needs and wants; की ज़रूरत है",
+   "skill": "need",
+   "items": [
+    {
+     "id": "nd:0",
+     "t": "mc",
+     "q": "Fill the gap: “I need a warm blanket.”",
+     "hi": "___ एक गरम कंबल चाहिए ।",
+     "say": "मुझे एक गरम कंबल चाहिए ।",
+     "en": "I[0] need[4] a[1] warm[2] blanket[3].",
+     "a": "मुझे",
+     "wrong": [
+      [
+       "मैं",
+       "With चाहिए the person who needs takes को, giving मुझे (= मुझ को)."
+      ],
+      [
+       "मेरा",
+       "मेरा means “my”. The person who needs takes को, giving मुझे."
+      ]
+     ],
+     "why": "चाहिए “is needed”: the person takes को, the thing is the subject."
+    },
+    {
+     "id": "nd:1",
+     "t": "mc",
+     "q": "Fill the gap: “The guests needed more samosas.”",
+     "hi": "मेहमानों को और समोसे चाहिए ___ ।",
+     "say": "मेहमानों को और समोसे चाहिए थे ।",
+     "en": "{The guests}[0+1] needed[4+5] more[2] samosas[3].",
+     "a": "थे",
+     "wrong": [
+      [
+       "था",
+       "था is singular. With चाहिए the thing needed is the subject, and the auxiliary agrees with it, not with the person who takes को. समोसे is plural."
+      ],
+      [
+       "थीं",
+       "थीं is feminine. समोसा is masculine."
+      ]
+     ],
+     "why": "For the past, add था, थी, थे, थीं to चाहिए."
+    },
+    {
+     "id": "nd:2",
+     "t": "mc",
+     "q": "Fill the gap: “Raj needed a new book.”",
+     "hi": "राज को एक नई किताब चाहिए ___ ।",
+     "say": "राज को एक नई किताब चाहिए थी ।",
+     "en": "Raj[0] needed[1+5+6] a[2] new[3] book[4].",
+     "a": "थी",
+     "wrong": [
+      [
+       "था",
+       "Raj is a man, but With चाहिए the thing needed is the subject, and the auxiliary agrees with it, not with the person who takes को. किताब is feminine: थी."
+      ],
+      [
+       "थीं",
+       "थीं is plural. There is one book."
+      ]
+     ],
+     "why": "चाहिए थी agrees with किताब."
+    },
+    {
+     "id": "nd:3",
+     "t": "mc",
+     "q": "Fill the gap: “This child needs a doctor.”",
+     "hi": "इस बच्चे को डाक्टर की ___ है ।",
+     "say": "इस बच्चे को डाक्टर की ज़रूरत है ।",
+     "en": "This[0] child[1] needs[2+4+5+6] a doctor[3].",
+     "a": "ज़रूरत",
+     "wrong": [
+      [
+       "ज़रूरी",
+       "ज़रूरी is the adjective “necessary”. “Need” is the noun ज़रूरत."
+      ],
+      [
+       "ज़रूर",
+       "ज़रूर means “of course, certainly”."
+      ]
+     ],
+     "why": "X को Y की ज़रूरत है “X needs Y”, literally “to X is a need of Y”."
+    },
+    {
+     "id": "nd:4",
+     "t": "mc",
+     "q": "Fill the gap: “We need a big room.”",
+     "hi": "हमें एक बड़े कमरे ___ ज़रूरत है ।",
+     "say": "हमें एक बड़े कमरे की ज़रूरत है ।",
+     "en": "We[0] need[4+5+6] a[1] big[2] room[3].",
+     "a": "की",
+     "wrong": [
+      [
+       "का",
+       "ज़रूरत is feminine, so it is की ज़रूरत."
+      ],
+      [
+       "को",
+       "Only the person takes को. The thing needed is linked by की."
+      ]
+     ],
+     "why": "ज़रूरत is a feminine noun: की ज़रूरत."
+    },
+    {
+     "id": "nd:5",
+     "t": "mc",
+     "q": "Say the same with ज़रूरत",
+     "a": "मोहन को चप्पलों की ज़रूरत है ।",
+     "wrong": [
+      [
+       "मोहन को चप्पलें की ज़रूरत है ।",
+       "Before की the noun is oblique: चप्पलों."
+      ],
+      [
+       "मोहन को चप्पलों का ज़रूरत है ।",
+       "ज़रूरत is feminine, so की, not का."
+      ]
+     ],
+     "why": "The thing needed becomes oblique before की ज़रूरत.",
+     "hi": "मोहन को चप्पलें चाहिए ।",
+     "audio": true,
+     "say": "मोहन को चप्पलों की ज़रूरत है ।",
+     "en": "Mohan[0] needs[1+3+4+5] sandals[2]."
+    },
+    {
+     "id": "nd:6",
+     "t": "mc",
+     "q": "Fill the gap: “Does anyone want tea?”",
+     "hi": "क्या ___ को चाय चाहिए ?",
+     "say": "क्या किसी को चाय चाहिए ?",
+     "en": "Does anyone[1+2] want[4] tea[3]?",
+     "a": "किसी",
+     "wrong": [
+      [
+       "कोई",
+       "Before को, कोई becomes the oblique किसी."
+      ],
+      [
+       "किस",
+       "किस को चाय चाहिए ? asks “who wants tea?”. With क्या, a yes/no question, it is किसी."
+      ]
+     ],
+     "why": "किसी को “to anyone”."
+    },
+    {
+     "id": "nd:7",
+     "t": "mc",
+     "q": "Which means “Nobody needs this old car”?",
+     "a": "किसी को यह पुरानी गाड़ी नहीं चाहिए ।",
+     "wrong": [
+      [
+       "कोई को यह पुरानी गाड़ी नहीं चाहिए ।",
+       "Before को, कोई becomes किसी."
+      ],
+      [
+       "कोई यह पुरानी गाड़ी नहीं चाहिए ।",
+       "The person who needs must take को, as in किसी को."
+      ]
+     ],
+     "why": "किसी को … नहीं चाहिए “nobody needs”."
+    }
+   ]
+  },
+  {
+   "id": "ord",
+   "title": "पहला, दूसरा, तीनों",
+   "desc": "Ordinals and aggregatives",
+   "skill": "ord",
+   "items": [
+    {
+     "id": "or:0",
+     "t": "mc",
+     "q": "Fill the gap: “My daughter studies in the fifth class.”",
+     "hi": "मेरी बेटी ___ क्लास में पढ़ती है ।",
+     "say": "मेरी बेटी पाँचवीं क्लास में पढ़ती है ।",
+     "en": "My[0] daughter[1] studies[5+6] in[4] the fifth[2] class[3].",
+     "a": "पाँचवीं",
+     "wrong": [
+      [
+       "पाँचवाँ",
+       "पाँचवाँ is masculine. क्लास is feminine: पाँचवीं."
+      ],
+      [
+       "पाँचवें",
+       "पाँचवें is masculine plural or oblique. क्लास is feminine: पाँचवीं."
+      ]
+     ],
+     "why": "Ordinals inflect like adjectives, with nasal endings: पाँचवाँ, पाँचवीं, पाँचवें."
+    },
+    {
+     "id": "or:1",
+     "t": "mc",
+     "q": "Fill the gap: “This is my third question.”",
+     "hi": "यह मेरा ___ सवाल है ।",
+     "say": "यह मेरा तीसरा सवाल है ।",
+     "en": "This[0] is[4] my[1] third[2] question[3].",
+     "a": "तीसरा",
+     "wrong": [
+      [
+       "तीनवाँ",
+       "Not a word: “first” to “fourth” (and “sixth”) are irregular. “Third” is तीसरा."
+      ],
+      [
+       "तीसरी",
+       "तीसरी is feminine. सवाल is masculine."
+      ]
+     ],
+     "why": "पहला, दूसरा, तीसरा, चौथा, then पाँचवाँ, छठा, सातवाँ …"
+    },
+    {
+     "id": "or:2",
+     "t": "mc",
+     "q": "Fill the gap: “This is this year's first holiday.”",
+     "hi": "यह इस साल की ___ छुट्टी है ।",
+     "say": "यह इस साल की पहली छुट्टी है ।",
+     "en": "This[0] is[6] this[1] year's[2+3] first[4] holiday[5].",
+     "a": "पहली",
+     "wrong": [
+      [
+       "पहला",
+       "पहला is masculine. छुट्टी is feminine."
+      ],
+      [
+       "पहले",
+       "पहले is masculine plural or oblique (and also the adverb “before”). छुट्टी is feminine."
+      ]
+     ],
+     "why": "पहला “first” agrees like an -ā adjective."
+    },
+    {
+     "id": "or:3",
+     "t": "mc",
+     "q": "Fill the gap: “Grandmother lives with her (own) fourth son.”",
+     "hi": "दादी जी अपने ___ बेटे के साथ रहती हैं ।",
+     "say": "दादी जी अपने चौथे बेटे के साथ रहती हैं ।",
+     "en": "Grandmother[0+1] lives[7+8] with[5+6] {her (own)}[2] fourth[3] son[4].",
+     "a": "चौथे",
+     "wrong": [
+      [
+       "चौथा",
+       "Before के साथ, the ordinal is oblique like the noun: चौथे बेटे."
+      ],
+      [
+       "चारवाँ",
+       "Not a word: “fourth” is irregular, चौथा."
+      ]
+     ],
+     "why": "Ordinals take the oblique like other -ā adjectives."
+    },
+    {
+     "id": "or:4",
+     "t": "mc",
+     "q": "Which word means “sixth”?",
+     "a": "छठा",
+     "wrong": [
+      [
+       "छहवाँ",
+       "Not a word. छठा is irregular, like पहला to चौथा."
+      ],
+      [
+       "छह",
+       "छह is “six”, the cardinal number."
+      ]
+     ],
+     "why": "छठा “sixth”, सातवाँ “seventh”."
+    },
+    {
+     "id": "or:5",
+     "t": "mc",
+     "q": "बारह means “twelve”. What is “twelfth”?",
+     "a": "बारहवाँ",
+     "wrong": [
+      [
+       "बारहवा",
+       "The ending -vā̃ is nasal: बारहवाँ."
+      ],
+      [
+       "बारहों",
+       "The ending -õ makes an aggregative, बारहों “all twelve”."
+      ]
+     ],
+     "why": "From “fifth” on, add the nasal ending -vā̃ to the number."
+    },
+    {
+     "id": "or:6",
+     "t": "mc",
+     "q": "Fill the gap: “All three brothers live in Delhi.”",
+     "hi": "___ भाई दिल्ली में रहते हैं ।",
+     "say": "तीनों भाई दिल्ली में रहते हैं ।",
+     "en": "{All three}[0] brothers[1] live[4+5] in[3] Delhi[2].",
+     "a": "तीनों",
+     "wrong": [
+      [
+       "तीन",
+       "तीन is just “three”. “All three” is the aggregative तीनों."
+      ],
+      [
+       "तीसरे",
+       "तीसरे means “third”."
+      ]
+     ],
+     "why": "Aggregatives add -õ to the number: तीनों, चारों."
+    },
+    {
+     "id": "or:7",
+     "t": "mc",
+     "q": "Fill the gap: “There were hundreds of people in that cinema.”",
+     "hi": "उस सिनेमा में ___ लोग थे ।",
+     "say": "उस सिनेमा में सैकड़ों लोग थे ।",
+     "en": "{There were}[5] {hundreds of}[3] people[4] in[2] that[0] cinema[1].",
+     "a": "सैकड़ों",
+     "wrong": [
+      [
+       "सैकड़ा",
+       "सैकड़ा is “a hundred” as a noun. “Hundreds of” is the aggregative सैकड़ों."
+      ],
+      [
+       "सौ",
+       "सौ is “a hundred”. “Hundreds of” is सैकड़ों."
+      ]
+     ],
+     "why": "Aggregatives also give multiples: दर्जनों, सैकड़ों, हज़ारों."
+    },
+    {
+     "id": "or:8",
+     "t": "mc",
+     "q": "Fill the gap: “Both children play in the garden.”",
+     "hi": "___ बच्चे बग़ीचे में खेलते हैं ।",
+     "say": "दोनों बच्चे बग़ीचे में खेलते हैं ।",
+     "en": "Both[0] children[1] play[4+5] in[3] the garden[2].",
+     "a": "दोनों",
+     "wrong": [
+      [
+       "दोओं",
+       "Not a word: दोनों “both” is irregular."
+      ],
+      [
+       "दो",
+       "दो is just “two”. “Both” is दोनों."
+      ]
+     ],
+     "why": "दोनों is the irregular aggregative of दो."
+    },
+    {
+     "id": "or:9",
+     "t": "mc",
+     "q": "Fill the gap: “Thousands of foreigners come to Varanasi every year.”",
+     "hi": "हर साल ___ विदेशी वाराणसी आते हैं ।",
+     "say": "हर साल हज़ारों विदेशी वाराणसी आते हैं ।",
+     "en": "{Thousands of}[2] foreigners[3] come[5+6] to Varanasi[4] every[0] year[1].",
+     "a": "हज़ारों",
+     "wrong": [
+      [
+       "हज़ार",
+       "हज़ार is “a thousand”. “Thousands of” is हज़ारों."
+      ],
+      [
+       "सैकड़ों",
+       "सैकड़ों means “hundreds of”."
+      ]
+     ],
+     "why": "हज़ार “thousand” → हज़ारों “thousands of”."
+    }
+   ]
+  },
+  {
+   "id": "conj",
+   "title": "शुरू करना, शुरू होना",
+   "desc": "Conjunct verbs with करना and होना",
+   "skill": "conj",
+   "items": [
+    {
+     "id": "cj:0",
+     "t": "mc",
+     "q": "Fill the gap: “The post office closes at five o'clock.”",
+     "hi": "डाकघर पाँच बजे बंद ___ है ।",
+     "say": "डाकघर पाँच बजे बंद होता है ।",
+     "en": "{The post office}[0] closes[3+4+5] {at five o'clock}[1+2].",
+     "a": "होता",
+     "wrong": [
+      [
+       "करता",
+       "बंद करना needs an object: someone shuts something. Here the post office itself closes, so बंद होना."
+      ],
+      [
+       "होती",
+       "होती is feminine. डाकघर is masculine."
+      ]
+     ],
+     "why": "करना verbs are transitive; their होना partners are intransitive."
+    },
+    {
+     "id": "cj:1",
+     "t": "mc",
+     "q": "Fill the gap: “I start work at seven o'clock. (a man speaking)”",
+     "hi": "मैं सात बजे काम शुरू ___ हूँ ।",
+     "say": "मैं सात बजे काम शुरू करता हूँ ।",
+     "en": "I[0] start[4+5+6] work[3] {at seven o'clock}[1+2]. (a man speaking)",
+     "a": "करता",
+     "wrong": [
+      [
+       "होता",
+       "काम is the object here: I start it. That is शुरू करना."
+      ],
+      [
+       "करती",
+       "करती is feminine. The speaker is a man."
+      ]
+     ],
+     "why": "काम शुरू करना “to begin work”."
+    },
+    {
+     "id": "cj:2",
+     "t": "mc",
+     "q": "Fill the gap: “On Mondays my work starts early.”",
+     "hi": "सोमवार को मेरा काम जल्दी शुरू ___ है ।",
+     "say": "सोमवार को मेरा काम जल्दी शुरू होता है ।",
+     "en": "{On Mondays}[0+1] my[2] work[3] starts[5+6+7] early[4].",
+     "a": "होता",
+     "wrong": [
+      [
+       "करता",
+       "Nobody is doing the starting here. काम is the subject, so शुरू होना."
+      ],
+      [
+       "होती",
+       "होती is feminine. काम is masculine."
+      ]
+     ],
+     "why": "शुरू होना “to begin” has no object."
+    },
+    {
+     "id": "cj:3",
+     "t": "mc",
+     "q": "Fill the gap: “Pinki cleans her bicycle every Saturday.”",
+     "hi": "पिंकी हर शनिवार को अपनी साइकिल ___ करती है ।",
+     "say": "पिंकी हर शनिवार को अपनी साइकिल साफ़ करती है ।",
+     "en": "Pinki[0] cleans[6+7+8] her[4] bicycle[5] every[1] Saturday[2+3].",
+     "a": "साफ़",
+     "wrong": [
+      [
+       "ख़त्म",
+       "ख़त्म करना means “to finish”."
+      ],
+      [
+       "शुरू",
+       "शुरू करना means “to begin”."
+      ]
+     ],
+     "why": "साफ़ “clean” + करना “to clean”."
+    },
+    {
+     "id": "cj:4",
+     "t": "mc",
+     "q": "Fill the gap: “Mohan finishes his work at night.”",
+     "hi": "मोहन रात को अपना काम ___ करता है ।",
+     "say": "मोहन रात को अपना काम ख़त्म करता है ।",
+     "en": "Mohan[0] finishes[5+6+7] his[3] work[4] {at night}[1+2].",
+     "a": "ख़त्म",
+     "wrong": [
+      [
+       "शुरू",
+       "शुरू करना means “to begin”."
+      ],
+      [
+       "साफ़",
+       "साफ़ करना means “to clean”."
+      ]
+     ],
+     "why": "ख़त्म “finished” + करना “to finish”."
+    },
+    {
+     "id": "cj:5",
+     "t": "mc",
+     "q": "Which means “My holiday ends on Friday”?",
+     "a": "मेरी छुट्टी शुक्रवार को ख़त्म होती है ।",
+     "wrong": [
+      [
+       "मेरी छुट्टी शुक्रवार को ख़त्म करती है ।",
+       "करना would need someone who finishes something. The holiday itself ends: ख़त्म होना."
+      ],
+      [
+       "मेरी छुट्टी शुक्रवार को ख़त्म होता है ।",
+       "होता is masculine. छुट्टी is feminine."
+      ]
+     ],
+     "why": "The intransitive partner of ख़त्म करना is ख़त्म होना."
+    },
+    {
+     "id": "cj:6",
+     "t": "mc",
+     "q": "Fill the gap: “School used to start at eight o'clock in the past.”",
+     "hi": "पहले स्कूल आठ बजे शुरू ___ था ।",
+     "say": "पहले स्कूल आठ बजे शुरू होता था ।",
+     "en": "School[1] {used to}[6] start[4+5] {at eight o'clock}[2+3] {in the past}[0].",
+     "a": "होता",
+     "wrong": [
+      [
+       "करता",
+       "Here स्कूल is the subject and nothing is acted on, so शुरू होना."
+      ],
+      [
+       "होती",
+       "होती is feminine. स्कूल is masculine."
+      ]
+     ],
+     "why": "होता था is the past imperfective of शुरू होना."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Sita[0] {used to}[4] {go for a walk}[2+3] {in the morning}[1].",
+     "ans": [
+      "सीता",
+      "सुबह",
+      "सैर",
+      "करती",
+      "थी"
+     ],
+     "wrong": [
+      [
+       "करता",
+       "करता is masculine. Sita is a woman."
+      ],
+      [
+       "थीं",
+       "थीं is plural. Sita, spoken of plainly, is one person."
+      ]
+     ],
+     "alt": [
+      [
+       "सुबह",
+       "सीता",
+       "सैर",
+       "करती",
+       "थी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Raj[0] needed[1+4+5] {a new}[2] table[3].",
+     "ans": [
+      "राज",
+      "को",
+      "नई",
+      "मेज़",
+      "चाहिए",
+      "थी"
+     ],
+     "wrong": [
+      [
+       "था",
+       "With चाहिए the auxiliary agrees with the thing needed, मेज़, which is feminine: थी."
+      ],
+      [
+       "नया",
+       "नया is masculine. मेज़ is feminine."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Someone[0] is[4] sitting[3] in[2] the garden[1].",
+     "ans": [
+      "कोई",
+      "बग़ीचे",
+      "में",
+      "बैठा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "कुछ",
+       "कुछ is “something”. For a person, कोई."
+      ],
+      [
+       "बैठे",
+       "बैठे is plural. कोई “someone” is singular."
+      ]
+     ],
+     "alt": [
+      [
+       "बग़ीचे",
+       "में",
+       "कोई",
+       "बैठा",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Mohan[0] needs[1+3+4+5] rest[2].",
+     "ans": [
+      "मोहन",
+      "को",
+      "आराम",
+      "की",
+      "ज़रूरत",
+      "है"
+     ],
+     "wrong": [
+      [
+       "का",
+       "ज़रूरत is feminine, so की ज़रूरत."
+      ],
+      [
+       "ज़रूरी",
+       "ज़रूरी is the adjective “necessary”. “Need” is the noun ज़रूरत."
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "{All four}[0] daughters[1] go[3+4] {to school}[2].",
+     "ans": [
+      "चारों",
+      "बेटियाँ",
+      "स्कूल",
+      "जाती",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "चार",
+       "चार बेटियाँ is just “four daughters”. “All four” is the aggregative चारों."
+      ],
+      [
+       "जाते",
+       "जाते is masculine. बेटियाँ is feminine."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "My[0] first[1] teacher[2] was[4] {a Muslim}[3].",
+     "ans": [
+      "मेरे",
+      "पहले",
+      "अध्यापक",
+      "मुसलमान",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "पहली",
+       "पहली is feminine. अध्यापक is masculine."
+      ],
+      [
+       "थी",
+       "थी is feminine. A respected teacher takes the masculine plural थे."
+      ]
+     ],
+     "order": "मेरे अध्यापक पहले मुसलमान थे would mean “My teacher was formerly a Muslim”, with पहले as the adverb “before”. As “first”, पहले goes before the noun."
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "That[0] shop[1] closes[4+5+6] {at seven o'clock}[2+3].",
+     "ans": [
+      "वह",
+      "दुकान",
+      "सात",
+      "बजे",
+      "बंद",
+      "होती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "करती",
+       "बंद करना needs an object. The shop itself closes: बंद होना."
+      ],
+      [
+       "होता",
+       "होता is masculine. दुकान is feminine."
+      ]
+     ],
+     "alt": [
+      [
+       "सात",
+       "बजे",
+       "वह",
+       "दुकान",
+       "बंद",
+       "होती",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "{The children}[0] {used to}[4] {get up}[3] early[2] {in the morning}[1].",
+     "ans": [
+      "बच्चे",
+      "सुबह",
+      "जल्दी",
+      "उठते",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "उठता",
+       "उठता is singular. बच्चे is plural."
+      ],
+      [
+       "था",
+       "था is singular. बच्चे is plural: उठते थे."
+      ]
+     ],
+     "alt": [
+      [
+       "सुबह",
+       "बच्चे",
+       "जल्दी",
+       "उठते",
+       "थे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "These[0] shoes[1] are[4] {a bit}[2] big[3].",
+     "ans": [
+      "ये",
+      "जूते",
+      "कुछ",
+      "बड़े",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बड़ा",
+       "बड़ा is singular. जूते is plural."
+      ],
+      [
+       "कई",
+       "कई means “several” and goes before a plural noun. Before an adjective, “a bit” is कुछ."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Sita[0] needs[1+4] {a new}[2] sari[3].",
+     "ans": [
+      "सीता",
+      "को",
+      "नई",
+      "साड़ी",
+      "चाहिए"
+     ],
+     "wrong": [
+      [
+       "नया",
+       "नया is masculine. साड़ी is feminine."
+      ],
+      [
+       "का",
+       "The person who needs takes को, not का, so it is सीता को."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "{Lakhs of}[3] people[4] live[5+6] in[2] this[0] city[1].",
+     "ans": [
+      "इस",
+      "शहर",
+      "में",
+      "लाखों",
+      "लोग",
+      "रहते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "लाख",
+       "लाख is “a lakh, a hundred thousand”. “Lakhs of” is the aggregative लाखों."
+      ],
+      [
+       "रहता",
+       "रहता is singular. लोग is plural."
+      ]
+     ],
+     "alt": [
+      [
+       "लाखों",
+       "लोग",
+       "इस",
+       "शहर",
+       "में",
+       "रहते",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Mohan[0] {used to know}[1+3+4] Gujarati[2].",
+     "ans": [
+      "मोहन",
+      "को",
+      "गुजराती",
+      "आती",
+      "थी"
+     ],
+     "wrong": [
+      [
+       "आता",
+       "The verb agrees with गुजराती, which is feminine: आती."
+      ],
+      [
+       "थे",
+       "The verb agrees with गुजराती, which is singular: थी."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बचपन में मैं रात को बहुत डरती थी ।",
+     "audio": true,
+     "a": "As a child I used to be very frightened at night.",
+     "wrong": [
+      [
+       "As a child I was frightened one night.",
+       "A single event would need the perfective. डरती थी is a habit: “used to be frightened”."
+      ],
+      [
+       "I am very frightened at night.",
+       "थी puts it in the past, and बचपन में means “in childhood”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शाम को घर में हमेशा कोई न कोई होता है ।",
+     "audio": true,
+     "a": "There is always someone or other at home in the evening.",
+     "wrong": [
+      [
+       "There is nobody at home in the evening.",
+       "“Nobody” would be कोई नहीं."
+      ],
+      [
+       "Everyone is at home in the evening.",
+       "“Everyone” would be हर कोई."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आज मौसम कुछ ठंडा है ।",
+     "audio": true,
+     "a": "The weather is rather cold today.",
+     "wrong": [
+      [
+       "The weather is very cold today.",
+       "“Very” would be बहुत. कुछ before an adjective is “rather, a bit”."
+      ],
+      [
+       "Some weather is cold today.",
+       "कुछ before an adjective is an adverb: “rather”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसे कुछ और चाहिए था ।",
+     "audio": true,
+     "a": "He needed something else.",
+     "wrong": [
+      [
+       "He needed nothing else.",
+       "“Nothing” would be कुछ नहीं."
+      ],
+      [
+       "Someone else needed it.",
+       "“Someone else” would be कोई और. उसे is the person who needed."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "स्टेशन पर कोई पाँच विद्यार्थी बैठे थे ।",
+     "audio": true,
+     "a": "About five students were sitting at the station.",
+     "wrong": [
+      [
+       "Five students were sitting at the station.",
+       "Before a number, कोई means “about”."
+      ],
+      [
+       "Some student was sitting at the station for five hours.",
+       "कोई before a number means “about”, and बैठे थे is plural."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरी तीसरी बहिन डाक्टर है ।",
+     "audio": true,
+     "a": "My third sister is a doctor.",
+     "wrong": [
+      [
+       "My three sisters are doctors.",
+       "तीसरी is the ordinal “third”, and है is singular."
+      ],
+      [
+       "All three of my sisters are doctors.",
+       "“All three” would be the aggregative तीनों."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दफ़्तर में हज़ारों चिट्ठियाँ आती थीं ।",
+     "audio": true,
+     "a": "Thousands of letters used to come to the office.",
+     "wrong": [
+      [
+       "A thousand letters came to the office.",
+       "हज़ारों is “thousands of”, and आती थीं is a habit: “used to come”."
+      ],
+      [
+       "Thousands of letters come to the office.",
+       "थीं puts it in the past: “used to come”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे भाई को नए जूते चाहिए थे ।",
+     "audio": true,
+     "a": "My brother needed new shoes.",
+     "wrong": [
+      [
+       "My brother had new shoes.",
+       "चाहिए means “is needed”. Having is not expressed this way."
+      ],
+      [
+       "My brother needs new shoes.",
+       "थे puts it in the past: “needed”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Tenses, कोई and किसी, चाहिए",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "ru:0",
+     "t": "mc",
+     "q": "Can the past imperfective translate “Yesterday I went to the market”?",
+     "a": "No: a one-off past event needs the perfective, taught in Unit 11",
+     "wrong": [
+      [
+       "Yes: it covers every past action",
+       "It always means “used to …”: habits and regular events."
+      ],
+      [
+       "Yes, as long as कल is added",
+       "कल does not change the meaning of the tense. A single event needs the perfective."
+      ]
+     ],
+     "why": "The past imperfective always has the sense “used to …”."
+    },
+    {
+     "id": "ru:1",
+     "t": "mc",
+     "q": "Which word is the grammatical subject of राज को नया थैला चाहिए ?",
+     "a": "थैला",
+     "wrong": [
+      [
+       "राज",
+       "A word followed by को is never the subject. Raj is the one who needs."
+      ],
+      [
+       "चाहिए",
+       "चाहिए is the verb, “is needed”."
+      ]
+     ],
+     "why": "The thing needed is the subject; that is why चाहिए था or थी agrees with it."
+    },
+    {
+     "id": "ru:2",
+     "t": "mc",
+     "q": "What is the difference between किसी and किस ?",
+     "a": "किसी is the oblique of कोई “some(one)”; किस is the oblique of कौन “who?”",
+     "wrong": [
+      [
+       "Both are obliques of कौन “who?”",
+       "Only किस is. किसी is the oblique of कोई, so किसी को is “to someone” and किस को “to whom?”."
+      ],
+      [
+       "किसी is singular and किस is plural",
+       "Both are singular. The plural obliques are कुछ (for कोई) and किन (for कौन)."
+      ]
+     ],
+     "why": "किसी शहर में “in some city”, किस शहर में ? “in which city?”."
+    },
+    {
+     "id": "ru:3",
+     "t": "mc",
+     "q": "When does कोई stay कोई before a postposition?",
+     "a": "When it means “about” before a number",
+     "wrong": [
+      [
+       "When it refers to a thing",
+       "As an adjective it becomes किसी before a postposition, whatever the noun: किसी दुकान में."
+      ],
+      [
+       "Never: it always becomes किसी",
+       "Before a number it stays कोई, as in कोई दस दिन से."
+      ]
+     ],
+     "why": "कोई दस दिन से “for about ten days”."
+    },
+    {
+     "id": "ru:4",
+     "t": "mc",
+     "q": "What do कोई and किसी become in the plural?",
+     "a": "कुछ, in both the direct and the oblique",
+     "wrong": [
+      [
+       "किसी in the direct, कोई in the oblique",
+       "Both become कुछ, as in कुछ लड़के, कुछ लड़कों के लिए."
+      ],
+      [
+       "They stay कोई and किसी",
+       "कोई and किसी are singular. With plurals it is कुछ."
+      ]
+     ],
+     "why": "कई “several” is another plural partner of कोई."
+    },
+    {
+     "id": "ru:5",
+     "t": "mc",
+     "q": "Why is it बंद होती है in दुकान बंद होती है ?",
+     "a": "The shop is the subject and nothing is acted on, so the intransitive होना is used",
+     "wrong": [
+      [
+       "Because दुकान is feminine",
+       "Gender decides होती against होता, not होना against करना."
+      ],
+      [
+       "Because होती है describes a habit",
+       "Habits use the imperfective with both verbs: मोहन दुकान बंद करता है is also a habit."
+      ]
+     ],
+     "why": "करना verbs take an object (मोहन दुकान बंद करता है), but होना verbs do not."
+    },
+    {
+     "id": "ru:6",
+     "t": "mc",
+     "q": "How do ordinals such as पाँचवाँ agree?",
+     "a": "Like -ā adjectives, with nasal endings: पाँचवीं, पाँचवें",
+     "wrong": [
+      [
+       "They always stay पाँचवाँ",
+       "They agree with the noun: पाँचवीं क्लास, पाँचवें दिन."
+      ],
+      [
+       "Like -ā adjectives, without the nasal: पाँचवी, पाँचवे",
+       "The nasal stays in every form: पाँचवाँ, पाँचवीं, पाँचवें."
+      ]
+     ],
+     "why": "पहला, दूसरा, तीसरा, चौथा and छठा agree like ordinary -ā adjectives."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "past": 3,
+  "koi": 2,
+  "kisi": 2,
+  "need": 2,
+  "ord": 2,
+  "conj": 2,
+  "build": 3,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "तीनवाँ": "tīnvā̃",
+  "चारवाँ": "cārvā̃",
+  "छहवाँ": "chahvā̃",
+  "बारहवा": "bārahvā",
+  "बारहों": "bārahõ",
+  "दोओं": "doõ",
+  "पाँचवी": "pā̃cvī",
+  "पाँचवे": "pā̃cve"
+ }
+}

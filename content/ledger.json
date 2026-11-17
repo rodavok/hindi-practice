@@ -927,5 +927,149 @@
     "title": "Two construction types: वह बीमार है and उसे ज़ुकाम है, where the thing is the subject and the person takes को"
    }
   ]
+ },
+ "7": {
+  "forms": {
+   "अलग": "alag",
+   "औरत": "aurat",
+   "करोड़": "karoṛ",
+   "कानपुर": "kānpur",
+   "किसी": "kisī",
+   "नज़दीक": "nazdīk",
+   "समान": "samān",
+   "कोई": "koī",
+   "खड़ा": "khaṛā",
+   "ख़त्म": "khatm",
+   "ख़ास": "khās",
+   "गर्मी": "garmī",
+   "गर्मियाँ": "garmiyā̃",
+   "चतुर्थ": "caturth",
+   "चावल": "cāval",
+   "चाहिए": "cāhie",
+   "चौथा": "cauthā",
+   "छठा": "chaṭhā",
+   "छुट्टी": "chuṭṭī",
+   "ज़मीन": "zamīn",
+   "ज़रूरत": "zarūrat",
+   "ज़रूरी": "zarūrī",
+   "जेब": "jeb",
+   "डाक्टर": "ḍākṭar",
+   "डिब्बा": "ḍibbā",
+   "तीसरा": "tīsrā",
+   "तृतीय": "tṛtīy",
+   "दर्जन": "darjan",
+   "दूर": "dūr",
+   "देर": "der",
+   "द्वितीय": "dvitīy",
+   "नवाँ": "navā̃",
+   "पंचम": "pancam",
+   "पढ़ाना": "paṛhānā",
+   "पहला": "pahlā",
+   "पाँचवाँ": "pā̃cvā̃",
+   "प्रथम": "pratham",
+   "फ़र्क़": "farq",
+   "बाबू": "bābū",
+   "बिजली": "bijlī",
+   "बेकार": "bekār",
+   "बैठा": "baiṭhā",
+   "महायुद्ध": "mahāyuddh",
+   "मार्च": "mārc",
+   "मुसलमान": "musalmān",
+   "मोती": "motī",
+   "रंग": "rang",
+   "रोटी": "roṭī",
+   "लाख": "lākh",
+   "वजह": "vajah",
+   "शनिवार": "śanivār",
+   "शाम": "śām",
+   "शुरू": "śurū",
+   "सपना": "sapnā",
+   "सिनेमा": "sinemā",
+   "सैकड़ा": "saikṛā",
+   "सैर": "sair",
+   "स्वर्ग": "svarg",
+   "हज़ार": "hazār",
+   "हर": "har",
+   "होटल": "hoṭal",
+   "सातवाँ": "sātvā̃",
+   "आठवाँ": "āṭhvā̃",
+   "दसवाँ": "dasvā̃",
+   "बारहवाँ": "bārahvā̃",
+   "तीनों": "tīnõ",
+   "चारों": "cārõ",
+   "दर्जनों": "darjanõ",
+   "सैकड़ों": "saikṛõ",
+   "हज़ारों": "hazārõ",
+   "लाखों": "lākhõ",
+   "करोड़ों": "karoṛõ",
+   "गर्मियों": "garmiyõ",
+   "खाते": "khāte",
+   "खाता": "khātā",
+   "खाती": "khātī",
+   "खेलती": "kheltī",
+   "विद्यार्थियों": "vidyārthiyõ",
+   "पढ़ाता": "paṛhātā",
+   "लाती": "lātī",
+   "मेहमानों": "mehmānõ",
+   "चप्पलों": "cappalõ",
+   "पढ़ती": "paṛhtī",
+   "पाँचवीं": "pā̃cvī̃",
+   "पाँचवें": "pā̃cvẽ",
+   "तीसरी": "tīsrī",
+   "पहली": "pahlī",
+   "रहती": "rahtī",
+   "चौथे": "cauthe",
+   "तीसरे": "tīsre",
+   "आते": "āte",
+   "बैठे": "baiṭhe",
+   "उठता": "uṭhtā",
+   "डरती": "ḍartī"
+  },
+  "grammar": [
+   {
+    "id": "past-imperfective",
+    "title": "Past imperfective: participle + था, थी, थे, थीं, “used to …” for habits and regular events in the past (राज बहुत शरारत करता था)"
+   },
+   {
+    "id": "routine-imperfective",
+    "title": "Routine imperfective: the participle with no auxiliary narrates past habits, like English “would” (गर्मियों में हम पहाड़ों पर रहते)"
+   },
+   {
+    "id": "koi-kuch-pronoun",
+    "title": "कोई “someone” (people) and कुछ “something” (things) as pronouns; कोई नहीं “nobody”, कुछ नहीं “nothing”"
+   },
+   {
+    "id": "koi-kuch-adjective",
+    "title": "कोई “some, a” with a singular countable noun, oblique किसी; plural कुछ (direct and oblique); कई “several”; कुछ with substances (कुछ दाल); कुछ as an adverb “rather” (कुछ छोटा)"
+   },
+   {
+    "id": "koi-number",
+    "title": "कोई before a number means “about”, and does not become किसी (कोई दस दिन से)"
+   },
+   {
+    "id": "koi-kuch-phrases",
+    "title": "हर कोई, कोई न कोई, कोई और / और कोई, सब कुछ, कुछ न कुछ, कुछ और / और कुछ; किसी (oblique of कोई) against किस (oblique of कौन)"
+   },
+   {
+    "id": "chahie",
+    "title": "चाहिए “is needed”: the thing needed is the subject, the person takes को; past चाहिए था/थी/थे/थीं agreeing with the thing; some speakers say चाहिएँ in the plural"
+   },
+   {
+    "id": "zarurat",
+    "title": "X को Y की ज़रूरत है “X needs Y” (ज़रूरत f)"
+   },
+   {
+    "id": "ordinals",
+    "title": "Ordinals पहला, दूसरा, तीसरा, चौथा, पाँचवाँ, छठा, then number + -वाँ; they inflect like adjectives with nasal endings (-वीं, -वें); Sanskrit ordinals प्रथम, द्वितीय … in formal use"
+   },
+   {
+    "id": "aggregatives",
+    "title": "Aggregatives: number + -ओं “all N” (तीनों, चारों; दोनों irregular); multiples दर्जनों, सैकड़ों, हज़ारों, लाखों, करोड़ों"
+   },
+   {
+    "id": "conjunct-verbs",
+    "title": "Conjunct verbs: noun/adjective + करना (transitive: मोहन दुकान बंद करता है) with intransitive partners in होना (दुकान बंद होती है); बंद, साफ़, ख़त्म करना"
+   }
+  ]
  }
 }
