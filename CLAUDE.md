@@ -28,6 +28,31 @@ A personal, Duolingo-style practice app for Snell & Weightman, *Complete Hindi* 
 - Keep the PDF, page images and `dist/` out of any public repository.
 - Check Hindi carefully. List every item you are unsure about in `PROGRESS.md`.
 
+## Lessons from Units 1–13
+
+Content quality:
+- Never set two correct answers against each other. If both forms are possible, for example नहीं and न with the subjunctive, or an agreeing and a non-agreeing infinitive with चाहिए, don't make one the wrong choice. Pick a contrast that is plainly wrong.
+- Don't overstate rules. Explain a wrong choice as "the book teaches X here" or "X is more usual", not "X is wrong", unless it really is ungrammatical.
+- Where the book's rule differs from everyday Hindi, follow the book, keep the colloquial form out of the choices, and note it in `PROGRESS.md`.
+- Tiles: add an `alt` for every other correct answer the tiles allow. This covers other word orders and correct shorter sentences, such as one that drops an optional pronoun or adverb. Otherwise a right answer gets marked wrong.
+- Declare 10 or more `fake` forms per unit so Hard level has padding. Check each against every tile sentence in the unit.
+- Explanations go through the Hindi tokenizer, which strips only `।?!,.…“”"'()`. Don't put `;` or other punctuation next to Hindi words; use a comma.
+- When a word can't be taught yet, such as टिकट, keep it out of the items rather than declaring it early.
+
+Process:
+- When a subagent writes a unit, tell it to:
+  - write `content/authoring/unitNN.js` early and in stages (one agent stalled for hours without saving)
+  - not edit `src/` or `tools/`
+  - not commit
+  - delete any scratch copies of book text or page crops when done
+- If an agent hits a rate limit, resume it with SendMessage rather than starting over.
+- Before committing, review the unit yourself:
+  - run the validator
+  - read a sample item from every lesson
+  - click through every fixed item in the browser, answering wrongly to check the explanations, on Normal and Hard
+- If the browser pane can't open `dist/index.html`, which has been the case since Unit 10, say so and list the unit as not browser-tested in `PROGRESS.md`.
+- Check that the scratchpad holds no book text before finishing.
+
 ## After each unit
 
 `node content/authoring/unitNN.js && node tools/validate.js && node tools/build.js`, update `PROGRESS.md`, commit (explicit paths, never `git add -A`).
