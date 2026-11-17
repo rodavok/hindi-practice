@@ -19,7 +19,7 @@ A personal, Duolingo-style practice app for Snell & Weightman, *Complete Hindi* 
 - Record the unit's vocabulary (Hindi, romanisation, English, part of speech, gender) and grammar points. Follow the book's spellings (कुरसी, बहिन, हिन्दी…).
 - Compose every sentence yourself. Do not transcribe the book's dialogues, reading passages or exercise text. Individual words and grammar facts are fine. Use the key to exercises only to confirm a grammar point.
 - Use only words and grammar from the ledger up to and including the unit. `writeUnit` refuses undeclared tokens; declare only forms the book has taught by then.
-- Wrong choices must be plausible: other forms of the same word, or same-type words from the unit. Deliberately invalid forms go in `fake` (→ `distractors`).
+- Wrong choices must be plausible: other forms of the same word, or same-type words from the unit. Deliberately invalid forms go in `fake` (→ `distractors`). Hard level pads sentence building with these, so a `fake` entry must never be a word that could fit any of the unit's tile sentences.
 - Every sentence item gets alignment marks; every wrong choice and extra tile gets an explanation.
 - Aim for 60–80 fixed items per unit across the skills the unit teaches, and a `test` spec of about 22 items.
 - Romanisation style: as the book (ā ī ū ṛ ṭ ḍ ṇ ś ṣ, nasal vowels ã ā̃ ĩ ī̃ ũ ū̃ ẽ õ, nukta letters as kh g z f without underline).

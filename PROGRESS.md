@@ -57,7 +57,7 @@
 - `to:1`, `to:4`, `to:6`: the explanations of contrastive तो follow p. 41; the book says its nuance is learned gradually, so check the English paraphrases.
 - `us:5`: वह घर पर है क्या ? for the colloquial final क्या (Insight, p. 41); the wrong choice वह घर पर क्या है ? is explained as “what is at home?”.
 - `us:1`: “either ज़्यादा or और” for “more”; no item offers और as a wrong choice where it would be correct.
-- `tl:1`: ज़्यादा is optional in सीता मोहन से होशियार है, so no tile item uses ज़्यादा, और or तो. Hard level can still add बहुत from another item, and सीता मोहन से बहुत होशियार है is a possible sentence that would be marked wrong.
+- `tl:1`: ज़्यादा is optional in सीता मोहन से होशियार है, so no tile item uses ज़्यादा, और or तो. (The Hard-level padding problem this caused is fixed; see Known issues.)
 - Near-match check against pp. 38–49: I changed these to stay away from the book: `ko:5` (was हम को अफ़सोस है कि …), `ki:0`, `ki:1`, `ki:2` (were … को मालूम है कि X कहाँ है ?), `ko:10` (was the Test-yourself subject question), `pa:7` (was … एकदम ठंडा था), `pa:9` (was गोलियाँ … थीं), `pa:4` (was चाचा जी … में थे), `cm:0` (was the पहाड़/ऊँचा pair) and `to:4` (was … दुकान बंद है). The plain frame यह X उस X से … है (`cm:0`, `cm:3`, `tl:10`) is the basic comparison pattern and is kept.
 - `vo:1`: बेटे as the vocative follows the book (4.5), though बेटा is common in speech.
 - `pa:10`, `pa:11`, `cm:2`: Prakash, Mohan and Pinki are spoken of plainly (था/थी), following the unit 3 precedent; `pa:4`, `tl:7` use जी and the honorific थे.
@@ -138,6 +138,6 @@
 
 ## Known issues and not yet done
 
-- Hard level adds random extra tiles from the unit's tile pool to sentence building. Occasionally one of them makes a second correct sentence, which is then marked wrong (for example adding बहुत in unit 4 `tl:1`). Units 1–5 are checked at Standard level. A later fix: only add Hard-level extras that the item's author has marked safe.
+- Fixed: Hard level used to pad sentence building with real words from the unit's other tile items, which could make a second correct sentence that was then marked wrong. It now pads only with the unit's declared distractor forms. The Hard-level tile notes under Units 6 and 7 no longer apply.
 - Audio: Piper and eSpeak NG are not installed; only `spd-say` (speech-dispatcher) is present. No option has been chosen or installed yet; the `audio/unitNN/manifest.json` hook in `tools/build.js` is ready for clips.
 - "Explain more": the engine calls `/api/explain` when the page is served from localhost, but the small local server that holds the API key has not been written.

@@ -82,7 +82,9 @@ function prepare(u){
     if (it.t === "tiles") { it.extra = (raw.wrong || []).map(x => x[0]); it.alt = raw.alt || []; }
     u._items[it.id] = it;
   }));
-  u._tilepool = [...new Set(u.lessons.flatMap(l => l.items.filter(i => i.t === "tiles").flatMap(i => [...i.ans, ...(i.wrong || []).map(x => x[0])])))];
+  /* Hard level pads sentence building with this unit's declared distractor forms only (mostly
+     invalid words), so a padding tile can never complete a second correct sentence. */
+  u._tilepool = Object.keys(u.distractors || {}).filter(w => !/\s/.test(w));
   const ids = lid => Object.values(u._items).filter(i => i._lesson === lid);
   const V = u._V;
   const testSpec = u.test || {vocab:5};
@@ -168,6 +170,7 @@ function explainTiles(it, got){
   const extraUsed = got.filter(w => !ans.includes(w));
   extraUsed.forEach(w => {
     if (it.wrongMap[w]) parts.push(it.wrongMap[w]);
+    else if (it._u.distractors && w in it._u.distractors) parts.push(`${w} is not a correct form here.`);
     else { const v = it._u._V.find(x => x.hi === w); parts.push(`${w}${v ? ` (“${v.en}”)` : ""} does not belong in this sentence.`); }
   });
   const missing = ans.filter(w => !got.includes(w));
@@ -229,7 +232,7 @@ function toolsHTML(){
     </div></header>
   <div class="levelrow">
     <div class="seg" role="group" aria-label="Difficulty">${LEVELS.map((l, i) => `<button data-lv="${i}" aria-pressed="${i === app.level}">${l.name}</button>`).join("")}</div>
-    <span class="note">${lv.opts} choices per word, ${lv.pairs} pairs to match, ${lv.extra} extra ${lv.extra === 1 ? "tile" : "tiles"} in sentence building.</span>
+    <span class="note">${lv.opts} choices per word, ${lv.pairs} pairs to match, ${lv.extra === 1 ? "1 extra tile" : `up to ${lv.extra} extra tiles`} in sentence building.</span>
   </div>
   ${hasAudio() ? "" : `<div class="warn">No Hindi voice is available here, so words will not be read aloud and the listening lessons are off. Opening this page in Google Chrome usually fixes that.</div>`}`;
 }
