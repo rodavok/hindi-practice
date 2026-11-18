@@ -1,0 +1,8 @@
+{
+  "name": "hindi-practice",
+  "private": true,
+  "description": "Personal Hindi practice app. Dev dependency is only for tools/glyphs.js (sound-colour glyph data).",
+  "devDependencies": {
+    "harfbuzzjs": "1.6.4"
+  }
+}

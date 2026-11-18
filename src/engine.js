@@ -282,6 +282,31 @@ function alignHTML(en, toks){
 }
 const alignFor = it => it.t === "tiles" ? alignHTML(it.en, it.ans) : it.en && it.say ? alignHTML(it.en, words(it.say)) : "";
 
+/* ---- sound colours: outlines pre-shaped by tools/glyphs.js, drawn glyph by glyph so a vowel sign or reph gets its own colour ---- */
+const SND = DATA.sounds || null;
+const sid = n => "g-" + n.replace("#", "_");
+function soundDefs(){
+  if (!SND || document.getElementById("snd-defs")) return;
+  const clip = new Set();
+  Object.values(SND.words).forEach(w => w.t.forEach(t => t.p.forEach(q => { if (q.length > 4) clip.add(q[0]); })));
+  const defs = Object.entries(SND.glyphs).map(([n, d]) => `<path id="${sid(n)}" d="${d}"/>`).join("") + [...clip].map(n => `<clipPath id="k-${sid(n)}"><use href="#${sid(n)}"/></clipPath>`).join("");
+  document.body.insertAdjacentHTML("afterbegin", `<svg id="snd-defs" width="0" height="0" style="position:absolute" aria-hidden="true"><defs>${defs}</defs></svg>`);
+}
+function soundHTML(form){
+  const e = SND && SND.words[form]; if (!e) return "";
+  const H = 52, use = (n, x, y, c) => `<use href="#${sid(n)}" transform="translate(${x} ${y})" class="sc${c}"/>`;
+  const svgs = e.t.map((t, i) => `<svg class="snd" viewBox="${t.vb[0]} -980 ${t.vb[1]} 1400" width="${Math.round(t.vb[1] * H / 1400)}" height="${H}" role="img" aria-label="${esc(form)}" style="display:inline-block"><g transform="scale(1,-1)">${t.p.map(([n, x, y, c, plain, c2]) => plain ? use(n, x, y, c) + `<use href="#${sid(plain)}" clip-path="url(#k-${sid(n)})" transform="translate(${x} ${y})" class="sc${c2}"/>` : use(n, x, y, c)).join("")}</g></svg>${e.s[i] ? esc(e.s[i]) : ""}`).join("");
+  const rom = e.r.map(([t, c, k]) => k === "-" ? esc(t) : `<span class="${c >= 0 && k !== "s" ? "sc" + c : ""}${k === "i" ? " i" : ""}${k === "s" ? " s" : ""}">${esc(t)}</span>`).join("");
+  return `<div class="sndw"><div>${svgs}</div><div class="sndr tr">${rom}</div></div>`;
+}
+function soundsHTML(it){
+  if (!SND) return "";
+  const cand = [it.word, it.hi, it.reveal, isHi(it.a || "") ? it.a : "", ...(it.say ? words(it.say) : []), ...(it.t === "tiles" ? it.ans : [])];
+  const forms = [...new Set(cand.filter(Boolean).flatMap(c => isHi(c) ? [c.replace(/[।?!,.…“”"'()]/g, "").trim()] : []))].filter(f => SND.words[f]).slice(0, 8);
+  const cards = forms.map(soundHTML).join("");
+  return cards ? `<details class="sounds"><summary>Sounds</summary><div class="sndgrid">${cards}</div><p class="note">One colour is one sound. A dotted “a” is the built-in a, a grey (a) is not pronounced. Letters that the script fuses into one shape share a colour.</p></details>` : "";
+}
+
 /* ---- "Explain more": the hosted page's sample hook, else the local helper (tools/explain-server) ---- */
 function askPrompt(it, chosen){
   const right = it.t === "tiles" ? it.ans.join(" ") : it.a, mine = it.t === "tiles" ? chosen.join(" ") : chosen;
@@ -479,10 +504,10 @@ function finish(ok, chosen){
   const right = it.t === "tiles" ? it.ans.join(" ") : it.a;
   foot.hidden = false; foot.className = "foot " + (ok ? "good" : "bad");
   fb.innerHTML = `<strong>${ok ? "Correct" : "Not quite"}</strong>${!ok && right ? `Right answer: ${show1(right)}` : ""}${it.reveal ? ` The word was ${hiHTML(it.reveal)}.` : ""}${it.t === "match" && !ok ? esc(why) : ""}`;
-  const al = alignFor(it);
-  if (it.t !== "match" && (al || !ok)){
+  const al = alignFor(it), snd = it.t !== "match" ? soundsHTML(it) : "";
+  if (it.t !== "match" && (al || !ok || snd)){
     const d = document.createElement("div"); d.className = "detail";
-    d.innerHTML = `${!ok && why ? `<h3>Why</h3><p>${esc(why)}</p>` : ""}${al ? `<h3>Word by word</h3>${al}` : ""}${!ok ? askHTML() : ""}`;
+    d.innerHTML = `${!ok && why ? `<h3>Why</h3><p>${esc(why)}</p>` : ""}${al ? `<h3>Word by word</h3>${al}` : ""}${snd}${!ok ? askHTML() : ""}`;
     if (d.innerHTML){ root.appendChild(d); wireAsk(d, it, chosen); }
   }
   footbtns.innerHTML = `<button class="go" id="go">${run.i + 1 === run.items.length ? "See results" : "Continue"}</button>`;
@@ -528,6 +553,7 @@ document.addEventListener("keydown", e => {
 });
 
 if ("speechSynthesis" in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+soundDefs();
 home();
 sync.start();
 /* Keep the last question clear of the fixed check bar, whose height varies on a phone. */

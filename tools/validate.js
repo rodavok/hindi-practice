@@ -13,8 +13,19 @@ const warn = (u, where, msg) => { warnings++; console.log(`warn  unit${u.n} ${wh
 // All romanisations known anywhere (ledger of every unit + every unit's distractors).
 const allTr = {};
 for (const k of Object.keys(ledger)) Object.assign(allTr, ledger[k].forms);
+const ledgerForms = new Set(); for (const k of Object.keys(ledger)) Object.keys(ledger[k].forms).forEach(f => ledgerForms.add(f));
 for (const u of units) Object.assign(allTr, u.distractors || {});
 
+// Sound-colour glyph data (content/glyphs.json, from tools/glyphs.js) must cover every taught form.
+{
+  const fs = require("fs"), path = require("path");
+  const gf = path.join(__dirname, "../content/glyphs.json");
+  if (fs.existsSync(gf)){
+    const g = JSON.parse(fs.readFileSync(gf, "utf8"));
+    const miss = Object.keys(allTr).filter(f => ledgerForms.has(f) && !g.words[f]);
+    if (miss.length){ errors++; console.log(`ERROR glyphs.json: ${miss.length} ledger form(s) have no sound-colour data (run node tools/glyphs.js): ${miss.slice(0, 8).join(" ")}${miss.length > 8 ? " …" : ""}`); }
+  }
+}
 for (const u of units){
   if (only && u.n !== only) continue;
   const taught = new Set();

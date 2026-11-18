@@ -18,10 +18,13 @@ if (fs.existsSync(adir)) for (const d of fs.readdirSync(adir)){
     audio[text] = `data:${mime};base64,` + fs.readFileSync(path.join(adir, d, file)).toString("base64");
   }
 }
+// Optional sound-colour glyph data, written by tools/glyphs.js.
+const gfile = path.join(ROOT, "content/glyphs.json");
+const sounds = fs.existsSync(gfile) ? JSON.parse(fs.readFileSync(gfile, "utf8")) : null;
 const css = fs.readFileSync(path.join(ROOT, "src/style.css"), "utf8");
 const js = fs.readFileSync(path.join(ROOT, "src/engine.js"), "utf8");
 const shell = fs.readFileSync(path.join(ROOT, "src/shell.html"), "utf8");
-const data = JSON.stringify({units, ledger, audio}).replace(/</g, "\\u003c");
+const data = JSON.stringify({units, ledger, audio, sounds}).replace(/</g, "\\u003c");
 const out = shell.replace("/*CSS*/", () => css).replace("/*DATA*/", () => `window.HINDI = ${data};`).replace("/*ENGINE*/", () => js);
 fs.mkdirSync(path.join(ROOT, "dist"), {recursive: true});
 fs.writeFileSync(path.join(ROOT, "dist/index.html"), out);
@@ -29,4 +32,4 @@ fs.writeFileSync(path.join(ROOT, "dist/index.html"), out);
 const frag = out.replace(/<!DOCTYPE html>\s*<html[^>]*>\s*<head>\s*/i, "").replace(/<meta charset="utf-8">\s*<meta name="viewport"[^>]*>\s*/i, "")
   .replace(/<\/head>\s*<body>\s*/i, "").replace(/\s*<\/body>\s*<\/html>\s*$/i, "\n");
 fs.writeFileSync(path.join(ROOT, "dist/artifact.html"), frag);
-console.log(`dist/index.html: ${units.length} unit(s), ${Object.keys(audio).length} clip(s), ${(out.length / 1024).toFixed(0)} KB`);
+console.log(`dist/index.html: ${units.length} unit(s), ${Object.keys(audio).length} clip(s), ${sounds ? Object.keys(sounds.words).length : 0} sound-coloured form(s), ${(out.length / 1024).toFixed(0)} KB`);

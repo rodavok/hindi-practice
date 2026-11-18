@@ -4,6 +4,7 @@
   --accent:#7a4fd6; --btn:#5a35b5; --btn-ink:#ffffff;
   --good:#1c7f45; --good-bg:#e3f4ea; --bad:#b93232; --bad-bg:#fbe6e6;
   --al-s:78%; --al-l:87%;
+  --sc0:hsl(268 62% 42%); --sc1:hsl(195 90% 31%); --sc2:hsl(150 80% 28%); --sc3:hsl(28 90% 38%); --sc4:hsl(340 70% 42%);
   --display:"Tiro Devanagari Hindi","Mukta","Noto Sans Devanagari",serif;
   --body:"Mukta","Noto Sans Devanagari",system-ui,sans-serif;
 }
@@ -13,6 +14,7 @@
     --accent:#a88cf2; --btn:#a88cf2; --btn-ink:#1b1233;
     --good:#58cf8c; --good-bg:#143524; --bad:#ff8585; --bad-bg:#3d1a22;
     --al-s:45%; --al-l:30%;
+    --sc0:hsl(268 90% 76%); --sc1:hsl(195 85% 62%); --sc2:hsl(150 65% 60%); --sc3:hsl(32 95% 62%); --sc4:hsl(340 90% 74%);
     color-scheme:dark;
   }
 }
@@ -21,6 +23,7 @@
   --accent:#a88cf2; --btn:#a88cf2; --btn-ink:#1b1233;
   --good:#58cf8c; --good-bg:#143524; --bad:#ff8585; --bad-bg:#3d1a22;
   --al-s:45%; --al-l:30%;
+  --sc0:hsl(268 90% 76%); --sc1:hsl(195 85% 62%); --sc2:hsl(150 65% 60%); --sc3:hsl(32 95% 62%); --sc4:hsl(340 90% 74%);
   color-scheme:dark;
 }
 *{box-sizing:border-box}
@@ -146,3 +149,13 @@ body.notr .tr{display:none}
   .lesson .score{grid-column:2;justify-self:start}
   .match{gap:8px}
 }
+
+/* Sound colours: letters and romanisation share one colour per sound (tools/glyphs.js). Separate from the .al word-match highlights. */
+.sc0{color:var(--sc0)}.sc1{color:var(--sc1)}.sc2{color:var(--sc2)}.sc3{color:var(--sc3)}.sc4{color:var(--sc4)}
+.snd{display:block}.snd use{fill:currentColor}
+.sounds summary{cursor:pointer;font-size:14px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.sndgrid{display:flex;flex-wrap:wrap;gap:10px;margin:10px 0 6px}
+.sndw{border:1px solid var(--line);border-radius:10px;padding:8px 14px;display:flex;flex-direction:column;align-items:center;gap:4px}
+.sndr{font-style:italic;font-size:18px}
+.sndr .i{text-decoration:underline dotted;text-underline-offset:4px}
+.sndr .s{color:var(--muted)}
