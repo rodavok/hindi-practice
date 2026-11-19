@@ -1,0 +1,5 @@
+/* drawing while speaking (src/draw.js): the Hindi redrawn as glyphs, ghosted until the pen reaches each sound */
+.dw{display:inline-block;height:1.4em;vertical-align:-0.42em;overflow:visible}
+.dw .dwb{fill:currentColor;opacity:.2}
+.dwf0{fill:var(--sc0)}.dwf1{fill:var(--sc1)}.dwf2{fill:var(--sc2)}.dwf3{fill:var(--sc3)}.dwf4{fill:var(--sc4)}
+.dw-sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}

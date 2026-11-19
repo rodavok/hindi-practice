@@ -1,0 +1,346 @@
+<title>Sound by Sound</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Mukta:wght@400;500;600;700&family=Tiro+Devanagari+Hindi&display=swap" rel="stylesheet">
+<style>
+/* Layout: one column, the word large on a card, its sound strip under it, controls below. Tokens are the practice app's. */
+:root{
+  --paper:#f2f1f5; --card:#ffffff; --ink:#24212b; --muted:#625e6d; --line:#dad7e2; --ghost:#d9d6e1;
+  --accent:#7a4fd6; --btn:#5a35b5; --btn-ink:#ffffff;
+  --sc0:hsl(268 62% 42%); --sc1:hsl(195 90% 31%); --sc2:hsl(150 80% 28%); --sc3:hsl(28 90% 38%); --sc4:hsl(340 70% 42%);
+  --display:"Tiro Devanagari Hindi","Mukta","Noto Sans Devanagari",serif;
+  --body:"Mukta","Noto Sans Devanagari",system-ui,sans-serif;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --paper:#18171c; --card:#222028; --ink:#eceaf2; --muted:#a6a2b2; --line:#393642; --ghost:#3a3743;
+  --accent:#a88cf2; --btn:#a88cf2; --btn-ink:#1b1233;
+  --sc0:hsl(268 90% 76%); --sc1:hsl(195 85% 62%); --sc2:hsl(150 65% 60%); --sc3:hsl(32 95% 62%); --sc4:hsl(340 90% 74%);
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --paper:#18171c; --card:#222028; --ink:#eceaf2; --muted:#a6a2b2; --line:#393642; --ghost:#3a3743;
+  --accent:#a88cf2; --btn:#a88cf2; --btn-ink:#1b1233;
+  --sc0:hsl(268 90% 76%); --sc1:hsl(195 85% 62%); --sc2:hsl(150 65% 60%); --sc3:hsl(32 95% 62%); --sc4:hsl(340 90% 74%);
+  color-scheme:dark}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.45}
+.wrap{max-width:660px;margin:0 auto;padding-block:20px 40px;padding-left:max(16px, env(safe-area-inset-left, 0px));padding-right:max(16px, env(safe-area-inset-right, 0px));display:flex;flex-direction:column;gap:18px}
+h1{font-size:24px;margin:0;font-weight:700;text-wrap:balance}
+h1 .hi{font-family:var(--display);font-weight:400;font-size:20px;color:var(--muted);margin-left:8px}
+.note{font-size:14px;color:var(--muted);margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+button:focus-visible,input:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+
+.stage{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px 18px 16px;display:flex;flex-direction:column;align-items:center;gap:10px}
+#word{max-width:100%;height:auto;display:block}
+#word .base{fill:var(--ghost)}
+.f0{fill:var(--sc0)}.f1{fill:var(--sc1)}.f2{fill:var(--sc2)}.f3{fill:var(--sc3)}.f4{fill:var(--sc4)}
+.rom{font-size:26px;font-style:italic;letter-spacing:.02em;min-height:1.4em}
+.rom span{color:var(--ghost);transition:color .12s}
+.rom span.on{color:var(--c)}
+.rom span.i{text-decoration:underline dotted;text-underline-offset:5px}
+.rom span.s.on{color:var(--muted)}
+.rom span.now{text-shadow:0 0 .5em color-mix(in srgb, var(--c) 45%, transparent)}
+.en{color:var(--muted);font-size:16px}
+
+.strip{position:relative;width:100%;display:flex;height:34px;border-radius:8px;overflow:hidden;background:var(--paper)}
+.strip .seg{display:grid;place-items:center;font-size:13px;font-style:italic;color:var(--muted);border-right:1px solid var(--card);min-width:0;overflow:hidden;white-space:nowrap}
+.strip .seg.on{background:color-mix(in srgb, var(--c) 22%, transparent);color:var(--ink)}
+.strip .pad{background:repeating-linear-gradient(45deg, transparent 0 5px, color-mix(in srgb, var(--line) 70%, transparent) 5px 7px)}
+.strip .head{position:absolute;top:0;bottom:0;width:2px;background:var(--accent);left:0;opacity:0}
+.strip-cap{display:flex;justify-content:space-between;width:100%;font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+
+.controls{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
+.play{display:inline-flex;align-items:center;gap:8px;border:0;border-radius:999px;padding:10px 20px 10px 16px;background:var(--btn);color:var(--btn-ink);font-weight:600}
+.play svg{width:20px;height:20px;fill:currentColor}
+.ghostbtn{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:9px 16px}
+.seg2{display:inline-flex;border:1px solid var(--line);border-radius:999px;overflow:hidden;background:var(--card)}
+.seg2 button{border:0;background:none;padding:8px 14px;font-size:15px}
+.seg2 button[aria-pressed="true"]{background:var(--btn);color:var(--btn-ink)}
+.offset{display:flex;align-items:center;gap:10px;min-width:0;font-size:14px;color:var(--muted)}
+.offset input{flex:1;min-width:0;accent-color:var(--accent)}
+.offset output{font-variant-numeric:tabular-nums;min-width:5.5em;text-align:right}
+
+.words{display:flex;flex-wrap:wrap;gap:8px}
+.chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:4px 14px;display:inline-flex;gap:8px;align-items:baseline}
+.chip .hi{font-family:var(--display);font-size:19px}
+.chip small{color:var(--muted);font-size:13px}
+.chip[aria-pressed="true"]{border-color:var(--accent);box-shadow:inset 0 0 0 1px var(--accent)}
+.status{font-size:14px;color:var(--muted);border-left:4px solid var(--accent);background:var(--card);padding:8px 12px;border-radius:4px}
+@media (max-width:420px){.rom{font-size:22px}}
+</style>
+
+<div class="wrap">
+  <h1>Sound by sound</h1>
+  <p class="note">Press Play. A pen draws each sound’s colour onto the word while you hear it, in the order the sounds are spoken, so a vowel sign written before its consonant (ि) or an r written on top (र्) is drawn when you hear it, not where it sits. The pen’s path is decorative: it is not the order for writing the letters by hand.</p>
+
+  <div class="stage">
+    <svg id="word" role="img" aria-label=""></svg>
+    <div class="rom" id="rom"></div>
+    <div class="en" id="en"></div>
+    <div class="strip" id="strip" aria-hidden="true"></div>
+    <div class="strip-cap"><span>estimated sound lengths</span><span id="dur"></span></div>
+  </div>
+
+  <div class="controls">
+    <button class="play" id="play"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg><span id="playlbl">Play</span></button>
+    <button class="ghostbtn" id="draw">Draw without sound</button>
+    <div class="seg2" role="group" aria-label="Speed">
+      <button id="sp-n" aria-pressed="true" data-rate="0.9">Normal</button>
+      <button id="sp-s" aria-pressed="false" data-rate="0.7">Slow</button>
+    </div>
+  </div>
+  <label class="offset" for="off">Colours
+    <input type="range" id="off" min="-400" max="400" step="20" value="0">
+    <output id="offv" for="off">on time</output>
+  </label>
+
+  <div class="words" id="words"></div>
+  <div class="status" id="status">Looking for a voice…</div>
+  <p class="note">The timing is an estimate: each sound gets a length by type (long vowels longer, the silent a none), and the whole is stretched to the real length of the audio once a word has been heard. If the colours run ahead of or behind the voice, move the slider.</p>
+</div>
+
+<script>
+const DATA = /*DATA*/null;
+const $ = id => document.getElementById(id);
+const NS = "http://www.w3.org/2000/svg";
+const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+const store = {
+  get(k, d){ try { const v = localStorage.getItem("sd:" + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v){ try { localStorage.setItem("sd:" + k, JSON.stringify(v)); } catch (e) {} }
+};
+
+/* ---- sound lengths, in arbitrary weight units ---- */
+function weight(text, kind){
+  if (kind === "s") return 0;
+  const nfd = text.normalize("NFD"), base = nfd.replace(/[\u0300-\u036f]/g, "");
+  if (/^[aeiou]+$/.test(base)){
+    let w = kind === "i" ? 0.8 : base.length > 1 ? 1.6 : /[āīū]/.test(text) || /^[eo]$/.test(base) ? 1.5 : 0.9;
+    if (/\u0303/.test(nfd)) w += 0.3;
+    return w;
+  }
+  // consonants: a cluster such as śv, dy or cc counts each letter, an h after a consonant is aspiration
+  const n = base.replace(/(?<=[^aeiou])h/g, "").length, asp = n < base.length ? 0.2 : 0;
+  if (n > 1) return 0.85 * n + asp;
+  if (/ṛ/.test(text) && !asp) return 0.7;                      // flap
+  return 1.0 + asp;
+}
+const LEAD = 1.5, TAIL = 1.0;   // silence before and after, in weight units
+
+/* ---- build one word: spans in sound order, glyph layers, and which run each layer belongs to ---- */
+function prep(w){
+  const spans = w.r.filter(s => s[2] !== "-").map(([t, c, k]) => ({t, c, k, w: weight(t, k)}));
+  // the vowel ṛ (ृ, as in kṛ) is fuller than the flap ṛ (ड़), which shares its spelling
+  const vr = w.p.find(q => q[0] === "rvocalicvowelsigndeva");
+  if (vr) spans.forEach(s => { if (s.t === "ṛ" && s.c === vr[3]) s.w = 1.1; });
+  const last = spans.map(s => s.w > 0).lastIndexOf(true);
+  if (last >= 0) spans[last].w *= 1.35;                        // final lengthening
+  let acc = LEAD;
+  spans.forEach(s => { s.a = acc; acc += s.w; s.b = acc; });
+  const W = acc + TAIL;
+  // runs: consecutive spans of one colour (a consonant with its inherent or silent a)
+  const runs = [];
+  spans.forEach(s => { const r = runs[runs.length - 1]; if (r && r.c === s.c) { r.b = s.b; r.spans.push(s); } else runs.push({c: s.c, a: s.a, b: s.b, spans: [s]}); });
+  // layers: each glyph, plus the plain base drawn over a fused vowel shape
+  const layers = [];
+  w.p.forEach(([n, x, y, c, plain, c2]) => {
+    layers.push({n, x, y, c, key: plain ? `${n}|${plain}` : n});
+    if (plain) layers.push({n: plain, x, y, c: c2, clip: n, key: plain});
+  });
+  // pair the k-th group of colour c in the glyphs with the k-th run of colour c in the sounds
+  const groups = [];
+  layers.forEach(L => { const g = groups[groups.length - 1]; if (g && g.c === L.c) g.layers.push(L); else groups.push({c: L.c, layers: [L]}); });
+  const seen = {};
+  groups.forEach(g => {
+    const rs = runs.filter(r => r.c === g.c), k = seen[g.c] = (seen[g.c] ?? -1) + 1;
+    const run = rs[Math.min(k, rs.length - 1)] || {a: LEAD, b: W - TAIL};
+    g.layers.forEach(L => { L.a = run.a; L.b = run.b; });
+  });
+  return {w, spans, layers, W};
+}
+
+/* ---- draw: each glyph is revealed by a round pen moving along its centre lines (tools: demo/skeleton.js),
+   then whatever the pen missed (dots, knobs) fades in. The pen path is decorative, not a stroke order. ---- */
+const MIN_MS = 380;       // a glyph takes at least this long to draw, so the pen is visible at speech speed
+const pathD = s => "M" + s.map(p => p.join(" ")).join("L");
+const segLen = s => s.reduce((a, p, i) => i ? a + Math.hypot(p[0] - s[i - 1][0], p[1] - s[i - 1][1]) : 0, 0);
+let cur = null;
+function render(i){
+  const P = prep(DATA.words[i]); cur = P;
+  const svg = $("word"), [vx, vw] = P.w.vb;
+  svg.setAttribute("viewBox", `${vx} -980 ${vw} 1400`);
+  svg.setAttribute("aria-label", P.w.hi);
+  svg.setAttribute("width", Math.round(vw * 180 / 1400)); svg.setAttribute("height", 180);
+  const defs = Object.keys(DATA.glyphs).map(n => `<path id="g-${n}" d="${DATA.glyphs[n]}"/>`).join("")
+    + [...new Set(P.layers.filter(L => L.clip).map(L => L.clip))].map(n => `<clipPath id="k-${n}"><use href="#g-${n}"/></clipPath>`).join("")
+    + `<radialGradient id="sheen"><stop offset="0" stop-color="#fff" stop-opacity=".85"/><stop offset=".45" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>`
+    + `<clipPath id="kn"><use id="knu" href="#g-${P.layers[0].n}"/></clipPath>`
+    + P.layers.map((L, j) => {
+        const sk = DATA.strokes[L.key] || {w: 100, s: []};
+        L.w = sk.w; L.s = sk.s; L.lens = sk.s.map(segLen); L.total = L.lens.reduce((a, b) => a + b, 0);
+        const pens = sk.s.map((s, k) => `<path id="p${j}-${k}" d="${pathD(s)}" fill="none" stroke="#fff" stroke-width="${sk.w}" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="${L.lens[k].toFixed(1)} 99999" stroke-dashoffset="${L.lens[k].toFixed(1)}"/>`).join("");
+        return `<mask id="m${j}" maskUnits="userSpaceOnUse" x="${vx - 200}" y="-2000" width="${vw + 400}" height="4000"><g transform="translate(${L.x} ${L.y})">${pens}<use id="q${j}" href="#g-${L.n}" fill="#fff" opacity="0"/></g></mask>`;
+      }).join("");
+  const base = P.w.p.map(([n, x, y]) => `<use href="#g-${n}" transform="translate(${x} ${y})" class="base"/>`).join("");
+  const col = P.layers.map((L, j) => `<g mask="url(#m${j})"><use href="#g-${L.n}" transform="translate(${L.x} ${L.y})" class="f${L.c % 5}"${L.clip ? ` clip-path="url(#k-${L.clip})"` : ""}/></g>`).join("");
+  // the nib is a wet-ink sheen at the pen's tip, clipped to the glyph being drawn so it never leaves the letter
+  const nib = `<g clip-path="url(#kn)"><circle id="nib" r="75" fill="url(#sheen)" opacity="0"/></g>`;
+  svg.innerHTML = `<defs>${defs}</defs><g transform="scale(1,-1)">${base}${col}${nib}</g>`;
+  P.pens = P.layers.map((L, j) => L.s.map((_, k) => $(`p${j}-${k}`)));
+  P.fills = P.layers.map((_, j) => $("q" + j));
+
+  $("rom").innerHTML = P.spans.map((s, j) => `<span id="s${j}" class="${s.k}" style="--c:var(--sc${s.c % 5})">${s.t}</span>`).join("");
+  $("en").textContent = P.w.en;
+  $("strip").innerHTML = `<i class="seg pad" style="flex:${LEAD}"></i>` + P.spans.filter(s => s.w > 0).map(s => `<i class="seg" data-a="${s.a}" style="flex:${s.w};--c:var(--sc${s.c % 5})">${s.t}</i>`).join("") + `<i class="seg pad" style="flex:${TAIL}"></i><span class="head" id="head"></span>`;
+  document.querySelectorAll(".chip").forEach((b, j) => b.setAttribute("aria-pressed", j === i));
+  paint(Infinity);
+  showDur();
+}
+
+/* a point `d` along a layer's strokes, in word coordinates */
+function along(L, d){
+  for (let k = 0; k < L.s.length; k++){
+    if (d > L.lens[k]) { d -= L.lens[k]; continue; }
+    const s = L.s[k];
+    for (let i = 1; i < s.length; i++){
+      const l = Math.hypot(s[i][0] - s[i - 1][0], s[i][1] - s[i - 1][1]);
+      if (d <= l || i === s.length - 1){ const t = l ? Math.min(1, d / l) : 0; return [L.x + s[i - 1][0] + (s[i][0] - s[i - 1][0]) * t, L.y + s[i - 1][1] + (s[i][1] - s[i - 1][1]) * t]; }
+      d -= l;
+    }
+  }
+  return null;
+}
+/* progress in weight units → pens, fills, nib, romanisation and strip; mpu = ms per weight unit */
+const DRAW = 0.82;        // share of a glyph's time spent moving the pen; the rest fades in what it missed
+function paint(u, mpu){
+  const P = cur, minU = mpu ? MIN_MS / mpu : 0;
+  let tip = null, tipStart = -Infinity;
+  P.layers.forEach((L, j) => {
+    const dur = Math.max(L.b - L.a, minU, 0.01);
+    let f = (u - L.a) / dur;
+    f = reduce ? (f > 0 ? 1 : 0) : Math.max(0, Math.min(1, f));
+    const g = L.total ? Math.min(1, f / DRAW) : 0, drawn = g * L.total;
+    let left = drawn;
+    P.pens[j].forEach((el, k) => { const l = L.lens[k], v = Math.max(0, Math.min(l, left)); left -= l; el.setAttribute("stroke-dashoffset", (l - v).toFixed(1)); });
+    const fade = L.total ? Math.max(0, (f - DRAW + 0.08) / (1 - DRAW + 0.08)) : f;
+    P.fills[j].setAttribute("opacity", Math.min(1, fade).toFixed(3));
+    if (g > 0 && g < 1 && L.a > tipStart){ const p = along(L, drawn); if (p){ tip = {p, L}; tipStart = L.a; } }
+  });
+  const nib = $("nib");
+  if (tip && !reduce){
+    nib.setAttribute("opacity", 1); nib.setAttribute("cx", tip.p[0].toFixed(1)); nib.setAttribute("cy", tip.p[1].toFixed(1));
+    const ku = $("knu"); ku.setAttribute("href", "#g-" + tip.L.n); ku.setAttribute("transform", `translate(${tip.L.x} ${tip.L.y})`);
+  }
+  else nib.setAttribute("opacity", 0);
+  P.spans.forEach((s, j) => { const el = $("s" + j); el.classList.toggle("on", u >= s.a); el.classList.toggle("now", u >= s.a && u < s.b + 0.15); });
+  document.querySelectorAll("#strip .seg[data-a]").forEach(el => el.classList.toggle("on", u >= +el.dataset.a));
+  const head = $("head");
+  if (head){ head.style.opacity = isFinite(u) && u > 0 && u < P.W ? 1 : 0; head.style.left = (Math.max(0, Math.min(1, u / P.W)) * 100) + "%"; }
+}
+
+/* ---- timing: per-word measured length if known, else the fitted ms per weight unit ---- */
+let rate = 0.9;
+const key = (src, w) => `${src}|${w}|${rate}`;
+function estMs(src, P){
+  const m = store.get("len:" + key(src, P.w.hi), 0);
+  if (m) return m;
+  return P.W * store.get("unit:" + src, 85) / rate;
+}
+function learn(src, P, ms){
+  if (!(ms > 150)) return;
+  store.set("len:" + key(src, P.w.hi), ms);
+  const u = ms * rate / P.W, old = store.get("unit:" + src, 0);
+  store.set("unit:" + src, old ? old * 0.6 + u * 0.4 : u);
+}
+function showDur(){ if (!cur) return; const src = voiceSrc(); $("dur").textContent = `${Math.round(estMs(src || "none", cur))} ms${store.get("len:" + key(src || "none", cur.w.hi), 0) ? " (measured)" : " (estimate)"}`; }
+
+/* ---- voices: Claude's, else a Hindi browser voice, else none ---- */
+let tts = null, bvoice = null, ttsOff = false;
+const voiceSrc = () => tts ? "claude" : bvoice ? "browser" : "";
+function status(){
+  $("status").textContent = tts ? "Voice: Claude’s built-in voice." : bvoice ? `Voice: browser Hindi voice (${bvoice.name}).` : ttsOff ? "Reading aloud is turned off for this page, so it draws without sound." : "No Hindi voice here, so Play draws without sound. Open the page on claude.ai in Chrome or Edge to hear it.";
+  showDur();
+}
+function pickVoice(){ if ("speechSynthesis" in window) bvoice = speechSynthesis.getVoices().find(v => /^hi(-|_|$)/i.test(v.lang)) || null; status(); }
+if ("speechSynthesis" in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
+if (window.claude && window.claude.use) window.claude.use("tts").then(t => {
+  tts = t || null;
+  if (tts){
+    // keep the clock on the audio: t0 is when the sound started, nudged towards each reported position
+    tts.onPosition(e => { if (run && run.src === "claude" && !run.audioDone){ const t = performance.now() - e.ms; run.t0 = run.t0 == null ? t : run.t0 * 0.6 + t * 0.4; } });
+    tts.onState(e => { if (e.state === "idle" && e.reason === "not_granted"){ tts = null; ttsOff = true; status(); } });
+  }
+  status();
+}).catch(() => {}); else status();
+setTimeout(status, 1500);
+
+/* ---- one run of the animation ---- */
+let run = null, raf = 0;
+function setPlaying(on){ $("playlbl").textContent = on ? "Stop" : "Play"; $("draw").disabled = on; }
+// One clock for every source: ms since the sound began. After the audio ends it keeps running on
+// wall time until the last glyph's pen has finished.
+function frame(){
+  if (!run) return;
+  if (run.t0 != null){
+    const ms = performance.now() - run.t0 + (+$("off").value), mpu = run.D / cur.W, u = ms / mpu;
+    paint(u, mpu);
+    const minU = MIN_MS / mpu, end = Math.max(...cur.layers.map(L => L.a + Math.max(L.b - L.a, minU)));
+    if (run.audioDone && u > end + 0.2) return finish();
+  }
+  raf = requestAnimationFrame(frame);
+}
+function audioEnded(me, src, played){
+  if (run !== me) return;
+  if (src && played) learn(src, cur, played);
+  run.audioDone = true; setPlaying(false); showDur();
+  if (run.t0 == null) finish();
+}
+function finish(){
+  if (!run) return;
+  run = null; cancelAnimationFrame(raf); setPlaying(false);
+  paint(Infinity); showDur();
+}
+function start(src){
+  stop();
+  const P = cur, D = estMs(src || "none", P) * (src ? 1 : 1.6);
+  run = {src, D, t0: null, audioDone: false};
+  paint(-1, D / P.W); setPlaying(!!src); raf = requestAnimationFrame(frame);
+  const me = run;
+  if (src === "claude"){
+    tts.speak(P.w.hi, {language: "hi", rate}).then(res => audioEnded(me, "claude", res && res.playedMs))
+      .catch(e => { if (run !== me) return; finish(); if (e && e.code === "not_granted"){ tts = null; ttsOff = true; status(); } else $("status").textContent = `The voice stopped (${(e && (e.reason || e.code)) || "error"}). Press Play to try again.`; });
+  } else if (src === "browser"){
+    speechSynthesis.cancel();
+    const u = new SpeechSynthesisUtterance(P.w.hi);
+    u.voice = bvoice; u.lang = bvoice.lang; u.rate = rate;
+    u.onstart = () => { if (run === me) run.t0 = performance.now(); };
+    u.onend = () => { if (run === me) audioEnded(me, "browser", performance.now() - run.t0); };
+    u.onerror = () => { if (run === me) finish(); };
+    speechSynthesis.speak(u);
+  } else {
+    run.t0 = performance.now(); run.audioDone = true;
+  }
+}
+function stop(){
+  if (!run) return;
+  const src = run.src, playing = !run.audioDone; finish();
+  if (playing && src === "claude") tts.stop().catch(() => {});
+  if (playing && src === "browser") speechSynthesis.cancel();
+}
+
+$("play").onclick = () => run && run.src && !run.audioDone ? stop() : start(voiceSrc());
+$("draw").onclick = () => start("");
+document.querySelectorAll(".seg2 button").forEach(b => b.onclick = () => {
+  rate = +b.dataset.rate; store.set("rate", rate);
+  document.querySelectorAll(".seg2 button").forEach(x => x.setAttribute("aria-pressed", x === b)); showDur();
+});
+function showOff(){ const v = +$("off").value; $("offv").textContent = v === 0 ? "on time" : v > 0 ? `${v} ms earlier` : `${-v} ms later`; }
+$("off").oninput = () => { showOff(); store.set("off", +$("off").value); };
+
+$("words").innerHTML = DATA.words.map((w, i) => `<button class="chip" aria-pressed="false" data-i="${i}"><span class="hi">${w.hi}</span><small>${w.en}</small></button>`).join("");
+document.querySelectorAll(".chip").forEach(b => b.onclick = () => { stop(); render(+b.dataset.i); start(voiceSrc()); });
+
+rate = store.get("rate", 0.9);
+document.querySelectorAll(".seg2 button").forEach(x => x.setAttribute("aria-pressed", +x.dataset.rate === rate));
+$("off").value = store.get("off", 0); showOff();
+render(0);
+</script>

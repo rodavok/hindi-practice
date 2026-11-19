@@ -147,17 +147,28 @@ function pickVoice(){
 }
 const audioSource = () => Object.keys(AUDIO).length ? "recorded clips" : voice ? "browser voice" : cloudTTS ? "built-in voice" : "";
 const hasAudio = () => !!audioSource();
-function speak(text){
+/* hooks (optional, used by speakDraw in src/draw.js): start() when the sound begins, end(ms heard), fail() */
+function speak(text, hooks){
   text = text.replace(/___/g, "").replace(/[।]/g, "").trim();
+  const h = hooks || {}, call = (f, ...a) => { try { if (h[f]) h[f](...a); } catch (e) {} };
   try {
-    if (AUDIO[text]) { new Audio(AUDIO[text]).play().catch(() => {}); return; }
+    if (AUDIO[text]) {
+      const a = new Audio(AUDIO[text]);
+      a.onplaying = () => call("start"); a.onended = () => call("end", a.duration * 1000); a.onerror = () => call("fail");
+      a.play().catch(() => call("fail")); return;
+    }
     if (voice){
       speechSynthesis.cancel();
       const u = new SpeechSynthesisUtterance(text);
       u.voice = voice; u.lang = voice.lang; u.rate = 0.85;
+      let t0 = 0;
+      u.onstart = () => { t0 = performance.now(); call("start"); };
+      u.onend = () => call("end", t0 ? performance.now() - t0 : 0);
+      u.onerror = () => call("fail");
       speechSynthesis.speak(u);
-    } else if (cloudTTS) cloudTTS.speak(text, {language:"hi", rate:0.85}).catch(() => {});
-  } catch (e) {}
+    } else if (cloudTTS) cloudTTS.speak(text, {language:"hi", rate:0.85}).then(r => call("end", r && r.playedMs), () => call("fail"));
+    else call("fail");
+  } catch (e) { call("fail"); }
 }
 const SPK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0 0 14 8v8a4.5 4.5 0 0 0 2.5-4zM14 3.2v2.1a7 7 0 0 1 0 13.4v2.1a9 9 0 0 0 0-17.6z"/></svg>';
 
@@ -439,7 +450,7 @@ function show(){
   root.innerHTML = head + body;
   document.getElementById("quit").onclick = leave;
   const spk = document.getElementById("spk");
-  if (spk) spk.onclick = () => speak(it.sayNow || it.hi);
+  if (spk) spk.onclick = () => speakDraw(it.sayNow || it.hi);
   if (it.t === "listen") speak(it.sayNow);
   if (it.t === "mc" || it.t === "listen") root.querySelectorAll(".opt").forEach(b => b.onclick = () => pick(+b.dataset.k));
   if (it.t === "tiles") drawTiles();
@@ -484,12 +495,12 @@ function check(){
     if (run.sel == null) return;
     const chosen = it._opts[run.sel];
     root.querySelectorAll(".opts .opt").forEach(b => { const o = it._opts[+b.dataset.k]; b.disabled = true; if (o === it.a) b.classList.add("right"); else if (+b.dataset.k === run.sel) b.classList.add("wrong"); });
-    if (it.say) speak(it.say);
+    if (it.say) speakDraw(it.say);
     finish(chosen === it.a, chosen);
   } else if (it.t === "tiles"){
     const got = run.sel.map(k => it._bank.find(o => o.k === k).w);
     const ok = [it.ans, ...it.alt].some(a => a.join(" ") === got.join(" "));
-    speak(it.ans.join(" "));
+    speakDraw(it.ans.join(" "));
     finish(ok, got);
     drawTiles();
   }

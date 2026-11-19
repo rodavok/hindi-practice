@@ -10,6 +10,7 @@ A personal, Duolingo-style practice app for Snell & Weightman, *Complete Hindi* 
 - `src/engine.js`, `src/style.css`, `src/shell.html` — the shared engine, split out of `pilot/index.html` (kept for reference).
 - `tools/validate.js` — must pass before anything is committed: `node tools/validate.js [unit]`.
 - `tools/glyphs.js` — writes `content/glyphs.json`: every ledger form drawn glyph by glyph (HarfBuzz + Noto Sans Devanagari, font in `tools/fonts/`) with one colour per sound, plus matching romanisation spans. The app shows it under “Sounds” in the answer panel. Needs `npm install` (harfbuzzjs, dev only). Re-run it whenever a unit adds words; `tools/validate.js` fails if a ledger form is missing. Forms it can only colour as one shape are listed on each run and in `PROGRESS.md`.
+- `tools/strokes.js` — writes `content/strokes.json`: a centre line for every glyph in `content/glyphs.json` (thinned from the outline by `tools/skeleton.js`). `src/draw.js` uses it to redraw the Hindi already on screen with a pen, one sound colour at a time, while a prompt or an answer is spoken. It never draws text that isn't showing, so Listen answers stay hidden. Re-run it after `tools/glyphs.js`. `demo/` holds the standalone demo it grew from.
 - `tools/build.js` — writes `dist/index.html` (one self-contained page, gitignored) and `dist/artifact.html` (the same page without the document skeleton).
 - The app is published privately at https://claude.ai/artifact/ALQsr6PWsLSuLkKLYZhHeb, which is how it runs on the phone. To update it, publish `dist/artifact.html` to that URL and leave `capabilities` out so it keeps db, user, sample and tts. Progress is kept in localStorage and synced per user through `db` (`data/users/<id>/<app|unitN>`; newer copy wins, best scores keep the max).
 - `PROGRESS.md` — one row per unit, plus items to review.
@@ -56,4 +57,4 @@ Process:
 
 ## After each unit
 
-`node content/authoring/unitNN.js && node tools/glyphs.js && node tools/validate.js && node tools/build.js`, update `PROGRESS.md`, commit (explicit paths, never `git add -A`).
+`node content/authoring/unitNN.js && node tools/glyphs.js && node tools/strokes.js && node tools/validate.js && node tools/build.js`, update `PROGRESS.md`, commit (explicit paths, never `git add -A`).
