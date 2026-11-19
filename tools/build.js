@@ -36,4 +36,41 @@ fs.writeFileSync(path.join(ROOT, "dist/index.html"), out);
 const frag = out.replace(/<!DOCTYPE html>\s*<html[^>]*>\s*<head>\s*/i, "").replace(/<meta charset="utf-8">\s*<meta name="viewport"[^>]*>\s*/i, "")
   .replace(/<\/head>\s*<body>\s*/i, "").replace(/\s*<\/body>\s*<\/html>\s*$/i, "\n");
 fs.writeFileSync(path.join(ROOT, "dist/artifact.html"), frag);
+// dist/web/: the installable web app (PWA). Upload the whole folder to any static https host; it then
+// installs to a phone's home screen and works offline. Same page, plus a manifest, icons and a service worker.
+const WEB = path.join(ROOT, "dist/web"), ICONS = path.join(ROOT, "src/icons");
+fs.rmSync(WEB, {recursive: true, force: true});
+fs.mkdirSync(WEB, {recursive: true});
+const pwaHead = `<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#f2f1f5" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#18171c" media="(prefers-color-scheme: dark)">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Hindi">
+`;
+const pwaBody = `<script>
+if ("serviceWorker" in navigator && (location.protocol === "https:" || /^(localhost|127\\.0\\.0\\.1)$/.test(location.hostname)))
+  navigator.serviceWorker.register("sw.js").catch(() => {});
+// Ask the browser not to clear this app's storage (progress) when the phone is short of space.
+if (navigator.storage && navigator.storage.persist) navigator.storage.persist().catch(() => {});
+</script>
+`;
+const web = out.replace("</head>", () => pwaHead + "</head>").replace(/<\/body>\s*<\/html>\s*$/i, () => pwaBody + "</body>\n</html>\n");
+fs.writeFileSync(path.join(WEB, "index.html"), web);
+const version = require("crypto").createHash("sha256").update(web).digest("hex").slice(0, 12);
+fs.writeFileSync(path.join(WEB, "sw.js"), read("src/sw.js").replace("/*VERSION*/", version));
+fs.writeFileSync(path.join(WEB, "manifest.webmanifest"), JSON.stringify({
+  name: "Hindi Practice", short_name: "Hindi", description: "Practice for Complete Hindi, unit by unit.",
+  id: "./", start_url: "./", scope: "./", display: "standalone",
+  background_color: "#f2f1f5", theme_color: "#f2f1f5", lang: "en",
+  icons: [
+    {src: "icon-192.png", sizes: "192x192", type: "image/png", purpose: "any"},
+    {src: "icon-512.png", sizes: "512x512", type: "image/png", purpose: "any"},
+    {src: "icon-512.png", sizes: "512x512", type: "image/png", purpose: "maskable"}
+  ]
+}, null, 2) + "\n");
+for (const f of ["icon-192.png", "icon-512.png", "apple-touch-icon.png"]) fs.copyFileSync(path.join(ICONS, f), path.join(WEB, f));
 console.log(`dist/index.html: ${units.length} unit(s), ${Object.keys(audio).length} clip(s), ${sounds ? Object.keys(sounds.words).length : 0} sound-coloured form(s), ${(out.length / 1024).toFixed(0)} KB`);
+console.log(`dist/web/: installable web app, version ${version}`);
