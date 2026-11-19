@@ -70,7 +70,7 @@ const sync = (() => {
   const set = s => { status = s; const el = document.getElementById("syncnote"); if (el) el.textContent = label(); };
   function label(){
     return {connecting:"Checking for saved progress…", synced:"Progress syncs to your claude.ai account, so it follows you between devices.",
-      syncing:"Saving progress…", local:"Progress is saved on this device only. Open this page on claude.ai while signed in to sync it across devices.",
+      syncing:"Saving progress…", local:"Progress is saved in this browser only. Save a backup now and then (below) so clearing site data can't wipe it.",
       error:"Could not reach your saved progress. It is kept on this device and will sync next time."}[status];
   }
   function dirty(k){ if (!db) return; pending.add(k); clearTimeout(timer); timer = setTimeout(flush, 1500); }
@@ -135,8 +135,68 @@ const sync = (() => {
     document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") flush(); else pull(); });
     window.addEventListener("pagehide", flush);
   }
-  return {dirty, start, label};
+  return {dirty, start, label, allKeys};
 })();
+
+/* ---- backup: every stored key in one JSON file (or text, where downloads are blocked).
+   Restoring takes the backup's copy of each key, except best scores, which keep the higher of the two. */
+const BACKUP_TAG = "hindi-practice-backup";
+function backupText(){
+  const data = {};
+  sync.allKeys().forEach(k => { if (k !== APPKEY) ust(UNITS.find(u => PFX + u.id === k)); data[k.slice(PFX.length)] = JSON.parse(JSON.stringify(getKey(k))); });
+  return JSON.stringify({kind: BACKUP_TAG, version: 1, saved: new Date().toISOString(), data});
+}
+function restoreBackup(text){
+  let b; try { b = JSON.parse(text); } catch (e) { throw new Error("That isn't a backup file (it isn't valid JSON)."); }
+  if (!b || b.kind !== BACKUP_TAG || !b.data || typeof b.data !== "object") throw new Error("That file isn't a Hindi practice backup.");
+  const now = Date.now(); let n = 0;
+  sync.allKeys().forEach(k => {
+    const imp = b.data[k.slice(PFX.length)];
+    if (!imp || typeof imp !== "object") return;
+    if (k === APPKEY){ app = Object.assign({translit:true, level:1, unlockAll:false, reviewDay:null, reviewBest:null}, imp); if (!LEVELS[app.level]) app.level = 1; }
+    else {
+      const local = ust(UNITS.find(u => PFX + u.id === k)), best = Object.assign({}, local.best, imp.best);
+      for (const id in local.best) best[id] = Math.max(local.best[id] || 0, (imp.best || {})[id] || 0);
+      ustate[k.slice(PFX.length)] = Object.assign({best:{}, missed:{}, skills:{}, srs:{}}, imp, {best});
+    }
+    const v = getKey(k); v._t = now; seen[k] = body(v); store(k, v); sync.dirty(k); n++;
+  });
+  if (!n) throw new Error("That backup holds no progress for these units.");
+  return b.saved ? new Date(b.saved) : null;
+}
+function backupHTML(){
+  return `<details class="backup"><summary>Back up or restore progress</summary>
+    <p class="note">Save a backup file now and then. Load it here, or on another phone or browser, to carry your progress over. Restoring replaces this browser's progress with the backup's, but never lowers a best score.</p>
+    <div class="tools"><button class="chip" id="bksave">Save backup file</button><button class="chip" id="bkload">Load backup file</button><input type="file" id="bkfile" accept=".json,application/json,text/plain" hidden></div>
+    <p class="note">If saving or loading a file doesn't work here, copy the text instead and paste it on the other device.</p>
+    <textarea id="bktext" rows="3" spellcheck="false" autocomplete="off" placeholder="Paste backup text here"></textarea>
+    <div class="tools"><button class="chip" id="bkcopy">Copy backup text</button><button class="chip" id="bkpaste">Restore pasted text</button></div>
+    <p class="note" id="bkmsg" role="status"></p></details>`;
+}
+function wireBackup(){
+  const msg = t => { document.getElementById("bkmsg").textContent = t; };
+  const ta = document.getElementById("bktext"), file = document.getElementById("bkfile");
+  const done = when => { home(); const d = document.querySelector("details.backup"); if (d) d.open = true; msg(`Progress restored${when && !isNaN(when) ? ` from the backup of ${when.toLocaleString()}` : ""}.`); };
+  const tryRestore = text => { try { done(restoreBackup(text)); } catch (e) { msg(e.message); } };
+  document.getElementById("bksave").onclick = () => {
+    try {
+      const d = new Date(), stamp = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+      const url = URL.createObjectURL(new Blob([backupText()], {type: "application/json"}));
+      const a = Object.assign(document.createElement("a"), {href: url, download: `hindi-practice-backup-${stamp}.json`});
+      document.body.appendChild(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(url), 10000);
+      msg("Backup file saved to your downloads.");
+    } catch (e) { msg("Couldn't save a file here. Use Copy backup text instead."); }
+  };
+  document.getElementById("bkload").onclick = () => file.click();
+  file.onchange = () => { const f = file.files[0]; if (!f) return; f.text().then(tryRestore, () => msg("Couldn't read that file.")); file.value = ""; };
+  document.getElementById("bkcopy").onclick = () => {
+    ta.value = backupText(); ta.select();
+    const ok = () => msg("Backup text copied. Paste it into this box on the other device and tap Restore pasted text.");
+    const fallback = () => { try { if (document.execCommand("copy")) return ok(); } catch (e) {} msg("The backup text is in the box above. Select it all and copy it."); };
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(ta.value).then(ok, fallback); else fallback();
+  };
+  document.getElementById("bkpaste").onclick = () => { if (!ta.value.trim()) return msg("Paste the backup text into the box first."); tryRestore(ta.value.trim()); };
+}
 
 /* ---- audio: recorded clip, then a Hindi browser voice, then the hosted page's voice ---- */
 let voice = null, cloudTTS = null, askClaude = null;
@@ -386,8 +446,10 @@ function home(){
   </div>
   <label class="note" style="display:flex;gap:8px;align-items:center"><input type="checkbox" id="unlock" ${app.unlockAll ? "checked" : ""}> Unlock every unit (normally a unit opens when the previous unit's test is passed)</label>
   <p class="note" id="syncnote">${esc(sync.label())}</p>
+  ${backupHTML()}
   <p class="note keys">Keys: 1 to 6 choose, Enter checks.</p>`;
   wireTools();
+  wireBackup();
   document.getElementById("unlock").onchange = e => { app.unlockAll = e.target.checked; save(); home(); };
   root.querySelectorAll("[data-u]").forEach(b => b.onclick = () => unitView(UNITS.find(u => u.id === b.dataset.u)));
   const rv = root.querySelector("[data-review]");
