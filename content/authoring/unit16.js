@@ -69,7 +69,7 @@ const yad = [
 
 const kahin = [
   gap("kh:0", "मेरी चाबी ___ नहीं मिल रही ।", "I {can't find}[3+4+5] my[0] key[1] anywhere[2].", "कहीं", [["कहाँ","कहाँ is the question “where?”."], ["कभी","कभी is “ever, sometime”."], ["कहींओं","Not a word. कहीं never changes."]], KAHIN),
-  gap("kh:1", "चलो, आज ___ और खाना खाते हैं ।", "Come on[0], {let's eat}[4+5+6] {somewhere else}[2+3] today[1].", "कहीं", [["कहाँ","कहाँ is the question “where?”."], ["कोई","कोई और is “someone else”. “Somewhere else” is कहीं और."]], KAHIN),
+  gap("kh:1", "चलो, आज ___ और खाना खाते हैं ।", "{Come on}[0], {let's eat}[4+5+6] {somewhere else}[2+3] today[1].", "कहीं", [["कहाँ","कहाँ is the question “where?”."], ["कोई","कोई और is “someone else”. “Somewhere else” is कहीं और."]], KAHIN),
   gap("kh:2", "वह ___ न कहीं ज़रूर मिलेगा ।", "{It'll}[0] {certainly}[4] {turn up}[5] {somewhere or other}[1+2+3].", "कहीं", [["कभी","कभी न कभी is “sometime or other”."], ["कोई","कोई न कोई is “someone or other”."]], KAHIN),
   gap("kh:3", "हिन्दी बोलना लिखने से ___ ज़्यादा आसान है ।", "Speaking[1] Hindi[0] is[7] much[4] easier[5+6] than[3] writing[2].", "कहीं", [["कहाँ","कहाँ is the question “where?”."], ["कभी","कभी is “ever, sometime”. “Much (more)” is कहीं ज़्यादा."]], KAHIN),
   gap("kh:4", "छाता ले लो, कहीं बारिश ___ हो जाए ।", "Take[1+2] an umbrella[0], {in case}[3+5] it rains[4+6+7].", "न", [["मत","मत is only for commands."], ["भी","कहीं भी is “anywhere at all”. “In case, lest” is कहीं … न."]], KAHIN),
