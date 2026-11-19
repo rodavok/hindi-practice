@@ -1,0 +1,2151 @@
+{
+ "id": "unit16",
+ "n": 16,
+ "title": "He was praising you",
+ "titleHi": "वह तुम्हारी तारीफ़ कर रहा था",
+ "scope": "Conjunct verbs: adjective or noun + करना/होना; base noun possessed by the object (का इंतज़ाम करना, का इंतज़ार करना, का इस्तेमाल करना, का पीछा करना, की तलाश करना, की देखभाल करना, की निंदा करना, की तारीफ़ करना, की मदद करना), agreement with the base noun under ने and in the passive; की कोशिश करना with the oblique infinitive; तलाश करना, तलाशना; intransitive event verbs (का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना); याद करना/होना/आना/दिलाना/रखना/रहना; दिखाई देना/पड़ना and सुनाई देना/पड़ना without ने; कहीं and its senses, कहीं का; repetition for distribution, variety and emphasis; echo words (चाय-वाय, ठीक-ठाक, नौकर-चाकर); या तो … या, न … न, चाहे … चाहे, चाहे … क्यों न हो",
+ "pages": "book 206–219",
+ "skills": {
+  "conj": "Conjunct verbs",
+  "yad": "Events and याद",
+  "kahin": "कहीं",
+  "rep": "Repetition, echo words",
+  "either": "Either, neither, whether",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अनुभव",
+   "en": "experience",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अहम",
+   "en": "important",
+   "c": "a"
+  },
+  {
+   "hi": "आलसी",
+   "en": "lazy",
+   "c": "a"
+  },
+  {
+   "hi": "इंतज़ाम",
+   "en": "arrangement",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का इंतज़ाम करना",
+   "en": "to arrange",
+   "c": "v"
+  },
+  {
+   "hi": "इंतज़ार",
+   "en": "wait, waiting",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का इंतज़ार करना",
+   "en": "to wait for",
+   "c": "v"
+  },
+  {
+   "hi": "इनसान",
+   "en": "human being, person",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "इमारत",
+   "en": "building",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "इस्तेमाल",
+   "en": "use",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का इस्तेमाल करना",
+   "en": "to use",
+   "c": "v"
+  },
+  {
+   "hi": "ई-मेल",
+   "en": "email",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उद्घाटन",
+   "en": "inauguration",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उल्लू",
+   "en": "‘owl’, stupid person",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कंप्यूटर",
+   "en": "computer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कम करना",
+   "en": "to reduce",
+   "c": "v"
+  },
+  {
+   "hi": "क़सूर",
+   "en": "fault, error",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कहीं",
+   "en": "somewhere; somehow",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं और",
+   "en": "somewhere else",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं का",
+   "en": "downright, utter (in insults)",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं ज़्यादा",
+   "en": "particularly, much more",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं न कहीं",
+   "en": "somewhere or other",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं नहीं",
+   "en": "nowhere",
+   "c": "x"
+  },
+  {
+   "hi": "कहीं भी",
+   "en": "anywhere at all",
+   "c": "x"
+  },
+  {
+   "hi": "कार्यक्रम",
+   "en": "programme",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कुली",
+   "en": "porter",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कोशिश",
+   "en": "attempt",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की कोशिश करना",
+   "en": "to try",
+   "c": "v"
+  },
+  {
+   "hi": "खाँसना",
+   "en": "to cough",
+   "c": "v"
+  },
+  {
+   "hi": "गँवाना",
+   "en": "to waste, squander",
+   "c": "v"
+  },
+  {
+   "hi": "गप",
+   "en": "gossip",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गुज़ारा",
+   "en": "livelihood, subsistence",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चाहे … चाहे",
+   "en": "whether … or",
+   "c": "x"
+  },
+  {
+   "hi": "चिंता",
+   "en": "anxiety, concern",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जंगली",
+   "en": "wild",
+   "c": "a"
+  },
+  {
+   "hi": "जन्म",
+   "en": "birth",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का जन्म होना",
+   "en": "to be born",
+   "c": "v"
+  },
+  {
+   "hi": "जानवर",
+   "en": "animal",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ज़िंदगी",
+   "en": "life",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "डूबना",
+   "en": "to be immersed, drown",
+   "c": "v"
+  },
+  {
+   "hi": "ढंग",
+   "en": "way, manner",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तरह तरह का",
+   "en": "of various kinds",
+   "c": "x"
+  },
+  {
+   "hi": "तलाश",
+   "en": "search",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की तलाश करना",
+   "en": "to search for",
+   "c": "v"
+  },
+  {
+   "hi": "तलाशना",
+   "en": "to search for",
+   "c": "v"
+  },
+  {
+   "hi": "तहज़ीब",
+   "en": "refinement, culture",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "तारीफ़",
+   "en": "praise",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की तारीफ़ करना",
+   "en": "to praise",
+   "c": "v"
+  },
+  {
+   "hi": "दुनिया",
+   "en": "world",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "देखभाल",
+   "en": "supervision, care",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की देखभाल करना",
+   "en": "to take care of",
+   "c": "v"
+  },
+  {
+   "hi": "देहान्त",
+   "en": "death, demise",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का देहान्त होना",
+   "en": "to die",
+   "c": "v"
+  },
+  {
+   "hi": "न … न",
+   "en": "neither … nor",
+   "c": "x"
+  },
+  {
+   "hi": "निंदा",
+   "en": "blame, speaking ill",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की निंदा करना",
+   "en": "to blame",
+   "c": "v"
+  },
+  {
+   "hi": "निकालना",
+   "en": "to extract, bring out",
+   "c": "v"
+  },
+  {
+   "hi": "निबंध",
+   "en": "essay",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नौकर-चाकर",
+   "en": "servants etc.",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पति-देव",
+   "en": "‘respected husband’",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का पीछा करना",
+   "en": "to follow",
+   "c": "v"
+  },
+  {
+   "hi": "पेंसिल",
+   "en": "pencil",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पेशा",
+   "en": "profession",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्याज़",
+   "en": "onion",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का प्रयोग करना",
+   "en": "to use",
+   "c": "v"
+  },
+  {
+   "hi": "बेवक़ूफ़",
+   "en": "stupid",
+   "c": "a"
+  },
+  {
+   "hi": "की मदद करना",
+   "en": "to help",
+   "c": "v"
+  },
+  {
+   "hi": "मर्द",
+   "en": "man, male",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "माला",
+   "en": "garland",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मालूम करना",
+   "en": "to ascertain, find out",
+   "c": "v"
+  },
+  {
+   "hi": "मीटिंग",
+   "en": "meeting",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "या तो … या",
+   "en": "either … or",
+   "c": "x"
+  },
+  {
+   "hi": "याद",
+   "en": "memory",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "याद आना",
+   "en": "to be recalled, come to mind, be missed",
+   "c": "v"
+  },
+  {
+   "hi": "याद करना",
+   "en": "to remember, learn by heart; to think of",
+   "c": "v"
+  },
+  {
+   "hi": "याद दिलाना",
+   "en": "to remind",
+   "c": "v"
+  },
+  {
+   "hi": "याद रखना",
+   "en": "to keep in mind, not forget",
+   "c": "v"
+  },
+  {
+   "hi": "याद रहना",
+   "en": "to remain remembered",
+   "c": "v"
+  },
+  {
+   "hi": "याद होना",
+   "en": "to be remembered",
+   "c": "v"
+  },
+  {
+   "hi": "लहसुन",
+   "en": "garlic",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सदा",
+   "en": "always, ever",
+   "c": "x"
+  },
+  {
+   "hi": "सवारी",
+   "en": "rider, passenger",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साधन",
+   "en": "means",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सुनाई देना",
+   "en": "to be heard, be audible",
+   "c": "v"
+  },
+  {
+   "hi": "हरेक",
+   "en": "each, every",
+   "c": "x"
+  },
+  {
+   "hi": "हल",
+   "en": "solution",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हल होना",
+   "en": "to be solved",
+   "c": "v"
+  },
+  {
+   "hi": "ठीक-ठाक",
+   "en": "fine, in good shape",
+   "c": "a"
+  },
+  {
+   "hi": "भीड़-भाड़",
+   "en": "hustle and bustle",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गप-शप",
+   "en": "chit-chat",
+   "c": "n",
+   "g": "f"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "conj",
+   "title": "की मदद करना",
+   "desc": "Conjunct verbs with का and की, agreement with the base noun",
+   "skill": "conj",
+   "items": [
+    {
+     "id": "cj:0",
+     "t": "mc",
+     "q": "Fill the gap: “Can you help me?”",
+     "hi": "क्या आप ___ मदद कर सकते हैं ?",
+     "say": "क्या आप मेरी मदद कर सकते हैं ?",
+     "en": "Can[0+5+6] you[1] help[3+4] me[2]?",
+     "a": "मेरी",
+     "wrong": [
+      [
+       "मेरा",
+       "The possessive agrees with the base noun मदद, feminine — मेरी मदद."
+      ],
+      [
+       "मुझे",
+       "मदद करना takes a possessive — मेरी मदद करना."
+      ],
+      [
+       "मददा",
+       "Not a word. मदद is a noun and never takes -ā."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "cj:1",
+     "t": "mc",
+     "q": "Fill the gap: “We have been waiting for the bus for an hour.”",
+     "hi": "हम एक घंटे से बस ___ इंतज़ार कर रहे हैं ।",
+     "say": "हम एक घंटे से बस का इंतज़ार कर रहे हैं ।",
+     "en": "We[0] {have been waiting}[6+7+8+9] for the bus[4+5] for an hour[1+2+3].",
+     "a": "का",
+     "wrong": [
+      [
+       "की",
+       "The possessive agrees with इंतज़ार, masculine, not with बस — बस का इंतज़ार."
+      ],
+      [
+       "को",
+       "इंतज़ार करना takes a possessive — बस का इंतज़ार."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "cj:2",
+     "t": "mc",
+     "q": "Fill the gap: “Who will look after sick Grandma?”",
+     "hi": "बीमार दादी ___ देखभाल कौन करेगा ?",
+     "say": "बीमार दादी की देखभाल कौन करेगा ?",
+     "en": "Who[4] {will look after}[3+5] sick[0] Grandma[1+2]?",
+     "a": "की",
+     "wrong": [
+      [
+       "का",
+       "देखभाल is feminine — दादी की देखभाल."
+      ],
+      [
+       "को",
+       "देखभाल करना takes a possessive — दादी की देखभाल."
+      ],
+      [
+       "देखभाला",
+       "Not a word. देखभाल is a noun and never takes -ā."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "cj:3",
+     "t": "mc",
+     "q": "Fill the gap: “Raj praised me a lot.”",
+     "hi": "राज ने मेरी बहुत तारीफ़ ___ ।",
+     "say": "राज ने मेरी बहुत तारीफ़ की ।",
+     "en": "Raj[0+1] praised[4+5] me[2] {a lot}[3].",
+     "a": "की",
+     "wrong": [
+      [
+       "किया",
+       "With ने the verb agrees with the base noun तारीफ़, feminine — की."
+      ],
+      [
+       "कीं",
+       "कीं is plural. तारीफ़ is singular."
+      ],
+      [
+       "तारीफ़ा",
+       "Not a word. तारीफ़ is a noun and never takes -ā."
+      ]
+     ],
+     "why": "With ने, a conjunct verb agrees with its own base noun (बच्चों की देखभाल की, साइकिल का इस्तेमाल किया)."
+    },
+    {
+     "id": "cj:4",
+     "t": "mc",
+     "q": "Fill the gap: “Sita used her sister's bicycle.”",
+     "hi": "सीता ने अपनी बहिन की साइकिल का इस्तेमाल ___ ।",
+     "say": "सीता ने अपनी बहिन की साइकिल का इस्तेमाल किया ।",
+     "en": "Sita[0+1] used[6+7+8] her[2] sister's[3+4] bicycle[5].",
+     "a": "किया",
+     "wrong": [
+      [
+       "की",
+       "की would agree with साइकिल. The verb agrees with the base noun इस्तेमाल, masculine — किया."
+      ],
+      [
+       "कीं",
+       "कीं is feminine plural. The verb agrees with इस्तेमाल, masculine singular."
+      ],
+      [
+       "इस्तेमाला",
+       "Not a word. इस्तेमाल is a noun and never takes -ā."
+      ]
+     ],
+     "why": "With ने, a conjunct verb agrees with its own base noun (बच्चों की देखभाल की, साइकिल का इस्तेमाल किया)."
+    },
+    {
+     "id": "cj:5",
+     "t": "mc",
+     "q": "Fill the gap: “The child tried to eat by himself (lit. “… food …”).”",
+     "hi": "बच्चे ने ख़ुद खाना ___ की कोशिश की ।",
+     "say": "बच्चे ने ख़ुद खाना खाने की कोशिश की ।",
+     "en": "The child[0+1] tried[5+6+7] to eat[4] by himself[2] (lit. “… food[3] …”).",
+     "a": "खाने",
+     "wrong": [
+      [
+       "खाना",
+       "Before की the infinitive is oblique — खाने की कोशिश."
+      ],
+      [
+       "खाता",
+       "खाता is the imperfective participle. की कोशिश करना follows the oblique infinitive."
+      ],
+      [
+       "कोशिशा",
+       "Not a word. कोशिश is a noun and never takes -ā."
+      ]
+     ],
+     "why": "की कोशिश करना “to try” follows an oblique infinitive, because of की — समझने की कोशिश."
+    },
+    {
+     "id": "cj:6",
+     "t": "mc",
+     "q": "Fill the gap: “The thieves are being searched for.”",
+     "hi": "चोरों की तलाश ___ जा रही है ।",
+     "say": "चोरों की तलाश की जा रही है ।",
+     "en": "The thieves[0] {are being searched for}[1+2+3+4+5+6].",
+     "a": "की",
+     "wrong": [
+      [
+       "किया",
+       "In the passive the subject is तलाश, feminine — की जा रही है."
+      ],
+      [
+       "किए",
+       "किए would agree with चोरों. The subject is the base noun तलाश."
+      ]
+     ],
+     "why": "In the passive, the subject of a conjunct verb is the base noun itself (… की तलाश की जा रही है)."
+    },
+    {
+     "id": "cj:7",
+     "t": "mc",
+     "q": "Which means “Sita followed the thief”?",
+     "a": "सीता ने चोर का पीछा किया ।",
+     "wrong": [
+      [
+       "सीता ने चोर की पीछा की ।",
+       "पीछा is masculine — चोर का पीछा किया."
+      ],
+      [
+       "सीता चोर का पीछा किया ।",
+       "With करना in the perfective the doer takes ने — सीता ने."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object.",
+     "say": "सीता ने चोर का पीछा किया ।",
+     "en": "Sita[0+1] followed[3+4+5] the thief[2]."
+    },
+    {
+     "id": "cj:8",
+     "t": "mc",
+     "q": "Fill the gap: “The government has reduced the fare.”",
+     "hi": "सरकार ने किराया कम ___ है ।",
+     "say": "सरकार ने किराया कम किया है ।",
+     "en": "The government[0+1] {has reduced}[3+4+5] the fare[2].",
+     "a": "किया",
+     "wrong": [
+      [
+       "की",
+       "की would agree with सरकार. With ने the verb agrees with किराया, masculine."
+      ],
+      [
+       "हुआ",
+       "कम होना is intransitive (“go down”) and takes no ने."
+      ]
+     ],
+     "why": "Conjunct verbs of the first type are adjective or noun + करना (कम करना “reduce”), with intransitive होना (कम होना)."
+    },
+    {
+     "id": "cj:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हमें आपकी मदद की ज़रूरत है ।",
+     "audio": true,
+     "a": "We need your help.",
+     "wrong": [
+      [
+       "We need to help you.",
+       "आपकी मदद is “your help”, help that you give."
+      ],
+      [
+       "You need our help.",
+       "हमें is the one in need."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "cj:10",
+     "t": "mc",
+     "q": "Fill the gap: “I waited for you a long time.”",
+     "hi": "मैंने तुम्हारा बहुत ___ किया ।",
+     "say": "मैंने तुम्हारा बहुत इंतज़ार किया ।",
+     "en": "I[0] waited[3+4] for you[1] {a long time}[2].",
+     "a": "इंतज़ार",
+     "wrong": [
+      [
+       "इंतज़ाम",
+       "का इंतज़ाम करना is “to arrange”. “Wait for” is का इंतज़ार करना."
+      ],
+      [
+       "तलाश",
+       "तलाश is feminine, so it would need तुम्हारी … की. “Wait for” is इंतज़ार."
+      ],
+      [
+       "इंतज़ारा",
+       "Not a word. The noun is इंतज़ार."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "cj:11",
+     "t": "mc",
+     "q": "Fill the gap: “Who will arrange the dinner?”",
+     "hi": "दावत का ___ कौन करेगा ?",
+     "say": "दावत का इंतज़ाम कौन करेगा ?",
+     "en": "Who[3] {will arrange}[2+4] the dinner[0+1]?",
+     "a": "इंतज़ाम",
+     "wrong": [
+      [
+       "इंतज़ार",
+       "का इंतज़ार करना is “to wait for”. “Arrange” is का इंतज़ाम करना."
+      ],
+      [
+       "इस्तेमाल",
+       "का इस्तेमाल करना is “to use”."
+      ],
+      [
+       "इंतज़ामा",
+       "Not a word. The noun is इंतज़ाम."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    }
+   ]
+  },
+  {
+   "id": "yad",
+   "title": "याद आना, जन्म होना",
+   "desc": "Events, याद verbs, दिखाई देना and सुनाई देना",
+   "skill": "yad",
+   "items": [
+    {
+     "id": "ev:0",
+     "t": "mc",
+     "q": "Fill the gap: “My brother got married last year.”",
+     "hi": "मेरे भाई ___ शादी पिछले साल हुई ।",
+     "say": "मेरे भाई की शादी पिछले साल हुई ।",
+     "en": "My[0] brother[1] {got married}[2+3+6] last[4] year[5].",
+     "a": "की",
+     "wrong": [
+      [
+       "का",
+       "शादी is feminine — भाई की शादी."
+      ],
+      [
+       "ने",
+       "शादी होना is intransitive. The event, शादी, is the subject, and there is no ने."
+      ]
+     ],
+     "why": "Intransitive conjunct verbs describe events, and the event itself is the subject: का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना."
+    },
+    {
+     "id": "ev:1",
+     "t": "mc",
+     "q": "Fill the gap: “My daughter was born in Delhi.”",
+     "hi": "मेरी बेटी का जन्म दिल्ली में ___ ।",
+     "say": "मेरी बेटी का जन्म दिल्ली में हुआ ।",
+     "en": "My[0] daughter[1] {was born}[2+3+6] in[5] Delhi[4].",
+     "a": "हुआ",
+     "wrong": [
+      [
+       "हुई",
+       "हुई would agree with बेटी. The subject is जन्म, masculine — हुआ."
+      ],
+      [
+       "किया",
+       "जन्म होना is intransitive — हुआ."
+      ]
+     ],
+     "why": "Intransitive conjunct verbs describe events, and the event itself is the subject: का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना."
+    },
+    {
+     "id": "ev:2",
+     "t": "mc",
+     "q": "Fill the gap: “Our neighbour passed away last week.”",
+     "hi": "पिछले हफ़्ते हमारे पड़ोसी का देहान्त हो ___ ।",
+     "say": "पिछले हफ़्ते हमारे पड़ोसी का देहान्त हो गया ।",
+     "en": "Our[2] neighbour[3+4] {passed away}[5+6+7] last[0] week[1].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गई",
+       "गई is feminine. देहान्त is masculine."
+      ],
+      [
+       "गए",
+       "गए would be a respectful plural. The subject is देहान्त, masculine singular — हो गया."
+      ]
+     ],
+     "why": "Intransitive conjunct verbs describe events, and the event itself is the subject: का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना."
+    },
+    {
+     "id": "ev:3",
+     "t": "mc",
+     "q": "Fill the gap: “The new hospital will be opened tomorrow.”",
+     "hi": "कल नए अस्पताल ___ उद्घाटन होगा ।",
+     "say": "कल नए अस्पताल का उद्घाटन होगा ।",
+     "en": "The new[1] hospital[2] {will be opened}[3+4+5] tomorrow[0].",
+     "a": "का",
+     "wrong": [
+      [
+       "की",
+       "उद्घाटन is masculine — अस्पताल का उद्घाटन."
+      ],
+      [
+       "को",
+       "उद्घाटन होना takes a possessive — अस्पताल का उद्घाटन."
+      ]
+     ],
+     "why": "Intransitive conjunct verbs describe events, and the event itself is the subject: का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना."
+    },
+    {
+     "id": "yd:0",
+     "t": "mc",
+     "q": "Fill the gap: “Do you still remember that song?”",
+     "hi": "क्या तुम्हें वह गाना अब भी याद ___ ?",
+     "say": "क्या तुम्हें वह गाना अब भी याद है ?",
+     "en": "{Do}[0] you[1] still[4+5] remember[6+7] that[2] song[3]?",
+     "a": "है",
+     "wrong": [
+      [
+       "हो",
+       "याद होना agrees with the thing remembered, गाना — है."
+      ],
+      [
+       "हैं",
+       "हैं is plural. It is one song."
+      ]
+     ],
+     "why": "याद “memory” makes several verbs: याद करना “remember, think of”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”."
+    },
+    {
+     "id": "yd:1",
+     "t": "mc",
+     "q": "Fill the gap: “I miss my village a lot.”",
+     "hi": "मुझे अपने गाँव की बहुत याद ___ है ।",
+     "say": "मुझे अपने गाँव की बहुत याद आती है ।",
+     "en": "I[0] miss[5+6+7] my[1] village[2+3] {a lot}[4].",
+     "a": "आती",
+     "wrong": [
+      [
+       "आता",
+       "याद is feminine — याद आती है."
+      ],
+      [
+       "आते",
+       "आते is plural. याद is singular."
+      ]
+     ],
+     "why": "याद “memory” makes several verbs: याद करना “remember, think of”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”."
+    },
+    {
+     "id": "yd:2",
+     "t": "mc",
+     "q": "Fill the gap: “Remind me about this tomorrow.”",
+     "hi": "कल मुझे यह बात याद ___ ।",
+     "say": "कल मुझे यह बात याद दिलाना ।",
+     "en": "Remind[4+5] me[1] {about this}[2+3] tomorrow[0].",
+     "a": "दिलाना",
+     "wrong": [
+      [
+       "रखना",
+       "याद रखना is “to keep in mind”. “Remind” is याद दिलाना."
+      ],
+      [
+       "आना",
+       "याद आना is “to come to mind”. “Remind” is याद दिलाना."
+      ]
+     ],
+     "why": "याद “memory” makes several verbs: याद करना “remember, think of”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”."
+    },
+    {
+     "id": "yd:3",
+     "t": "mc",
+     "q": "Fill the gap: “Keep in mind this route, tomorrow you have to come alone.”",
+     "hi": "यह रास्ता याद ___, कल तुम्हें अकेले आना है ।",
+     "say": "यह रास्ता याद रखना, कल तुम्हें अकेले आना है ।",
+     "en": "{Keep in mind}[2+3] this[0] route[1], tomorrow[4] you[5] {have to}[8] come[7] alone[6].",
+     "a": "रखना",
+     "wrong": [
+      [
+       "दिलाना",
+       "याद दिलाना is “to remind”. “Keep in mind” is याद रखना."
+      ],
+      [
+       "आना",
+       "याद आना is “to come to mind”. “Keep in mind” is याद रखना."
+      ]
+     ],
+     "why": "याद “memory” makes several verbs: याद करना “remember, think of”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”."
+    },
+    {
+     "id": "yd:4",
+     "t": "mc",
+     "q": "Fill the gap: “From a distance we could see a village.”",
+     "hi": "दूर से ___ एक गाँव दिखाई दिया ।",
+     "say": "दूर से हमें एक गाँव दिखाई दिया ।",
+     "en": "{From a distance}[0+1] we[2] {could see}[5+6] a[3] village[4].",
+     "a": "हमें",
+     "wrong": [
+      [
+       "हमने",
+       "दिखाई देना does not take ने. The person who sees takes को — हमें."
+      ],
+      [
+       "हम",
+       "The person who sees takes को — हमें."
+      ],
+      [
+       "दिखाईया",
+       "Not a word. The fixed form is दिखाई देना."
+      ]
+     ],
+     "why": "दिखाई देना “be visible” and सुनाई देना “be audible” do not take ने. The person who sees or hears takes को."
+    },
+    {
+     "id": "yd:5",
+     "t": "mc",
+     "q": "Fill the gap: “I can't hear anything.”",
+     "hi": "मुझे कुछ ___ नहीं देता ।",
+     "say": "मुझे कुछ सुनाई नहीं देता ।",
+     "en": "I[0] {can't hear}[2+3+4] anything[1].",
+     "a": "सुनाई",
+     "wrong": [
+      [
+       "दिखाई",
+       "दिखाई देना is “to be visible”. “Hear” is सुनाई देना."
+      ],
+      [
+       "सुनाईया",
+       "Not a word. The fixed form is सुनाई देना."
+      ]
+     ],
+     "why": "दिखाई देना “be visible” and सुनाई देना “be audible” do not take ने. The person who sees or hears takes को."
+    },
+    {
+     "id": "yd:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "माँ तुम्हें बहुत याद करती हैं ।",
+     "audio": true,
+     "a": "Mother misses you a lot.",
+     "wrong": [
+      [
+       "Mother reminds you of a lot.",
+       "“Remind” is याद दिलाना."
+      ],
+      [
+       "You remember Mother a lot.",
+       "माँ is the subject: she thinks of you."
+      ]
+     ],
+     "why": "याद “memory” makes several verbs: याद करना “remember, think of”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”."
+    }
+   ]
+  },
+  {
+   "id": "kahin",
+   "title": "कहीं",
+   "desc": "“Somewhere”, “much”, “lest”, “utter”",
+   "skill": "kahin",
+   "items": [
+    {
+     "id": "kh:0",
+     "t": "mc",
+     "q": "Fill the gap: “I can't find my key anywhere.”",
+     "hi": "मेरी चाबी ___ नहीं मिल रही ।",
+     "say": "मेरी चाबी कहीं नहीं मिल रही ।",
+     "en": "I {can't find}[3+4+5] my[0] key[1] anywhere[2].",
+     "a": "कहीं",
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question “where?”."
+      ],
+      [
+       "कभी",
+       "कभी is “ever, sometime”."
+      ],
+      [
+       "कहींओं",
+       "Not a word. कहीं never changes."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:1",
+     "t": "mc",
+     "q": "Fill the gap: “Come on, let's eat somewhere else today.”",
+     "hi": "चलो, आज ___ और खाना खाते हैं ।",
+     "say": "चलो, आज कहीं और खाना खाते हैं ।",
+     "en": "Come on[0], {let's eat}[4+5+6] {somewhere else}[2+3] today[1].",
+     "a": "कहीं",
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question “where?”."
+      ],
+      [
+       "कोई",
+       "कोई और is “someone else”. “Somewhere else” is कहीं और."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:2",
+     "t": "mc",
+     "q": "Fill the gap: “It'll certainly turn up somewhere or other.”",
+     "hi": "वह ___ न कहीं ज़रूर मिलेगा ।",
+     "say": "वह कहीं न कहीं ज़रूर मिलेगा ।",
+     "en": "{It'll}[0] {certainly}[4] {turn up}[5] {somewhere or other}[1+2+3].",
+     "a": "कहीं",
+     "wrong": [
+      [
+       "कभी",
+       "कभी न कभी is “sometime or other”."
+      ],
+      [
+       "कोई",
+       "कोई न कोई is “someone or other”."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:3",
+     "t": "mc",
+     "q": "Fill the gap: “Speaking Hindi is much easier than writing.”",
+     "hi": "हिन्दी बोलना लिखने से ___ ज़्यादा आसान है ।",
+     "say": "हिन्दी बोलना लिखने से कहीं ज़्यादा आसान है ।",
+     "en": "Speaking[1] Hindi[0] is[7] much[4] easier[5+6] than[3] writing[2].",
+     "a": "कहीं",
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question “where?”."
+      ],
+      [
+       "कभी",
+       "कभी is “ever, sometime”. “Much (more)” is कहीं ज़्यादा."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:4",
+     "t": "mc",
+     "q": "Fill the gap: “Take an umbrella, in case it rains.”",
+     "hi": "छाता ले लो, कहीं बारिश ___ हो जाए ।",
+     "say": "छाता ले लो, कहीं बारिश न हो जाए ।",
+     "en": "Take[1+2] an umbrella[0], {in case}[3+5] it rains[4+6+7].",
+     "a": "न",
+     "wrong": [
+      [
+       "मत",
+       "मत is only for commands."
+      ],
+      [
+       "भी",
+       "कहीं भी is “anywhere at all”. “In case, lest” is कहीं … न."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "कहीं तुम मुझे भूल तो नहीं गए ?",
+     "audio": true,
+     "a": "You haven't forgotten me, have you?",
+     "wrong": [
+      [
+       "Where did you forget me?",
+       "कहीं here is not “where”: it makes an anxious question."
+      ],
+      [
+       "You've forgotten me somewhere.",
+       "कहीं … तो नहीं is a worried question: “surely you haven't …?”."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    },
+    {
+     "id": "kh:6",
+     "t": "mc",
+     "q": "Fill the gap: “Utter fool!”",
+     "hi": "मूर्ख ___ का !",
+     "say": "मूर्ख कहीं का !",
+     "en": "Utter[1+2] fool[0]!",
+     "a": "कहीं",
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question “where?”."
+      ],
+      [
+       "कोई",
+       "कोई is “someone”. The insult formula is कहीं का."
+      ]
+     ],
+     "why": "कहीं का “of somewhere” sharpens an insult."
+    },
+    {
+     "id": "kh:7",
+     "t": "mc",
+     "q": "Which means “nowhere”?",
+     "a": "कहीं नहीं",
+     "wrong": [
+      [
+       "कहीं भी",
+       "कहीं भी is “anywhere at all”."
+      ],
+      [
+       "कहीं और",
+       "कहीं और is “somewhere else”."
+      ]
+     ],
+     "why": "कहीं “somewhere, anywhere”: कहीं और “somewhere else”, कहीं नहीं “nowhere”, कहीं भी “anywhere at all”, कहीं न कहीं “somewhere or other”; also “much” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), and an anxious or rhetorical question."
+    }
+   ]
+  },
+  {
+   "id": "rep",
+   "title": "दो दो, चाय-वाय",
+   "desc": "Repeated words and echo words",
+   "skill": "rep",
+   "items": [
+    {
+     "id": "rp:0",
+     "t": "mc",
+     "q": "Which means “We each gave ten rupees”?",
+     "a": "हम सबने दस दस रुपये दिए ।",
+     "wrong": [
+      [
+       "हम सबने दसों रुपये दिए ।",
+       "दसों is “all ten”: “we gave all ten rupees”."
+      ],
+      [
+       "हम सबने दस रुपये दिए ।",
+       "Without the repetition it is ten rupees altogether, not ten each."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”).",
+     "say": "हम सबने दस दस रुपये दिए ।",
+     "en": "We[0+1] each gave[5] ten[2+3] rupees[4]."
+    },
+    {
+     "id": "rp:1",
+     "t": "mc",
+     "q": "Fill the gap: “All kinds of fruit can be had in the market.”",
+     "hi": "बाज़ार में ___ तरह के फल मिलते हैं ।",
+     "say": "बाज़ार में तरह तरह के फल मिलते हैं ।",
+     "en": "{All kinds of}[2+3+4] fruit[5] {can be had}[6+7] in[1] the market[0].",
+     "a": "तरह",
+     "wrong": [
+      [
+       "किस",
+       "किस तरह के is “what kind of?”."
+      ],
+      [
+       "उस",
+       "उस तरह के is “of that kind”."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”)."
+    },
+    {
+     "id": "rp:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसने मुझे तरह तरह की कहानियाँ सुनाईं ।",
+     "audio": true,
+     "a": "He told me all sorts of stories.",
+     "wrong": [
+      [
+       "He told me the same story again and again.",
+       "तरह तरह की is “of various kinds”."
+      ],
+      [
+       "He told me a story like that one.",
+       "तरह तरह की is “of various kinds”, not “like that”."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”)."
+    },
+    {
+     "id": "rp:3",
+     "t": "mc",
+     "q": "Fill the gap: “Lots of little children were playing in the garden.”",
+     "hi": "बग़ीचे में छोटे ___ बच्चे खेल रहे थे ।",
+     "say": "बग़ीचे में छोटे छोटे बच्चे खेल रहे थे ।",
+     "en": "Lots of little[2+3] children[4] {were playing}[5+6+7] in[1] the garden[0].",
+     "a": "छोटे",
+     "wrong": [
+      [
+       "छोटा",
+       "The repeated adjective agrees too — छोटे छोटे बच्चे."
+      ],
+      [
+       "छोटी",
+       "छोटी is feminine. बच्चे is masculine."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”)."
+    },
+    {
+     "id": "rp:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेहमानों के लिए कुछ नाश्ता-वाश्ता बनाओ ।",
+     "audio": true,
+     "a": "Make some snacks or something for the guests.",
+     "wrong": [
+      [
+       "Make breakfast and then lunch for the guests.",
+       "नाश्ता-वाश्ता is an echo word, “snacks or something like that”."
+      ],
+      [
+       "Make the guests a big breakfast.",
+       "The echo word makes it vague: “snacks or something”."
+      ]
+     ],
+     "why": "An echo word (चाय-वाय “tea or something”) generalizes the word it echoes. Some pairs are fixed (गप-शप, ठीक-ठाक, भीड़-भाड़), and some join two words of similar meaning (नौकर-चाकर)."
+    },
+    {
+     "id": "rp:5",
+     "t": "mc",
+     "q": "Fill the gap: “The car is running fine now.”",
+     "hi": "गाड़ी अब ___ चल रही है ।",
+     "say": "गाड़ी अब ठीक-ठाक चल रही है ।",
+     "en": "The car[0] {is running}[3+4+5] fine[2] now[1].",
+     "a": "ठीक-ठाक",
+     "wrong": [
+      [
+       "गप-शप",
+       "गप-शप is “chit-chat”."
+      ],
+      [
+       "भीड़-भाड़",
+       "भीड़-भाड़ is “hustle and bustle”."
+      ]
+     ],
+     "why": "An echo word (चाय-वाय “tea or something”) generalizes the word it echoes. Some pairs are fixed (गप-शप, ठीक-ठाक, भीड़-भाड़), and some join two words of similar meaning (नौकर-चाकर)."
+    },
+    {
+     "id": "rp:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शहर की भीड़-भाड़ से दूर एक छोटा-सा गाँव है ।",
+     "audio": true,
+     "a": "Far from the hustle and bustle of the town there's a little village.",
+     "wrong": [
+      [
+       "There's a crowded little village near the town.",
+       "दूर is “far”: the village is away from the town's bustle."
+      ],
+      [
+       "The crowds have left the town for a little village.",
+       "Nobody leaves: भीड़-भाड़ से दूर is “far from the bustle”."
+      ]
+     ],
+     "why": "An echo word (चाय-वाय “tea or something”) generalizes the word it echoes. Some pairs are fixed (गप-शप, ठीक-ठाक, भीड़-भाड़), and some join two words of similar meaning (नौकर-चाकर)."
+    },
+    {
+     "id": "rp:8",
+     "t": "mc",
+     "q": "Fill the gap: “Each student got two books.”",
+     "hi": "हर छात्र को दो ___ किताबें मिलीं ।",
+     "say": "हर छात्र को दो दो किताबें मिलीं ।",
+     "en": "Each[0] student[1+2] got[6] two[3+4] books[5].",
+     "a": "दो",
+     "wrong": [
+      [
+       "दोनों",
+       "दोनों is “both”."
+      ],
+      [
+       "दूसरी",
+       "दूसरी is “second, other”."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”)."
+    }
+   ]
+  },
+  {
+   "id": "either",
+   "title": "या तो, न … न, चाहे",
+   "desc": "“Either … or”, “neither … nor”, “whether … or”",
+   "skill": "either",
+   "items": [
+    {
+     "id": "ch:0",
+     "t": "mc",
+     "q": "Fill the gap: “Come either today or tomorrow (lit. “… you …”).”",
+     "hi": "___ तो तुम आज आओ या कल ।",
+     "say": "या तो तुम आज आओ या कल ।",
+     "en": "Come[4] either[0+1] today[3] or[5] tomorrow[6] (lit. “… you[2] …”).",
+     "a": "या",
+     "wrong": [
+      [
+       "न",
+       "न … न is “neither … nor”."
+      ],
+      [
+       "कि",
+       "“Either … or” is या तो … या."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    },
+    {
+     "id": "ch:1",
+     "t": "mc",
+     "q": "Fill the gap: “This room is neither big nor clean.”",
+     "hi": "यह कमरा न बड़ा है ___ साफ़ ।",
+     "say": "यह कमरा न बड़ा है न साफ़ ।",
+     "en": "This[0] room[1] is[4] neither[2] big[3] nor[5] clean[6].",
+     "a": "न",
+     "wrong": [
+      [
+       "या",
+       "या is “or”. “Neither … nor” is न … न."
+      ],
+      [
+       "और",
+       "और is “and”. “Neither … nor” is न … न."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    },
+    {
+     "id": "ch:2",
+     "t": "mc",
+     "q": "Fill the gap: “Whether it's hot or cold, he goes for a walk every day.”",
+     "hi": "___ गर्मी हो चाहे ठंड, वह रोज़ सैर करने जाता है ।",
+     "say": "चाहे गर्मी हो चाहे ठंड, वह रोज़ सैर करने जाता है ।",
+     "en": "Whether[0] it's[2] hot[1] or[3] cold[4], he[5] goes[9+10] for a walk[7+8] {every day}[6].",
+     "a": "चाहे",
+     "wrong": [
+      [
+       "न",
+       "न … न is “neither … nor”."
+      ],
+      [
+       "तो",
+       "“Whether … or” is चाहे … चाहे (or चाहे … या)."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    },
+    {
+     "id": "ch:3",
+     "t": "mc",
+     "q": "Fill the gap: “No matter what anyone says, I'll stay right here. (a man speaking)”",
+     "hi": "चाहे कोई कुछ भी क्यों ___ कहे, मैं यहीं रहूँगा ।",
+     "say": "चाहे कोई कुछ भी क्यों न कहे, मैं यहीं रहूँगा ।",
+     "en": "{No matter}[0+4+5] what[2+3] anyone[1] says[6], I'll[7] stay[9] {right here}[8]. (a man speaking)",
+     "a": "न",
+     "wrong": [
+      [
+       "भी",
+       "The formula is चाहे … क्यों न + subjunctive."
+      ],
+      [
+       "तो",
+       "The formula is चाहे … क्यों न + subjunctive."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    },
+    {
+     "id": "ch:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "या तो चुप रहो या कमरे से बाहर जाओ ।",
+     "audio": true,
+     "a": "Either keep quiet or leave the room.",
+     "wrong": [
+      [
+       "Neither keep quiet nor leave the room.",
+       "या तो … या is “either … or”."
+      ],
+      [
+       "Keep quiet and stay in the room.",
+       "या तो … या offers a choice: keep quiet, or go out."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    },
+    {
+     "id": "ch:5",
+     "t": "mc",
+     "q": "Which means “I'll go whether you come or not”?",
+     "a": "चाहे तुम आओ या न आओ, मैं जाऊँगा ।",
+     "wrong": [
+      [
+       "जब तुम आओ या न आओ, मैं जाऊँगा ।",
+       "जब is “when”. “Whether … or” is चाहे … या."
+      ],
+      [
+       "न तुम आओ न आओ, मैं जाऊँगा ।",
+       "न … न is “neither … nor”."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”.",
+     "say": "चाहे तुम आओ या न आओ, मैं जाऊँगा ।",
+     "en": "I[6] {will go}[7] whether[0] you[1] come[2] or[3] not[4+5]. (a man speaking)"
+    },
+    {
+     "id": "ch:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "न वह आया, न उसका फ़ोन आया ।",
+     "audio": true,
+     "a": "He neither came nor phoned.",
+     "wrong": [
+      [
+       "Either he came or he phoned.",
+       "न … न is “neither … nor”."
+      ],
+      [
+       "He came, but didn't phone.",
+       "Both are negative: he didn't come and didn't phone."
+      ]
+     ],
+     "why": "या (तो) … या “either … or”, न … न “neither … nor”, चाहे … चाहे (or चाहे … या) “whether … or”, and चाहे … क्यों न हो “no matter how/what”."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "We[0] {will help}[4+5+6] that[1] old[2] woman[3].",
+     "ans": [
+      "हम",
+      "उस",
+      "बूढ़ी",
+      "औरत",
+      "की",
+      "मदद",
+      "करेंगे"
+     ],
+     "wrong": [
+      [
+       "का",
+       "मदद is feminine — औरत की मदद."
+      ],
+      [
+       "ने",
+       "ने is used only in the perfective. करेंगे is future."
+      ],
+      [
+       "मददा",
+       "Not a word. मदद is a noun and never takes -ā."
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Sita[0+1] tried[4+5+6] to open[3] the window[2].",
+     "ans": [
+      "सीता",
+      "ने",
+      "खिड़की",
+      "खोलने",
+      "की",
+      "कोशिश",
+      "की"
+     ],
+     "wrong": [
+      [
+       "खोलना",
+       "Before की the infinitive is oblique — खोलने की कोशिश."
+      ],
+      [
+       "किया",
+       "कोशिश is feminine — कोशिश की."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "My[0] grandmother[1] {was born}[2+3+7+8] in[6] a[4] village[5].",
+     "ans": [
+      "मेरी",
+      "दादी",
+      "का",
+      "जन्म",
+      "एक",
+      "गाँव",
+      "में",
+      "हुआ",
+      "था"
+     ],
+     "wrong": [
+      [
+       "की",
+       "जन्म is masculine — दादी का जन्म."
+      ],
+      [
+       "हुई",
+       "हुई would agree with दादी. The subject is जन्म — हुआ."
+      ]
+     ],
+     "alt": [
+      [
+       "मेरी",
+       "दादी",
+       "का",
+       "जन्म",
+       "गाँव",
+       "में",
+       "हुआ",
+       "था"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Raj[0+1] misses[5+6+7] his[2] mother[3+4].",
+     "ans": [
+      "राज",
+      "को",
+      "अपनी",
+      "माँ",
+      "की",
+      "याद",
+      "आती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "आता",
+       "याद is feminine — याद आती है."
+      ],
+      [
+       "ने",
+       "याद आना takes को, not ने."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "को",
+       "अपनी",
+       "माँ",
+       "याद",
+       "आती",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "We[0] {could see}[2+3+4+5] the mountains[1].",
+     "ans": [
+      "हमें",
+      "पहाड़",
+      "दिखाई",
+      "दे",
+      "रहे",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "हमने",
+       "दिखाई देना takes no ने — हमें."
+      ],
+      [
+       "रहा",
+       "पहाड़ here is plural — दे रहे थे."
+      ],
+      [
+       "दिखाईया",
+       "Not a word. The fixed form is दिखाई देना."
+      ]
+     ],
+     "alt": [
+      [
+       "पहाड़",
+       "हमें",
+       "दिखाई",
+       "दे",
+       "रहे",
+       "थे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "I[0] {didn't go}[3+4] anywhere[2] today[1]. (a man speaking)",
+     "ans": [
+      "मैं",
+      "आज",
+      "कहीं",
+      "नहीं",
+      "गया"
+     ],
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question “where?”."
+      ],
+      [
+       "गई",
+       "गई is feminine. The speaker is a man."
+      ]
+     ],
+     "alt": [
+      [
+       "आज",
+       "मैं",
+       "कहीं",
+       "नहीं",
+       "गया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "Give[5] the children[0+1] three[2+3] sweets[4] each.",
+     "ans": [
+      "बच्चों",
+      "को",
+      "तीन",
+      "तीन",
+      "मिठाइयाँ",
+      "दो"
+     ],
+     "wrong": [
+      [
+       "तीनों",
+       "तीनों is “all three”."
+      ],
+      [
+       "मिठाई",
+       "मिठाई is singular. Three sweets — मिठाइयाँ."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Don't[2] bring[3] any[0] presents or anything[1].",
+     "ans": [
+      "कोई",
+      "तोहफ़ा-वोहफ़ा",
+      "मत",
+      "लाना"
+     ],
+     "wrong": [
+      [
+       "किसी",
+       "किसी is oblique. Here कोई goes with the object, in the direct case."
+      ],
+      [
+       "लाया",
+       "लाया is the perfective. A command uses the infinitive — मत लाना."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Either[0+1] phone[2+3] or[4] write[6] a letter[5].",
+     "ans": [
+      "या",
+      "तो",
+      "फ़ोन",
+      "करो",
+      "या",
+      "चिट्ठी",
+      "लिखो"
+     ],
+     "wrong": [
+      [
+       "न",
+       "न … न is “neither … nor”."
+      ],
+      [
+       "और",
+       "और is “and”. “Either … or” is या तो … या."
+      ]
+     ],
+     "alt": [
+      [
+       "फ़ोन",
+       "करो",
+       "या",
+       "चिट्ठी",
+       "लिखो"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Raj[0] neither[1] reads[2+3] nor[4] writes[5+6].",
+     "ans": [
+      "राज",
+      "न",
+      "पढ़ता",
+      "है",
+      "न",
+      "लिखता",
+      "है"
+     ],
+     "wrong": [
+      [
+       "या",
+       "या is “or”. “Neither … nor” is न … न."
+      ],
+      [
+       "पढ़ती",
+       "पढ़ती is feminine. राज is a man."
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Whether[0] rich[1] or[3] poor[4], everyone[5] comes[7+8] here[6] (lit. “… be[2] …”).",
+     "ans": [
+      "चाहे",
+      "अमीर",
+      "हो",
+      "या",
+      "ग़रीब",
+      "सब",
+      "यहाँ",
+      "आते",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "न",
+       "न … न is “neither … nor”."
+      ],
+      [
+       "आता",
+       "आता is singular. सब “everyone” takes the plural — आते हैं."
+      ]
+     ],
+     "alt": [
+      [
+       "सब",
+       "यहाँ",
+       "आते",
+       "हैं",
+       "चाहे",
+       "अमीर",
+       "हो",
+       "या",
+       "ग़रीब"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Grandma[0+1] {was looked after}[3+4+5] well[2].",
+     "ans": [
+      "दादी",
+      "की",
+      "अच्छी",
+      "देखभाल",
+      "की",
+      "गई"
+     ],
+     "wrong": [
+      [
+       "गया",
+       "गया is masculine. देखभाल is feminine — की गई."
+      ],
+      [
+       "किया",
+       "किया is masculine. The subject of the passive is देखभाल, feminine — की गई."
+      ],
+      [
+       "देखभाला",
+       "Not a word. देखभाल is a noun and never takes -ā."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पुलिस चोर का पीछा कर रही थी ।",
+     "audio": true,
+     "a": "The police were chasing the thief.",
+     "wrong": [
+      [
+       "The thief was chasing the police.",
+       "चोर का पीछा is “the thief's following”: the thief is the one followed."
+      ],
+      [
+       "The police were waiting for the thief.",
+       "“Wait for” would be का इंतज़ार करना."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हम आपका इंतज़ार कर रहे थे ।",
+     "audio": true,
+     "a": "We were waiting for you.",
+     "wrong": [
+      [
+       "You were waiting for us.",
+       "हम is the subject: we were waiting."
+      ],
+      [
+       "We were looking for you.",
+       "“Look for” would be की तलाश करना."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दादी को अपने बचपन की बहुत सारी बातें याद हैं ।",
+     "audio": true,
+     "a": "Grandma remembers lots of things from her childhood.",
+     "wrong": [
+      [
+       "Grandma has forgotten lots of things from her childhood.",
+       "याद होना is “to be remembered”."
+      ],
+      [
+       "Grandma reminds us of her childhood.",
+       "“Remind” would be याद दिलाना."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरे दादा जी का देहान्त मेरे जन्म से पहले हो गया था ।",
+     "audio": true,
+     "a": "My grandfather died before I was born.",
+     "wrong": [
+      [
+       "My grandfather was born before me.",
+       "देहान्त is “death”."
+      ],
+      [
+       "My grandfather died when I was born.",
+       "से पहले is “before”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "इस इमारत का इस्तेमाल अब स्कूल के लिए किया जाता है ।",
+     "audio": true,
+     "a": "This building is now used as a school.",
+     "wrong": [
+      [
+       "This building is now being built for a school.",
+       "इस्तेमाल is “use”."
+      ],
+      [
+       "The school no longer uses this building.",
+       "अब … किया जाता है is “is now used”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दूर से किसी के गाने की आवाज़ सुनाई दी ।",
+     "audio": true,
+     "a": "From far away came the sound of someone singing.",
+     "wrong": [
+      [
+       "Someone far away heard a song.",
+       "सुनाई देना — the sound is what is heard."
+      ],
+      [
+       "From far away someone was seen singing.",
+       "सुनाई देना is “to be heard”. “Seen” would be दिखाई देना."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसे इस काम का बहुत अनुभव है ।",
+     "audio": true,
+     "a": "He has a lot of experience of this work.",
+     "wrong": [
+      [
+       "He has a lot of interest in this work.",
+       "अनुभव is “experience”."
+      ],
+      [
+       "This work is giving him a lot of trouble.",
+       "अनुभव is “experience”, not “trouble”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Conjunct verbs, echo words, repetition",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "In सीता ने साइकिल का इस्तेमाल किया, what does किया agree with?",
+     "a": "इस्तेमाल, the base noun",
+     "wrong": [
+      [
+       "साइकिल, the object",
+       "साइकिल “possesses” इस्तेमाल with का. The verb agrees with the base noun."
+      ],
+      [
+       "सीता, the doer",
+       "With ने the verb never agrees with the doer."
+      ]
+     ],
+     "why": "With ने, a conjunct verb agrees with its own base noun (बच्चों की देखभाल की, साइकिल का इस्तेमाल किया)."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Why is it बस का इंतज़ार, not बस की इंतज़ार?",
+     "a": "का agrees with इंतज़ार, which is masculine",
+     "wrong": [
+      [
+       "बस is masculine",
+       "बस is feminine. का agrees with इंतज़ार."
+      ],
+      [
+       "इंतज़ार never takes की with vehicles",
+       "It is about gender only: इंतज़ार is masculine, so का."
+      ]
+     ],
+     "why": "In conjunct verbs such as की मदद करना, का इंतज़ार करना, the base noun (मदद, इंतज़ार) is “possessed” by the object, so का or की agrees with the base noun's gender, not with the object."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "In मेरी बेटी का जन्म दिल्ली में हुआ, what is the subject of हुआ?",
+     "a": "the event itself, जन्म",
+     "wrong": [
+      [
+       "the person born, बेटी",
+       "बेटी “possesses” जन्म with का. The event is the subject, so हुआ, not हुई."
+      ],
+      [
+       "the place, दिल्ली",
+       "दिल्ली takes में. The subject is जन्म."
+      ]
+     ],
+     "why": "Intransitive conjunct verbs describe events, and the event itself is the subject: का जन्म होना, की शादी होना, का देहान्त होना, का उद्घाटन होना."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Which of these does not take ने in the perfective?",
+     "a": "दिखाई देना and सुनाई देना",
+     "wrong": [
+      [
+       "याद करना and याद रखना",
+       "These are transitive and take ने."
+      ],
+      [
+       "की कोशिश करना",
+       "कोशिश करना takes ने — मैंने कोशिश की."
+      ]
+     ],
+     "why": "दिखाई देना “be visible” and सुनाई देना “be audible” do not take ने. The person who sees or hears takes को."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "What does the echo word in चाय-वाय add?",
+     "a": "“or something like that”",
+     "wrong": [
+      [
+       "“a lot of”",
+       "An echo word makes the noun vague, not bigger."
+      ],
+      [
+       "“very hot”",
+       "“Piping hot” would be the repetition गरम गरम."
+      ]
+     ],
+     "why": "An echo word (चाय-वाय “tea or something”) generalizes the word it echoes. Some pairs are fixed (गप-शप, ठीक-ठाक, भीड़-भाड़), and some join two words of similar meaning (नौकर-चाकर)."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Which pair joins two words of similar meaning, rather than a word and its echo?",
+     "a": "नौकर-चाकर",
+     "wrong": [
+      [
+       "चाय-वाय",
+       "The second half just echoes चाय and has no meaning of its own."
+      ],
+      [
+       "भीड़-भाड़",
+       "The second half just echoes भीड़."
+      ]
+     ],
+     "why": "An echo word (चाय-वाय “tea or something”) generalizes the word it echoes. Some pairs are fixed (गप-शप, ठीक-ठाक, भीड़-भाड़), and some join two words of similar meaning (नौकर-चाकर)."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "Repeating a word, as in दो दो or अलग अलग, can show …",
+     "a": "distribution: “each”, “separately”",
+     "wrong": [
+      [
+       "a question",
+       "Questions use क्या and the k- words."
+      ],
+      [
+       "the past tense",
+       "Repetition has nothing to do with tense."
+      ]
+     ],
+     "why": "Repeating a word can show distribution (दो दो “two each”), variety (तरह तरह के “of various kinds”) or emphasis (गरम गरम “piping hot”)."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "conj": 3,
+  "yad": 3,
+  "kahin": 2,
+  "rep": 3,
+  "either": 3,
+  "build": 2,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "मददा": "madadā",
+  "देखभाला": "dekhbhālā",
+  "तारीफ़ा": "tārīfā",
+  "इस्तेमाला": "istemālā",
+  "कोशिशा": "kośiśā",
+  "इंतज़ारा": "intazārā",
+  "इंतज़ामा": "intazāmā",
+  "दिखाईया": "dikhāīyā",
+  "सुनाईया": "sunāīyā",
+  "कहींओं": "kahī̃õ"
+ }
+}

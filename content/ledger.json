@@ -2451,5 +2451,109 @@
     "title": "Reflexives ख़ुद “oneself” (formal आप, स्वयं); oblique अपने को, अपने आप को (अपने को बड़ा आदमी समझता है); अपने आप “of one's own accord”; आपस में “between, among themselves”"
    }
   ]
+ },
+ "16": {
+  "forms": {
+   "अनुभव": "anubhav",
+   "अहम": "aham",
+   "आलसी": "ālsī",
+   "इंतज़ार": "intazār",
+   "इनसान": "insān",
+   "इमारत": "imārat",
+   "इस्तेमाल": "istemāl",
+   "ई-मेल": "ī-mel",
+   "उद्घाटन": "udghāṭan",
+   "उल्लू": "ullū",
+   "कंप्यूटर": "kampyūṭar",
+   "क़सूर": "qasūr",
+   "कार्यक्रम": "kāryakram",
+   "कुली": "kulī",
+   "कोशिश": "kośiś",
+   "खाँसना": "khā̃snā",
+   "गँवाना": "gãvānā",
+   "गप": "gap",
+   "गुज़ारा": "guzārā",
+   "चिंता": "cintā",
+   "जंगली": "jaṅglī",
+   "जन्म": "janm",
+   "जानवर": "jānvar",
+   "ज़िंदगी": "zindagī",
+   "डूबना": "ḍūbnā",
+   "ढंग": "ḍhaṅg",
+   "तलाश": "talāś",
+   "तलाशना": "talāśnā",
+   "तहज़ीब": "tahzīb",
+   "तारीफ़": "tārīf",
+   "दुनिया": "duniyā",
+   "देखभाल": "dekhbhāl",
+   "देहान्त": "dehānt",
+   "निंदा": "nindā",
+   "निकालना": "nikālnā",
+   "निबंध": "nibandh",
+   "नौकर-चाकर": "naukar-cākar",
+   "पति-देव": "pati-dev",
+   "पीछा": "pīchā",
+   "पेंसिल": "pensil",
+   "पेशा": "peśā",
+   "प्याज़": "pyāz",
+   "बेवक़ूफ़": "bevaqūf",
+   "मर्द": "mard",
+   "माला": "mālā",
+   "मीटिंग": "mīṭiṅg",
+   "याद": "yād",
+   "दिलाना": "dilānā",
+   "लहसुन": "lahsun",
+   "सदा": "sadā",
+   "सवारी": "savārī",
+   "साधन": "sādhan",
+   "हरेक": "harek",
+   "हल": "hal",
+   "ठीक-ठाक": "ṭhīk-ṭhāk",
+   "भीड़-भाड़": "bhīṛ-bhāṛ",
+   "गप-शप": "gap-śap",
+   "समझने": "samajhne",
+   "चोरों": "corõ",
+   "रास्ता": "rāstā",
+   "मिल": "mil",
+   "चाय-वाय": "cāy-vāy",
+   "सबने": "sabne",
+   "रुपये": "rupaye",
+   "दसों": "dasõ",
+   "सुनाईं": "sunāī̃",
+   "नाश्ता-वाश्ता": "nāśtā-vāśtā",
+   "बनाओ": "banāo",
+   "रहूँगा": "rahū̃gā",
+   "खोलने": "kholne",
+   "मिठाइयाँ": "miṭhāiyā̃",
+   "तोहफ़ा-वोहफ़ा": "tohfā-vohfā",
+   "लिखता": "likhtā",
+   "भीड़": "bhīṛ"
+  },
+  "grammar": [
+   {
+    "id": "conjunct-verbs-2",
+    "title": "Conjunct verbs, second type: the base noun is “possessed” by the object with का/की, agreeing with the base noun (का इंतज़ाम करना, का इंतज़ार करना, का इस्तेमाल करना, का पीछा करना; की तलाश करना, की देखभाल करना, की निंदा करना, की तारीफ़ करना, की मदद करना); with ने and in the passive the verb agrees with the base noun (बच्चों की देखभाल की, कंप्यूटर का इस्तेमाल किया, नए घर की तलाश की जाएगी); की कोशिश करना with the oblique infinitive (फ़ोन करने की कोशिश की); some drop the possessive (तलाश करना) or become verbs (तलाशना). First type: adjective/noun + करना, intransitive with होना (ठीक करना, कम करना, शुरू होना)"
+   },
+   {
+    "id": "event-verbs",
+    "title": "Intransitive conjunct verbs for events, with the event as subject: का जन्म होना, की शादी होना, का तलाक़ होना, का देहान्त होना, का उद्घाटन होना"
+   },
+   {
+    "id": "yad-verbs",
+    "title": "याद “memory”: याद करना “remember, learn by heart, think of, summon”, याद होना “be remembered”, याद आना “come to mind, be missed”, याद दिलाना “remind”, याद रखना “keep in mind”, याद रहना “remain remembered”; दिखाई देना/पड़ना “be visible” and सुनाई देना/पड़ना “be audible”, without ने"
+   },
+   {
+    "id": "kahin",
+    "title": "कहीं “somewhere, anywhere”, कहीं और, कहीं नहीं, सब कहीं, कहीं भी, कहीं न कहीं; “somehow” (कहीं पैसे मिल जाएँ तो …), “considerably” (कहीं ज़्यादा), “lest” (कहीं … न + subjunctive), rhetorical questions; कहीं का in insults (बदमाश कहीं का !)"
+   },
+   {
+    "id": "repetition-echo",
+    "title": "Repetition for distribution (एक एक रुपया, अलग अलग), variety (तरह तरह के, कहाँ कहाँ, कौन कौन) and emphasis (साफ़ साफ़, बहुत बहुत, गरम गरम); echo words generalizing a word (चाय-वाय, पेंसिल-वेंसिल, मीटिंग-शीटिंग), fixed echo pairs (गप-शप, ठीक-ठाक, भीड़-भाड़) and pairs of similar words (नौकर-चाकर, मिलना-जुलना, जान-बूझकर)"
+   },
+   {
+    "id": "either-neither-whether",
+    "title": "या (तो) … या “either … or”; न … न “neither … nor”; चाहे … चाहे / या “whether … or”; चाहे alone “no matter whether”; चाहे … क्यों न हो “no matter how/what”"
+   }
+  ]
  }
 }
