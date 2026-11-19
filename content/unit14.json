@@ -4,7 +4,7 @@
  "title": "This was bought in Kathmandu",
  "titleHi": "यह तो काठमांडु में ख़रीदा गया",
  "scope": "The passive: perfective participle + जाना, both agreeing with the subject, in any tense and with compound verbs; को on the subject makes it masculine singular; the agent with से or के द्वारा; intransitive passives for suggestions (बैठा जाए, जाया); से + negative passive for inability; transitive and intransitive pairs (तोड़ना/टूटना, बनाना/बनना, बेचना/बिकना, धोना/धुलना); oblique infinitive + लगना “to begin to”, direct infinitive + शुरू करना; oblique infinitive + देना “to let”; relative-correlatives जितना … उतना, जैसा … वैसा, जिस तरह का … उस तरह का, जहाँ … वहाँ, जहाँ भी, जिधर … उधर; clause reversal and mixed pairs",
- "pages": "book 176–191",
+ "pages": "book 176–190",
  "skills": {
   "passive": "The passive",
   "passko": "को, से and जाया",
@@ -1704,8 +1704,8 @@
      ],
      "wrong": [
       [
-       "ने",
-       "ने is never used in the passive. The doer takes के द्वारा or से."
+       "को",
+       "को would make Sita the one it was written to. In the passive the doer takes के द्वारा or से."
       ],
       [
        "लिखा",
@@ -1814,6 +1814,16 @@
       [
        "देनेगा",
        "Not a word. The future of देना is देगा. Here the past is needed — दिया."
+      ]
+     ],
+     "alt": [
+      [
+       "मुझे",
+       "दादी",
+       "ने",
+       "दिल्ली",
+       "जाने",
+       "दिया"
       ]
      ]
     },

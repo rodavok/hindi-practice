@@ -649,6 +649,8 @@
 
 ## Known issues and not yet done
 
+- Tile audit of Units 14–18 (after writing them): every tiles item was checked for other valid orders and for extra tiles that combine into a correct sentence. Fixed: U14 `tl:3` (the extra ने allowed the active सीता ने यह कविता लिखी; now को), U17 `tl:1` (the extra होता allowed … तो वह ठीक होता; now होगा), U17 `tl:11` (ख़बर + होगी built a correct sentence; ख़बर is now हुआ), U18 `tl:10` (फ़ोटो, which the book uses as both masculine and feminine, replaced by तस्वीर). Alternatives added: U14 `tl:6`, U15 `tl:6`, `tl:7`, `tl:8`, U16 `tl:0`, U17 `tl:2`, `tl:5`, `tl:8`. Every alignment in Units 14–18 was also dumped word by word and checked; twelve Unit 18 items and one Unit 16 item had shifted indices and were fixed.
+
 - Fixed: Hard level used to pad sentence building with real words from the unit's other tile items, which could make a second correct sentence that was then marked wrong. It now pads only with the unit's declared distractor forms. The Hard-level tile notes under Units 6 and 7 no longer apply.
 - Audio: Piper and eSpeak NG are not installed; only `spd-say` (speech-dispatcher) is present. No option has been chosen or installed yet; the `audio/unitNN/manifest.json` hook in `tools/build.js` is ready for clips.
 - "Explain more": the engine calls `/api/explain` when the page is served from localhost, but the small local server that holds the API key has not been written.

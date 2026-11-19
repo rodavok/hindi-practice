@@ -1434,8 +1434,8 @@
        "With ने the participle agrees with दवा, feminine — ली होती."
       ],
       [
-       "होता",
-       "होता would agree with a masculine object. दवा is feminine — ली होती."
+       "होगा",
+       "होगा is future. The other clause of a counterfactual takes the participle — हो जाता."
       ]
      ],
      "alt": [
@@ -1482,6 +1482,17 @@
       ]
      ],
      "alt": [
+      [
+       "हालाँकि",
+       "देर",
+       "हो",
+       "गई",
+       "थी",
+       "वह",
+       "फिर",
+       "भी",
+       "आया"
+      ],
       [
        "हालाँकि",
        "देर",
@@ -1578,6 +1589,14 @@
        "बैठा",
        "बैठा is masculine. The verb agrees with सीता."
       ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "चाबी",
+       "खो",
+       "बैठी"
+      ]
      ]
     },
     {
@@ -1666,6 +1685,42 @@
        "मैं",
        "बताना and रखना both take ने, so the compound does — मैंने."
       ]
+     ],
+     "alt": [
+      [
+       "मैंने",
+       "पहले",
+       "से",
+       "उसे",
+       "बता",
+       "रखा",
+       "है"
+      ],
+      [
+       "उसे",
+       "मैंने",
+       "पहले",
+       "से",
+       "बता",
+       "रखा",
+       "है"
+      ],
+      [
+       "मैंने",
+       "उसे",
+       "पहले",
+       "बता",
+       "रखा",
+       "है"
+      ],
+      [
+       "मैंने",
+       "पहले",
+       "उसे",
+       "बता",
+       "रखा",
+       "है"
+      ]
      ]
     },
     {
@@ -1749,8 +1804,8 @@
        "होगी is feminine. समाचार is masculine."
       ],
       [
-       "ख़बर",
-       "ख़बर is the everyday word, and feminine, so it doesn't fit होगा."
+       "हुआ",
+       "हुआ is past. “Will be published” is future — होगा."
       ]
      ]
     }

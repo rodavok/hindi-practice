@@ -100,7 +100,7 @@ const either = [
 ];
 
 const build = [
-  tiles("tl:0", "We[0] {will help}[4+5+6] that[1] old[2] woman[3].", ["हम","उस","बूढ़ी","औरत","की","मदद","करेंगे"], [["का","मदद is feminine — औरत की मदद."], ["ने","ने is used only in the perfective. करेंगे is future."], ["मददा","Not a word. मदद is a noun and never takes -ā."]]),
+  tiles("tl:0", "We[0] {will help}[4+5+6] that[1] old[2] woman[3].", ["हम","उस","बूढ़ी","औरत","की","मदद","करेंगे"], [["का","मदद is feminine — औरत की मदद."], ["ने","ने is used only in the perfective. करेंगे is future."], ["मददा","Not a word. मदद is a noun and never takes -ā."]], {alt: [["उस","बूढ़ी","औरत","की","मदद","हम","करेंगे"]]}),
   tiles("tl:1", "Sita[0+1] tried[4+5+6] to open[3] the window[2].", ["सीता","ने","खिड़की","खोलने","की","कोशिश","की"], [["खोलना","Before की the infinitive is oblique — खोलने की कोशिश."], ["किया","कोशिश is feminine — कोशिश की."]]),
   tiles("tl:2", "My[0] grandmother[1] {was born}[2+3+7+8] in[6] a[4] village[5].", ["मेरी","दादी","का","जन्म","एक","गाँव","में","हुआ","था"], [["की","जन्म is masculine — दादी का जन्म."], ["हुई","हुई would agree with दादी. The subject is जन्म — हुआ."]], {alt: [["मेरी","दादी","का","जन्म","गाँव","में","हुआ","था"]]}),
   tiles("tl:3", "Raj[0+1] misses[5+6+7] his[2] mother[3+4].", ["राज","को","अपनी","माँ","की","याद","आती","है"], [["आता","याद is feminine — याद आती है."], ["ने","याद आना takes को, not ने."]], {alt: [["राज","को","अपनी","माँ","याद","आती","है"]]}),
