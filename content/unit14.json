@@ -1,0 +1,2373 @@
+{
+ "id": "unit14",
+ "n": 14,
+ "title": "This was bought in Kathmandu",
+ "titleHi": "यह तो काठमांडु में ख़रीदा गया",
+ "scope": "The passive: perfective participle + जाना, both agreeing with the subject, in any tense and with compound verbs; को on the subject makes it masculine singular; the agent with से or के द्वारा; intransitive passives for suggestions (बैठा जाए, जाया); से + negative passive for inability; transitive and intransitive pairs (तोड़ना/टूटना, बनाना/बनना, बेचना/बिकना, धोना/धुलना); oblique infinitive + लगना “to begin to”, direct infinitive + शुरू करना; oblique infinitive + देना “to let”; relative-correlatives जितना … उतना, जैसा … वैसा, जिस तरह का … उस तरह का, जहाँ … वहाँ, जहाँ भी, जिधर … उधर; clause reversal and mixed pairs",
+ "pages": "book 176–191",
+ "skills": {
+  "passive": "The passive",
+  "passko": "को, से and जाया",
+  "trans": "Transitive pairs",
+  "begin": "Begin to, let",
+  "rel": "Relatives 3–6",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अनुपस्थित",
+   "en": "absent",
+   "c": "a"
+  },
+  {
+   "hi": "अमीर",
+   "en": "rich, wealthy",
+   "c": "a"
+  },
+  {
+   "hi": "अर्थ",
+   "en": "meaning",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आँखें दिखाना",
+   "en": "to look angrily",
+   "c": "v"
+  },
+  {
+   "hi": "आबादी",
+   "en": "population, settlement",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आर्थिक",
+   "en": "financial",
+   "c": "a"
+  },
+  {
+   "hi": "इलाक़ा",
+   "en": "area",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ऊल-जलूल",
+   "en": "silly, pointless",
+   "c": "a"
+  },
+  {
+   "hi": "क़रीब",
+   "en": "about, roughly",
+   "c": "x"
+  },
+  {
+   "hi": "काँटा",
+   "en": "thorn; fork",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कारण",
+   "en": "reason, cause",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कि",
+   "en": "when (suddenly)",
+   "c": "x"
+  },
+  {
+   "hi": "किधर",
+   "en": "where? whither?",
+   "c": "x"
+  },
+  {
+   "hi": "की बग़ल में",
+   "en": "next to",
+   "c": "x"
+  },
+  {
+   "hi": "के कारण",
+   "en": "because of",
+   "c": "x"
+  },
+  {
+   "hi": "के द्वारा",
+   "en": "by, by means of",
+   "c": "x"
+  },
+  {
+   "hi": "के बीच में",
+   "en": "in the middle of",
+   "c": "x"
+  },
+  {
+   "hi": "ख़बर",
+   "en": "news; information",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गुस्ताख़ी",
+   "en": "rudeness, impertinence",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घटिया",
+   "en": "inferior, low grade (invariable)",
+   "c": "a"
+  },
+  {
+   "hi": "चटनी",
+   "en": "chutney",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "चेहरा",
+   "en": "face, features",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चोरी करना",
+   "en": "to steal",
+   "c": "v"
+  },
+  {
+   "hi": "जब कि",
+   "en": "while, whereas",
+   "c": "x"
+  },
+  {
+   "hi": "ज़बान",
+   "en": "language, tongue",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जहाँ … वहाँ",
+   "en": "where … there",
+   "c": "x"
+  },
+  {
+   "hi": "जहाँ भी",
+   "en": "wherever",
+   "c": "x"
+  },
+  {
+   "hi": "जितना … उतना",
+   "en": "as much as …",
+   "c": "x"
+  },
+  {
+   "hi": "जिधर … उधर",
+   "en": "whither … thither",
+   "c": "x"
+  },
+  {
+   "hi": "जैसा … वैसा",
+   "en": "as … so",
+   "c": "x"
+  },
+  {
+   "hi": "जोड़ना",
+   "en": "to add",
+   "c": "v"
+  },
+  {
+   "hi": "डाँटना",
+   "en": "to scold",
+   "c": "v"
+  },
+  {
+   "hi": "तमिल",
+   "en": "Tamil",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ताज़ा",
+   "en": "fresh",
+   "c": "a"
+  },
+  {
+   "hi": "तालाब",
+   "en": "pond",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तालियाँ बजाना",
+   "en": "to clap",
+   "c": "v"
+  },
+  {
+   "hi": "दक्षिण",
+   "en": "south",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दबना",
+   "en": "to yield, cower",
+   "c": "v"
+  },
+  {
+   "hi": "दिलचस्प",
+   "en": "interesting",
+   "c": "a"
+  },
+  {
+   "hi": "दुबारा",
+   "en": "again, a second time",
+   "c": "x"
+  },
+  {
+   "hi": "दूरदर्शन",
+   "en": "television; Doordarshan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "देना",
+   "en": "(with oblique infinitive) to allow, let",
+   "c": "v"
+  },
+  {
+   "hi": "धुलना",
+   "en": "to be washed",
+   "c": "v"
+  },
+  {
+   "hi": "नदी",
+   "en": "river",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "निराशा",
+   "en": "disappointment, despair",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "परिवर्तन",
+   "en": "alteration",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पाकिस्तान",
+   "en": "Pakistan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पुल",
+   "en": "bridge",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्रकार",
+   "en": "manner, way, type, kind",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्रदेश",
+   "en": "state, province",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्रयोग",
+   "en": "use, usage",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "प्राचीन",
+   "en": "ancient",
+   "c": "a"
+  },
+  {
+   "hi": "प्राप्त करना",
+   "en": "to obtain, attain",
+   "c": "v"
+  },
+  {
+   "hi": "प्रेम",
+   "en": "love",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फ़ारसी",
+   "en": "Persian",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "फूल",
+   "en": "flower",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बचा",
+   "en": "saved, left",
+   "c": "a"
+  },
+  {
+   "hi": "बढ़िया",
+   "en": "nice, of good quality (invariable)",
+   "c": "a"
+  },
+  {
+   "hi": "बस",
+   "en": "enough! that's all!",
+   "c": "x"
+  },
+  {
+   "hi": "बिठाना",
+   "en": "to make sit",
+   "c": "v"
+  },
+  {
+   "hi": "बिल्ली",
+   "en": "cat",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बोली",
+   "en": "speech, dialect",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भीगा",
+   "en": "wet",
+   "c": "a"
+  },
+  {
+   "hi": "भीगी बिल्ली",
+   "en": "‘wet cat’, timid creature",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "भ्रष्ट",
+   "en": "corrupted",
+   "c": "a"
+  },
+  {
+   "hi": "भ्रष्ट करना",
+   "en": "to corrupt",
+   "c": "v"
+  },
+  {
+   "hi": "मक्खन",
+   "en": "butter",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मच्छर",
+   "en": "mosquito",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मज़ाक़",
+   "en": "joke",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "महसूस होना",
+   "en": "to be felt, experienced",
+   "c": "v"
+  },
+  {
+   "hi": "महिला",
+   "en": "lady",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "महीन",
+   "en": "fine, delicate",
+   "c": "a"
+  },
+  {
+   "hi": "महोदय",
+   "en": "gentleman, sir",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुलाक़ात",
+   "en": "meeting, encounter",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मौक़ा",
+   "en": "chance, opportunity",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "राजस्थान",
+   "en": "Rajasthan",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लगना",
+   "en": "(with oblique infinitive) to begin to",
+   "c": "v"
+  },
+  {
+   "hi": "लादना",
+   "en": "to load",
+   "c": "v"
+  },
+  {
+   "hi": "लेख",
+   "en": "article (written)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लेखक",
+   "en": "writer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "व्यक्ति",
+   "en": "person, individual",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शादी-शुदा",
+   "en": "married (invariable)",
+   "c": "a"
+  },
+  {
+   "hi": "शानदार",
+   "en": "magnificent",
+   "c": "a"
+  },
+  {
+   "hi": "सफल",
+   "en": "successful",
+   "c": "a"
+  },
+  {
+   "hi": "सफलता",
+   "en": "success",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साहित्य",
+   "en": "literature",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "स्वादिष्ट",
+   "en": "tasty",
+   "c": "a"
+  },
+  {
+   "hi": "हवाई डाक",
+   "en": "airmail",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "टूटना",
+   "en": "to break (intransitive)",
+   "c": "v"
+  },
+  {
+   "hi": "बनना",
+   "en": "to be made, come into being",
+   "c": "v"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "passive",
+   "title": "बोला जाना",
+   "desc": "The passive: “is spoken”, “was built”, “will be sent”",
+   "skill": "passive",
+   "items": [
+    {
+     "id": "pv:0",
+     "t": "mc",
+     "q": "Fill the gap: “These days such sweets aren't made at home.”",
+     "hi": "आजकल ऐसी मिठाई घर पर नहीं बनाई ___ ।",
+     "say": "आजकल ऐसी मिठाई घर पर नहीं बनाई जाती ।",
+     "en": "{These days}[0] such[1] sweets[2] {aren't made}[5+6+7] at home[3+4].",
+     "a": "जाती",
+     "wrong": [
+      [
+       "जाता",
+       "जाता is masculine. Both parts of the passive agree with मिठाई, feminine."
+      ],
+      [
+       "जाते",
+       "जाते is masculine plural. मिठाई is feminine."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:1",
+     "t": "mc",
+     "q": "Fill the gap: “Urdu is also spoken in this area.”",
+     "hi": "इस इलाक़े में उर्दू भी ___ जाती है ।",
+     "say": "इस इलाक़े में उर्दू भी बोली जाती है ।",
+     "en": "Urdu[3] is[7] also[4] spoken[5+6] in[2] this[0] area[1].",
+     "a": "बोली",
+     "wrong": [
+      [
+       "बोला",
+       "बोला is masculine. The participle agrees with उर्दू, feminine: बोली."
+      ],
+      [
+       "बोल",
+       "Stem + जाना makes a compound verb (बोल जाना “to speak out”). The passive uses the perfective participle: बोली."
+      ],
+      [
+       "बोलया",
+       "Not a word. बोलना has a consonant stem, so its perfective is बोला, बोली, with no -y-."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:2",
+     "t": "mc",
+     "q": "Fill the gap: “These letters were sent yesterday.”",
+     "hi": "ये चिट्ठियाँ कल ___ गईं ।",
+     "say": "ये चिट्ठियाँ कल भेजी गईं ।",
+     "en": "These[0] letters[1] {were sent}[3+4] yesterday[2].",
+     "a": "भेजी",
+     "wrong": [
+      [
+       "भेजा",
+       "भेजा is masculine. Both parts agree with चिट्ठियाँ, feminine plural: भेजी गईं."
+      ],
+      [
+       "भेज",
+       "The passive uses the perfective participle, भेजी, not the stem."
+      ],
+      [
+       "भेजया",
+       "Not a word. भेजना has a consonant stem, so its perfective is भेजा, भेजी, with no -y-."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:3",
+     "t": "mc",
+     "q": "Fill the gap: “A new hospital will be built here next year.”",
+     "hi": "अगले साल यहाँ एक नया अस्पताल बनाया ___ ।",
+     "say": "अगले साल यहाँ एक नया अस्पताल बनाया जाएगा ।",
+     "en": "A[3] new[4] hospital[5] {will be built}[6+7] here[2] {next year}[0+1].",
+     "a": "जाएगा",
+     "wrong": [
+      [
+       "जाएगी",
+       "जाएगी is feminine. अस्पताल is masculine."
+      ],
+      [
+       "जाएँगे",
+       "जाएँगे is plural. It is one hospital."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह किताब पिछले साल लिखी गई थी ।",
+     "audio": true,
+     "a": "This book was written last year.",
+     "wrong": [
+      [
+       "This book was being written last year.",
+       "That would be लिखी जा रही थी."
+      ],
+      [
+       "I wrote this book last year.",
+       "That would be the active मैंने यह किताब लिखी. लिखी गई थी is passive."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:6",
+     "t": "mc",
+     "q": "Which verb means “to be spoken”?",
+     "a": "बोला जाना",
+     "wrong": [
+      [
+       "बोल जाना",
+       "Stem + जाना makes a compound verb, बोल जाना “to speak out”. The passive is the perfective participle + जाना."
+      ],
+      [
+       "बोलना",
+       "बोलना is the active verb “to speak”."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:7",
+     "t": "mc",
+     "q": "Fill the gap: “All the luggage was taken upstairs.”",
+     "hi": "सारा सामान ऊपर ले ___ गया ।",
+     "say": "सारा सामान ऊपर ले जाया गया ।",
+     "en": "All[0] the luggage[1] {was taken}[3+4+5] upstairs[2].",
+     "a": "जाया",
+     "wrong": [
+      [
+       "गया",
+       "In the passive the participle of जाना is जाया — ले जाया गया."
+      ],
+      [
+       "जाए",
+       "जाए is the subjunctive. The passive needs the participle जाया before गया."
+      ]
+     ],
+     "why": "ले जाना “to take away” has a passive too, ले जाया जाना. The participle of जाना in a passive is जाया."
+    },
+    {
+     "id": "pv:8",
+     "t": "mc",
+     "q": "Fill the gap: “Fresh fruit has been bought for the guests.”",
+     "hi": "मेहमानों के लिए ताज़े फल ख़रीदे ___ हैं ।",
+     "say": "मेहमानों के लिए ताज़े फल ख़रीदे गए हैं ।",
+     "en": "Fresh[3] fruit[4] {has been bought}[5+6+7] for[1+2] the guests[0].",
+     "a": "गए",
+     "wrong": [
+      [
+       "गई",
+       "गई is feminine. फल is masculine."
+      ],
+      [
+       "गया",
+       "गया is singular. ताज़े फल is plural here, and ख़रीदे already shows it: ख़रीदे गए."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:9",
+     "t": "mc",
+     "q": "Make this passive, leaving out the doer",
+     "a": "यहाँ बहुत चाय पी जाती है ।",
+     "wrong": [
+      [
+       "यहाँ बहुत चाय पिया जाता है ।",
+       "पिया जाता is masculine. The passive agrees with चाय, feminine: पी जाती."
+      ],
+      [
+       "यहाँ बहुत चाय पी जाती हैं ।",
+       "हैं is plural. चाय is a singular subject: है."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense.",
+     "hi": "लोग यहाँ बहुत चाय पीते हैं ।",
+     "audio": true,
+     "say": "यहाँ बहुत चाय पी जाती है ।",
+     "en": "{A lot of}[1] tea[2] {is drunk}[3+4+5] here[0]."
+    },
+    {
+     "id": "pv:10",
+     "t": "mc",
+     "q": "Fill the gap: “This town used to be kept very clean.”",
+     "hi": "पहले यह शहर बहुत साफ़ रखा ___ था ।",
+     "say": "पहले यह शहर बहुत साफ़ रखा जाता था ।",
+     "en": "This[1] town[2] {used to be kept}[0+5+6+7] very[3] clean[4].",
+     "a": "जाता",
+     "wrong": [
+      [
+       "जाती",
+       "जाती is feminine. शहर is masculine."
+      ],
+      [
+       "जाते",
+       "जाते is plural. It is one town."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "pv:11",
+     "t": "mc",
+     "q": "Fill the gap: “Shall the windows be opened?”",
+     "hi": "क्या खिड़कियाँ खोली ___ ?",
+     "say": "क्या खिड़कियाँ खोली जाएँ ?",
+     "en": "Shall[0+3] the windows[1] {be opened}[2]?",
+     "a": "जाएँ",
+     "wrong": [
+      [
+       "जाए",
+       "जाए is singular. खिड़कियाँ is plural: जाएँ."
+      ],
+      [
+       "जाओ",
+       "जाओ is the तुम command. A passive suggestion takes the subjunctive: जाएँ."
+      ]
+     ],
+     "why": "The subjunctive passive makes a suggestion or request: खोली जाएँ “should be opened”."
+    }
+   ]
+  },
+  {
+   "id": "passko",
+   "title": "मुझसे नहीं जाता",
+   "desc": "Passive with को, the doer with से or के द्वारा, inability, जाया",
+   "skill": "passko",
+   "items": [
+    {
+     "id": "pk:0",
+     "t": "mc",
+     "q": "Fill the gap: “All the windows were opened.”",
+     "hi": "सारी खिड़कियों को खोला ___ ।",
+     "say": "सारी खिड़कियों को खोला गया ।",
+     "en": "All[0] the windows[1+2] {were opened}[3+4].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गईं",
+       "With को after the subject the passive reverts to masculine singular: खोला गया."
+      ],
+      [
+       "गई",
+       "गई is feminine. With को the passive is masculine singular, whatever the noun."
+      ],
+      [
+       "खोलया",
+       "Not a word. खोलना has a consonant stem, so its perfective is खोला, with no -y-. The gap needs गया anyway."
+      ]
+     ],
+     "why": "If the subject takes को, the passive reverts to masculine singular (खिड़कियों को खोला गया)."
+    },
+    {
+     "id": "pk:1",
+     "t": "mc",
+     "q": "Fill the gap: “Those louts were caught yesterday.”",
+     "hi": "उन गुंडों को कल पकड़ा ___ ।",
+     "say": "उन गुंडों को कल पकड़ा गया ।",
+     "en": "Those[0] louts[1+2] {were caught}[4+5] yesterday[3].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गए",
+       "गए is plural. With को the passive is masculine singular: पकड़ा गया."
+      ],
+      [
+       "गई",
+       "गई is feminine. With को the passive is masculine singular."
+      ],
+      [
+       "पकड़या",
+       "Not a word. पकड़ना has a consonant stem, so its perfective is पकड़ा, with no -y-. The gap needs गया anyway."
+      ]
+     ],
+     "why": "If the subject takes को, the passive reverts to masculine singular (खिड़कियों को खोला गया)."
+    },
+    {
+     "id": "pk:2",
+     "t": "mc",
+     "q": "Fill the gap: “This book was written by a famous writer.”",
+     "hi": "यह किताब एक प्रसिद्ध लेखक ___ लिखी गई थी ।",
+     "say": "यह किताब एक प्रसिद्ध लेखक के द्वारा लिखी गई थी ।",
+     "en": "This[0] book[1] {was written}[7+8+9] by[5+6] a[2] famous[3] writer[4].",
+     "a": "के द्वारा",
+     "wrong": [
+      [
+       "ने",
+       "ने marks the doer of an active perfective verb. In the passive the doer takes से or के द्वारा."
+      ],
+      [
+       "को",
+       "को would make the writer the person it was written to. The doer takes से or के द्वारा."
+      ]
+     ],
+     "why": "The doer, if mentioned, takes से or, more formally, के द्वारा. ने is never used in the passive."
+    },
+    {
+     "id": "pk:3",
+     "t": "mc",
+     "q": "Fill the gap: “I can't lift such a heavy bag.”",
+     "hi": "इतना भारी थैला मुझसे उठाया नहीं ___ ।",
+     "say": "इतना भारी थैला मुझसे उठाया नहीं जाता ।",
+     "en": "I[3] {can't}[5+6] lift[4] such[0] a heavy[1] bag[2].",
+     "a": "जाता",
+     "wrong": [
+      [
+       "जाती",
+       "जाती is feminine. The passive agrees with थैला, masculine."
+      ],
+      [
+       "जाते",
+       "जाते is plural. It is one bag."
+      ]
+     ],
+     "why": "A negative passive with से often means “can't (bring oneself to)”: the person takes से."
+    },
+    {
+     "id": "pk:4",
+     "t": "mc",
+     "q": "Fill the gap: “I can't bear to listen to his talk.”",
+     "hi": "___ उसकी बातें सुनी नहीं जातीं ।",
+     "say": "मुझसे उसकी बातें सुनी नहीं जातीं ।",
+     "en": "I[0] {can't bear}[4+5] to listen[3] to his[1] talk[2].",
+     "a": "मुझसे",
+     "wrong": [
+      [
+       "मैंने",
+       "ने marks the doer of an active verb. In a passive of inability the person takes से — मुझसे."
+      ],
+      [
+       "मुझे",
+       "मुझे is the को form. Inability in the passive takes से — मुझसे."
+      ]
+     ],
+     "why": "A negative passive with से often means “can't (bring oneself to)”: the person takes से."
+    },
+    {
+     "id": "pk:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बच्चों से चुप नहीं रहा गया ।",
+     "audio": true,
+     "a": "The children couldn't keep quiet.",
+     "wrong": [
+      [
+       "The children kept quiet.",
+       "नहीं … गया is negative: they could not."
+      ],
+      [
+       "The children were told to keep quiet.",
+       "Nothing is said or told. से with a negative passive shows inability."
+      ]
+     ],
+     "why": "Even intransitive verbs such as रहना can be used in a passive of inability."
+    },
+    {
+     "id": "pk:6",
+     "t": "mc",
+     "q": "Fill the gap: “Where shall we go tonight?”",
+     "hi": "आज रात को कहाँ ___ जाए ?",
+     "say": "आज रात को कहाँ जाया जाए ?",
+     "en": "Where[3] {shall we go}[4+5] tonight[0+1+2]?",
+     "a": "जाया",
+     "wrong": [
+      [
+       "गया",
+       "In this passive the participle of जाना is जाया, not गया."
+      ],
+      [
+       "जाता",
+       "The passive uses the perfective participle. For जाना that is जाया."
+      ]
+     ],
+     "why": "Some intransitive verbs have a passive too, used for suggestions. The participle of जाना there is जाया, not गया."
+    },
+    {
+     "id": "pk:8",
+     "t": "mc",
+     "q": "Make this passive, leaving out the doer",
+     "a": "चोर को पकड़ा गया ।",
+     "wrong": [
+      [
+       "चोर को पकड़ी गई ।",
+       "With को the passive is masculine singular: पकड़ा गया."
+      ],
+      [
+       "चोर ने पकड़ा गया ।",
+       "ने is never used in the passive."
+      ]
+     ],
+     "why": "If the subject takes को, the passive reverts to masculine singular (खिड़कियों को खोला गया).",
+     "hi": "पुलिस ने चोर को पकड़ा ।",
+     "audio": true,
+     "say": "चोर को पकड़ा गया ।",
+     "en": "The thief[0+1] {was caught}[2+3]."
+    },
+    {
+     "id": "pk:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेहमानों को बग़ीचे में बिठाया गया ।",
+     "audio": true,
+     "a": "The guests were seated in the garden.",
+     "wrong": [
+      [
+       "The guests sat down in the garden.",
+       "That would be the active मेहमान बग़ीचे में बैठे. बिठाया गया is the passive of बिठाना “to make sit”."
+      ],
+      [
+       "The guests will be seated in the garden.",
+       "गया is past. The future would be बिठाया जाएगा."
+      ]
+     ],
+     "why": "If the subject takes को, the passive reverts to masculine singular (खिड़कियों को खोला गया)."
+    }
+   ]
+  },
+  {
+   "id": "trans",
+   "title": "टूटना और तोड़ना",
+   "desc": "Intransitive and transitive pairs",
+   "skill": "trans",
+   "items": [
+    {
+     "id": "tr:0",
+     "t": "mc",
+     "q": "Fill the gap: “Who broke this window?”",
+     "hi": "यह खिड़की किसने ___ ?",
+     "say": "यह खिड़की किसने तोड़ी ?",
+     "en": "Who[2] broke[3] this[0] window[1]?",
+     "a": "तोड़ी",
+     "wrong": [
+      [
+       "टूटी",
+       "टूटना is intransitive: it can't take ने. With किसने the transitive तोड़ना is needed."
+      ],
+      [
+       "तोड़ा",
+       "तोड़ा is masculine. With ने the verb agrees with खिड़की, feminine."
+      ],
+      [
+       "तोड़ाया",
+       "Not a word. The perfective of तोड़ना is तोड़ा, तोड़ी, with nothing added."
+      ]
+     ],
+     "why": "Hindi often has two verbs where English has one: intransitive टूटना “break (by itself)” and transitive तोड़ना “break (something)”. बनना, बिकना and धुलना are the intransitive partners of बनाना, बेचना and धोना."
+    },
+    {
+     "id": "tr:1",
+     "t": "mc",
+     "q": "Fill the gap: “Last night a branch of a tree broke in the wind.”",
+     "hi": "कल रात हवा से पेड़ की एक डाल ___ गई ।",
+     "say": "कल रात हवा से पेड़ की एक डाल टूट गई ।",
+     "en": "{Last night}[0+1] a[6] branch[7] of[5] a tree[4] broke[8+9] in the wind[2+3].",
+     "a": "टूट",
+     "wrong": [
+      [
+       "तोड़",
+       "तोड़ना is transitive: someone breaks something. The branch broke by itself — टूट गई."
+      ],
+      [
+       "टूटी",
+       "The compound verb uses the stem — टूट गई."
+      ],
+      [
+       "टूटाया",
+       "Not a word. टूटना has no -āyā form. The compound verb needs the stem टूट."
+      ]
+     ],
+     "why": "Hindi often has two verbs where English has one: intransitive टूटना “break (by itself)” and transitive तोड़ना “break (something)”. बनना, बिकना and धुलना are the intransitive partners of बनाना, बेचना and धोना."
+    },
+    {
+     "id": "tr:2",
+     "t": "mc",
+     "q": "Fill the gap: “Good saris are sold in this shop.”",
+     "hi": "इस दुकान में अच्छी साड़ियाँ ___ हैं ।",
+     "say": "इस दुकान में अच्छी साड़ियाँ बिकती हैं ।",
+     "en": "Good[3] saris[4] {are sold}[5+6] in[2] this[0] shop[1].",
+     "a": "बिकती",
+     "wrong": [
+      [
+       "बिकता",
+       "बिकता is masculine singular. साड़ियाँ is feminine plural."
+      ],
+      [
+       "बिकते",
+       "बिकते is masculine. साड़ियाँ is feminine."
+      ]
+     ],
+     "why": "बिकना “to be sold” is the intransitive partner of बेचना. बेची जाती हैं (passive) would also be right, with more stress on the act of selling."
+    },
+    {
+     "id": "tr:3",
+     "t": "mc",
+     "q": "Which intransitive verb pairs with बनाना “to make”?",
+     "a": "बनना",
+     "wrong": [
+      [
+       "बिकना",
+       "बिकना “to be sold” pairs with बेचना “to sell”."
+      ],
+      [
+       "टूटना",
+       "टूटना “to break (by itself)” pairs with तोड़ना."
+      ]
+     ],
+     "why": "बनना “to be made, come into being” is the intransitive partner of बनाना."
+    },
+    {
+     "id": "tr:4",
+     "t": "mc",
+     "q": "Fill the gap: “Clothes are washed every day in this hotel.”",
+     "hi": "इस होटल में कपड़े रोज़ ___ हैं ।",
+     "say": "इस होटल में कपड़े रोज़ धुलते हैं ।",
+     "en": "Clothes[3] {are washed}[5+6] {every day}[4] in[2] this[0] hotel[1].",
+     "a": "धुलते",
+     "wrong": [
+      [
+       "धुलती",
+       "धुलती is feminine. कपड़े is masculine."
+      ],
+      [
+       "धुलता",
+       "धुलता is singular. कपड़े is plural."
+      ]
+     ],
+     "why": "धुलना “to be washed” is the intransitive partner of धोना. धोए जाते हैं (passive) would also be right."
+    },
+    {
+     "id": "tr:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "शहर में नया पुल बन रहा है ।",
+     "audio": true,
+     "a": "A new bridge is being built in the town.",
+     "wrong": [
+      [
+       "The new bridge in the town has broken.",
+       "That would be टूट गया है. बन रहा है is “is being made”."
+      ],
+      [
+       "A new bridge was built in the town.",
+       "बन रहा है is continuous: it is still being built."
+      ]
+     ],
+     "why": "Hindi often has two verbs where English has one: intransitive टूटना “break (by itself)” and transitive तोड़ना “break (something)”. बनना, बिकना and धुलना are the intransitive partners of बनाना, बेचना and धोना."
+    },
+    {
+     "id": "tr:6",
+     "t": "mc",
+     "q": "Fill the gap: “Our work began yesterday.”",
+     "hi": "हमारा काम कल शुरू ___ ।",
+     "say": "हमारा काम कल शुरू हुआ ।",
+     "en": "Our[0] work[1] began[3+4] yesterday[2].",
+     "a": "हुआ",
+     "wrong": [
+      [
+       "हुई",
+       "हुई is feminine. काम is masculine."
+      ],
+      [
+       "हुए",
+       "हुए is plural. It is one piece of work."
+      ]
+     ],
+     "why": "शुरू होना “to begin” is intransitive. शुरू किया गया (passive) would also be right."
+    }
+   ]
+  },
+  {
+   "id": "begin",
+   "title": "करने लगना, करने देना",
+   "desc": "“Begin to” and “let, allow”",
+   "skill": "begin",
+   "items": [
+    {
+     "id": "bg:0",
+     "t": "mc",
+     "q": "Fill the gap: “Not seeing its mother, the child began to cry.”",
+     "hi": "माँ को न देखकर बच्चा रोने ___ ।",
+     "say": "माँ को न देखकर बच्चा रोने लगा ।",
+     "en": "{Not seeing}[2+3] its mother[0+1], the child[4] began[6] to cry[5].",
+     "a": "लगा",
+     "wrong": [
+      [
+       "लगी",
+       "लगी is feminine. लगना agrees with बच्चा, masculine."
+      ],
+      [
+       "लगे",
+       "लगे is plural. It is one child."
+      ],
+      [
+       "लगनेगा",
+       "Not a word. The future of लगना is लगेगा, built on the stem. Here the past लगा is needed."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    },
+    {
+     "id": "bg:1",
+     "t": "mc",
+     "q": "Fill the gap: “Seeing the guest, the dog began to bark.”",
+     "hi": "मेहमान को देखकर कुत्ता ___ लगा ।",
+     "say": "मेहमान को देखकर कुत्ता भौंकने लगा ।",
+     "en": "Seeing[2] the guest[0+1], the dog[3] began[5] to bark[4].",
+     "a": "भौंकने",
+     "wrong": [
+      [
+       "भौंकना",
+       "लगना “to begin” takes the oblique infinitive: भौंकने."
+      ],
+      [
+       "भौंकता",
+       "भौंकता is the imperfective participle. लगना “to begin” takes the oblique infinitive."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    },
+    {
+     "id": "bg:2",
+     "t": "mc",
+     "q": "Fill the gap: “All the girls began to sing (a song).”",
+     "hi": "सब लड़कियाँ गाना गाने ___ ।",
+     "say": "सब लड़कियाँ गाना गाने लगीं ।",
+     "en": "All[0] the girls[1] began[4] to sing[3] (a song[2]).",
+     "a": "लगीं",
+     "wrong": [
+      [
+       "लगी",
+       "लगी is singular. लड़कियाँ is feminine plural: लगीं."
+      ],
+      [
+       "लगे",
+       "लगे is masculine. लड़कियाँ is feminine."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    },
+    {
+     "id": "bg:3",
+     "t": "mc",
+     "q": "Fill the gap: “Hearing what I said, Raj began to laugh.”",
+     "hi": "मेरी बात सुनकर ___ हँसने लगा ।",
+     "say": "मेरी बात सुनकर राज हँसने लगा ।",
+     "en": "Hearing[2] what I said[0+1], Raj[3] began[5] to laugh[4].",
+     "a": "राज",
+     "wrong": [
+      [
+       "राज ने",
+       "लगना does not take ने, even in the perfective."
+      ],
+      [
+       "राज को",
+       "“To begin” with लगना takes a plain subject: राज."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    },
+    {
+     "id": "bg:4",
+     "t": "mc",
+     "q": "Fill the gap: “Sita started learning the tabla this year.”",
+     "hi": "सीता ने इस साल तबला सीखना शुरू ___ ।",
+     "say": "सीता ने इस साल तबला सीखना शुरू किया ।",
+     "en": "Sita[0+1] started[6+7] learning[5] the tabla[4] {this year}[2+3].",
+     "a": "किया",
+     "wrong": [
+      [
+       "की",
+       "की is feminine. Nothing here is feminine: तबला सीखना is masculine."
+      ],
+      [
+       "हुआ",
+       "शुरू होना is intransitive and takes no ने. With सीता ने the verb is शुरू किया."
+      ]
+     ],
+     "why": "Direct infinitive + शुरू करना is also “to begin to”, often deliberate. It takes ने in the perfective."
+    },
+    {
+     "id": "bg:5",
+     "t": "mc",
+     "q": "Fill the gap: “Now everyone should start reading.”",
+     "hi": "अब सब लोग ___ शुरू करें ।",
+     "say": "अब सब लोग पढ़ना शुरू करें ।",
+     "en": "Now[0] everyone[1+2] {should start}[4+5] reading[3].",
+     "a": "पढ़ना",
+     "wrong": [
+      [
+       "पढ़ने",
+       "शुरू करना takes the direct infinitive, पढ़ना. The oblique पढ़ने goes with लगना."
+      ],
+      [
+       "पढ़ते",
+       "पढ़ते is the imperfective participle. शुरू करना takes the infinitive."
+      ]
+     ],
+     "why": "Direct infinitive + शुरू करना is also “to begin to”, often deliberate. It takes ने in the perfective."
+    },
+    {
+     "id": "bg:6",
+     "t": "mc",
+     "q": "Fill the gap: “Mother let the children play outside.”",
+     "hi": "माँ ने बच्चों को बाहर ___ दिया ।",
+     "say": "माँ ने बच्चों को बाहर खेलने दिया ।",
+     "en": "Mother[0+1] let[6] the children[2+3] play[5] outside[4].",
+     "a": "खेलने",
+     "wrong": [
+      [
+       "खेलना",
+       "देना “to let” takes the oblique infinitive: खेलने दिया."
+      ],
+      [
+       "खेलते",
+       "खेलते is the imperfective participle. देना “to let” takes the oblique infinitive."
+      ]
+     ],
+     "why": "Oblique infinitive + देना “to let, allow”. देना takes ने in the perfective, and it agrees with a direct object unless the object takes को."
+    },
+    {
+     "id": "bg:7",
+     "t": "mc",
+     "q": "Fill the gap: “She let me read her old letters.”",
+     "hi": "उसने मुझे अपनी पुरानी चिट्ठियाँ पढ़ने ___ ।",
+     "say": "उसने मुझे अपनी पुरानी चिट्ठियाँ पढ़ने दीं ।",
+     "en": "She[0] let[6] me[1] read[5] her[2] old[3] letters[4].",
+     "a": "दीं",
+     "wrong": [
+      [
+       "दिए",
+       "दिए is masculine. देना agrees with the direct object चिट्ठियाँ, feminine plural: दीं."
+      ],
+      [
+       "दी",
+       "दी is singular. चिट्ठियाँ is plural, and the nasal goes on the last word: दीं."
+      ]
+     ],
+     "why": "Oblique infinitive + देना “to let, allow”. देना takes ने in the perfective, and it agrees with a direct object unless the object takes को."
+    },
+    {
+     "id": "bg:8",
+     "t": "mc",
+     "q": "Fill the gap: “Let him come in.”",
+     "hi": "उसे अंदर ___ दो ।",
+     "say": "उसे अंदर आने दो ।",
+     "en": "Let[3] him[0] come[2] in[1].",
+     "a": "आने",
+     "wrong": [
+      [
+       "आना",
+       "देना “to let” takes the oblique infinitive: आने दो."
+      ],
+      [
+       "आता",
+       "आता is the imperfective participle. देना “to let” takes the oblique infinitive."
+      ]
+     ],
+     "why": "Oblique infinitive + देना “to let, allow”. देना takes ने in the perfective, and it agrees with a direct object unless the object takes को."
+    },
+    {
+     "id": "bg:9",
+     "t": "mc",
+     "q": "Fill the gap: “Don't let the children go near the fire.”",
+     "hi": "बच्चों को आग के पास मत ___ दो ।",
+     "say": "बच्चों को आग के पास मत जाने दो ।",
+     "en": "Don't[5] let[7] the children[0+1] go[6] near[3+4] the fire[2].",
+     "a": "जाने",
+     "wrong": [
+      [
+       "जाना",
+       "देना “to let” takes the oblique infinitive: जाने दो."
+      ],
+      [
+       "गए",
+       "गए is the perfective. देना “to let” takes the oblique infinitive: जाने."
+      ]
+     ],
+     "why": "Oblique infinitive + देना “to let, allow”. देना takes ने in the perfective, and it agrees with a direct object unless the object takes को."
+    },
+    {
+     "id": "bg:10",
+     "t": "mc",
+     "q": "Which sentence means “The guests began to eat”?",
+     "a": "मेहमान खाना खाने लगे ।",
+     "wrong": [
+      [
+       "मेहमानों ने खाना खाने लगे ।",
+       "लगना never takes ने — मेहमान … लगे."
+      ],
+      [
+       "मेहमान खाना खाना लगे ।",
+       "लगना “to begin” takes the oblique infinitive — खाने."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject.",
+     "say": "मेहमान खाना खाने लगे ।",
+     "en": "The guests[0] began[3] to eat[1+2]."
+    },
+    {
+     "id": "bg:11",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "रात को मुझे डर लगने लगा ।",
+     "audio": true,
+     "a": "At night I began to feel afraid.",
+     "wrong": [
+      [
+       "At night I was afraid to start.",
+       "लगने लगा is “began to be felt”: डर लगना + लगना “to begin”."
+      ],
+      [
+       "At night I began to frighten people.",
+       "डर लगना is “to feel fear”. The person who feels it takes को."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    }
+   ]
+  },
+  {
+   "id": "rel",
+   "title": "जितना, जैसा, जहाँ",
+   "desc": "“As much as”, “as … so”, “where … there”",
+   "skill": "rel",
+   "items": [
+    {
+     "id": "rl:0",
+     "t": "mc",
+     "q": "Fill the gap: “I will eat as much food as I can eat. (a man speaking)”",
+     "hi": "मैं ___ खाना खा सकता हूँ, उतना खाऊँगा ।",
+     "say": "मैं जितना खाना खा सकता हूँ, उतना खाऊँगा ।",
+     "en": "I[0] {will eat}[7] {as much}[1+6] food[2] as I {can}[4+5] eat[3]. (a man speaking)",
+     "a": "जितना",
+     "wrong": [
+      [
+       "कितना",
+       "कितना is the question word “how much?”. The relative begins with j-, जितना."
+      ],
+      [
+       "उतना",
+       "उतना is the correlative, which picks up the relative in the second clause."
+      ]
+     ],
+     "why": "जितना … उतना “as much … as”. Both agree like adjectives with what they describe."
+    },
+    {
+     "id": "rl:1",
+     "t": "mc",
+     "q": "Fill the gap: “I don't have as many books as you do.”",
+     "hi": "जितनी किताबें तुम्हारे पास हैं, ___ मेरे पास नहीं हैं ।",
+     "say": "जितनी किताबें तुम्हारे पास हैं, उतनी मेरे पास नहीं हैं ।",
+     "en": "I[6+7] {don't have}[8+9] {as many}[0+5] books[1] as you[2+3] {do}[4].",
+     "a": "उतनी",
+     "wrong": [
+      [
+       "उतना",
+       "उतना is masculine singular. The correlative agrees with किताबें, feminine plural: उतनी."
+      ],
+      [
+       "जितनी",
+       "जितनी is the relative. The second clause takes the correlative उतनी."
+      ]
+     ],
+     "why": "जितना … उतना “as much … as”. Both agree like adjectives with what they describe."
+    },
+    {
+     "id": "rl:2",
+     "t": "mc",
+     "q": "Fill the gap: “Do as I say. (a man speaking)”",
+     "hi": "जैसा मैं कहता हूँ, ___ करो ।",
+     "say": "जैसा मैं कहता हूँ, वैसा करो ।",
+     "en": "Do[5] as[0+4] I[1] say[2+3]. (a man speaking)",
+     "a": "वैसा",
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा is the question word “what kind?”. The correlative begins with v-, वैसा."
+      ],
+      [
+       "जैसा",
+       "जैसा opens the relative clause. The second clause takes the correlative वैसा."
+      ]
+     ],
+     "why": "जैसा … वैसा “as … so” describes kind or manner. जिस तरह का … उस तरह का and जिस तरह (से) … उस तरह (से) are alternatives."
+    },
+    {
+     "id": "rl:3",
+     "t": "mc",
+     "q": "Fill the gap: “I want a sari like the one Sita wore too.”",
+     "hi": "___ साड़ी सीता ने पहनी थी, वैसी मुझे भी चाहिए ।",
+     "say": "जैसी साड़ी सीता ने पहनी थी, वैसी मुझे भी चाहिए ।",
+     "en": "I[7] want[9] a sari[1] like[0+6] the one Sita[2+3] wore[4+5] too[8].",
+     "a": "जैसी",
+     "wrong": [
+      [
+       "जैसा",
+       "जैसा is masculine. It agrees with साड़ी, feminine: जैसी."
+      ],
+      [
+       "जैसे",
+       "जैसे is masculine plural or oblique. साड़ी is feminine singular."
+      ]
+     ],
+     "why": "जैसा … वैसा “as … so” describes kind or manner. जिस तरह का … उस तरह का and जिस तरह (से) … उस तरह (से) are alternatives."
+    },
+    {
+     "id": "rl:4",
+     "t": "mc",
+     "q": "Fill the gap: “Where you go, I will go too (lit. “… there …”). (a man speaking)”",
+     "hi": "___ तुम जाओगे, वहाँ मैं भी जाऊँगा ।",
+     "say": "जहाँ तुम जाओगे, वहाँ मैं भी जाऊँगा ।",
+     "en": "Where[0] you[1] go[2], I[4] {will go}[6] too[5] (lit. “… there[3] …”). (a man speaking)",
+     "a": "जहाँ",
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question word “where?”. The relative begins with j-, जहाँ."
+      ],
+      [
+       "वहाँ",
+       "वहाँ is the correlative “there”, which opens the second clause."
+      ],
+      [
+       "जहाँओं",
+       "Not a word. जहाँ never changes."
+      ]
+     ],
+     "why": "जहाँ … वहाँ “where … there”, जहाँ भी “wherever”, जिधर … उधर “whither … thither”."
+    },
+    {
+     "id": "rl:5",
+     "t": "mc",
+     "q": "Fill the gap: “Wherever you go, take care of yourself.”",
+     "hi": "जहाँ ___ जाओ, अपना ध्यान रखना ।",
+     "say": "जहाँ भी जाओ, अपना ध्यान रखना ।",
+     "en": "Wherever[0+1] you go[2], {take care of}[4+5] yourself[3].",
+     "a": "भी",
+     "wrong": [
+      [
+       "तक",
+       "जहाँ तक is “as far as”. “Wherever” is जहाँ भी."
+      ],
+      [
+       "से",
+       "जहाँ से is “from where”. “Wherever” is जहाँ भी."
+      ]
+     ],
+     "why": "जहाँ … वहाँ “where … there”, जहाँ भी “wherever”, जिधर … उधर “whither … thither”."
+    },
+    {
+     "id": "rl:6",
+     "t": "mc",
+     "q": "Fill the gap: “Wherever you look, there are crowds of people.”",
+     "hi": "___ देखो, उधर लोग ही लोग हैं ।",
+     "say": "जिधर देखो, उधर लोग ही लोग हैं ।",
+     "en": "Wherever[0] you look[1], there[2] are[6] crowds of people[3+4+5].",
+     "a": "जिधर",
+     "wrong": [
+      [
+       "किधर",
+       "किधर is the question word “whereabouts?”. The relative is जिधर."
+      ],
+      [
+       "इधर",
+       "इधर is “here, over here”. The relative is जिधर."
+      ],
+      [
+       "जिधरों",
+       "Not a word. जिधर never changes."
+      ]
+     ],
+     "why": "जहाँ … वहाँ “where … there”, जहाँ भी “wherever”, जिधर … उधर “whither … thither”."
+    },
+    {
+     "id": "rl:7",
+     "t": "mc",
+     "q": "Which sentence says the same, with the clauses reversed?",
+     "a": "वहाँ बहुत अमीर लोग आते हैं जहाँ सीता काम करती है ।",
+     "wrong": [
+      [
+       "जहाँ बहुत अमीर लोग आते हैं, वहाँ सीता काम करती है ।",
+       "This changes the meaning: “Sita works wherever lots of rich people come”."
+      ],
+      [
+       "वहाँ बहुत अमीर लोग आते हैं कहाँ सीता काम करती है ।",
+       "कहाँ is the question word. The relative is जहाँ."
+      ]
+     ],
+     "why": "The two clauses can be swapped round, correlative clause first, without changing the meaning.",
+     "hi": "जहाँ सीता काम करती है, वहाँ बहुत अमीर लोग आते हैं ।",
+     "audio": true,
+     "say": "वहाँ बहुत अमीर लोग आते हैं जहाँ सीता काम करती है ।",
+     "en": "{Lots of}[1] rich[2] people[3] come[4+5] there[0] where[6] Sita[7] works[8+9+10]."
+    },
+    {
+     "id": "rl:8",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "जितना पैसा राज कमाता है, उतना मैं नहीं कमाता ।",
+     "audio": true,
+     "a": "I don't earn as much money as Raj does.",
+     "wrong": [
+      [
+       "Raj doesn't earn as much money as I do.",
+       "नहीं goes with मैं … कमाता, it is I who earn less."
+      ],
+      [
+       "I earn as much money as Raj does.",
+       "नहीं makes it negative: not as much."
+      ]
+     ],
+     "why": "जितना … उतना “as much … as”. Both agree like adjectives with what they describe."
+    },
+    {
+     "id": "rl:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "जैसा तुम कहोगे, वैसा ही होगा ।",
+     "audio": true,
+     "a": "It will be just as you say.",
+     "wrong": [
+      [
+       "How will it be, do you think?",
+       "That would be a question with कैसा. जैसा … वैसा is “as … so”."
+      ],
+      [
+       "Whatever happens, you will talk about it.",
+       "जैसा … वैसा compares manner: things will happen the way you say."
+      ]
+     ],
+     "why": "जैसा … वैसा “as … so” describes kind or manner. जिस तरह का … उस तरह का and जिस तरह (से) … उस तरह (से) are alternatives."
+    },
+    {
+     "id": "rl:10",
+     "t": "mc",
+     "q": "Fill the gap: “Nobody cooks the way that Mother cooks.”",
+     "hi": "___ तरह से माँ खाना बनाती हैं, उस तरह से कोई नहीं बनाता ।",
+     "say": "जिस तरह से माँ खाना बनाती हैं, उस तरह से कोई नहीं बनाता ।",
+     "en": "Nobody[10+11] cooks[12] {the way}[7+8+9] that[0+1+2] Mother[3] cooks[4+5+6].",
+     "a": "जिस",
+     "wrong": [
+      [
+       "किस",
+       "किस तरह is the question “in what way?”. The relative is जिस तरह."
+      ],
+      [
+       "उस",
+       "उस तरह is the correlative, which comes in the second clause."
+      ]
+     ],
+     "why": "जैसा … वैसा “as … so” describes kind or manner. जिस तरह का … उस तरह का and जिस तरह (से) … उस तरह (से) are alternatives."
+    },
+    {
+     "id": "rl:11",
+     "t": "mc",
+     "q": "Fill the gap: “I too like clothes of the kind that Sita wears (lit. “… clothes …”).”",
+     "hi": "जिस तरह ___ कपड़े सीता पहनती है, उस तरह के कपड़े मुझे भी पसंद हैं ।",
+     "say": "जिस तरह के कपड़े सीता पहनती है, उस तरह के कपड़े मुझे भी पसंद हैं ।",
+     "en": "I[11] too[12] like[13+14] clothes[10] {of the kind}[7+8+9] that[0+1+2] Sita[4] wears[5+6] (lit. “… clothes[3] …”).",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "का is masculine singular. It agrees with कपड़े, plural: के."
+      ],
+      [
+       "की",
+       "की is feminine. कपड़े is masculine."
+      ]
+     ],
+     "why": "जैसा … वैसा “as … so” describes kind or manner. जिस तरह का … उस तरह का and जिस तरह (से) … उस तरह (से) are alternatives."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "These[0] shoes[1] {were made}[4+5] in Agra[2+3].",
+     "ans": [
+      "ये",
+      "जूते",
+      "आगरा",
+      "में",
+      "बनाए",
+      "गए"
+     ],
+     "wrong": [
+      [
+       "बनाई",
+       "बनाई is feminine. The passive agrees with जूते, masculine plural: बनाए गए."
+      ],
+      [
+       "बना",
+       "The passive uses the perfective participle of बनाना — बनाए."
+      ]
+     ],
+     "alt": [
+      [
+       "आगरा",
+       "में",
+       "ये",
+       "जूते",
+       "बनाए",
+       "गए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Tea[2] {is made}[3+4+5] every[0] evening[1].",
+     "ans": [
+      "हर",
+      "शाम",
+      "चाय",
+      "बनाई",
+      "जाती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "बनाया",
+       "बनाया is masculine. चाय is feminine: बनाई जाती."
+      ],
+      [
+       "जाता",
+       "जाता is masculine. Both parts agree with चाय — बनाई जाती."
+      ]
+     ],
+     "alt": [
+      [
+       "चाय",
+       "हर",
+       "शाम",
+       "बनाई",
+       "जाती",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "The children[0+1] {were sent}[3+4] to school[2].",
+     "ans": [
+      "बच्चों",
+      "को",
+      "स्कूल",
+      "भेजा",
+      "गया"
+     ],
+     "wrong": [
+      [
+       "गए",
+       "With को after the subject the passive is masculine singular: भेजा गया."
+      ],
+      [
+       "भेजे",
+       "भेजे गए would be right without को (बच्चे स्कूल भेजे गए). With बच्चों को the passive is masculine singular."
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "This[0] poem[1] {was written}[5+6] by[3+4] Sita[2].",
+     "ans": [
+      "यह",
+      "कविता",
+      "सीता",
+      "के",
+      "द्वारा",
+      "लिखी",
+      "गई"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "ने is never used in the passive. The doer takes के द्वारा or से."
+      ],
+      [
+       "लिखा",
+       "लिखा is masculine. The passive agrees with कविता, feminine."
+      ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "के",
+       "द्वारा",
+       "यह",
+       "कविता",
+       "लिखी",
+       "गई"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "Raj[0+1] {couldn't}[3+4] {get up}[2].",
+     "ans": [
+      "राज",
+      "से",
+      "उठा",
+      "नहीं",
+      "गया"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "Inability in the passive takes से, not ने."
+      ],
+      [
+       "उठी",
+       "उठी is feminine. The passive of an intransitive verb is masculine singular: उठा गया."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "से",
+       "नहीं",
+       "उठा",
+       "गया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Seeing[1] me[0], Sita[2] began[4] to laugh[3].",
+     "ans": [
+      "मुझे",
+      "देखकर",
+      "सीता",
+      "हँसने",
+      "लगी"
+     ],
+     "wrong": [
+      [
+       "हँसना",
+       "लगना “to begin” takes the oblique infinitive: हँसने."
+      ],
+      [
+       "लगा",
+       "लगा is masculine. सीता is a woman: लगी."
+      ],
+      [
+       "हँसनेगा",
+       "Not a word. लगना “to begin” follows the oblique infinitive हँसने."
+      ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "मुझे",
+       "देखकर",
+       "हँसने",
+       "लगी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "Grandma[0+1] let[5] me[2] go[4] to Delhi[3].",
+     "ans": [
+      "दादी",
+      "ने",
+      "मुझे",
+      "दिल्ली",
+      "जाने",
+      "दिया"
+     ],
+     "wrong": [
+      [
+       "जाना",
+       "देना “to let” takes the oblique infinitive — जाने."
+      ],
+      [
+       "दी",
+       "दी is feminine. There is no direct object here, so दिया."
+      ],
+      [
+       "देनेगा",
+       "Not a word. The future of देना is देगा. Here the past is needed — दिया."
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Mohan[0+1] started[4+5] cooking[2+3].",
+     "ans": [
+      "मोहन",
+      "ने",
+      "खाना",
+      "बनाना",
+      "शुरू",
+      "किया"
+     ],
+     "wrong": [
+      [
+       "बनाने",
+       "शुरू करना takes the direct infinitive — बनाना शुरू किया."
+      ],
+      [
+       "हुआ",
+       "शुरू होना is intransitive and takes no ने. With मोहन ने it is शुरू किया."
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "There aren't[7+8] {as many}[0+5] trees[1] here[6] as {there are}[4] {in the village}[2+3].",
+     "ans": [
+      "जितने",
+      "पेड़",
+      "गाँव",
+      "में",
+      "हैं",
+      "उतने",
+      "यहाँ",
+      "नहीं",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "कितने",
+       "कितने is the question word. The relative is जितने."
+      ],
+      [
+       "उतना",
+       "उतना is singular. The correlative agrees with पेड़, here plural: उतने."
+      ]
+     ],
+     "alt": [
+      [
+       "यहाँ",
+       "उतने",
+       "पेड़",
+       "नहीं",
+       "हैं",
+       "जितने",
+       "गाँव",
+       "में",
+       "हैं"
+      ],
+      [
+       "उतने",
+       "पेड़",
+       "यहाँ",
+       "नहीं",
+       "हैं",
+       "जितने",
+       "गाँव",
+       "में",
+       "हैं"
+      ],
+      [
+       "जितने",
+       "पेड़",
+       "गाँव",
+       "में",
+       "हैं",
+       "यहाँ",
+       "उतने",
+       "नहीं",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "Do[6] just[5] as[0+4] Mother[1] says[2+3].",
+     "ans": [
+      "जैसा",
+      "माँ",
+      "कहती",
+      "हैं",
+      "वैसा",
+      "ही",
+      "करो"
+     ],
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा is the question word. The relative is जैसा."
+      ],
+      [
+       "कहता",
+       "कहता is masculine. माँ is a woman, and respect makes it plural: कहती हैं."
+      ]
+     ],
+     "alt": [
+      [
+       "वैसा",
+       "ही",
+       "करो",
+       "जैसा",
+       "माँ",
+       "कहती",
+       "हैं"
+      ],
+      [
+       "जैसा",
+       "माँ",
+       "कहती",
+       "हैं",
+       "वैसा",
+       "करो"
+      ],
+      [
+       "वैसा",
+       "करो",
+       "जैसा",
+       "माँ",
+       "कहती",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Wherever[1+2] we[0] went[3], we[5] got[8] good[6] food[7] (lit. “… there[4] …”).",
+     "ans": [
+      "हम",
+      "जहाँ",
+      "भी",
+      "गए",
+      "वहाँ",
+      "हमें",
+      "अच्छा",
+      "खाना",
+      "मिला"
+     ],
+     "wrong": [
+      [
+       "कहाँ",
+       "कहाँ is the question word. “Wherever” is जहाँ भी."
+      ],
+      [
+       "हमने",
+       "मिलना takes no ने — the receiver takes को, हमें."
+      ]
+     ],
+     "alt": [
+      [
+       "जहाँ",
+       "भी",
+       "हम",
+       "गए",
+       "वहाँ",
+       "हमें",
+       "अच्छा",
+       "खाना",
+       "मिला"
+      ],
+      [
+       "हम",
+       "जहाँ",
+       "भी",
+       "गए",
+       "हमें",
+       "अच्छा",
+       "खाना",
+       "मिला"
+      ],
+      [
+       "जहाँ",
+       "भी",
+       "हम",
+       "गए",
+       "हमें",
+       "अच्छा",
+       "खाना",
+       "मिला"
+      ],
+      [
+       "हम",
+       "जहाँ",
+       "भी",
+       "गए",
+       "हमें",
+       "वहाँ",
+       "अच्छा",
+       "खाना",
+       "मिला"
+      ],
+      [
+       "जहाँ",
+       "भी",
+       "हम",
+       "गए",
+       "हमें",
+       "वहाँ",
+       "अच्छा",
+       "खाना",
+       "मिला"
+      ],
+      [
+       "वहाँ",
+       "हमें",
+       "अच्छा",
+       "खाना",
+       "मिला",
+       "जहाँ",
+       "भी",
+       "हम",
+       "गए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "My[0] cup[1] broke[2+3].",
+     "ans": [
+      "मेरा",
+      "प्याला",
+      "टूट",
+      "गया"
+     ],
+     "wrong": [
+      [
+       "तोड़",
+       "तोड़ना is transitive: someone breaks something. The cup broke by itself: टूट गया."
+      ],
+      [
+       "गई",
+       "गई is feminine. प्याला is masculine."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह फ़िल्म बच्चों को नहीं दिखाई जाएगी ।",
+     "audio": true,
+     "a": "This film won't be shown to children.",
+     "wrong": [
+      [
+       "The children won't show this film.",
+       "बच्चों को is “to the children”. दिखाई जाएगी is passive: the film will be shown."
+      ],
+      [
+       "This film wasn't shown to children.",
+       "जाएगी is future: “won't be shown”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बच्चे खेलने लगे और बड़े बातें करने लगे ।",
+     "audio": true,
+     "a": "The children began to play and the grown-ups began to talk.",
+     "wrong": [
+      [
+       "The children let the grown-ups play and talk.",
+       "“Let” would be देना. लगना with the oblique infinitive is “begin to”."
+      ],
+      [
+       "The children played and the grown-ups talked.",
+       "लगे adds “began to”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मुझे सोने दो !",
+     "audio": true,
+     "a": "Let me sleep!",
+     "wrong": [
+      [
+       "I have to sleep!",
+       "“Have to” would be मुझे सोना है. सोने दो is “let (me) sleep”."
+      ],
+      [
+       "I'm beginning to fall asleep!",
+       "“Begin to” is लगना. देना with the oblique infinitive is “let”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "जितना काम आज हुआ, उतना पूरे हफ़्ते में नहीं हुआ ।",
+     "audio": true,
+     "a": "Not as much work got done in the whole week as got done today.",
+     "wrong": [
+      [
+       "As much work got done today as in the whole week.",
+       "नहीं हुआ makes the second clause negative."
+      ],
+      [
+       "Less work got done today than in the whole week.",
+       "It is the other way round: the week saw less work than today."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "जहाँ पहले तालाब था, वहाँ अब एक बड़ा होटल है ।",
+     "audio": true,
+     "a": "Where there used to be a pond, there's now a big hotel.",
+     "wrong": [
+      [
+       "There's now a big hotel next to the pond.",
+       "जहाँ … वहाँ is “where … there”: the hotel stands where the pond was."
+      ],
+      [
+       "Where is the big hotel that used to be by the pond?",
+       "जहाँ is the relative “where”, not a question."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दुकान में घटिया सामान बेचा जा रहा था ।",
+     "audio": true,
+     "a": "Inferior goods were being sold in the shop.",
+     "wrong": [
+      [
+       "Fine goods were being sold in the shop.",
+       "घटिया means “inferior, low grade”."
+      ],
+      [
+       "Inferior goods will be sold in the shop.",
+       "जा रहा था is past continuous: “were being sold”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उस बेचारे से बोला नहीं गया ।",
+     "audio": true,
+     "a": "The poor fellow couldn't speak.",
+     "wrong": [
+      [
+       "Nobody spoke to the poor fellow.",
+       "से with a negative passive shows inability: he could not speak."
+      ],
+      [
+       "The poor fellow wasn't told.",
+       "“Told” would be बताया. बोला गया is from बोलना “to speak”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "The passive, लगना, देना and relatives",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "The Hindi passive is made of …",
+     "a": "the perfective participle + जाना",
+     "wrong": [
+      [
+       "the verb stem + जाना",
+       "Stem + जाना makes a compound verb (बोल जाना “to speak out”)."
+      ],
+      [
+       "the imperfective participle + जाना",
+       "The passive uses the perfective participle: बोला जाना."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "In a passive sentence, what does the verb agree with?",
+     "a": "The subject, unless it takes को",
+     "wrong": [
+      [
+       "The doer, marked with से or के द्वारा",
+       "The doer is often not mentioned, and the verb never agrees with it."
+      ],
+      [
+       "Always masculine singular, as after को",
+       "Only when the subject takes को. Otherwise both parts agree with the subject."
+      ]
+     ],
+     "why": "The passive is the perfective participle + जाना (बोला जाना “to be spoken”). Both parts agree with the subject, in any tense. If the subject takes को, the passive reverts to masculine singular (खिड़कियों को खोला गया)."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "In the passive, the doer of the action takes …",
+     "a": "से or के द्वारा",
+     "wrong": [
+      [
+       "ने",
+       "ने is never used in the passive."
+      ],
+      [
+       "को",
+       "को on the subject makes the passive masculine singular. The doer takes से or के द्वारा."
+      ]
+     ],
+     "why": "The doer, if mentioned, takes से or, more formally, के द्वारा. ने is never used in the passive."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "What does a negative passive with से often suggest?",
+     "a": "Inability or unwillingness",
+     "wrong": [
+      [
+       "A polite request",
+       "Requests use the subjunctive passive, e.g. खोली जाएँ."
+      ],
+      [
+       "A planned action",
+       "Planned action is more typical of शुरू करना or the infinitive + होना."
+      ]
+     ],
+     "why": "A negative passive with से often means “can't (bring oneself to)”: the person takes से."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "लगना “to begin to” takes …",
+     "a": "the oblique infinitive, and never ने",
+     "wrong": [
+      [
+       "the direct infinitive, with ने in the perfective",
+       "That describes शुरू करना."
+      ],
+      [
+       "the oblique infinitive, with ने in the perfective",
+       "That describes देना “to let”. लगना never takes ने."
+      ]
+     ],
+     "why": "Oblique infinitive + लगना “to begin to”. लगना takes no ने, and it agrees with its subject."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "देना “to let, allow” takes …",
+     "a": "the oblique infinitive, and ने in the perfective",
+     "wrong": [
+      [
+       "the oblique infinitive, but never ने",
+       "देना is transitive: उसने मुझे जाने दिया."
+      ],
+      [
+       "the direct infinitive, like शुरू करना",
+       "देना “to let” takes the oblique infinitive: जाने दो."
+      ]
+     ],
+     "why": "Oblique infinitive + देना “to let, allow”. देना takes ने in the perfective, and it agrees with a direct object unless the object takes को."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "In कहाँ जाया जाए ? why is it जाया and not गया?",
+     "a": "In the passive the participle of जाना is जाया",
+     "wrong": [
+      [
+       "जाया is the subjunctive of जाना",
+       "The subjunctive is जाए. जाया is the participle used only in the passive."
+      ],
+      [
+       "जाया is a dialect form of गया",
+       "It is standard: the passive of जाना always uses जाया."
+      ]
+     ],
+     "why": "Some intransitive verbs have a passive too, used for suggestions. The participle of जाना there is जाया, not गया."
+    },
+    {
+     "id": "us:7",
+     "t": "mc",
+     "q": "बेची जाती हैं and बिकती हैं can both mean “are sold”. How do they differ?",
+     "a": "The passive stresses the act of selling, बिकना things being on sale",
+     "wrong": [
+      [
+       "बिकना is not used in modern Hindi",
+       "Both are everyday Hindi."
+      ],
+      [
+       "बेची जाती हैं is only used in the past",
+       "The passive can be used in any tense."
+      ]
+     ],
+     "why": "Hindi often has two verbs where English has one: intransitive टूटना “break (by itself)” and transitive तोड़ना “break (something)”. बनना, बिकना and धुलना are the intransitive partners of बनाना, बेचना and धोना."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "passive": 3,
+  "passko": 3,
+  "trans": 2,
+  "begin": 3,
+  "rel": 3,
+  "build": 2,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "बोलया": "bolyā",
+  "भेजया": "bhejyā",
+  "खोलया": "kholyā",
+  "पकड़या": "pakṛyā",
+  "तोड़ाया": "toṛāyā",
+  "टूटाया": "ṭūṭāyā",
+  "लगनेगा": "lagnegā",
+  "जहाँओं": "jahā̃õ",
+  "जिधरों": "jidharõ",
+  "हँसनेगा": "hãsnegā",
+  "देनेगा": "denegā"
+ }
+}

@@ -15,6 +15,7 @@
 | 11 | Done, validated (not committed) | 80 | 78 | 22 | book 130–143 (144 Test yourself, 145 blank) |
 | 12 | Done, validated (not committed) | 80 | 81 | 22 | book 146–158 (159 blank) |
 | 13 | Done, validated (not committed) | 80 | 80 | 22 | book 160–175 (175 Test yourself) |
+| 14 | Done, validated, not browser-tested | 78 | 90 | 22 | book 176–190 (190 Test yourself, 191 blank) |
 
 ## Items to review
 
@@ -501,9 +502,42 @@
   - Frames avoided while writing: the 13B.1 and Test yourself English prompts (not translated), जब गाड़ी आएगी तब मैं जाऊँगा, जब तक मैं पहुँचा … जा चुकी थी, चाय बनाने में पाँच मिनट, गाड़ी को ठीक करने में, दिल्ली आपको कैसी लगती है, कल हम को सीता मिली, the shop and table frames of 13B.1, rain + stay of Test yourself 5.
   - Remaining resemblances that are the construction itself: `lg:1` भूख लगी है, `lg:6` and `mn:2` चोट लगी, `mn:4` … में आग लग गई, `mn:3` जिस दिन … उसी दिन, `jo:10` जो किताब मैंने ख़रीदी, वह …, `ch:6` … रहनी चाहिए, `jb:5` जैसे ही … वैसे ही … हो गई.
 
+### Unit 14
+- Not browser-tested. The browser pane refused `http://localhost` (a Python server on 127.0.0.1 answered `curl` with 200, but `navigate` was denied), so only the validator and a manual read checked this unit.
+- Vocabulary: the end list (pp. 187–189) plus Quick Vocab and the grammar words टूटना “to break (intransitive)” and बनना “to be made, come into being” (14.2), जहाँ भी “wherever” (14.7).
+  - Earlier words re-listed only for a new sense: काँटा “thorn; fork” (unit 10 “fork”), कि “when (suddenly)” (unit 4 “that”), देना “(with oblique infinitive) to allow, let”, लगना “(with oblique infinitive) to begin to”, बस “enough! that's all!” (unit 3 “bus”). Not repeated: बिकना (unit 9), महसूस करना (unit 6; महसूस होना is new), चोरी (unit 13; चोरी करना is new), ताली (unit 8; तालियाँ बजाना is new).
+  - Left out: dialogue and reading names (सुरेश, संगीता, हरीश, खन्ना, कमला, अरुण, प्रकाश, प्रताप, अनीता, शाहजहाँ) and words that appear only in the dialogues or reading passage (अंकल, गोश्त…).
+  - The end list prints ज़बान (checked at 250 dpi). Quick Vocab prints खबर without the nukta, the end list ख़बर; I used ख़बर.
+  - These pages print बन्द; the ledger has बंद (unit 4), which I kept.
+  - घटिया, बढ़िया and शादी-शुदा are marked invariable in the gloss. ताज़ा is treated as a regular -ā adjective (ताज़े in `pv:8`).
+- Romanisations I could not confirm from the book: दक्षिण dakṣiṇ, साहित्य sāhity, व्यक्ति vyakti, स्वादिष्ट svādiṣṭ, भ्रष्ट bhraṣṭ, दूरदर्शन dūrdarśan, परिवर्तन parivartan, आर्थिक ārthik, इलाक़ा ilāqā, मुलाक़ात mulāqāt, मौक़ा mauqā, ज़बान zabān, डाँटना ḍā̃ṭnā, भौंकने bhaũkne, पहनती pahantī, द्वारा dvārā.
+- Forms declared: relative जितना/जितनी/जितने, उतना/उतनी/उतने, जैसा/जैसी, वैसा/वैसी, जहाँ, जिधर; passive and intransitive forms (बोली, बोला, भेजी, बनाए, लाए, लाई, लाया, पी, पिया, खोली, खोला, पकड़ा, पकड़ी, लिखी, लिखा, उठाया, गाया, जाया, उठा, उठी, बिठाया, बेचा, दिखाई, रखा, सुनी, जातीं, ख़रीदे, टूट, टूटी, तोड़, तोड़ी, तोड़ा, बन, बिकती, बिकता, बिकते, धुलते, धुलती, धुलता); oblique infinitives रोने, भौंकने, हँसने, खेलने, पढ़ने, आने, जाने, सोने, लगने.
+- Forms that earlier units' rules produce, declared here: इलाक़े, ताज़े, गुंडों, बग़ीचे, साड़ियाँ, खिड़कियों, हफ़्ते, पूरे, ऐसी, देखकर, देखो, धोए, भेजे, बताया; futures खाऊँगा, जाओगे, जाऊँगा, कहोगे, करूँगा; imperfectives कहता, कहती, बोलता, पहनती, कमाता, बनाती, भौंकता, खेलते, पढ़ते, आता; करें, दिखाना, दीं, मुझसे.
+- Deliberately wrong forms (Hard tile pool), all non-words: बोलया, भेजया, पकड़या, खोलया (consonant stems take no -y-); टूटाया, तोड़ाया; जहाँओं, जिधरों (adverbs don't inflect); लगनेगा, देनेगा, हँसनेगा (future on the oblique infinitive). I avoided जाया (real in the passive), जितनों and जैसों (real pronoun obliques), लिखाया and धुलाया (real causatives), and any form of बनना, बिकना, धुलना.
+- Choices never set against each other because both are correct: passive and intransitive (बनाई जाती/बनती, बेची जाती हैं/बिकती हैं, धोए जाते/धुलते, शुरू किया गया/शुरू हुआ; `tr:2`, `tr:4`, `tr:6` say so in the explanation); से and के द्वारा for the agent (`pk:2` offers only ने and को as wrong); सड़कें साफ़ की गईं and सड़कों को साफ़ किया गया (no item offers the direct-subject passive as wrong where को is absent); लगना and शुरू करना for “begin” (`tl:7` leaves लगा out of the bank so मोहन खाना बनाने लगा can't be built); जैसा … वैसा and जिस तरह का; relative clause first or reversed.
+- Statements that follow the book's rule where usage is looser:
+  - `bg:7`: देना agrees with the object of the infinitive (चिट्ठियाँ पढ़ने दीं). Colloquial Hindi often has दिया. दिया is not offered; the wrong choices are दिए (masculine) and दी (singular, by the unit 11 nasal rule).
+  - `bg:4`, `tl:7`: शुरू किया with a masculine object. I did not offer की against किया where the object is feminine, since the agreeing infinitive (चिट्ठी लिखनी शुरू की) is also possible.
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `pk:8`, `tl:2`: चोर पकड़ा गया and बच्चे स्कूल भेजे गए (no को) are also correct; they are not offered.
+  - `mn:5`: the active (“the shop was selling inferior goods”) has the same meaning, so it is not a wrong choice.
+  - `pk:6`: कहाँ चला जाए would also be possible; it is not offered.
+- Tile alternatives accepted: `tl:0`, `tl:1`, `tl:3`, `tl:5` other natural orders; `tl:4` राज से नहीं उठा गया; `tl:8` three reversed and reordered versions; `tl:9` the reversed order and the versions without ही; `tl:10` the versions with and without वहाँ, with हम first or after जहाँ भी, with हमें वहाँ, and the reversed order.
+- Sentences I'm unsure about:
+  - `pv:7` सारा सामान ऊपर ले जाया गया “All the luggage was taken upstairs” (सामान is glossed “furniture” in unit 3).
+  - `tr:1` पेड़ की एक डाल टूट गई “a branch broke” in the wind.
+  - `rl:6` जिधर देखो, उधर लोग ही लोग हैं, an idiom; the English (“crowds of people”) is free.
+  - `pk:4` मुझसे उसकी बातें सुनी नहीं जातीं, with the nasal moved to जातीं when है is dropped.
+  - `rl:0` English word order (“I will eat as much food as I can”).
+  - `pv:9` the wrong choice पिया जाता uses पिया; पीया is also seen in print.
+- Near-match check against pp. 176–191: I compared every sentence with the 14.1–14.8 examples, the dialogues, the reading passage, exercises 14A–14B and Test yourself while the pages were open; no copy was kept.
+  - Changes I made: `pv:0` (was यह मिठाई बनारस में बनाई जाती है, the frame of यह कपड़ा जयपुर में बनाया जाता है), `pv:8` (was ये ताज़े फल … से लाए गए हैं, close to the dialogue's ये … से ही लाए गए थे), `pk:4` (was मुझसे यह गाना गाया नहीं जाएगा, the frame of … मुझसे लिखा नहीं जाएगा), `bg:5` and `tl:7` (were लिखना शुरू …, close to मैंने लिखना शुरू किया), `bg:10` (was लोग तालियाँ बजाने लगे, close to बच्चे तालियाँ बजाने लगे), `rl:5` (was वह जहाँ भी जाता है, close to वह हीरो जहाँ भी जाता है), `rl:7` and `mn:4` (were जहाँ X रहती है, वहाँ …, the frame of exercise 14B.1.4 and जहाँ मैं रहता हूँ वहाँ …), `rl:8` (was जितनी अच्छी हिन्दी … उतनी अच्छी … नहीं, the frame of the old/new films example), `rl:10` (was … उसी तरह से मैं भी …, as in the ghosts example), `tl:6` (पिता जी → दादी, away from चाचाजी ने मुझे … चलाने दी), `tr:1` (was a tree breaking).
+  - Frames avoided while writing: हिन्दी कई प्रदेशों में बोली जाती है, तमिल … दक्षिण भारत में (14A.1), the airmail letter (14A.1.3), the thieves caught (14A.2.3), मुझे जाने दो as an item, the cat and the butter, जितना तुमको चाहिए, जैसा बाप वैसा बेटा, the flower and thorn, जिधर से तू आया है, the 14B.1 sentence starts, Test yourself 4 and 10.
+  - Remaining resemblances that are the construction itself: `tr:4` कपड़े … धुलते हैं (the book's example uses कपड़े with नदी में), `mn:2` मुझे सोने दो, `pk:3` … मुझसे उठाया नहीं जाता, `pk:2` … के द्वारा लिखी गई थी, `pv:3` एक नया अस्पताल बनाया जाएगा, `tl:8` जितने … उतने … नहीं, `rl:3` जैसी … वैसी … चाहिए.
+
 ## Known issues and not yet done
 
 - Fixed: Hard level used to pad sentence building with real words from the unit's other tile items, which could make a second correct sentence that was then marked wrong. It now pads only with the unit's declared distractor forms. The Hard-level tile notes under Units 6 and 7 no longer apply.
 - Audio: Piper and eSpeak NG are not installed; only `spd-say` (speech-dispatcher) is present. No option has been chosen or installed yet; the `audio/unitNN/manifest.json` hook in `tools/build.js` is ready for clips.
 - "Explain more": the engine calls `/api/explain` when the page is served from localhost, but the small local server that holds the API key has not been written.
-- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all 1,608 ledger forms covered. These 11 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.
+- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all ledger forms covered (1,739 after Unit 14). These 12 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम, आर्थिक. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.
