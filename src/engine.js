@@ -347,7 +347,7 @@ function explainTiles(it, got){
 function alignHTML(en, toks){
   const col = {}; let n = 0;
   const enH = esc(en).replace(/(\{[^}]+\}|[^\s\[\]{}]+)\[([\d+]+)\]/g, (m, w, ix) => { const c = n++ % 7; ix.split("+").forEach(i => col[+i] = c); return `<span class="al al${c}">${w.replace(/[{}]/g, "")}</span>`; });
-  const hiH = toks.map((w, i) => { const c = w.replace(/[।?!,.…]/g, ""); return `<span class="tok${i in col ? ` al al${col[i]}` : ""}"><span class="hi" lang="hi">${esc(w)}</span><span class="tr">${esc(TR[c] || "")}</span></span>`; }).join("");
+  const hiH = toks.map((w, i) => { const c = w.replace(/[।?!,.…]/g, ""); return `<span class="tok${i in col ? ` al al${col[i]}` : ""}"${wpAttr(c)}><span class="hi" lang="hi">${esc(w)}</span><span class="tr">${esc(TR[c] || "")}</span></span>`; }).join("");
   const notes = [...new Set(toks.map(w => w.replace(/[।?!,.…]/g, "")).filter((w, i) => !(i in col) && GLOSS[w]))].map(w => `${w} ${GLOSS[w]}.`).join(" ");
   return `<div class="align"><div class="line">${hiH}</div><div class="enline">${enH}</div>${notes ? `<p class="note">${esc(notes)}</p>` : ""}</div>`;
 }
@@ -368,7 +368,7 @@ function soundHTML(form){
   const H = 52, use = (n, x, y, c) => `<use href="#${sid(n)}" transform="translate(${x} ${y})" class="sc${c}"/>`;
   const svgs = e.t.map((t, i) => `<svg class="snd" viewBox="${t.vb[0]} -980 ${t.vb[1]} 1400" width="${Math.round(t.vb[1] * H / 1400)}" height="${H}" role="img" aria-label="${esc(form)}" style="display:inline-block"><g transform="scale(1,-1)">${t.p.map(([n, x, y, c, plain, c2]) => plain ? use(n, x, y, c) + `<use href="#${sid(plain)}" clip-path="url(#k-${sid(n)})" transform="translate(${x} ${y})" class="sc${c2}"/>` : use(n, x, y, c)).join("")}</g></svg>${e.s[i] ? esc(e.s[i]) : ""}`).join("");
   const rom = e.r.map(([t, c, k]) => k === "-" ? esc(t) : `<span class="${c >= 0 && k !== "s" ? "sc" + c : ""}${k === "i" ? " i" : ""}${k === "s" ? " s" : ""}">${esc(t)}</span>`).join("");
-  return `<div class="sndw"><div>${svgs}</div><div class="sndr tr">${rom}</div></div>`;
+  return `<div class="sndw"${wpAttr(form)}><div>${svgs}</div><div class="sndr tr">${rom}</div></div>`;
 }
 function soundsHTML(it){
   if (!SND) return "";
@@ -473,7 +473,8 @@ function unitView(u){
     ${u._lessons.map((l, i) => { const b = s.best[l.id]; const off = l.needsAudio && !hasAudio();
       return `<button class="lesson${l.test ? " test" : ""}" data-l="${l.id}" ${off ? "disabled" : ""}><span class="n">${l.test ? "★" : i + 1}</span><span><b>${l.title.split(/\s+/).some(isHi) ? `<span class="hi" lang="hi">${esc(l.title)}</span>` : esc(l.title)}</b><small>${esc(l.desc)} · ${l.n} ${l.unit || "questions"}</small></span>${b == null ? `<span class="score">New</span>` : `<span class="score${b >= PASS ? " ok" : ""}">Best ${b}%</span>`}</button>`; }).join("")}
     ${missed.length ? `<button class="lesson" data-l="mistakes"><span class="n">↺</span><span><b>Practise your mistakes</b><small>Questions you got wrong last time</small></span><span class="score">${missed.length} left</span></button>` : ""}
-  </div>`;
+  </div>
+  ${wordListHTML(u)}`;
   wireTools();
   document.getElementById("back").onclick = home;
   root.querySelectorAll("[data-l]").forEach(b => b.onclick = () => start(u, b.dataset.l));
@@ -576,11 +577,12 @@ function finish(ok, chosen){
   save();
   const right = it.t === "tiles" ? it.ans.join(" ") : it.a;
   foot.hidden = false; foot.className = "foot " + (ok ? "good" : "bad");
-  fb.innerHTML = `<strong>${ok ? "Correct" : "Not quite"}</strong>${!ok && right ? `Right answer: ${show1(right)}` : ""}${it.reveal ? ` The word was ${hiHTML(it.reveal)}.` : ""}${it.t === "match" && !ok ? esc(why) : ""}`;
+  fb.innerHTML = `<strong>${ok ? "Correct" : "Not quite"}</strong>${!ok && right ? `Right answer: ${showLink(right)}` : ""}${it.reveal ? ` The word was ${hiLink(it.reveal)}.` : ""}${it.t === "match" && !ok ? esc(why) : ""}`;
   const al = alignFor(it), snd = it.t !== "match" ? soundsHTML(it) : "";
   if (it.t !== "match" && (al || !ok || snd)){
     const d = document.createElement("div"); d.className = "detail";
-    d.innerHTML = `${!ok && why ? `<h3>Why</h3><p>${esc(why)}</p>` : ""}${al ? `<h3>Word by word</h3>${al}` : ""}${snd}${!ok ? askHTML() : ""}`;
+    const wl = it.kind === "vocab" && wpKnown(it.word) ? `<button class="wmore" data-wp="${esc(it.word)}">Open the word page for <span class="hi" lang="hi">${esc(it.word)}</span> ›</button>` : "";
+    d.innerHTML = `${!ok && why ? `<h3>Why</h3><p>${esc(why)}</p>` : ""}${al ? `<h3>Word by word</h3>${al}${WX ? `<p class="note">Tap a word to open its page.</p>` : ""}` : ""}${wl}${snd}${!ok ? askHTML() : ""}`;
     if (d.innerHTML){ root.appendChild(d); wireAsk(d, it, chosen); }
   }
   footbtns.innerHTML = `<button class="go" id="go">${run.i + 1 === run.items.length ? "See results" : "Continue"}</button>`;
@@ -603,7 +605,7 @@ function results(){
     if (it.t === "match") return `<li>Match round: ${it.pairs.map(p => `${hiHTML(p[0])} = ${esc(p[1])}`).join(", ")}<span class="note">${esc(why)}</span></li>`;
     const mine = it.t === "tiles" ? chosen.join(" ") : chosen, right = it.t === "tiles" ? it.ans.join(" ") : it.a;
     return `<li><span>${esc(it.t === "tiles" ? plainEn(it.en) : it.q)}${it.hi ? ` ${hiHTML(it.hi)}` : ""}${it.reveal ? ` ${hiHTML(it.reveal)}` : ""}</span>
-      <div class="cmp"><span class="yours"><b>You chose</b>${show1(mine)}</span><span class="right"><b>Right answer</b>${show1(right)}</span></div>
+      <div class="cmp"><span class="yours"><b>You chose</b>${show1(mine)}</span><span class="right"><b>Right answer</b>${showLink(right)}</span></div>
       ${why ? `<span>${esc(why)}</span>` : ""}${askHTML()}</li>`;
   };
   root.innerHTML = `
@@ -619,25 +621,8 @@ function results(){
 }
 
 document.addEventListener("keydown", e => {
-  if (view !== "run" || !run) return;
+  if (view !== "run" || !run || wpIsOpen()) return;
   const it = run.items[run.i];
   if (/^[1-6]$/.test(e.key) && (it.t === "mc" || it.t === "listen") && !run.done && +e.key <= it._opts.length){ pick(+e.key - 1); e.preventDefault(); }
   else if (e.key === "Enter"){ const go = document.getElementById("go"); if (go && !go.disabled && document.activeElement !== go){ go.click(); e.preventDefault(); } }
 });
-
-if ("speechSynthesis" in window){ pickVoice(); speechSynthesis.onvoiceschanged = pickVoice; }
-soundDefs();
-home();
-sync.start();
-/* Keep the last question clear of the fixed check bar, whose height varies on a phone. */
-if ("ResizeObserver" in window) new ResizeObserver(() => document.body.style.setProperty("--foot-h", (foot.hidden ? 0 : foot.offsetHeight) + "px")).observe(foot);
-/* Optional capabilities: the hosted page's hooks, else the local explain helper if it is running. */
-if (window.claude && typeof window.claude.use === "function"){
-  window.claude.use("sample").then(s => { askClaude = s || null; }).catch(() => {});
-  window.claude.use("tts").then(t => { cloudTTS = t || null; if (view === "home" || view === "unit") rerender(); }).catch(() => {});
-} else if (location.protocol.startsWith("http") && /^(localhost|127\.0\.0\.1)$/.test(location.hostname)){
-  fetch("/api/explain", {method:"OPTIONS"}).then(r => { if (r.ok) askClaude = async (prompt, opts) => {
-    const r2 = await fetch("/api/explain", {method:"POST", headers:{"content-type":"application/json"}, body:JSON.stringify({prompt})});
-    const j = await r2.json(); if (!r2.ok) throw {code:j.code, text:j.error}; return {text:j.text};
-  }; }).catch(() => {});
-}

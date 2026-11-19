@@ -26,6 +26,14 @@ for (const u of units) Object.assign(allTr, u.distractors || {});
     if (miss.length){ errors++; console.log(`ERROR glyphs.json: ${miss.length} ledger form(s) have no sound-colour data (run node tools/glyphs.js): ${miss.slice(0, 8).join(" ")}${miss.length > 8 ? " …" : ""}`); }
   }
 }
+// Word pages index (content/words.json, from tools/words.js) must be current, and its hand-made tables must check out.
+{
+  const fs = require("fs");
+  const {build, OUT} = require("./words");
+  const {data, problems} = build();
+  problems.forEach(p => { errors++; console.log(`ERROR words: ${p}`); });
+  if (!fs.existsSync(OUT) || fs.readFileSync(OUT, "utf8") !== JSON.stringify(data)){ errors++; console.log("ERROR words.json is missing or out of date (run node tools/words.js)"); }
+}
 for (const u of units){
   if (only && u.n !== only) continue;
   const taught = new Set();

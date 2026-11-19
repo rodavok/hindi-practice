@@ -21,14 +21,17 @@ if (fs.existsSync(adir)) for (const d of fs.readdirSync(adir)){
 // Optional sound-colour glyph data, written by tools/glyphs.js.
 const gfile = path.join(ROOT, "content/glyphs.json");
 const sounds = fs.existsSync(gfile) ? JSON.parse(fs.readFileSync(gfile, "utf8")) : null;
+// Word pages index, written by tools/words.js.
+const wfile = path.join(ROOT, "content/words.json");
+const wordIndex = fs.existsSync(wfile) ? JSON.parse(fs.readFileSync(wfile, "utf8")) : null;
 // Optional centre lines for drawing a word while it is spoken, written by tools/strokes.js.
 const sfile = path.join(ROOT, "content/strokes.json");
 const strokes = sounds && fs.existsSync(sfile) ? JSON.parse(fs.readFileSync(sfile, "utf8")) : null;
 const read = f => fs.readFileSync(path.join(ROOT, f), "utf8");
-const css = read("src/style.css") + "\n" + read("src/draw.css");
-const js = read("src/engine.js") + "\n" + read("src/draw.js");
+const css = ["src/style.css", "src/draw.css", "src/words.css"].map(read).join("\n");
+const js = ["src/engine.js", "src/draw.js", "src/words.js", "src/start.js"].map(read).join("\n");
 const shell = read("src/shell.html");
-const data = JSON.stringify({units, ledger, audio, sounds, strokes}).replace(/</g, "\\u003c");
+const data = JSON.stringify({units, ledger, audio, sounds, strokes, words: wordIndex}).replace(/</g, "\\u003c");
 const out = shell.replace("/*CSS*/", () => css).replace("/*DATA*/", () => `window.HINDI = ${data};`).replace("/*ENGINE*/", () => js);
 fs.mkdirSync(path.join(ROOT, "dist"), {recursive: true});
 fs.writeFileSync(path.join(ROOT, "dist/index.html"), out);

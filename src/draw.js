@@ -39,6 +39,9 @@ function drLearn(src, text, ms, W){
 const drClean = s => s.replace(/___/g, "").replace(/[।?!,.…“”"'()]/g, "").replace(/\s+/g, " ").trim();
 function drTargets(text){
   const want = drClean(text), txt = el => el.dataset.dwText ?? el.textContent;
+  // while a word page is open, only its own marked text is drawn, never the screen underneath
+  const sheet = document.getElementById("wsheet");
+  if (sheet){ for (const el of sheet.querySelectorAll("[data-draw]")) if (drClean(txt(el)) === want) return [el]; return []; }
   const line = document.querySelector(".detail .align .line");
   if (line){ const toks = [...line.querySelectorAll(".tok > .hi")]; if (toks.length && drClean(toks.map(txt).join(" ")) === want) return toks; }
   for (const sel of [".prompt .big", ".opts .opt.right .hi", "#fb .hi"])
@@ -181,8 +184,8 @@ function drFinish(r){
   if (r.P && r.P.live()) drPaint(r.P, Infinity, 0);
 }
 
-/* speak `text` and draw it where it already shows; falls back to plain speech */
-function speakDraw(text){
+/* speak `text` and draw it where it already shows (or in `els`, when given); falls back to plain speech */
+function speakDraw(text, els){
   if (!SND || !STROKES || !hasAudio()) return speak(text);
   if (drRun) drFinish(drRun);
   const key = drClean(text), src = AUDIO[text.replace(/___/g, "").replace(/[।]/g, "").trim()] ? "clip" : voice ? "browser" : cloudTTS ? "cloud" : "";
@@ -200,9 +203,9 @@ function speakDraw(text){
   // the answer panel is built just after the answer is spoken, so look for the text on the next frame
   requestAnimationFrame(() => {
     if (drRun !== r) return;
-    const els = drTargets(text);
-    if (!els.length) { drRun = null; return; }
-    r.P = drBuild(els);
+    const targets = els && els.length ? els.filter(el => el.isConnected) : drTargets(text);
+    if (!targets.length) { drRun = null; return; }
+    r.P = drBuild(targets);
     r.D = drLen.get(src + "|" + key) || r.P.W * drUnit(src);
     drPaint(r.P, -1, r.D / r.P.W);
     r.raf = requestAnimationFrame(drFrame);

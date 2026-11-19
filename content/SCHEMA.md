@@ -57,3 +57,24 @@ One file per unit, `content/unitNN.json`, plus the cumulative `content/ledger.js
 ## Validator rules
 
 Fails when: a Hindi token has no romanisation; an answer is missing from its choices; choices or extra tiles contain duplicates; an alignment mark points outside the sentence or a Hindi word is neither aligned nor glossed; a wrong choice or extra tile has no explanation; a prompt, sentence, right answer or vocab word uses a form not in the ledger up to that unit; a wrong choice is neither in the ledger nor in the unit's `distractors`.
+
+## words.json
+
+Written by `node tools/words.js` from the units, the ledger and `content/authoring/words.js`. Do not edit by hand.
+
+```json
+{ "kinds": { "imp-ap": ["Commands", "आप command", 5] },
+  "heads": { "लेना": { "s": [[5, "v", "", "to take, receive"]],
+                      "f": [["लीजिए", "imp-ap", 1]],
+                      "r": [["देना", "opp"], ["खींचना", "syn", "take"]],
+                      "n": [[11, "Its perfective is irregular: …"]],
+                      "w": [[5, "ir:5"]], "x": [[5, "ir:0"]] } } }
+```
+
+- `kinds`: what a form is: `[group, label, unit the grammar is taught]`. A label is shown only from that unit.
+- `heads`: one entry per vocabulary headword, plus a plain entry (`s` empty) for every other ledger form that belongs to no headword (names, -वाला compounds…).
+  - `s` meanings `[unit, c, g, en]`; `f` forms `[form, kinds (space-separated), irregular]`, ledger forms only;
+  - `r` related `[headword, kind, shared English?]`, kind one of `opp`, `syn` (same English sense), `pair` (masculine/feminine), `root` (verbs of one root), `part` (made of), `in` (used in);
+  - `n` notes `[unit, text]`; `w` items whose `why` names the word or a form of it; `x` items that use it in a sentence, `[unit, item id]`.
+- The app shows a page only for taught forms of open units, and an example sentence only once its item has been answered or its unit passed.
+
