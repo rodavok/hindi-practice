@@ -10,7 +10,7 @@ Continue the Hindi practice app. Read `CLAUDE.md` first, including "Lessons from
 - All 18 units are done and committed on `master`, one commit per unit. There is no remote; don't push.
 - `node tools/validate.js` passes with one old warning (Unit 1 `us:7`).
 - Units 1–9 were click-tested in the browser. Units 10–18 were not: the browser pane refuses `dist/index.html` and `http://localhost` (a local server answered `curl`, but navigation was denied). Only the validator, an alignment dump and a manual read checked them.
-- `dist/artifact.html` is built from all 18 units. Whether it has been republished to https://claude.ai/artifact/ALQsr6PWsLSuLkKLYZhHeb is recorded in the last commit message or PROGRESS.md; if not, publish it (leave `capabilities` out).
+- `dist/artifact.html` with all 18 units was republished to https://claude.ai/artifact/ALQsr6PWsLSuLkKLYZhHeb on 2026-11-19 (version 7). To update it again, publish to that URL and leave `capabilities` out.
 
 **Open, not started (ask before doing):**
 - Browser-test Units 10–18 on Normal and Hard. Opening the published artifact may work where the local file didn't.
