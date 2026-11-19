@@ -1,0 +1,2043 @@
+{
+ "id": "unit17",
+ "n": 17,
+ "title": "If you weren't so stubborn …",
+ "titleHi": "अगर तुम इतनी ज़िद्दी न होतीं …",
+ "scope": "Conditionals (2): a perfective verb in the अगर clause for a supposition (अगर राम आया तो …); unfulfilled conditions with the imperfective participle and no auxiliary in both clauses (feminine plural nasalized, अगर often dropped); past counterfactuals with perfective participle + होता (बुलाया होता); हालाँकि … फिर भी / तो भी “although … even so”, formal यद्यपि … तथापि; compound verbs (2) with डालना (vigour), बैठना (foolishness), पड़ना (suddenness), उठना (inception), रखना (firmness), taking ने only when both verbs do; registers of vocabulary: Perso-Arabic and Sanskritic synonyms",
+ "pages": "book 220–232",
+ "skills": {
+  "cond": "Conditionals",
+  "alth": "Although",
+  "comp": "Compound verbs",
+  "reg": "Formal and everyday words",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अंतर",
+   "en": "difference",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अजनबी",
+   "en": "stranger",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "असर",
+   "en": "effect, impact",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "असर पड़ना",
+   "en": "to have an effect",
+   "c": "v"
+  },
+  {
+   "hi": "आख़िर",
+   "en": "end",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आरंभ",
+   "en": "beginning",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उतरना",
+   "en": "to get down, alight",
+   "c": "v"
+  },
+  {
+   "hi": "उत्तर",
+   "en": "reply",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उबलना",
+   "en": "to boil, rage",
+   "c": "v"
+  },
+  {
+   "hi": "ओहो",
+   "en": "oho! oh no!",
+   "c": "x"
+  },
+  {
+   "hi": "कटना",
+   "en": "to be cut",
+   "c": "v"
+  },
+  {
+   "hi": "कष्ट",
+   "en": "trouble, distress",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "काटना",
+   "en": "to cut",
+   "c": "v"
+  },
+  {
+   "hi": "किंतु",
+   "en": "but",
+   "c": "x"
+  },
+  {
+   "hi": "क़ीमती",
+   "en": "costly, valuable",
+   "c": "a"
+  },
+  {
+   "hi": "खाट",
+   "en": "bedstead, ‘cot’",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गंभीर",
+   "en": "serious, profound",
+   "c": "a"
+  },
+  {
+   "hi": "घड़ी",
+   "en": "wristwatch",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घुसना",
+   "en": "to enter (forcibly, or uninvited)",
+   "c": "v"
+  },
+  {
+   "hi": "छात्रवृत्ति",
+   "en": "scholarship",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जलना",
+   "en": "to burn",
+   "c": "v"
+  },
+  {
+   "hi": "ज़िद्दी",
+   "en": "obstinate, stubborn",
+   "c": "a"
+  },
+  {
+   "hi": "ठग",
+   "en": "swindler, robber",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ढीला",
+   "en": "loose",
+   "c": "a"
+  },
+  {
+   "hi": "ढेर",
+   "en": "pile, heap",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तथापि",
+   "en": "nevertheless, even so",
+   "c": "x"
+  },
+  {
+   "hi": "दंगा",
+   "en": "riot",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दफ़ा",
+   "en": "time, occasion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दिमाग़",
+   "en": "mind, brain",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नाचना",
+   "en": "to dance",
+   "c": "v"
+  },
+  {
+   "hi": "का नाम लेना",
+   "en": "to mention",
+   "c": "v"
+  },
+  {
+   "hi": "नामुमकिन",
+   "en": "impossible",
+   "c": "a"
+  },
+  {
+   "hi": "निहायत",
+   "en": "extremely",
+   "c": "x"
+  },
+  {
+   "hi": "प्रकाशित",
+   "en": "published",
+   "c": "a"
+  },
+  {
+   "hi": "प्रश्न",
+   "en": "question",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फँसना",
+   "en": "to be stuck, caught, snared",
+   "c": "v"
+  },
+  {
+   "hi": "फाड़ना",
+   "en": "to tear",
+   "c": "v"
+  },
+  {
+   "hi": "फिर भी",
+   "en": "even so",
+   "c": "x"
+  },
+  {
+   "hi": "बर्दाश्त करना",
+   "en": "to tolerate, endure",
+   "c": "v"
+  },
+  {
+   "hi": "बाँसुरी",
+   "en": "bamboo flute",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बाक़ी",
+   "en": "remaining, left",
+   "c": "a"
+  },
+  {
+   "hi": "बात बनना",
+   "en": "to work out, come off",
+   "c": "v"
+  },
+  {
+   "hi": "बातचीत",
+   "en": "conversation, negotiation",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बिगड़ना",
+   "en": "to go wrong, get angry",
+   "c": "v"
+  },
+  {
+   "hi": "भागना",
+   "en": "to run away, flee",
+   "c": "v"
+  },
+  {
+   "hi": "भेद",
+   "en": "difference",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मचना",
+   "en": "to break out, be caused",
+   "c": "v"
+  },
+  {
+   "hi": "मज़दूर",
+   "en": "worker, labourer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "महाभारत",
+   "en": "the Mahabharata (epic war)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "माँस",
+   "en": "meat",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुँह",
+   "en": "mouth, face",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मुसाफ़िर",
+   "en": "traveller",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मेरा सिर",
+   "en": "‘my foot!’",
+   "c": "x"
+  },
+  {
+   "hi": "यद्यपि",
+   "en": "although",
+   "c": "x"
+  },
+  {
+   "hi": "यात्रा",
+   "en": "journey, travel",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "योजना",
+   "en": "plan, scheme",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "रस्सी",
+   "en": "string, cord",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "राज़ी",
+   "en": "agreeable, content",
+   "c": "a"
+  },
+  {
+   "hi": "रूबरू",
+   "en": "face to face",
+   "c": "x"
+  },
+  {
+   "hi": "रोकना",
+   "en": "to stop",
+   "c": "v"
+  },
+  {
+   "hi": "लकड़ी",
+   "en": "wood; stick",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "लाभ",
+   "en": "profit, advantage",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लूटना",
+   "en": "to loot, steal, pillage",
+   "c": "v"
+  },
+  {
+   "hi": "लोकप्रिय",
+   "en": "popular",
+   "c": "a"
+  },
+  {
+   "hi": "वर्ष",
+   "en": "year",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "वापस मिलना",
+   "en": "to be got back",
+   "c": "v"
+  },
+  {
+   "hi": "शीघ्र",
+   "en": "soon, quickly",
+   "c": "x"
+  },
+  {
+   "hi": "शूटिंग",
+   "en": "‘shooting’, filming",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "संतुष्ट",
+   "en": "satisfied",
+   "c": "a"
+  },
+  {
+   "hi": "संतोष",
+   "en": "satisfaction",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सप्ताह",
+   "en": "week",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सफ़र",
+   "en": "journey, travel",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "समाचार-पत्र",
+   "en": "newspaper",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "समाप्त",
+   "en": "finished, concluded",
+   "c": "a"
+  },
+  {
+   "hi": "सहमत",
+   "en": "in agreement",
+   "c": "a"
+  },
+  {
+   "hi": "साधारण",
+   "en": "ordinary",
+   "c": "a"
+  },
+  {
+   "hi": "सुझाव",
+   "en": "suggestion",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सुझाव देना",
+   "en": "to make a suggestion",
+   "c": "v"
+  },
+  {
+   "hi": "सुधरना",
+   "en": "to improve, be put right",
+   "c": "v"
+  },
+  {
+   "hi": "हड़ताल",
+   "en": "strike, lockout",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "हड़ताल करना",
+   "en": "to strike",
+   "c": "v"
+  },
+  {
+   "hi": "हालाँकि",
+   "en": "although",
+   "c": "x"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "cond",
+   "title": "अगर … होता",
+   "desc": "Suppositions and unfulfilled conditions",
+   "skill": "cond",
+   "items": [
+    {
+     "id": "if:0",
+     "t": "mc",
+     "q": "Fill the gap: “If it rains, we will stay at home (lit. “… then … only”).”",
+     "hi": "अगर बारिश ___ तो हम घर पर ही रहेंगे ।",
+     "say": "अगर बारिश हुई तो हम घर पर ही रहेंगे ।",
+     "en": "If[0] it rains[1+2], we[4] {will stay}[8] at home[5+6] (lit. “… then[3] … only[7]”).",
+     "a": "हुई",
+     "wrong": [
+      [
+       "हुआ",
+       "बारिश is feminine — हुई."
+      ],
+      [
+       "हुईं",
+       "हुईं is plural. बारिश is singular."
+      ]
+     ],
+     "why": "A perfective verb in the अगर clause makes the condition a given, a supposition: अगर मोहन आया तो … “supposing Mohan comes …”."
+    },
+    {
+     "id": "if:1",
+     "t": "mc",
+     "q": "Fill the gap: “If I had the money, I would buy a new car (lit. “… then …”). (a man speaking)”",
+     "hi": "अगर मेरे पास पैसे ___ तो मैं नई गाड़ी ख़रीदता ।",
+     "say": "अगर मेरे पास पैसे होते तो मैं नई गाड़ी ख़रीदता ।",
+     "en": "If[0] I[1+2] had[4] the money[3], I[6] {would buy}[9] a new[7] car[8] (lit. “… then[5] …”). (a man speaking)",
+     "a": "होते",
+     "wrong": [
+      [
+       "होंगे",
+       "होंगे is future, an open condition. ख़रीदता shows the condition is hypothetical, so the imperfective participle alone — होते."
+      ],
+      [
+       "हैं",
+       "हैं is present, an open condition. A hypothetical condition takes होते, with no auxiliary."
+      ],
+      [
+       "होतेगा",
+       "Not a word. The hypothetical is होते, with nothing added."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:2",
+     "t": "mc",
+     "q": "Fill the gap: “If he worked hard, he'd pass (lit. “… then …”).”",
+     "hi": "अगर वह मेहनत करता तो पास हो ___ ।",
+     "say": "अगर वह मेहनत करता तो पास हो जाता ।",
+     "en": "If[0] he[1] worked hard[2+3], he'd pass[5+6+7] (lit. “… then[4] …”).",
+     "a": "जाता",
+     "wrong": [
+      [
+       "जाएगा",
+       "जाएगा is future. With an unfulfilled condition both clauses take the imperfective participle alone — जाता."
+      ],
+      [
+       "गया",
+       "गया states a fact. The condition is hypothetical — जाता."
+      ],
+      [
+       "जातेगा",
+       "Not a word. The hypothetical is जाता, with nothing added."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:3",
+     "t": "mc",
+     "q": "Fill the gap: “If the girls had come on time, we wouldn't have missed our train (lit. “… then …”).”",
+     "hi": "अगर लड़कियाँ समय पर ___ तो हमारी गाड़ी नहीं छूटती ।",
+     "say": "अगर लड़कियाँ समय पर आतीं तो हमारी गाड़ी नहीं छूटती ।",
+     "en": "If[0] the girls[1] {had come}[4] on time[2+3], we {wouldn't have missed}[8+9] our[6] train[7] (lit. “… then[5] …”).",
+     "a": "आतीं",
+     "wrong": [
+      [
+       "आती",
+       "The feminine plural is nasalized — आतीं."
+      ],
+      [
+       "आते",
+       "आते is masculine. लड़कियाँ is feminine."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:4",
+     "t": "mc",
+     "q": "Fill the gap: “If we had set out early in the morning, we'd have arrived on time (lit. “… then …”).”",
+     "hi": "अगर हम सुबह जल्दी निकले ___ तो समय पर पहुँच जाते ।",
+     "say": "अगर हम सुबह जल्दी निकले होते तो समय पर पहुँच जाते ।",
+     "en": "If[0] we[1] {had set out}[4+5] early[3] in the morning[2], we'd {have arrived}[9+10] on time[7+8] (lit. “… then[6] …”).",
+     "a": "होते",
+     "wrong": [
+      [
+       "थे",
+       "निकले थे is a plain past fact. A past unfulfilled condition takes the perfective participle + होता — निकले होते."
+      ],
+      [
+       "हैं",
+       "हैं would make it present. A past unfulfilled condition takes निकले होते."
+      ]
+     ],
+     "why": "For an unfulfilled condition in the past, the अगर clause can take the perfective participle + होता (बुलाया होता), and the other clause usually has the imperfective participle alone."
+    },
+    {
+     "id": "if:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अगर पापा यहाँ होते तो बहुत ख़ुश होते ।",
+     "audio": true,
+     "a": "If Papa were here, he'd be very happy.",
+     "wrong": [
+      [
+       "Papa is here and he's very happy.",
+       "होते without an auxiliary is hypothetical: he isn't here."
+      ],
+      [
+       "When Papa comes, he'll be very happy.",
+       "That would be जब … तब with future verbs."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "तुम थोड़ा पहले आते तो खाना गरम मिलता ।",
+     "audio": true,
+     "a": "If you'd come a bit earlier, you'd have got your food hot.",
+     "wrong": [
+      [
+       "You came early, so the food was hot.",
+       "आते and मिलता without auxiliaries are hypothetical: you didn't come early."
+      ],
+      [
+       "Come a bit earlier and the food will be hot.",
+       "That would be a command and a future: पहले आओ, खाना गरम मिलेगा."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:7",
+     "t": "mc",
+     "q": "Fill the gap: “If the train arrives on time, we will go straight to the hotel (lit. “… then …”).”",
+     "hi": "अगर गाड़ी समय पर ___ तो हम सीधे होटल जाएँगे ।",
+     "say": "अगर गाड़ी समय पर पहुँची तो हम सीधे होटल जाएँगे ।",
+     "en": "If[0] the train[1] arrives[4] on time[2+3], we[6] {will go}[9] straight[7] to the hotel[8] (lit. “… then[5] …”).",
+     "a": "पहुँची",
+     "wrong": [
+      [
+       "पहुँचा",
+       "गाड़ी is feminine — पहुँची."
+      ],
+      [
+       "पहुँचीं",
+       "पहुँचीं is plural. It is one train."
+      ]
+     ],
+     "why": "A perfective verb in the अगर clause makes the condition a given, a supposition: अगर मोहन आया तो … “supposing Mohan comes …”."
+    },
+    {
+     "id": "if:8",
+     "t": "mc",
+     "q": "Which sentence is a hypothetical (unfulfilled) condition?",
+     "a": "अगर वह यहाँ होता तो मदद करता ।",
+     "wrong": [
+      [
+       "अगर वह यहाँ है तो मदद करेगा ।",
+       "This is an open condition: he may well be here."
+      ],
+      [
+       "अगर वह यहाँ आया तो मदद करेगा ।",
+       "This is a supposition: “if he comes”."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped.",
+     "say": "अगर वह यहाँ होता तो मदद करता ।",
+     "en": "If[0] he[1] were[3] here[2], he'd help[5+6] (lit. “… then[4] …”)."
+    },
+    {
+     "id": "if:9",
+     "t": "mc",
+     "q": "Fill the gap: “If I'd known, I would have come too (lit. “… then …”). (a man speaking)”",
+     "hi": "अगर मुझे पता होता तो मैं भी ___ ।",
+     "say": "अगर मुझे पता होता तो मैं भी आता ।",
+     "en": "If[0] I'd[1] known[2+3], I[5] {would have come}[7] too[6] (lit. “… then[4] …”). (a man speaking)",
+     "a": "आता",
+     "wrong": [
+      [
+       "आऊँगा",
+       "आऊँगा is future. With an unfulfilled condition the other clause takes the imperfective participle alone — आता."
+      ],
+      [
+       "आया",
+       "आया states what happened. The condition is hypothetical — आता."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:10",
+     "t": "mc",
+     "q": "Fill the gap: “If Mother were here, everything would be all right (lit. “… then …”).”",
+     "hi": "अगर माँ यहाँ होतीं तो सब कुछ ठीक ___ ।",
+     "say": "अगर माँ यहाँ होतीं तो सब कुछ ठीक होता ।",
+     "en": "If[0] Mother[1] were[3] here[2], everything[5+6] {would be}[8] all right[7] (lit. “… then[4] …”).",
+     "a": "होता",
+     "wrong": [
+      [
+       "होगा",
+       "होगा is future. With an unfulfilled condition the other clause takes the imperfective participle alone — होता."
+      ],
+      [
+       "हुआ",
+       "हुआ states what happened. The condition is hypothetical — होता."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "if:11",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अगर उसने मेरी बात सुनी होती तो यह सब न होता ।",
+     "audio": true,
+     "a": "If he'd listened to me, none of this would have happened.",
+     "wrong": [
+      [
+       "He listened to me, so none of this happened.",
+       "सुनी होती … न होता is counterfactual: he didn't listen."
+      ],
+      [
+       "If he listens to me, none of this will happen.",
+       "That would be future: सुनेगा … नहीं होगा."
+      ]
+     ],
+     "why": "For an unfulfilled condition in the past, the अगर clause can take the perfective participle + होता (बुलाया होता), and the other clause usually has the imperfective participle alone."
+    }
+   ]
+  },
+  {
+   "id": "alth",
+   "title": "हालाँकि … फिर भी",
+   "desc": "“Although … even so”, formal यद्यपि … तथापि",
+   "skill": "alth",
+   "items": [
+    {
+     "id": "hl:0",
+     "t": "mc",
+     "q": "Fill the gap: “Although he was ill, he still went to the office.”",
+     "hi": "___ वह बीमार था, फिर भी वह दफ़्तर गया ।",
+     "say": "हालाँकि वह बीमार था, फिर भी वह दफ़्तर गया ।",
+     "en": "Although[0] he[1] was[3] ill[2], he[6] still[4+5] went[8] to the office[7].",
+     "a": "हालाँकि",
+     "wrong": [
+      [
+       "क्योंकि",
+       "क्योंकि is “because”."
+      ],
+      [
+       "अगर",
+       "अगर is “if”."
+      ],
+      [
+       "हालाँके",
+       "Not a word. The spelling is हालाँकि."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:1",
+     "t": "mc",
+     "q": "Fill the gap: “Although this work is difficult, we'll do it all the same.”",
+     "hi": "हालाँकि यह काम मुश्किल है, ___ भी हम इसे करेंगे ।",
+     "say": "हालाँकि यह काम मुश्किल है, फिर भी हम इसे करेंगे ।",
+     "en": "Although[0] this[1] work[2] is[4] difficult[3], we'll[7] do[9] it[8] {all the same}[5+6].",
+     "a": "फिर",
+     "wrong": [
+      [
+       "जब",
+       "जब भी is “whenever”."
+      ],
+      [
+       "कभी",
+       "कभी भी is “ever, at any time”."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:2",
+     "t": "mc",
+     "q": "Fill the gap: “Although Mohan's plan was good, nevertheless it did not succeed.”",
+     "hi": "___ मोहन की योजना अच्छी थी, तथापि वह सफल नहीं हुई ।",
+     "say": "यद्यपि मोहन की योजना अच्छी थी, तथापि वह सफल नहीं हुई ।",
+     "en": "Although[0] Mohan's[1+2] plan[3] was[5] good[4], {nevertheless}[6] it[7] {did not}[9] succeed[8+10].",
+     "a": "यद्यपि",
+     "wrong": [
+      [
+       "यदि",
+       "यदि is “if”. The formal “although” is यद्यपि."
+      ],
+      [
+       "तथापि",
+       "तथापि is “nevertheless”, which opens the second clause."
+      ],
+      [
+       "यद्यापि",
+       "Not a word. The spelling is यद्यपि."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:3",
+     "t": "mc",
+     "q": "Fill the gap: “Although the journey was long, nevertheless nobody was put to any trouble.”",
+     "hi": "यद्यपि यात्रा लंबी थी, ___ किसी को कष्ट नहीं हुआ ।",
+     "say": "यद्यपि यात्रा लंबी थी, तथापि किसी को कष्ट नहीं हुआ ।",
+     "en": "Although[0] the journey[1] was[3] long[2], {nevertheless}[4] nobody[5+6+8] {was put to}[9] any trouble[7].",
+     "a": "तथापि",
+     "wrong": [
+      [
+       "यद्यपि",
+       "यद्यपि opens the first clause. The second clause takes तथापि."
+      ],
+      [
+       "हालाँकि",
+       "हालाँकि opens the first clause. The second clause takes तथापि (or फिर भी)."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हालाँकि सीता अमीर नहीं है, फिर भी वह सबकी मदद करती है ।",
+     "audio": true,
+     "a": "Although Sita isn't rich, she still helps everyone.",
+     "wrong": [
+      [
+       "Because Sita isn't rich, she helps everyone.",
+       "हालाँकि is “although”, not “because”."
+      ],
+      [
+       "Sita is rich, so she helps everyone.",
+       "नहीं है — she is not rich."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:5",
+     "t": "mc",
+     "q": "Which is the formal, Sanskritic way to say “although … even so”?",
+     "a": "यद्यपि … तथापि",
+     "wrong": [
+      [
+       "हालाँकि … फिर भी",
+       "This is the everyday form."
+      ],
+      [
+       "जब … तब",
+       "जब … तब is “when … then”."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हालाँकि घड़ी पुरानी है, तो भी ठीक चलती है ।",
+     "audio": true,
+     "a": "Although the watch is old, it still keeps good time.",
+     "wrong": [
+      [
+       "Because the watch is old, it doesn't keep good time.",
+       "हालाँकि is “although”, and ठीक चलती है is “keeps good time”."
+      ],
+      [
+       "The watch is new, but it doesn't keep good time.",
+       "पुरानी is “old”, and ठीक चलती है is positive."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    },
+    {
+     "id": "hl:7",
+     "t": "mc",
+     "q": "Fill the gap: “Although it had got very late, the children went on playing all the same.”",
+     "hi": "हालाँकि रात बहुत हो गई थी, तो ___ बच्चे खेलते रहे ।",
+     "say": "हालाँकि रात बहुत हो गई थी, तो भी बच्चे खेलते रहे ।",
+     "en": "Although[0] it {had got}[3+4+5] very[2] late[1], the children[8] {went on}[10] playing[9] {all the same}[6+7].",
+     "a": "भी",
+     "wrong": [
+      [
+       "ही",
+       "तो ही is not used here. “Even so” is तो भी (or फिर भी)."
+      ],
+      [
+       "तक",
+       "तो तक is not a phrase. “Even so” is तो भी."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    }
+   ]
+  },
+  {
+   "id": "comp",
+   "title": "कर बैठना, रो पड़ना",
+   "desc": "Compound verbs with डालना, बैठना, पड़ना, उठना, रखना",
+   "skill": "comp",
+   "items": [
+    {
+     "id": "cv:0",
+     "t": "mc",
+     "q": "Fill the gap: “The children gobbled up all the mangoes.”",
+     "hi": "बच्चों ने सारे आम खा ___ ।",
+     "say": "बच्चों ने सारे आम खा डाले ।",
+     "en": "The children[0+1] {gobbled up}[4+5] all[2] the mangoes[3].",
+     "a": "डाले",
+     "wrong": [
+      [
+       "डाला",
+       "डाला is singular. With ने the verb agrees with आम, here plural — खा डाले."
+      ],
+      [
+       "डालीं",
+       "डालीं is feminine. आम is masculine."
+      ],
+      [
+       "डालया",
+       "Not a word. डालना has a consonant stem: डाला, डाले, with no -y-."
+      ]
+     ],
+     "why": "डालना as an auxiliary: an action done vigorously, decisively, violently or recklessly (फाड़ डालना, मार डालना, पी डालना). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:1",
+     "t": "mc",
+     "q": "Fill the gap: “Raj went and quarrelled with his boss in anger.”",
+     "hi": "___ गुस्से में अपने मालिक से लड़ बैठा ।",
+     "say": "राज गुस्से में अपने मालिक से लड़ बैठा ।",
+     "en": "Raj[0] {went and quarrelled}[6+7] with[5] his[3] boss[4] in anger[1+2].",
+     "a": "राज",
+     "wrong": [
+      [
+       "राज ने",
+       "लड़ना and बैठना don't take ने, so the compound doesn't either."
+      ],
+      [
+       "राज को",
+       "The subject of लड़ बैठा is a plain राज."
+      ],
+      [
+       "बैठया",
+       "Not a word. बैठना has a consonant stem: बैठा, with no -y-."
+      ]
+     ],
+     "why": "बैठना as an auxiliary: an action done foolishly or stubbornly (कर बैठना “go and do”). बैठना never takes ने, so the compound doesn't either."
+    },
+    {
+     "id": "cv:2",
+     "t": "mc",
+     "q": "Fill the gap: “Seeing the end of the film, the children burst into tears.”",
+     "hi": "फ़िल्म का अंत देखकर बच्चे रो ___ ।",
+     "say": "फ़िल्म का अंत देखकर बच्चे रो पड़े ।",
+     "en": "Seeing[3] the end[2] of the film[0+1], the children[4] {burst into tears}[5+6].",
+     "a": "पड़े",
+     "wrong": [
+      [
+       "पड़ा",
+       "पड़ा is singular. बच्चे is plural."
+      ],
+      [
+       "डाले",
+       "Bursting into tears is रो पड़ना. डालना is for vigorous action on something."
+      ],
+      [
+       "पड़या",
+       "Not a word. पड़ना has a consonant stem: पड़ा, पड़े, with no -y-."
+      ]
+     ],
+     "why": "पड़ना as an auxiliary: suddenness or a change of state, sometimes downward movement (रो पड़ना “burst into tears”, उतर पड़ना)."
+    },
+    {
+     "id": "cv:3",
+     "t": "mc",
+     "q": "Fill the gap: “Seeing the fire, people rushed out of their houses.”",
+     "hi": "आग देखकर लोग घरों से बाहर निकल ___ ।",
+     "say": "आग देखकर लोग घरों से बाहर निकल पड़े ।",
+     "en": "Seeing[1] the fire[0], people[2] rushed[6+7] out[5] of their houses[3+4].",
+     "a": "पड़े",
+     "wrong": [
+      [
+       "पड़ा",
+       "पड़ा is singular. लोग is plural."
+      ],
+      [
+       "बैठे",
+       "बैठना suggests something foolish, “went and did”. A sudden rush is निकल पड़ना."
+      ]
+     ],
+     "why": "पड़ना as an auxiliary: suddenness or a change of state, sometimes downward movement (रो पड़ना “burst into tears”, उतर पड़ना)."
+    },
+    {
+     "id": "cv:4",
+     "t": "mc",
+     "q": "Fill the gap: “He cried out in fear.”",
+     "hi": "डर से वह चिल्ला ___ ।",
+     "say": "डर से वह चिल्ला उठा ।",
+     "en": "He[2] {cried out}[3+4] in fear[0+1].",
+     "a": "उठा",
+     "wrong": [
+      [
+       "उठी",
+       "उठी is feminine. The cue says “he”."
+      ],
+      [
+       "डाला",
+       "चिल्लाना is intransitive. A sudden outburst is चिल्ला उठना."
+      ],
+      [
+       "उठया",
+       "Not a word. उठना has a consonant stem: उठा, with no -y-."
+      ]
+     ],
+     "why": "उठना as an auxiliary: the start of an action or feeling, sometimes upward movement (बिगड़ उठना “flare up”, जल उठना “burst into flames”)."
+    },
+    {
+     "id": "cv:5",
+     "t": "mc",
+     "q": "Fill the gap: “I have made food for you (and it's ready).”",
+     "hi": "मैंने तुम्हारे लिए खाना बना ___ है ।",
+     "say": "मैंने तुम्हारे लिए खाना बना रखा है ।",
+     "en": "I[0] {have made}[4+5+6] food[3] for[2] you[1] (and it's ready).",
+     "a": "रखा",
+     "wrong": [
+      [
+       "रखी",
+       "रखी is feminine. With ने the verb agrees with खाना, masculine."
+      ],
+      [
+       "रखे",
+       "रखे is plural. खाना is singular."
+      ],
+      [
+       "रखया",
+       "Not a word. रखना has a consonant stem: रखा, with no -y-."
+      ]
+     ],
+     "why": "रखना as an auxiliary: firmness, or a result that lasts (देख रखा है “have seen and have my eye on”). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:6",
+     "t": "mc",
+     "q": "Fill the gap: “Mother has bought sweets for the guests (and has them ready).”",
+     "hi": "माँ ने मेहमानों के लिए मिठाइयाँ ख़रीद ___ हैं ।",
+     "say": "माँ ने मेहमानों के लिए मिठाइयाँ ख़रीद रखी हैं ।",
+     "en": "Mother[0+1] {has bought}[6+7+8] sweets[5] for[3+4] the guests[2] (and has them ready).",
+     "a": "रखी",
+     "wrong": [
+      [
+       "रखा",
+       "With ने the verb agrees with मिठाइयाँ, feminine plural — ख़रीद रखी हैं."
+      ],
+      [
+       "रखीं",
+       "The nasal goes on the last word only — रखी हैं."
+      ]
+     ],
+     "why": "रखना as an auxiliary: firmness, or a result that lasts (देख रखा है “have seen and have my eye on”). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "डाकुओं ने पूरे गाँव को लूट डाला ।",
+     "audio": true,
+     "a": "The bandits looted the whole village.",
+     "wrong": [
+      [
+       "The bandits were robbed by the village.",
+       "डाकुओं ने is the doer."
+      ],
+      [
+       "The bandits tried to loot the whole village.",
+       "लूट डाला is done, and done ruthlessly: no “tried”."
+      ]
+     ],
+     "why": "डालना as an auxiliary: an action done vigorously, decisively, violently or recklessly (फाड़ डालना, मार डालना, पी डालना). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:8",
+     "t": "mc",
+     "q": "Which is right for “Raj went and made a mistake”?",
+     "a": "राज ग़लती कर बैठा ।",
+     "wrong": [
+      [
+       "राज ने ग़लती कर बैठा ।",
+       "A compound verb takes ने only if both verbs take ने. बैठना doesn't."
+      ],
+      [
+       "राज ने ग़लती कर बैठी ।",
+       "बैठना doesn't take ने, so the verb agrees with राज — कर बैठा."
+      ]
+     ],
+     "why": "बैठना as an auxiliary: an action done foolishly or stubbornly (कर बैठना “go and do”). बैठना never takes ने, so the compound doesn't either.",
+     "say": "राज ग़लती कर बैठा ।",
+     "en": "Raj[0] {went and made}[2+3] a mistake[1]."
+    },
+    {
+     "id": "cv:9",
+     "t": "mc",
+     "q": "Fill the gap: “Someone smashed all the windows of the shop.”",
+     "hi": "किसी ने दुकान की सारी खिड़कियाँ तोड़ ___ ।",
+     "say": "किसी ने दुकान की सारी खिड़कियाँ तोड़ डालीं ।",
+     "en": "Someone[0+1] smashed[6+7] all[4] the windows[5] of the shop[2+3].",
+     "a": "डालीं",
+     "wrong": [
+      [
+       "डाला",
+       "With ने the verb agrees with खिड़कियाँ, feminine plural."
+      ],
+      [
+       "डाली",
+       "डाली is singular. खिड़कियाँ is plural, and the nasal goes on the last word — डालीं."
+      ]
+     ],
+     "why": "डालना as an auxiliary: an action done vigorously, decisively, violently or recklessly (फाड़ डालना, मार डालना, पी डालना). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:10",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पुलिस ने चोरों को पकड़ रखा है ।",
+     "audio": true,
+     "a": "The police are holding the thieves.",
+     "wrong": [
+      [
+       "The police are trying to catch the thieves.",
+       "पकड़ रखा है is done and lasting: they have them."
+      ],
+      [
+       "The thieves have caught the police.",
+       "पुलिस ने is the doer."
+      ]
+     ],
+     "why": "रखना as an auxiliary: firmness, or a result that lasts (देख रखा है “have seen and have my eye on”). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:11",
+     "t": "mc",
+     "q": "Which auxiliary suggests doing something foolishly?",
+     "a": "बैठना",
+     "wrong": [
+      [
+       "उठना",
+       "उठना suggests the start of an action or feeling."
+      ],
+      [
+       "रखना",
+       "रखना suggests firmness or a lasting result."
+      ]
+     ],
+     "why": "बैठना as an auxiliary: an action done foolishly or stubbornly (कर बैठना “go and do”). बैठना never takes ने, so the compound doesn't either."
+    },
+    {
+     "id": "cv:12",
+     "t": "mc",
+     "q": "Fill the gap: “Someone killed that poor dog.”",
+     "hi": "किसी ने उस बेचारे कुत्ते को मार ___ ।",
+     "say": "किसी ने उस बेचारे कुत्ते को मार डाला ।",
+     "en": "Someone[0+1] killed[6+7] that[2] poor[3] dog[4+5].",
+     "a": "डाला",
+     "wrong": [
+      [
+       "डाली",
+       "With को on the object the verb is masculine singular — मार डाला."
+      ],
+      [
+       "बैठा",
+       "बैठना doesn't take ने, so किसी ने … मार बैठा is impossible."
+      ]
+     ],
+     "why": "डालना as an auxiliary: an action done vigorously, decisively, violently or recklessly (फाड़ डालना, मार डालना, पी डालना). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "cv:13",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैंने कुछ पैसे बचा रखे हैं ।",
+     "audio": true,
+     "a": "I've saved up some money.",
+     "wrong": [
+      [
+       "I've spent some money.",
+       "बचा रखे हैं is “have saved and kept”."
+      ],
+      [
+       "I need to save some money.",
+       "रखे हैं is done: the money is already saved."
+      ]
+     ],
+     "why": "रखना as an auxiliary: firmness, or a result that lasts (देख रखा है “have seen and have my eye on”). A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    }
+   ]
+  },
+  {
+   "id": "reg",
+   "title": "समाप्त और ख़त्म",
+   "desc": "Formal (Sanskritic) and everyday (Perso-Arabic) words",
+   "skill": "reg",
+   "items": [
+    {
+     "id": "rg:0",
+     "t": "mc",
+     "q": "Which is the formal, Sanskritic word for ख़त्म “finished”?",
+     "a": "समाप्त",
+     "wrong": [
+      [
+       "ख़ाली",
+       "ख़ाली is “empty”."
+      ],
+      [
+       "बाक़ी",
+       "बाक़ी is “remaining, left”."
+      ],
+      [
+       "समाप्ता",
+       "Not a word. The word is समाप्त."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:1",
+     "t": "mc",
+     "q": "Which is the everyday, Perso-Arabic word for प्रश्न “question”?",
+     "a": "सवाल",
+     "wrong": [
+      [
+       "जवाब",
+       "जवाब is “answer”."
+      ],
+      [
+       "मतलब",
+       "मतलब is “meaning”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:2",
+     "t": "mc",
+     "q": "Which is the formal, Sanskritic word for साल “year”?",
+     "a": "वर्ष",
+     "wrong": [
+      [
+       "सप्ताह",
+       "सप्ताह is “week”."
+      ],
+      [
+       "वक़्त",
+       "वक़्त is “time”, and Perso-Arabic."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:3",
+     "t": "mc",
+     "q": "Which is the everyday, Perso-Arabic word for यात्रा “journey”?",
+     "a": "सफ़र",
+     "wrong": [
+      [
+       "सवारी",
+       "सवारी is “rider, passenger”."
+      ],
+      [
+       "समाचार",
+       "समाचार is “news”, and formal."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:4",
+     "t": "mc",
+     "q": "Which is the formal, Sanskritic word for हफ़्ता “week”?",
+     "a": "सप्ताह",
+     "wrong": [
+      [
+       "वर्ष",
+       "वर्ष is “year”."
+      ],
+      [
+       "महीना",
+       "महीना is “month”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:5",
+     "t": "mc",
+     "q": "Which is the everyday, Perso-Arabic word for उत्तर “reply”?",
+     "a": "जवाब",
+     "wrong": [
+      [
+       "सवाल",
+       "सवाल is “question”."
+      ],
+      [
+       "सलाह",
+       "सलाह is “advice”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:6",
+     "t": "mc",
+     "q": "Which sentence is in the more formal, Sanskritic style?",
+     "a": "मुझे इस पुस्तक की आवश्यकता है ।",
+     "wrong": [
+      [
+       "मुझे इस किताब की ज़रूरत है ।",
+       "This is everyday Hindi: किताब and ज़रूरत are Perso-Arabic."
+      ],
+      [
+       "मुझे यह किताब चाहिए ।",
+       "This is everyday Hindi, with the Perso-Arabic किताब."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत.",
+     "say": "मुझे इस पुस्तक की आवश्यकता है ।",
+     "en": "I[0] need[3+4+5] this[1] book[2]."
+    },
+    {
+     "id": "rg:7",
+     "t": "mc",
+     "q": "Which is the everyday word for कठिन “difficult”?",
+     "a": "मुश्किल",
+     "wrong": [
+      [
+       "आसान",
+       "आसान is “easy”."
+      ],
+      [
+       "ज़रूरी",
+       "ज़रूरी is “necessary, urgent”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "rg:8",
+     "t": "mc",
+     "q": "Which word must be Sanskritic, judging by its letters?",
+     "a": "विशेष",
+     "wrong": [
+      [
+       "ख़ास",
+       "The dotted kh of ख़ास shows a Persian origin."
+      ],
+      [
+       "क़ीमती",
+       "The dotted q of क़ीमती shows a Persian origin."
+      ]
+     ],
+     "why": "Only Sanskrit loanwords contain the letters ṇ, ṣ, kṣ and jñ (as in विशेष). Only words from Persian contain the dotted q, kh and g."
+    },
+    {
+     "id": "rg:9",
+     "t": "mc",
+     "q": "Which is the formal word for “but”?",
+     "a": "किंतु",
+     "wrong": [
+      [
+       "मगर",
+       "मगर is the everyday, Perso-Arabic “but”."
+      ],
+      [
+       "लेकिन",
+       "लेकिन is the everyday “but”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "If[0] I[1] were[3] rich[2], I'd travel[6] the world[5] (lit. “… then[4] …”). (a man speaking)",
+     "ans": [
+      "अगर",
+      "मैं",
+      "अमीर",
+      "होता",
+      "तो",
+      "दुनिया",
+      "घूमता"
+     ],
+     "wrong": [
+      [
+       "होगा",
+       "होगा is future. A hypothetical condition takes होता."
+      ],
+      [
+       "घूमूँगा",
+       "The other clause also takes the imperfective participle alone — घूमता."
+      ]
+     ],
+     "alt": [
+      [
+       "मैं",
+       "अमीर",
+       "होता",
+       "तो",
+       "दुनिया",
+       "घूमता"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "If[0] he[1] {had taken}[3+4] the medicine[2], he[6] {would have got}[8+9] better[7] (lit. “… then[5] …”).",
+     "ans": [
+      "अगर",
+      "उसने",
+      "दवा",
+      "ली",
+      "होती",
+      "तो",
+      "वह",
+      "ठीक",
+      "हो",
+      "जाता"
+     ],
+     "wrong": [
+      [
+       "लिया",
+       "With ने the participle agrees with दवा, feminine — ली होती."
+      ],
+      [
+       "होता",
+       "होता would agree with a masculine object. दवा is feminine — ली होती."
+      ]
+     ],
+     "alt": [
+      [
+       "उसने",
+       "दवा",
+       "ली",
+       "होती",
+       "तो",
+       "वह",
+       "ठीक",
+       "हो",
+       "जाता"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "Although[0] it {had got}[2+3+4] late[1], he[7] came[8] {all the same}[5+6].",
+     "ans": [
+      "हालाँकि",
+      "देर",
+      "हो",
+      "गई",
+      "थी",
+      "फिर",
+      "भी",
+      "वह",
+      "आया"
+     ],
+     "wrong": [
+      [
+       "क्योंकि",
+       "क्योंकि is “because”."
+      ],
+      [
+       "गया",
+       "देर is feminine — हो गई थी."
+      ],
+      [
+       "हालाँके",
+       "Not a word. The spelling is हालाँकि."
+      ]
+     ],
+     "alt": [
+      [
+       "हालाँकि",
+       "देर",
+       "हो",
+       "गई",
+       "थी",
+       "वह",
+       "आया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Although[0] the work[1] was[3] difficult[2], {nevertheless}[4] we[5] finished[7+8] it[6].",
+     "ans": [
+      "यद्यपि",
+      "काम",
+      "कठिन",
+      "था",
+      "तथापि",
+      "हमने",
+      "उसे",
+      "समाप्त",
+      "किया"
+     ],
+     "wrong": [
+      [
+       "यदि",
+       "यदि is “if”."
+      ],
+      [
+       "हम",
+       "With ने in the perfective — हमने."
+      ],
+      [
+       "यद्यापि",
+       "Not a word. The spelling is यद्यपि."
+      ]
+     ],
+     "alt": [
+      [
+       "यद्यपि",
+       "काम",
+       "कठिन",
+       "था",
+       "हमने",
+       "उसे",
+       "समाप्त",
+       "किया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "The workers[0+1] {cut down}[4+5] all[2] the trees[3].",
+     "ans": [
+      "मज़दूरों",
+      "ने",
+      "सारे",
+      "पेड़",
+      "काट",
+      "डाले"
+     ],
+     "wrong": [
+      [
+       "डाला",
+       "डाला is singular. The verb agrees with पेड़, here plural — काट डाले."
+      ],
+      [
+       "कट",
+       "कटना is intransitive, “be cut”. With ने the transitive काटना is needed — काट."
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Sita[0] {went and lost}[3+4] her[1] key[2].",
+     "ans": [
+      "सीता",
+      "अपनी",
+      "चाबी",
+      "खो",
+      "बैठी"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "बैठना doesn't take ने, so neither does the compound."
+      ],
+      [
+       "बैठा",
+       "बैठा is masculine. The verb agrees with सीता."
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "Hearing[1] the noise[0], the child[2] {burst into tears}[3+4].",
+     "ans": [
+      "आवाज़",
+      "सुनकर",
+      "बच्चा",
+      "रो",
+      "पड़ा"
+     ],
+     "wrong": [
+      [
+       "ने",
+       "रोना and पड़ना don't take ने."
+      ],
+      [
+       "डाला",
+       "Bursting into tears is रो पड़ना."
+      ],
+      [
+       "पड़या",
+       "Not a word. पड़ना has a consonant stem: पड़ा, with no -y-."
+      ]
+     ],
+     "alt": [
+      [
+       "बच्चा",
+       "आवाज़",
+       "सुनकर",
+       "रो",
+       "पड़ा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Suddenly[0] the crowd[1] {cried out}[2+3].",
+     "ans": [
+      "अचानक",
+      "भीड़",
+      "चिल्ला",
+      "उठी"
+     ],
+     "wrong": [
+      [
+       "उठा",
+       "भीड़ is feminine — उठी."
+      ],
+      [
+       "ने",
+       "चिल्लाना and उठना don't take ने."
+      ]
+     ],
+     "alt": [
+      [
+       "भीड़",
+       "अचानक",
+       "चिल्ला",
+       "उठी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "I[0] {have already}[2+3+5+6] told[4] him[1].",
+     "ans": [
+      "मैंने",
+      "उसे",
+      "पहले",
+      "से",
+      "बता",
+      "रखा",
+      "है"
+     ],
+     "wrong": [
+      [
+       "रखी",
+       "रखी is feminine. There's no feminine object here — बता रखा है."
+      ],
+      [
+       "मैं",
+       "बताना and रखना both take ने, so the compound does — मैंने."
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "If[0] the girls[1] were[3] here[2], they'd sing[5] (lit. “… then[4] …”).",
+     "ans": [
+      "अगर",
+      "लड़कियाँ",
+      "यहाँ",
+      "होतीं",
+      "तो",
+      "गातीं"
+     ],
+     "wrong": [
+      [
+       "होती",
+       "The feminine plural is nasalized — होतीं."
+      ],
+      [
+       "गाते",
+       "गाते is masculine. लड़कियाँ is feminine — गातीं."
+      ]
+     ],
+     "alt": [
+      [
+       "लड़कियाँ",
+       "यहाँ",
+       "होतीं",
+       "तो",
+       "गातीं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "If[0] Mohan[1] comes[2], {ask him to sit down}[4+5] (lit. “… then[3] …”).",
+     "ans": [
+      "अगर",
+      "मोहन",
+      "आया",
+      "तो",
+      "उसे",
+      "बिठाना"
+     ],
+     "wrong": [
+      [
+       "आई",
+       "आई is feminine. मोहन is a man."
+      ],
+      [
+       "आता",
+       "आता without an auxiliary would make it hypothetical, “if Mohan came”."
+      ]
+     ],
+     "alt": [
+      [
+       "मोहन",
+       "आया",
+       "तो",
+       "उसे",
+       "बिठाना"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "This[0] news[1] {will be published}[3+4] soon[2].",
+     "ans": [
+      "यह",
+      "समाचार",
+      "शीघ्र",
+      "प्रकाशित",
+      "होगा"
+     ],
+     "wrong": [
+      [
+       "होगी",
+       "होगी is feminine. समाचार is masculine."
+      ],
+      [
+       "ख़बर",
+       "ख़बर is the everyday word, and feminine, so it doesn't fit होगा."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अगर मुझे छात्रवृत्ति मिल जाती तो मैं विदेश पढ़ने जाता ।",
+     "audio": true,
+     "a": "If I'd got the scholarship, I'd have gone abroad to study.",
+     "wrong": [
+      [
+       "I got the scholarship and went abroad to study.",
+       "मिल जाती and जाता are hypothetical: it didn't happen."
+      ],
+      [
+       "If I get the scholarship, I'll go abroad to study.",
+       "That would be future: मिलेगी … जाऊँगा."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हड़ताल के कारण आज कोई बस नहीं चल रही ।",
+     "audio": true,
+     "a": "Because of the strike no buses are running today.",
+     "wrong": [
+      [
+       "The buses are running in spite of the strike.",
+       "के कारण is “because of”."
+      ],
+      [
+       "There'll be a strike today because the buses aren't running.",
+       "It's the other way round: the strike stops the buses."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "इस दवा का असर बहुत जल्दी पड़ता है ।",
+     "audio": true,
+     "a": "This medicine takes effect very quickly.",
+     "wrong": [
+      [
+       "This medicine is very expensive.",
+       "असर is “effect”."
+      ],
+      [
+       "This medicine has to be taken quickly.",
+       "असर पड़ना is “to have an effect”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दंगे में कई दुकानें जल गईं ।",
+     "audio": true,
+     "a": "Several shops burned down in the riot.",
+     "wrong": [
+      [
+       "Several shops were looted in the riot.",
+       "जल गईं is “burned”. “Looted” would be लूटी गईं."
+      ],
+      [
+       "Several shops closed before the riot.",
+       "जलना is “to burn”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हम सब इस योजना से सहमत हैं ।",
+     "audio": true,
+     "a": "We all agree with this plan.",
+     "wrong": [
+      [
+       "We're all fed up with this plan.",
+       "सहमत is “in agreement”."
+      ],
+      [
+       "We all made this plan together.",
+       "सहमत होना is “to agree”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "ढीली रस्सी टूट गई ।",
+     "audio": true,
+     "a": "The loose rope broke.",
+     "wrong": [
+      [
+       "The rope was tied tight.",
+       "ढीली is “loose”."
+      ],
+      [
+       "Someone cut the loose rope.",
+       "टूट गई is intransitive: it broke by itself."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "यह निहायत क़ीमती घड़ी है ।",
+     "audio": true,
+     "a": "This is an extremely valuable watch.",
+     "wrong": [
+      [
+       "This watch isn't worth much.",
+       "निहायत क़ीमती is “extremely valuable”."
+      ],
+      [
+       "This watch was very cheap.",
+       "क़ीमती is “costly, valuable”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Conditions, compound verbs, registers",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "In an unfulfilled condition (अगर मैं अमीर होता …), the verbs are …",
+     "a": "imperfective participles with no auxiliary",
+     "wrong": [
+      [
+       "future forms",
+       "Future forms make an open condition."
+      ],
+      [
+       "perfective participles with an auxiliary",
+       "A perfective in the अगर clause makes a supposition, and an auxiliary makes it a plain statement."
+      ]
+     ],
+     "why": "An unfulfilled, hypothetical condition uses the imperfective participle without an auxiliary in both clauses (अगर मैं कवि होता तो … लिखता). The feminine plural is nasalized. अगर is often dropped."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "What does a perfective verb in the अगर clause (अगर मोहन आया …) suggest?",
+     "a": "a supposition, “supposing Mohan comes”",
+     "wrong": [
+      [
+       "that Mohan has already come",
+       "The perfective here isn't past: it treats the condition as a given."
+      ],
+      [
+       "that Mohan will never come",
+       "That would be an unfulfilled condition, with आता."
+      ]
+     ],
+     "why": "A perfective verb in the अगर clause makes the condition a given, a supposition: अगर मोहन आया तो … “supposing Mohan comes …”."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "A compound verb takes ने only when …",
+     "a": "both the main verb and the auxiliary take ने",
+     "wrong": [
+      [
+       "the auxiliary takes ने",
+       "Both must: पी डाला takes ने, but कर बैठा doesn't."
+      ],
+      [
+       "the main verb takes ने",
+       "Both must: करना takes ने, but कर बैठना doesn't."
+      ]
+     ],
+     "why": "A compound verb takes ने only when both the main verb and the auxiliary take ने."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "Which auxiliary adds a sense of suddenness?",
+     "a": "पड़ना",
+     "wrong": [
+      [
+       "रखना",
+       "रखना suggests firmness or a lasting result."
+      ],
+      [
+       "डालना",
+       "डालना suggests vigour or recklessness."
+      ]
+     ],
+     "why": "पड़ना as an auxiliary: suddenness or a change of state, sometimes downward movement (रो पड़ना “burst into tears”, उतर पड़ना)."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "Which auxiliary suggests the start of an action or feeling?",
+     "a": "उठना",
+     "wrong": [
+      [
+       "बैठना",
+       "बैठना suggests something done foolishly."
+      ],
+      [
+       "रखना",
+       "रखना suggests firmness or a lasting result."
+      ]
+     ],
+     "why": "उठना as an auxiliary: the start of an action or feeling, sometimes upward movement (बिगड़ उठना “flare up”, जल उठना “burst into flames”)."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "Which word is the formal, Sanskritic one?",
+     "a": "आवश्यकता",
+     "wrong": [
+      [
+       "ज़रूरत",
+       "ज़रूरत is the everyday, Perso-Arabic word for “need”."
+      ],
+      [
+       "मुश्किल",
+       "मुश्किल is the everyday word for “difficult”."
+      ]
+     ],
+     "why": "Formal Hindi uses many Sanskrit loanwords, everyday Hindi a freer mix with many Perso-Arabic words: समाप्त / ख़त्म, प्रश्न / सवाल, वर्ष / साल, यात्रा / सफ़र, उत्तर / जवाब, आवश्यकता / ज़रूरत."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "हालाँकि “although” is usually answered in the second clause by …",
+     "a": "फिर भी or तो भी",
+     "wrong": [
+      [
+       "तब",
+       "तब answers जब “when”."
+      ],
+      [
+       "वहाँ",
+       "वहाँ answers जहाँ “where”."
+      ]
+     ],
+     "why": "हालाँकि “although” opens the first clause, and फिर भी or तो भी “even so” the second. Formal Hindi uses यद्यपि … तथापि."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "cond": 4,
+  "alth": 2,
+  "comp": 4,
+  "reg": 3,
+  "build": 2,
+  "meaning": 2,
+  "usage": 1
+ },
+ "distractors": {
+  "होतेगा": "hotegā",
+  "जातेगा": "jātegā",
+  "हालाँके": "hālā̃ke",
+  "यद्यापि": "yadyāpi",
+  "डालया": "ḍālyā",
+  "बैठया": "baiṭhyā",
+  "पड़या": "paṛyā",
+  "उठया": "uṭhyā",
+  "रखया": "rakhyā",
+  "समाप्ता": "samāptā"
+ }
+}
