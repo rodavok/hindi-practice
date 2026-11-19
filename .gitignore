@@ -1,6 +1,8 @@
 *.pdf
 pages/
 dist/
+.toolchain/
+android/keystore/
 node_modules/
 .env
 

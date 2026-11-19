@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Hindi Practice as an Android app: one WebView showing the built page from the APK's assets.
+     Built by tools/apk.js (no Gradle). Version code and name are set at build time. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="app.hindipractice">
+  <!-- Only for the Google Fonts the page links to; everything else is inside the APK. -->
+  <uses-permission android:name="android.permission.INTERNET"/>
+  <!-- Android 11+ hides other apps unless asked: this lets the app find the phone's text-to-speech engine. -->
+  <queries>
+    <intent><action android:name="android.intent.action.TTS_SERVICE"/></intent>
+  </queries>
+  <application android:label="Hindi" android:icon="@mipmap/ic_launcher" android:roundIcon="@mipmap/ic_launcher"
+      android:theme="@style/AppTheme" android:allowBackup="true" android:supportsRtl="false">
+    <activity android:name=".MainActivity" android:exported="true" android:launchMode="singleTask"
+        android:configChanges="orientation|screenSize|screenLayout|smallestScreenSize|keyboard|keyboardHidden|navigation|density|fontScale">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN"/>
+        <category android:name="android.intent.category.LAUNCHER"/>
+      </intent-filter>
+    </activity>
+  </application>
+</manifest>

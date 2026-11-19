@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Light theme, matching the page's light colours. The WebView takes prefers-color-scheme from this theme,
+     so values-night/ switches the page to dark when the phone is in dark mode. -->
+<resources>
+  <color name="ic_launcher_background">#5a35b5</color>
+  <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+    <item name="android:windowBackground">#f2f1f5</item>
+    <item name="android:statusBarColor">#f2f1f5</item>
+    <item name="android:navigationBarColor">#ffffff</item>
+    <item name="android:windowLightStatusBar">true</item>
+    <item name="android:windowLightNavigationBar">true</item>
+  </style>
+</resources>

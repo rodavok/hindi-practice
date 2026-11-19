@@ -2,7 +2,8 @@
 // Writes the app icon: src/icons/icon.svg (हि drawn from the bundled Noto font, so no font is needed to view it)
 // and the PNGs the web app manifest and iOS need (192, 512, 180). Run once, or after changing the design;
 // the PNGs are committed so tools/build.js doesn't need a browser.
-// Usage: node tools/icons.js   (needs `npm install` for harfbuzzjs, and chromium on the PATH for the PNGs)
+// Also writes android/res/drawable/ic_launcher_foreground.xml, the APK's launcher icon.
+// Usage: node tools/icons.js [--android-only]   (needs `npm install` for harfbuzzjs, and chromium on the PATH for the PNGs)
 const fs = require("fs"), path = require("path"), os = require("os"), {execFileSync} = require("child_process");
 const {ROOT} = require("./lib");
 const FONT = path.join(ROOT, "tools/fonts/NotoSansDevanagari-Regular.ttf");
@@ -33,6 +34,23 @@ async function main(){
   fs.mkdirSync(OUT, {recursive: true});
   fs.writeFileSync(path.join(OUT, "icon.svg"), svg);
   console.log("src/icons/icon.svg");
+
+  // Android adaptive-icon foreground (108 × 108 viewport; launchers show the middle 72 and may cut it to a
+  // 66-wide circle), as a VectorDrawable: font outlines are valid pathData, so it is sharp at every density.
+  const V = 108, vk = Math.min(0.42 * V / (x1 - x0), 0.42 * V / (y1 - y0));
+  const vtx = (V - vk * (x1 - x0)) / 2 - vk * x0, vty = (V + vk * (y1 - y0)) / 2 + vk * y0;
+  const groups = inf.map((g, i) => {
+    const dx = inf.slice(0, i).reduce((s, _, j) => s + pos[j].xAdvance, 0) + pos[i].xOffset, dy = pos[i].yOffset;
+    return `    <group android:translateX="${dx}" android:translateY="${dy}">\n      <path android:fillColor="${FG}" android:strokeColor="${FG}" android:strokeWidth="36" android:strokeLineJoin="round"\n        android:pathData="${font.glyphToPath(g.codepoint)}"/>\n    </group>`;
+  }).join("\n");
+  const vec = `<?xml version="1.0" encoding="utf-8"?>\n<!-- Written by tools/icons.js: हि from Noto Sans Devanagari. -->\n` +
+    `<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="${V}" android:viewportHeight="${V}">\n` +
+    `  <group android:translateX="${vtx.toFixed(3)}" android:translateY="${vty.toFixed(3)}" android:scaleX="${vk.toFixed(6)}" android:scaleY="${(-vk).toFixed(6)}">\n${groups}\n  </group>\n</vector>\n`;
+  const vdir = path.join(ROOT, "android/res/drawable");
+  fs.mkdirSync(vdir, {recursive: true});
+  fs.writeFileSync(path.join(vdir, "ic_launcher_foreground.xml"), vec);
+  console.log("android/res/drawable/ic_launcher_foreground.xml");
+  if (process.argv.includes("--android-only")) return;
 
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), "hindi-icons-"));
   try {
