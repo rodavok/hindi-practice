@@ -19,6 +19,7 @@
 | 15 | Done, validated, not browser-tested | 78 | 86 | 22 | book 192–204 (204 Test yourself, 205 blank) |
 | 16 | Done, validated, not browser-tested | 72 | 90 | 22 | book 206–219 (219 Test yourself) |
 | 17 | Done, validated, not browser-tested | 70 | 82 | 22 | book 220–232 (232 Test yourself, 233 blank) |
+| 18 | Done, validated, not browser-tested | 71 | 129 | 22 | book 234–256 (256 Test yourself) |
 
 ## Items to review
 
@@ -605,9 +606,50 @@
   - Frames avoided while writing: (अगर) तुम मुझे बुलाते तो मैं ज़रूर आता, अगर कुछ गरम पानी बाक़ी रहा …, (अगर) सीता जी विदेश जातीं तो …, अगर वह सो रही होती …, हालाँकि वह ग़रीब है …, हालाँकि मज़दूरों ने हड़ताल कर दी …, ज्योंही गाड़ी रुकी त्योंही हम उतर पड़े, तीन अजनबी डिब्बे में घुस पड़े, लकड़ियों का ढेर जल उठा, बूढ़े नाच उठे and Test yourself 10, उमा वही कह बैठी, हमने एक अच्छा-सा घर देख रखा है, the 17A.1 English prompts.
   - Remaining resemblances that are the construction itself: `tl:0` अगर मैं अमीर होता तो … (अगर मैं कवि होता तो …), `tl:10` अगर मोहन आया तो … (अगर राम आया तो …), `tl:1` … ली होती तो … हो जाता, `cv:8` राज ग़लती कर बैठा (हम ग़लती कर बैठे), `tl:8` … बता रखा है.
 
+### Unit 18
+- Not browser-tested (the browser pane refuses `localhost`; see Unit 14). Validator and a manual read only.
+- The unit runs from book p. 234 to p. 256 (Test yourself; PDF 268–290). Pages 251–252 hold two long reading passages (18B.2 and 18B.3), which I did not use.
+- Vocabulary: the end list (pp. 252–255) plus Quick Vocab and the 18.2–18.3 causatives बनवाना, लिखवाना, करवाना (129 entries). Left out:
+  - names (सुरेश, संगीता, सुहास, प्रताप, प्रकाश, कमला, ऋषि, अरुण, अनीता, रवि, श्रुति, राम)
+  - the poetic and dialect forms from the film songs (इक, पे, करे, सोर, जियरा, झूमे, बनमा, नाचे, ज़मीं, सावन, आफ़ताब, चौदहवीं)
+  - the terms of abuse साला and नचवैया, and डॉयलॉग and ख़ुदा जाने
+  - दुःख “grief”: `tools/glyphs.js` has no rule for the visarga (ः), so the form failed the sound-colour check. Adding visarga support to the glyph tool would let it back in.
+  - Earlier words not repeated: टूटना (unit 14), नाचना (unit 17), मिलाना (unit 8, “to dial”; “to join hands” is entered as हाथ मिलाना), पास (unit 6).
+  - तुलना is glossed “to be determined (to, पर)”, the book's sense; the common noun तुलना “comparison” is not taught. नृत्य is glossed “dance (formal)” to keep it apart from नाच.
+  - हँसी-मज़ाक is spelled without the nukta, as on p. 238 and in the end list; unit 14 has मज़ाक़ with it.
+- Romanisations I could not confirm from the book: आत्मीयता ātmīytā, आश्चर्य āścary, आश्चर्यजनक āścaryajanak, इश्क़ iśq, छुटभैया chuṭbhaiyā, नृत्य nṛty, परिस्थिति paristhiti, पारिवारिक pārivārik, श्रावण śrāvaṇ, सदस्य sadasy, स्थायी sthāyī, स्वभाव svabhāv, ह्विस्की hviskī, कहलवाना kahalvānā, मुस्कराना muskarānā, बीतता bīttā, समझाना samjhānā.
+- Forms declared: participles (टूटा, टूटी, टूटे, बैठी, बैठा, बैठे, गिरे, गिरा, गिरी, गिरते, लिए, लिया, गाते, बना, बनी, बने, खड़ी, खड़ा, खड़े, जली, बीतता, बीता, पकड़े, लिखते, जाते, उतरते, आते, टकराते, बची, बचा, बचाई, बचाया, उठाए, पूछे, पूछा, सोचे, सोचा, सोचते, सुनते, खाते, खाए, खाया, बताए, बनाया, बनाई, बनाता, बनाते, रहते, करते, किए, मिले, मिलते, हँसते, हँसता, चलते, चलता, रोते, थक); transitive and causative forms (सुला, लिटा, लेट, समझाई, समझाया, खिलाया, खिलाई, दिखाई, दिखी, दिखाया, उड़ा, उड़, उड़ते, लद, लाद, समझाओ, करवा, करवाई, करवाया, लिखवाई, लिखवाया, पढ़वाई, धुलवाए, धुलवाईं, धुलवाना, कटवा, कटवाना, बनवाया, मँगवाई); earlier-rule forms सड़क, सबसे, दरवाज़े, मिस्त्री, कपड़े, चीज़ें, छुओ, गाता, गाती, गाने, महीने, दूसरों.
+- Deliberately wrong forms (Hard tile pool), all non-words: लिखावाई, धोलवाए, कटावा, बनावाया (malformed causatives), सोवाया, उड़ावा, टूटाई (malformed transitives), चलतेते, पहुँचतेते, हुआए. I avoided real causatives in -ā- (कराना, लिखाना, सिखाना), सुलवाना, बचे, खड़ीं and every real participle.
+- Choices never set against each other because both are correct:
+  - adjectival and adverbial participles (गाती हुई आई and गाते हुए आई; `pt:5` offers हुआ and explains हुई as matching गाती)
+  - participles with and without हुआ (tile alternatives accept both)
+  - बिना खाए and खाए बिना (`tl:3` accepts both)
+  - टूटी हुई and तोड़ी हुई
+  - मेरे घर पहुँचते ही and घर पहुँचते ही (`tl:2` accepts both)
+  - खाते समय and खाते हुए (`pa:8` offers ही and बिना)
+  - -vā- and -ā- causatives (करवाना, कराना). Only -vā- forms are used.
+- Statements that follow the book's rule where usage is looser: the adverbial participle is described as invariable -ए (`us:1`, `pt:3`). Agreement with the subject (वह गाती हुई आई) is common, so no item marks it wrong.
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `pa:1` जाते ही and `pa:2` उतरते समय are grammatical, with other meanings.
+  - `tr:2` सोने दिया “let sleep” is correct, with another meaning.
+  - `cs:0`, `cs:1`, `cs:5`, `cs:6`: the plain transitive (कर रहे हैं, लिखी, धोए, काट दो) is correct for doing it oneself.
+  - `sn:6` offers मैंने एक घंटे इंतज़ार किया, which is correct, with a finished meaning.
+- Sentences I'm unsure about:
+  - `pt:0` मेज़ पर एक टूटा हुआ प्याला रखा था, with रखा था “had been put”.
+  - `pa:4` गाड़ी पेड़ से टकराते टकराते बची “the car narrowly missed hitting a tree”.
+  - `tr:7` गाड़ी पर सारा सामान लद गया, with गाड़ी as “cart”.
+  - `sn:3` आपके रहते हमें किसी बात की चिंता नहीं, without है.
+  - `sn:5` उसे गए हुए दस मिनट भी नहीं हुए थे कि वह लौट आया.
+  - `cs:2` मैंने यह कविता अपने दोस्त से पढ़वाई “had my friend read (aloud)”.
+  - `tl:7` पिता जी ने बच्चे को पलंग पर लिटा दिया.
+- Near-match check against pp. 234–256, done with the pages open; no copy kept.
+  - Changes I made: `pt:2` (was माँ ने रोते हुए बच्चे को गोद में उठा लिया, the book's frame), `pa:1` (घर → दफ़्तर, away from घर जाते समय हमसे मिलना), `pa:2` (was होटल पहुँचते ही, the book's frame), `pa:3` (was … के आते ही सब चुप हो गए, close to exercise 18A.2.6), `pa:4` (was … गिरते गिरते बचा, the book's frame), `pa:5` (was “without saying anything, I closed …”, exercise 18B.1.4), `sn:1` (was … सीखते हुए … महीने हुए हैं, the book's frame), `sn:4` (was हमारे बचाए …, the book's frame), `cs:0` (was a tailor and kurtas, the book's frame), `cs:6` (was a translation, close to exercise 18B.1.2), `tl:4` (was “three years since … came to India”, Test yourself 4), `tl:8` (was इंतज़ार करते करते …, the book's frame and exercise 18A.2.1).
+  - Frames avoided while writing: खिलौना टूटा था, भागते हुए चोर को पकड़ा, वह रेडियो सुनता हुआ आदमी, पलंग पर कपड़े पड़े हुए, रेशम की बनी हुई साड़ी, चिड़िया … उड़ते हुए, भूत को चलते-फिरते, धोबी इस्त्री को लिए हुए, दिन भर खेलते खेलते, मेरा कहा कोई नहीं मानता, मेरे जीते जी, the gardener cutting his finger, हम घर बनवा रहे हैं (and Test yourself 8), बच्चों को हिन्दी सिखवाई, किसी से डाक्टर को बुलवा लो, the 18B.1 English prompts.
+  - Remaining resemblances that are the construction itself: `pt:3` राज हाथ में किताब लिए हुए खड़ा था (माँ … पकड़े हुए खड़ी थीं), `pt:4` … गाते हुए सुना (… तारीफ़ करते सुना), `tl:9` दरवाज़े पर खड़ा हुआ आदमी, `pa:7` बिना सोचे, `sn:2` माँ का बनाया खाना, `sn:3` आपके रहते (रवि के रहते).
+
 ## Known issues and not yet done
 
 - Fixed: Hard level used to pad sentence building with real words from the unit's other tile items, which could make a second correct sentence that was then marked wrong. It now pads only with the unit's declared distractor forms. The Hard-level tile notes under Units 6 and 7 no longer apply.
 - Audio: Piper and eSpeak NG are not installed; only `spd-say` (speech-dispatcher) is present. No option has been chosen or installed yet; the `audio/unitNN/manifest.json` hook in `tools/build.js` is ready for clips.
 - "Explain more": the engine calls `/api/explain` when the page is served from localhost, but the small local server that holds the API key has not been written.
-- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all ledger forms covered (2,048 after Unit 17). These 12 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम, आर्थिक. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.
+- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all ledger forms covered (2,232 after Unit 18). These 14 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम, आर्थिक, अर्ज़ी, दर्ज़ी. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.

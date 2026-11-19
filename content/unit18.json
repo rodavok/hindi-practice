@@ -1,0 +1,2400 @@
+{
+ "id": "unit18",
+ "n": 18,
+ "title": "A love that won't be stopped",
+ "titleHi": "ऐसा प्यार जो रोके भी नहीं रुकता",
+ "scope": "Participles: imperfective and perfective participles as adjectives, agreeing, with optional हुआ for an ongoing or completed state (रोती हुई लड़की, टूटा हुआ प्याला); state vs event (टूटी हुई थी / टूट गई थी); adverbial participles in invariable -e (हँसते हुए, लिए हुए); repeated participles for repeated or parallel action (चलते चलते); गिरते गिरते बचना; -ते समय, -ते ही (possessed: माँ के आते ही); time since an event (गए हुए एक घंटा हुआ) and since a situation began (रहते हुए एक साल हुआ); बिना + -e; possessed participles (माँ का बनाया, आपके रहते, मेरे उठाए भी … नहीं उठा); intransitive and transitive pairs (बचना/बचाना, सोना/सुलाना, मरना/मारना, लदना/लादना, दिखना/दिखाना, खाना/खिलाना, टूटना/तोड़ना/तुड़ाना); causatives in -vā- with से for the agent",
+ "pages": "book 234–256",
+ "skills": {
+  "part": "Participles",
+  "adv": "Participles: while, as soon as",
+  "since": "Since, possessed participles",
+  "trans": "Transitive pairs",
+  "caus": "Causatives",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अधेड़",
+   "en": "middle-aged",
+   "c": "a"
+  },
+  {
+   "hi": "अनुवाद",
+   "en": "translation",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अर्ज़ी",
+   "en": "application",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आकाश",
+   "en": "sky",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आत्मीयता से",
+   "en": "cordially",
+   "c": "x"
+  },
+  {
+   "hi": "आश्चर्य",
+   "en": "surprise",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "आश्चर्यजनक",
+   "en": "astonishing",
+   "c": "a"
+  },
+  {
+   "hi": "इकलौता",
+   "en": "sole, only (child)",
+   "c": "a"
+  },
+  {
+   "hi": "इश्क़",
+   "en": "romantic love",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "इश्क़ लड़ाना",
+   "en": "to have an affair",
+   "c": "v"
+  },
+  {
+   "hi": "इस्त्री",
+   "en": "clothes iron; ironing",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "उड़ाना",
+   "en": "to make fly; to indulge",
+   "c": "v"
+  },
+  {
+   "hi": "ऊबना",
+   "en": "to be bored",
+   "c": "v"
+  },
+  {
+   "hi": "एकाध",
+   "en": "one or two, a couple (of)",
+   "c": "a"
+  },
+  {
+   "hi": "कथक",
+   "en": "kathak (dance style)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "क़दम",
+   "en": "step, pace",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कमाल",
+   "en": "miracle, wonder",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "कमी",
+   "en": "lack, want",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "क़सम",
+   "en": "oath",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "कहलवाना",
+   "en": "to send word",
+   "c": "v"
+  },
+  {
+   "hi": "कान",
+   "en": "ear",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ख़ुदा",
+   "en": "God",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ख़ुदा की क़सम",
+   "en": "by God",
+   "c": "x"
+  },
+  {
+   "hi": "खुला",
+   "en": "open",
+   "c": "a"
+  },
+  {
+   "hi": "गला",
+   "en": "throat, neck",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "गले लगाना",
+   "en": "to embrace",
+   "c": "v"
+  },
+  {
+   "hi": "गिरना",
+   "en": "to fall",
+   "c": "v"
+  },
+  {
+   "hi": "गोद",
+   "en": "lap, embrace",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घास",
+   "en": "grass",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "घुमाना",
+   "en": "to make go round, show round",
+   "c": "v"
+  },
+  {
+   "hi": "चुनना",
+   "en": "to choose",
+   "c": "v"
+  },
+  {
+   "hi": "छुटभैया",
+   "en": "a nobody",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "छेड़ना",
+   "en": "to stir up, start up",
+   "c": "v"
+  },
+  {
+   "hi": "छोकरी",
+   "en": "young girl, lass",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जनाब",
+   "en": "sir",
+   "c": "x"
+  },
+  {
+   "hi": "जाना-पहचाना",
+   "en": "recognized, known",
+   "c": "a"
+  },
+  {
+   "hi": "ज़ाहिर",
+   "en": "clear, evident",
+   "c": "a"
+  },
+  {
+   "hi": "ज़िद",
+   "en": "obstinacy",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "झट से",
+   "en": "suddenly, briskly",
+   "c": "x"
+  },
+  {
+   "hi": "झाड़ना",
+   "en": "to spout, pour out",
+   "c": "v"
+  },
+  {
+   "hi": "झूमना",
+   "en": "to sway (in pleasure)",
+   "c": "v"
+  },
+  {
+   "hi": "टकराना",
+   "en": "to collide",
+   "c": "v"
+  },
+  {
+   "hi": "टपकना",
+   "en": "to drop in, appear unexpectedly",
+   "c": "v"
+  },
+  {
+   "hi": "टहलना",
+   "en": "to stroll",
+   "c": "v"
+  },
+  {
+   "hi": "तंग आना",
+   "en": "to be fed up",
+   "c": "v"
+  },
+  {
+   "hi": "तलाक़-शुदा",
+   "en": "divorced",
+   "c": "a"
+  },
+  {
+   "hi": "तुड़ाना",
+   "en": "to cause to be broken",
+   "c": "v"
+  },
+  {
+   "hi": "तुलना",
+   "en": "to be determined (to, पर)",
+   "c": "v"
+  },
+  {
+   "hi": "तेज़",
+   "en": "quick, rapid",
+   "c": "a"
+  },
+  {
+   "hi": "थामना",
+   "en": "to hold, support",
+   "c": "v"
+  },
+  {
+   "hi": "दया",
+   "en": "compassion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दर्ज़ी",
+   "en": "tailor",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "दास्तान",
+   "en": "tale",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "दिलवाना",
+   "en": "to cause to be given",
+   "c": "v"
+  },
+  {
+   "hi": "दीखना",
+   "en": "to appear, be visible, seem",
+   "c": "v"
+  },
+  {
+   "hi": "धंधा",
+   "en": "work, occupation",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "धूमधाम",
+   "en": "pomp, show",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "न कि",
+   "en": "and not",
+   "c": "x"
+  },
+  {
+   "hi": "नरसों",
+   "en": "three days ago/ahead",
+   "c": "x"
+  },
+  {
+   "hi": "नर्तक",
+   "en": "dancer",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नाच",
+   "en": "dance",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नाच नचाना",
+   "en": "to lead (someone) a fine dance",
+   "c": "v"
+  },
+  {
+   "hi": "नृत्य",
+   "en": "dance (formal)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नेक",
+   "en": "good, virtuous, decent",
+   "c": "a"
+  },
+  {
+   "hi": "पतंग",
+   "en": "kite (toy)",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "परिस्थिति",
+   "en": "circumstance",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पवन",
+   "en": "wind",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पहुँचाना",
+   "en": "to convey, deliver",
+   "c": "v"
+  },
+  {
+   "hi": "पारिवारिक",
+   "en": "familial",
+   "c": "a"
+  },
+  {
+   "hi": "पैदा होना",
+   "en": "to be born, produced",
+   "c": "v"
+  },
+  {
+   "hi": "प्रतीत होना",
+   "en": "to appear, seem",
+   "c": "v"
+  },
+  {
+   "hi": "प्रधान मंत्री",
+   "en": "prime minister",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "फिरना",
+   "en": "to turn, move",
+   "c": "v"
+  },
+  {
+   "hi": "फ़िलहाल",
+   "en": "in the meantime",
+   "c": "x"
+  },
+  {
+   "hi": "बचना",
+   "en": "to escape, survive",
+   "c": "v"
+  },
+  {
+   "hi": "बचाना",
+   "en": "to rescue, save",
+   "c": "v"
+  },
+  {
+   "hi": "बसना",
+   "en": "to dwell, settle",
+   "c": "v"
+  },
+  {
+   "hi": "बसाना",
+   "en": "to settle, found",
+   "c": "v"
+  },
+  {
+   "hi": "बस्ती",
+   "en": "settlement, slum",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बात काटना",
+   "en": "to interrupt",
+   "c": "v"
+  },
+  {
+   "hi": "बीतना",
+   "en": "to pass (of time)",
+   "c": "v"
+  },
+  {
+   "hi": "बेचैन",
+   "en": "restless",
+   "c": "a"
+  },
+  {
+   "hi": "बैठक",
+   "en": "sitting room",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मरम्मत",
+   "en": "repair",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "की मरम्मत करना",
+   "en": "to repair, set right",
+   "c": "v"
+  },
+  {
+   "hi": "मस्त",
+   "en": "blithely joyful, delighted",
+   "c": "a"
+  },
+  {
+   "hi": "मापना",
+   "en": "to measure, cover",
+   "c": "v"
+  },
+  {
+   "hi": "मुस्कराना",
+   "en": "to smile",
+   "c": "v"
+  },
+  {
+   "hi": "मूल",
+   "en": "origin",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "यानी",
+   "en": "that is to say",
+   "c": "x"
+  },
+  {
+   "hi": "राय",
+   "en": "opinion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "रेशम",
+   "en": "silk",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लखपति",
+   "en": "rich man, ‘millionaire’",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "लगाना",
+   "en": "to apply, affix",
+   "c": "v"
+  },
+  {
+   "hi": "लदना",
+   "en": "to be loaded",
+   "c": "v"
+  },
+  {
+   "hi": "लाजवाब",
+   "en": "beyond compare",
+   "c": "a"
+  },
+  {
+   "hi": "लिटाना",
+   "en": "to make lie down",
+   "c": "v"
+  },
+  {
+   "hi": "लेटना",
+   "en": "to lie, recline",
+   "c": "v"
+  },
+  {
+   "hi": "लोट-पोट",
+   "en": "rolling, helpless (with laughter)",
+   "c": "a"
+  },
+  {
+   "hi": "वर्णन",
+   "en": "description",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "का वर्णन करना",
+   "en": "to describe",
+   "c": "v"
+  },
+  {
+   "hi": "विस्तार से",
+   "en": "at length, in detail",
+   "c": "x"
+  },
+  {
+   "hi": "वेतन",
+   "en": "pay, salary",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शंका",
+   "en": "doubt, suspicion",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शख़्स",
+   "en": "individual, fellow",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शर्म",
+   "en": "shame",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शर्म आना",
+   "en": "to feel ashamed",
+   "c": "v"
+  },
+  {
+   "hi": "श्रावण",
+   "en": "Shravan (monsoon month)",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सदस्य",
+   "en": "member",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "समझाना",
+   "en": "to explain; to console",
+   "c": "v"
+  },
+  {
+   "hi": "सलवार क़मीज़",
+   "en": "salwar qameez",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "साँस",
+   "en": "breath, sigh",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "ठंडी साँस भरना",
+   "en": "to heave a deep sigh",
+   "c": "v"
+  },
+  {
+   "hi": "सितारा",
+   "en": "star",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सिलवाना",
+   "en": "to cause to be sewn",
+   "c": "v"
+  },
+  {
+   "hi": "सिलसिला",
+   "en": "connection",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "के सिलसिले में",
+   "en": "in connection with",
+   "c": "x"
+  },
+  {
+   "hi": "सुलाना",
+   "en": "to make sleep",
+   "c": "v"
+  },
+  {
+   "hi": "सूझना",
+   "en": "to occur to the mind",
+   "c": "v"
+  },
+  {
+   "hi": "स्थायी रूप से",
+   "en": "permanently",
+   "c": "x"
+  },
+  {
+   "hi": "स्वभाव",
+   "en": "nature, disposition",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "स्वीकार करना",
+   "en": "to accept",
+   "c": "v"
+  },
+  {
+   "hi": "हँसी-मज़ाक",
+   "en": "laughter, fun, joking",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "हाथ मिलाना",
+   "en": "to join hands",
+   "c": "v"
+  },
+  {
+   "hi": "ह्विस्की",
+   "en": "whisky",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बनवाना",
+   "en": "to have made, have built",
+   "c": "v"
+  },
+  {
+   "hi": "लिखवाना",
+   "en": "to have written",
+   "c": "v"
+  },
+  {
+   "hi": "करवाना",
+   "en": "to have done",
+   "c": "v"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "part",
+   "title": "टूटा हुआ, बैठी हुई",
+   "desc": "Participles as adjectives and adverbs",
+   "skill": "part",
+   "items": [
+    {
+     "id": "pt:0",
+     "t": "mc",
+     "q": "Fill the gap: “A broken cup had been put on the table.”",
+     "hi": "मेज़ पर एक ___ हुआ प्याला रखा था ।",
+     "say": "मेज़ पर एक टूटा हुआ प्याला रखा था ।",
+     "en": "A[2] broken[3+4] cup[5] {had been put}[6+7] on[1] the table[0].",
+     "a": "टूटा",
+     "wrong": [
+      [
+       "टूटी",
+       "टूटी is feminine. प्याला is masculine."
+      ],
+      [
+       "टूटे",
+       "टूटे is plural or oblique. प्याला is a direct singular subject."
+      ],
+      [
+       "टूटाई",
+       "Not a word. The participle of टूटना is टूटा, टूटी, टूटे."
+      ]
+     ],
+     "why": "Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    },
+    {
+     "id": "pt:1",
+     "t": "mc",
+     "q": "Fill the gap: “The girl sitting by the window is my sister.”",
+     "hi": "खिड़की के पास ___ हुई लड़की मेरी बहिन है ।",
+     "say": "खिड़की के पास बैठी हुई लड़की मेरी बहिन है ।",
+     "en": "The girl[5] sitting[3+4] by[1+2] the window[0] is[8] my[6] sister[7].",
+     "a": "बैठी",
+     "wrong": [
+      [
+       "बैठा",
+       "बैठा is masculine. It agrees with लड़की."
+      ],
+      [
+       "बैठे",
+       "बैठे is masculine plural or oblique. लड़की is feminine."
+      ]
+     ],
+     "why": "Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    },
+    {
+     "id": "pt:2",
+     "t": "mc",
+     "q": "Fill the gap: “We helped a man who had fallen in the road.”",
+     "hi": "हमने सड़क पर एक ___ हुए आदमी की मदद की ।",
+     "say": "हमने सड़क पर एक गिरे हुए आदमी की मदद की ।",
+     "en": "We[0] helped[7+8+9] a[3] man[6] who had fallen[4+5] in the road[1+2].",
+     "a": "गिरे",
+     "wrong": [
+      [
+       "गिरा",
+       "Before की the phrase is oblique — गिरे हुए आदमी की."
+      ],
+      [
+       "गिरी",
+       "गिरी is feminine. आदमी is masculine."
+      ]
+     ],
+     "why": "Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    },
+    {
+     "id": "pt:3",
+     "t": "mc",
+     "q": "Fill the gap: “Raj was standing holding a book in his hand.”",
+     "hi": "राज हाथ में किताब ___ हुए खड़ा था ।",
+     "say": "राज हाथ में किताब लिए हुए खड़ा था ।",
+     "en": "Raj[0] {was standing}[6+7] holding[4+5] a book[3] in[2] his hand[1].",
+     "a": "लिए",
+     "wrong": [
+      [
+       "लिया",
+       "Used as an adverb, the participle is invariable in -e — लिए हुए."
+      ],
+      [
+       "लेता",
+       "लेता is the imperfective. “Holding” is the state after taking: लिए हुए."
+      ]
+     ],
+     "why": "Used as an adverb, the participle (+ हुए) has the invariable -e ending (हँसते हुए, पकड़े हुए, लिए हुए)."
+    },
+    {
+     "id": "pt:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैंने उसे गाना गाते हुए सुना ।",
+     "audio": true,
+     "a": "I heard her singing a song.",
+     "wrong": [
+      [
+       "She heard me singing a song.",
+       "मैंने is the hearer, उसे the singer."
+      ],
+      [
+       "I asked her to sing a song.",
+       "सुना is “heard”, and गाते हुए “singing”."
+      ]
+     ],
+     "why": "With verbs of seeing and hearing, the participle describes the person seen or heard."
+    },
+    {
+     "id": "pt:5",
+     "t": "mc",
+     "q": "Fill the gap: “Sita came home singing.”",
+     "hi": "सीता गाते ___ घर आई ।",
+     "say": "सीता गाते हुए घर आई ।",
+     "en": "Sita[0] came[4] home[3] singing[1+2].",
+     "a": "हुए",
+     "wrong": [
+      [
+       "हुआ",
+       "गाते is the -e form, used as an adverb, so हुए follows — गाते हुए."
+      ],
+      [
+       "हुई",
+       "With गाती, हुई would match (गाती हुई). With गाते it is गाते हुए."
+      ],
+      [
+       "हुआए",
+       "Not a word. The form is हुए."
+      ]
+     ],
+     "why": "Used as an adverb, the participle (+ हुए) has the invariable -e ending (हँसते हुए, पकड़े हुए, लिए हुए)."
+    },
+    {
+     "id": "pt:6",
+     "t": "mc",
+     "q": "Fill the gap: “This kurta is hand-made.”",
+     "hi": "यह कुरता हाथ से ___ हुआ है ।",
+     "say": "यह कुरता हाथ से बना हुआ है ।",
+     "en": "This[0] kurta[1] is[6] hand-made[2+3+4+5].",
+     "a": "बना",
+     "wrong": [
+      [
+       "बनी",
+       "बनी is feminine. कुरता is masculine."
+      ],
+      [
+       "बने",
+       "बने is plural. It is one kurta."
+      ]
+     ],
+     "why": "Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    },
+    {
+     "id": "pt:7",
+     "t": "mc",
+     "q": "Which sentence describes a state: “the window was broken (and still was)”?",
+     "a": "खिड़की टूटी हुई थी ।",
+     "wrong": [
+      [
+       "खिड़की टूट गई थी ।",
+       "This describes the event: “the window had broken”."
+      ],
+      [
+       "खिड़की तोड़ी गई थी ।",
+       "This is the passive: “the window had been broken (by someone)”."
+      ]
+     ],
+     "why": "A perfective participle with हुआ describes a state resulting from an earlier action: खिड़की टूटी हुई थी “was broken” (state), but खिड़की टूट गई थी “had broken” (event).",
+     "say": "खिड़की टूटी हुई थी ।",
+     "en": "The window[0] was[3] broken[1+2]."
+    },
+    {
+     "id": "pt:8",
+     "t": "mc",
+     "q": "Fill the gap: “Whose is the car standing outside?”",
+     "hi": "बाहर ___ हुई गाड़ी किसकी है ?",
+     "say": "बाहर खड़ी हुई गाड़ी किसकी है ?",
+     "en": "Whose[4] is[5] the car[3] standing[1+2] outside[0]?",
+     "a": "खड़ी",
+     "wrong": [
+      [
+       "खड़ा",
+       "खड़ा is masculine. गाड़ी is feminine."
+      ],
+      [
+       "खड़े",
+       "खड़े is masculine plural or oblique. गाड़ी is feminine."
+      ]
+     ],
+     "why": "खड़ा “standing” is an adjective, but behaves like बैठा and पड़ा and can take हुआ. Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    }
+   ]
+  },
+  {
+   "id": "adv",
+   "title": "आते ही, जाते समय",
+   "desc": "Repeated participles, “while”, “as soon as”, “without”",
+   "skill": "adv",
+   "items": [
+    {
+     "id": "pa:0",
+     "t": "mc",
+     "q": "Fill the gap: “Writing letters all day long, my hand got tired.”",
+     "hi": "सारा दिन चिट्ठियाँ लिखते ___ मेरा हाथ थक गया ।",
+     "say": "सारा दिन चिट्ठियाँ लिखते लिखते मेरा हाथ थक गया ।",
+     "en": "Writing[3+4] letters[2] all[0] day[1] long, my[5] hand[6] {got tired}[7+8].",
+     "a": "लिखते",
+     "wrong": [
+      [
+       "लिखता",
+       "The repeated participle is invariable in -e — लिखते लिखते."
+      ],
+      [
+       "लिखना",
+       "The repetition uses the participle, not the infinitive — लिखते लिखते."
+      ]
+     ],
+     "why": "A repeated imperfective participle in -e, without हुए, shows an action repeated over time or running alongside the main verb (चलते चलते थक गए)."
+    },
+    {
+     "id": "pa:1",
+     "t": "mc",
+     "q": "Fill the gap: “On your way to the office, bring milk from the market.”",
+     "hi": "दफ़्तर जाते ___ बाज़ार से दूध ले आना ।",
+     "say": "दफ़्तर जाते समय बाज़ार से दूध ले आना ।",
+     "en": "{On your way}[1+2] to the office[0], {bring}[6+7] milk[5] from the market[3+4].",
+     "a": "समय",
+     "wrong": [
+      [
+       "ही",
+       "जाते ही is “as soon as you go”. “On your way” is जाते समय."
+      ],
+      [
+       "बाद",
+       "“After” would be जाने के बाद, with the oblique infinitive."
+      ]
+     ],
+     "why": "Imperfective participle in -e + समय or वक़्त means “at the time of doing, while doing”."
+    },
+    {
+     "id": "pa:2",
+     "t": "mc",
+     "q": "Fill the gap: “As soon as I got off the bus, I phoned you.”",
+     "hi": "बस से उतरते ___ मैंने तुम्हें फ़ोन किया ।",
+     "say": "बस से उतरते ही मैंने तुम्हें फ़ोन किया ।",
+     "en": "{As soon as}[3] I[4] got off[2] the bus[0+1], I phoned[6+7] you[5].",
+     "a": "ही",
+     "wrong": [
+      [
+       "समय",
+       "उतरते समय is “while getting off”. “As soon as” is उतरते ही."
+      ],
+      [
+       "भी",
+       "भी is “also, even”. “As soon as” is उतरते ही."
+      ]
+     ],
+     "why": "Imperfective participle in -e + ही means “as soon as”. With two different subjects, the participle may be “possessed” with का (माँ के आते ही)."
+    },
+    {
+     "id": "pa:3",
+     "t": "mc",
+     "q": "Fill the gap: “As soon as Mother came, the children sat down to eat.”",
+     "hi": "माँ ___ आते ही बच्चे खाना खाने बैठ गए ।",
+     "say": "माँ के आते ही बच्चे खाना खाने बैठ गए ।",
+     "en": "{As soon as}[1+3] Mother[0] came[2], the children[4] {sat down}[7+8] to eat[5+6].",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "The participle आते is in -e, so the possessive is oblique — माँ के आते ही."
+      ],
+      [
+       "को",
+       "With two subjects the participle is “possessed” — माँ के आते ही."
+      ]
+     ],
+     "why": "Imperfective participle in -e + ही means “as soon as”. With two different subjects, the participle may be “possessed” with का (माँ के आते ही)."
+    },
+    {
+     "id": "pa:4",
+     "t": "mc",
+     "q": "Fill the gap: “The car narrowly missed hitting a tree.”",
+     "hi": "गाड़ी पेड़ से टकराते टकराते ___ ।",
+     "say": "गाड़ी पेड़ से टकराते टकराते बची ।",
+     "en": "The car[0] {narrowly missed}[5] hitting[2+3+4] a tree[1].",
+     "a": "बची",
+     "wrong": [
+      [
+       "बचा",
+       "बचा is masculine. गाड़ी is feminine."
+      ],
+      [
+       "बचाई",
+       "बचाना is transitive, “to save (something)”. The car escaped — बची."
+      ]
+     ],
+     "why": "A repeated imperfective participle in -e followed by बचना describes a narrow escape (गिरते गिरते बचा “nearly fell”)."
+    },
+    {
+     "id": "pa:5",
+     "t": "mc",
+     "q": "Fill the gap: “Don't touch my things without asking.”",
+     "hi": "बिना ___ मेरी चीज़ें मत छुओ ।",
+     "say": "बिना पूछे मेरी चीज़ें मत छुओ ।",
+     "en": "Don't[4] touch[5] my[2] things[3] without[0] asking[1].",
+     "a": "पूछे",
+     "wrong": [
+      [
+       "पूछा",
+       "बिना takes the perfective participle in -e — बिना पूछे."
+      ],
+      [
+       "पूछना",
+       "बिना takes the perfective participle in -e, not the infinitive."
+      ]
+     ],
+     "why": "बिना + perfective participle in -e means “without doing” (बिना पूछे, बिना सोचे). The order खाए बिना is also used."
+    },
+    {
+     "id": "pa:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "रेडियो सुनते सुनते दादा जी सो गए ।",
+     "audio": true,
+     "a": "Grandpa fell asleep listening to the radio.",
+     "wrong": [
+      [
+       "Grandpa went to sleep and then listened to the radio.",
+       "सुनते सुनते runs alongside: he was listening when he fell asleep."
+      ],
+      [
+       "Grandpa listens to the radio every night before sleeping.",
+       "सो गए is a single past event."
+      ]
+     ],
+     "why": "A repeated imperfective participle in -e, without हुए, shows an action repeated over time or running alongside the main verb (चलते चलते थक गए)."
+    },
+    {
+     "id": "pa:7",
+     "t": "mc",
+     "q": "Which means “without thinking”?",
+     "a": "बिना सोचे",
+     "wrong": [
+      [
+       "बिना सोचा",
+       "बिना takes the perfective participle in -e — सोचे."
+      ],
+      [
+       "सोचते समय",
+       "सोचते समय is “while thinking”."
+      ]
+     ],
+     "why": "बिना + perfective participle in -e means “without doing” (बिना पूछे, बिना सोचे). The order खाए बिना is also used."
+    },
+    {
+     "id": "pa:8",
+     "t": "mc",
+     "q": "Fill the gap: “Don't talk while eating.”",
+     "hi": "खाना खाते ___ बात मत करो ।",
+     "say": "खाना खाते समय बात मत करो ।",
+     "en": "Don't[4] talk[3+5] while[2] eating[0+1].",
+     "a": "समय",
+     "wrong": [
+      [
+       "ही",
+       "खाते ही is “as soon as you eat”."
+      ],
+      [
+       "बिना",
+       "बिना takes the perfective participle — बिना खाए “without eating”."
+      ]
+     ],
+     "why": "Imperfective participle in -e + समय or वक़्त means “at the time of doing, while doing”."
+    },
+    {
+     "id": "pa:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मेरी बात सुनते ही वह हँस पड़ा ।",
+     "audio": true,
+     "a": "As soon as he heard what I said, he burst out laughing.",
+     "wrong": [
+      [
+       "He laughed all the time I was talking.",
+       "सुनते ही is “as soon as he heard”."
+      ],
+      [
+       "He laughed before he heard what I said.",
+       "सुनते ही is “immediately on hearing”."
+      ]
+     ],
+     "why": "Imperfective participle in -e + ही means “as soon as”. With two different subjects, the participle may be “possessed” with का (माँ के आते ही)."
+    }
+   ]
+  },
+  {
+   "id": "since",
+   "title": "गए हुए, आपके रहते",
+   "desc": "Time since, possessed participles",
+   "skill": "since",
+   "items": [
+    {
+     "id": "sn:0",
+     "t": "mc",
+     "q": "Fill the gap: “It's an hour since Raj went.”",
+     "hi": "राज को गए हुए एक घंटा हो ___ ।",
+     "say": "राज को गए हुए एक घंटा हो गया ।",
+     "en": "It's[6+7] an[4] hour[5] since Raj[0+1] went[2+3].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गए",
+       "गए is plural. The time, एक घंटा, is the subject — singular."
+      ],
+      [
+       "गई",
+       "गई is feminine. घंटा is masculine."
+      ]
+     ],
+     "why": "Time since a completed event: perfective participle (+ हुए) with the time as subject (उसे गए दो घंटे हो गए). Time since a current situation began: imperfective participle + हुए (यहाँ रहते हुए दो साल हुए)."
+    },
+    {
+     "id": "sn:1",
+     "t": "mc",
+     "q": "Fill the gap: “Sita has been working here for six months.”",
+     "hi": "सीता को यहाँ काम ___ हुए छह महीने हो गए हैं ।",
+     "say": "सीता को यहाँ काम करते हुए छह महीने हो गए हैं ।",
+     "en": "Sita[0+1] {has been working}[3+4+5+8+9+10] here[2] for six[6] months[7].",
+     "a": "करते",
+     "wrong": [
+      [
+       "किए",
+       "किए हुए would be time since a completed event. She is still working — करते हुए."
+      ],
+      [
+       "करती",
+       "In this construction the participle is in -e — करते हुए."
+      ]
+     ],
+     "why": "Time since a completed event: perfective participle (+ हुए) with the time as subject (उसे गए दो घंटे हो गए). Time since a current situation began: imperfective participle + हुए (यहाँ रहते हुए दो साल हुए)."
+    },
+    {
+     "id": "sn:2",
+     "t": "mc",
+     "q": "Fill the gap: “The food Mother makes is the best.”",
+     "hi": "माँ का ___ खाना सबसे अच्छा होता है ।",
+     "say": "माँ का बनाया खाना सबसे अच्छा होता है ।",
+     "en": "The food[3] Mother[0+1] makes[2] is[7] the best[4+5+6].",
+     "a": "बनाया",
+     "wrong": [
+      [
+       "बनाई",
+       "बनाई is feminine. खाना is masculine."
+      ],
+      [
+       "बनाता",
+       "The possessed participle here is perfective — माँ का बनाया खाना."
+      ]
+     ],
+     "why": "Participles can be “possessed” like nouns: माँ का बनाया खाना “food made by Mother”, आपके रहते “while you're here”. A possessed transitive with an intransitive shows a failed attempt (मेरे उठाए भी वह नहीं उठा)."
+    },
+    {
+     "id": "sn:3",
+     "t": "mc",
+     "q": "Fill the gap: “While you're around, we have no worries about anything.”",
+     "hi": "आपके ___ हमें किसी बात की चिंता नहीं ।",
+     "say": "आपके रहते हमें किसी बात की चिंता नहीं ।",
+     "en": "While[1] you're[0] around[1], we[2] {have no}[7] worries[6] about anything[3+4+5].",
+     "a": "रहते",
+     "wrong": [
+      [
+       "रहे",
+       "रहे is perfective. “While you're around” uses the imperfective — आपके रहते."
+      ],
+      [
+       "रहना",
+       "The possessed form uses the participle — आपके रहते."
+      ]
+     ],
+     "why": "Participles can be “possessed” like nouns: माँ का बनाया खाना “food made by Mother”, आपके रहते “while you're here”. A possessed transitive with an intransitive shows a failed attempt (मेरे उठाए भी वह नहीं उठा)."
+    },
+    {
+     "id": "sn:4",
+     "t": "mc",
+     "q": "Fill the gap: “Despite my trying to get him up, he didn't get up.”",
+     "hi": "मेरे ___ भी वह नहीं उठा ।",
+     "say": "मेरे उठाए भी वह नहीं उठा ।",
+     "en": "{Despite my trying}[0+1+2] to get him up, he[3] {didn't}[4] {get up}[5].",
+     "a": "उठाए",
+     "wrong": [
+      [
+       "उठाया",
+       "The possessed participle in this construction is in -e — मेरे उठाए."
+      ],
+      [
+       "उठे",
+       "उठना is intransitive. The trying is transitive — उठाना, मेरे उठाए."
+      ]
+     ],
+     "why": "Participles can be “possessed” like nouns: माँ का बनाया खाना “food made by Mother”, आपके रहते “while you're here”. A possessed transitive with an intransitive shows a failed attempt (मेरे उठाए भी वह नहीं उठा)."
+    },
+    {
+     "id": "sn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसे गए हुए दस मिनट भी नहीं हुए थे कि वह लौट आया ।",
+     "audio": true,
+     "a": "He'd been gone barely ten minutes when he came back.",
+     "wrong": [
+      [
+       "He came back after ten minutes and left again.",
+       "गए हुए … नहीं हुए थे — ten minutes hadn't even passed since he left."
+      ],
+      [
+       "He left ten minutes after coming back.",
+       "The order is the other way round: he left, and soon came back."
+      ]
+     ],
+     "why": "Time since a completed event: perfective participle (+ हुए) with the time as subject (उसे गए दो घंटे हो गए). Time since a current situation began: imperfective participle + हुए (यहाँ रहते हुए दो साल हुए)."
+    },
+    {
+     "id": "sn:6",
+     "t": "mc",
+     "q": "Which means “I've been waiting for an hour”?",
+     "a": "मुझे इंतज़ार करते हुए एक घंटा हो गया है ।",
+     "wrong": [
+      [
+       "मुझे इंतज़ार किए हुए एक घंटा हो गया है ।",
+       "किए हुए measures time since a finished act, not a wait still going on."
+      ],
+      [
+       "मैंने एक घंटे इंतज़ार किया ।",
+       "This is “I waited for an hour”, and the wait is over."
+      ]
+     ],
+     "why": "Time since a completed event: perfective participle (+ हुए) with the time as subject (उसे गए दो घंटे हो गए). Time since a current situation began: imperfective participle + हुए (यहाँ रहते हुए दो साल हुए).",
+     "say": "मुझे इंतज़ार करते हुए एक घंटा हो गया है ।",
+     "en": "I[0] {have been waiting}[1+2+3+6+7+8] for an[4] hour[5]."
+    }
+   ]
+  },
+  {
+   "id": "trans",
+   "title": "बचना और बचाना",
+   "desc": "Intransitive and transitive pairs",
+   "skill": "trans",
+   "items": [
+    {
+     "id": "tr:0",
+     "t": "mc",
+     "q": "Which is the transitive partner of पहुँचना “to arrive”?",
+     "a": "पहुँचाना",
+     "wrong": [
+      [
+       "बचाना",
+       "बचाना “to save” pairs with बचना “to escape”."
+      ],
+      [
+       "समझाना",
+       "समझाना “to explain” pairs with समझना “to understand”."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:1",
+     "t": "mc",
+     "q": "Fill the gap: “The police saved the child from the river.”",
+     "hi": "पुलिस ने बच्चे को नदी से ___ ।",
+     "say": "पुलिस ने बच्चे को नदी से बचाया ।",
+     "en": "The police[0+1] saved[6] the child[2+3] from[5] the river[4].",
+     "a": "बचाया",
+     "wrong": [
+      [
+       "बचा",
+       "बचना is intransitive, “to escape”. With ने the transitive बचाना is needed."
+      ],
+      [
+       "बचाई",
+       "With को on the object the verb is masculine singular — बचाया."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:2",
+     "t": "mc",
+     "q": "Fill the gap: “Mother put the child to sleep.”",
+     "hi": "माँ ने बच्चे को ___ दिया ।",
+     "say": "माँ ने बच्चे को सुला दिया ।",
+     "en": "Mother[0+1] {put}[4+5] the child[2+3] {to sleep}[4].",
+     "a": "सुला",
+     "wrong": [
+      [
+       "सो",
+       "सोना is intransitive. “Put to sleep” is सुलाना."
+      ],
+      [
+       "सोने",
+       "सोने दिया is “let (the child) sleep”. “Put to sleep” is सुला दिया."
+      ],
+      [
+       "सोवाया",
+       "Not a word. The transitive of सोना is सुलाना."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:3",
+     "t": "mc",
+     "q": "Fill the gap: “Sita served the guests food.”",
+     "hi": "सीता ने मेहमानों को खाना ___ ।",
+     "say": "सीता ने मेहमानों को खाना खिलाया ।",
+     "en": "Sita[0+1] served[5] the guests[2+3] food[4].",
+     "a": "खिलाया",
+     "wrong": [
+      [
+       "खाया",
+       "खाया is “ate”. “Served, fed” is खिलाया."
+      ],
+      [
+       "खिलाई",
+       "खिलाई is feminine. खाना is masculine."
+      ]
+     ],
+     "why": "Some transitives have a second transitive: खाना “to eat”, खिलाना “to serve, feed”. Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:4",
+     "t": "mc",
+     "q": "Fill the gap: “He showed me his new car.”",
+     "hi": "उसने मुझे अपनी नई गाड़ी ___ ।",
+     "say": "उसने मुझे अपनी नई गाड़ी दिखाई ।",
+     "en": "He[0] showed[5] me[1] his[2] new[3] car[4].",
+     "a": "दिखाई",
+     "wrong": [
+      [
+       "दिखी",
+       "दिखना is intransitive, “to appear”. With ने the transitive दिखाना is needed."
+      ],
+      [
+       "दिखाया",
+       "दिखाया is masculine. With ने the verb agrees with गाड़ी, feminine."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:5",
+     "t": "mc",
+     "q": "मरना “to die” → मारना “to kill”. How is the transitive formed?",
+     "a": "by lengthening the vowel of the first syllable",
+     "wrong": [
+      [
+       "by adding -ā to the stem",
+       "That is the pattern of बचना → बचाना."
+      ],
+      [
+       "by adding -vā- to the stem",
+       "-vā- makes a causative (बनवाना)."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:6",
+     "t": "mc",
+     "q": "Fill the gap: “The children are flying kites outside.”",
+     "hi": "बच्चे बाहर पतंग ___ रहे हैं ।",
+     "say": "बच्चे बाहर पतंग उड़ा रहे हैं ।",
+     "en": "The children[0] {are flying}[3+4+5] kites[2] outside[1].",
+     "a": "उड़ा",
+     "wrong": [
+      [
+       "उड़",
+       "उड़ना is intransitive: the kites would be flying by themselves."
+      ],
+      [
+       "उड़ते",
+       "उड़ते is the participle. The continuous uses the stem — उड़ा रहे हैं."
+      ],
+      [
+       "उड़ावा",
+       "Not a word. The transitive of उड़ना is उड़ाना."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:7",
+     "t": "mc",
+     "q": "Fill the gap: “All the luggage got loaded onto the cart.”",
+     "hi": "गाड़ी पर सारा सामान ___ गया ।",
+     "say": "गाड़ी पर सारा सामान लद गया ।",
+     "en": "All[2] the luggage[3] {got loaded}[4+5] onto[1] the cart[0].",
+     "a": "लद",
+     "wrong": [
+      [
+       "लाद",
+       "लादना is transitive. “Got loaded” is the intransitive लदना — लद गया."
+      ],
+      [
+       "लादना",
+       "The compound verb needs the stem of लदना — लद गया."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:8",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मुझे यह सवाल समझाओ ।",
+     "audio": true,
+     "a": "Explain this question to me.",
+     "wrong": [
+      [
+       "I understand this question.",
+       "समझाना is “to explain”. “Understand” is समझना."
+      ],
+      [
+       "Ask me this question.",
+       "“Ask” would be पूछना."
+      ]
+     ],
+     "why": "Transitive verbs are often made from intransitives by lengthening the stem (बचना → बचाना, सोना → सुलाना) or the first syllable (मरना → मारना, कटना → काटना)."
+    },
+    {
+     "id": "tr:9",
+     "t": "mc",
+     "q": "Which verb means “to have (something) broken”?",
+     "a": "तुड़ाना",
+     "wrong": [
+      [
+       "तोड़ना",
+       "तोड़ना is “to break (something)”."
+      ],
+      [
+       "टूटना",
+       "टूटना is “to be broken, break”."
+      ]
+     ],
+     "why": "Some verbs form a three-way series: intransitive टूटना, transitive तोड़ना, and a second transitive तुड़ाना."
+    }
+   ]
+  },
+  {
+   "id": "caus",
+   "title": "बनवाना, लिखवाना",
+   "desc": "Causatives: getting something done",
+   "skill": "caus",
+   "items": [
+    {
+     "id": "cs:0",
+     "t": "mc",
+     "q": "Fill the gap: “Father is having the car repaired by the mechanic.”",
+     "hi": "पिता जी मिस्त्री से गाड़ी ठीक ___ रहे हैं ।",
+     "say": "पिता जी मिस्त्री से गाड़ी ठीक करवा रहे हैं ।",
+     "en": "Father[0+1] {is having}[6+7+8] the car[4] repaired[5] by[3] the mechanic[2].",
+     "a": "करवा",
+     "wrong": [
+      [
+       "कर",
+       "ठीक कर रहे हैं is “is repairing (himself)”. The mechanic does it — करवा."
+      ],
+      [
+       "हो",
+       "ठीक हो रहे हैं is intransitive, “getting better”."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:1",
+     "t": "mc",
+     "q": "Fill the gap: “She had this letter written by someone.”",
+     "hi": "उसने यह चिट्ठी किसी से ___ ।",
+     "say": "उसने यह चिट्ठी किसी से लिखवाई ।",
+     "en": "She[0] had[5] this[1] letter[2] written[5] by someone[3+4].",
+     "a": "लिखवाई",
+     "wrong": [
+      [
+       "लिखवाया",
+       "लिखवाया is masculine. With ने the verb agrees with चिट्ठी, feminine."
+      ],
+      [
+       "लिखी",
+       "लिखी is “wrote (herself)”. Someone else wrote it — लिखवाई."
+      ],
+      [
+       "लिखावाई",
+       "Not a word. The causative is लिखवाना, लिखवाई."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:2",
+     "t": "mc",
+     "q": "Fill the gap: “I had my friend read this poem.”",
+     "hi": "मैंने यह कविता अपने दोस्त ___ पढ़वाई ।",
+     "say": "मैंने यह कविता अपने दोस्त से पढ़वाई ।",
+     "en": "I[0] had[6] my[3] friend[4+5] read[6] this[1] poem[2].",
+     "a": "से",
+     "wrong": [
+      [
+       "ने",
+       "ने marks the main doer, मैंने. The one made to do it takes से."
+      ],
+      [
+       "का",
+       "का would make it “my friend's poem”. The person made to read takes से."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:3",
+     "t": "mc",
+     "q": "Which verb means “to cause to be made”?",
+     "a": "बनवाना",
+     "wrong": [
+      [
+       "बनाना",
+       "बनाना is “to make”."
+      ],
+      [
+       "बनना",
+       "बनना is “to be made, come into being”."
+      ],
+      [
+       "बनावाया",
+       "Not a word. The causative is बनवाना."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैंने अपने कमरे की सफ़ाई करवाई ।",
+     "audio": true,
+     "a": "I had my room cleaned.",
+     "wrong": [
+      [
+       "I cleaned my room.",
+       "करवाई is causative: someone else did the cleaning."
+      ],
+      [
+       "My room needs cleaning.",
+       "करवाई is a past act: the cleaning was done."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:5",
+     "t": "mc",
+     "q": "Fill the gap: “Sita had all her clothes washed by the dhobi.”",
+     "hi": "सीता ने अपने सारे कपड़े धोबी से ___ ।",
+     "say": "सीता ने अपने सारे कपड़े धोबी से धुलवाए ।",
+     "en": "Sita[0+1] had[7] all[3] her[2] clothes[4] washed[7] by[6] the dhobi[5].",
+     "a": "धुलवाए",
+     "wrong": [
+      [
+       "धुलवाईं",
+       "धुलवाईं is feminine. कपड़े is masculine."
+      ],
+      [
+       "धोए",
+       "धोए is “washed (herself)”. The dhobi did it — धुलवाए."
+      ],
+      [
+       "धोलवाए",
+       "Not a word. The causative of धोना is धुलवाना."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:6",
+     "t": "mc",
+     "q": "Fill the gap: “Have the gardener cut the grass in the garden.”",
+     "hi": "माली से बग़ीचे की घास ___ दो ।",
+     "say": "माली से बग़ीचे की घास कटवा दो ।",
+     "en": "Have[5+6] the gardener[0+1] cut[5] the grass[4] in the garden[2+3].",
+     "a": "कटवा",
+     "wrong": [
+      [
+       "काट",
+       "काट दो is “cut (it yourself)”. Getting the gardener to do it is कटवा दो."
+      ],
+      [
+       "कट",
+       "कटना is intransitive, “be cut”."
+      ],
+      [
+       "कटावा",
+       "Not a word. The causative is कटवाना."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:7",
+     "t": "mc",
+     "q": "In a causative sentence, the person made to do the work takes …",
+     "a": "से",
+     "wrong": [
+      [
+       "ने",
+       "ने goes on the main doer in the perfective: मैंने … लिखवाई."
+      ],
+      [
+       "का",
+       "का makes a possessive. The person made to do the work takes से."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "cs:8",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "राज ने अपना पुराना घर बेच दिया और नया बनवाया ।",
+     "audio": true,
+     "a": "Raj sold his old house and had a new one built.",
+     "wrong": [
+      [
+       "Raj sold his old house and built a new one himself.",
+       "बनवाया is causative: someone else built it."
+      ],
+      [
+       "Raj's old house fell down and he built a new one.",
+       "बेच दिया is “sold”."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "There's[6] a[2] broken[3+4] chair[5] in[1] the room[0].",
+     "ans": [
+      "कमरे",
+      "में",
+      "एक",
+      "टूटी",
+      "हुई",
+      "कुरसी",
+      "है"
+     ],
+     "wrong": [
+      [
+       "टूटा",
+       "टूटा is masculine. कुरसी is feminine."
+      ],
+      [
+       "टूटे",
+       "टूटे is plural or oblique. कुरसी is feminine."
+      ],
+      [
+       "टूटाई",
+       "Not a word. The participle is टूटी."
+      ]
+     ],
+     "alt": [
+      [
+       "कमरे",
+       "में",
+       "एक",
+       "टूटी",
+       "कुरसी",
+       "है"
+      ],
+      [
+       "एक",
+       "टूटी",
+       "हुई",
+       "कुरसी",
+       "कमरे",
+       "में",
+       "है"
+      ],
+      [
+       "कमरे",
+       "में",
+       "टूटी",
+       "हुई",
+       "कुरसी",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "The children[0] came[4] home[3] laughing[1+2].",
+     "ans": [
+      "बच्चे",
+      "हँसते",
+      "हुए",
+      "घर",
+      "आए"
+     ],
+     "wrong": [
+      [
+       "हँसता",
+       "As an adverb the participle is in -e — हँसते हुए."
+      ],
+      [
+       "हुआ",
+       "हँसते is the -e form, so हुए follows."
+      ]
+     ],
+     "alt": [
+      [
+       "बच्चे",
+       "घर",
+       "हँसते",
+       "हुए",
+       "आए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "{As soon as}[3] I[0] reached[2] home[1], it began[6] to rain[4+5].",
+     "ans": [
+      "मेरे",
+      "घर",
+      "पहुँचते",
+      "ही",
+      "बारिश",
+      "होने",
+      "लगी"
+     ],
+     "wrong": [
+      [
+       "समय",
+       "पहुँचते समय is “while reaching”. “As soon as” is पहुँचते ही."
+      ],
+      [
+       "लगा",
+       "बारिश is feminine — लगी."
+      ],
+      [
+       "पहुँचतेते",
+       "Not a word. The participle is पहुँचते."
+      ]
+     ],
+     "alt": [
+      [
+       "घर",
+       "पहुँचते",
+       "ही",
+       "बारिश",
+       "होने",
+       "लगी"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Don't[3] go[4] out[2] without[0] eating[1].",
+     "ans": [
+      "बिना",
+      "खाए",
+      "बाहर",
+      "मत",
+      "जाओ"
+     ],
+     "wrong": [
+      [
+       "खाया",
+       "बिना takes the perfective participle in -e — खाए."
+      ],
+      [
+       "खाते",
+       "खाते is imperfective. “Without eating” is बिना खाए."
+      ]
+     ],
+     "alt": [
+      [
+       "खाए",
+       "बिना",
+       "बाहर",
+       "मत",
+       "जाओ"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "It's[5+6] six[3] months[4] since we[0] met[1+2].",
+     "ans": [
+      "हमें",
+      "मिले",
+      "हुए",
+      "छह",
+      "महीने",
+      "हो",
+      "गए"
+     ],
+     "wrong": [
+      [
+       "मिलते",
+       "मिलते हुए is for a situation still going on. Time since the meeting is मिले हुए."
+      ],
+      [
+       "गया",
+       "गया is singular. छह महीने is plural — हो गए."
+      ]
+     ],
+     "alt": [
+      [
+       "हमें",
+       "मिले",
+       "छह",
+       "महीने",
+       "हो",
+       "गए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "Mother[3] sings[5+6] songs[4] while[2] cooking[0+1].",
+     "ans": [
+      "खाना",
+      "बनाते",
+      "समय",
+      "माँ",
+      "गाने",
+      "गाती",
+      "हैं"
+     ],
+     "wrong": [
+      [
+       "बनाया",
+       "बनाते समय uses the imperfective participle in -e."
+      ],
+      [
+       "गाता",
+       "गाता is masculine. माँ takes गाती हैं."
+      ]
+     ],
+     "alt": [
+      [
+       "माँ",
+       "खाना",
+       "बनाते",
+       "समय",
+       "गाने",
+       "गाती",
+       "हैं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "I[0] had[5] my[1] brother[2+3] write[5] the letter[4].",
+     "ans": [
+      "मैंने",
+      "अपने",
+      "भाई",
+      "से",
+      "चिट्ठी",
+      "लिखवाई"
+     ],
+     "wrong": [
+      [
+       "लिखवाया",
+       "लिखवाया is masculine. With ने the verb agrees with चिट्ठी, feminine."
+      ],
+      [
+       "ने",
+       "The person made to write takes से. ने goes only on मैंने."
+      ],
+      [
+       "लिखावाई",
+       "Not a word. The causative is लिखवाई."
+      ]
+     ],
+     "alt": [
+      [
+       "मैंने",
+       "चिट्ठी",
+       "अपने",
+       "भाई",
+       "से",
+       "लिखवाई"
+      ],
+      [
+       "मैंने",
+       "भाई",
+       "से",
+       "चिट्ठी",
+       "लिखवाई"
+      ],
+      [
+       "मैंने",
+       "चिट्ठी",
+       "भाई",
+       "से",
+       "लिखवाई"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "Father[0+1+2] {laid}[7+8] the child[3+4] {down}[7] on[6] the bed[5].",
+     "ans": [
+      "पिता",
+      "जी",
+      "ने",
+      "बच्चे",
+      "को",
+      "पलंग",
+      "पर",
+      "लिटा",
+      "दिया"
+     ],
+     "wrong": [
+      [
+       "लेट",
+       "लेटना is intransitive, “to lie down”. Laying someone down is लिटाना."
+      ],
+      [
+       "दी",
+       "With को on the object the verb is masculine singular — दिया."
+      ]
+     ],
+     "alt": [
+      [
+       "पिता",
+       "जी",
+       "ने",
+       "पलंग",
+       "पर",
+       "बच्चे",
+       "को",
+       "लिटा",
+       "दिया"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "We[2] {got tired}[3+4] walking and walking[0+1].",
+     "ans": [
+      "चलते",
+      "चलते",
+      "हम",
+      "थक",
+      "गए"
+     ],
+     "wrong": [
+      [
+       "चलता",
+       "The repeated participle is invariable in -e — चलते चलते."
+      ],
+      [
+       "गया",
+       "गया is singular. हम is plural — थक गए."
+      ],
+      [
+       "चलतेते",
+       "Not a word. The participle is चलते."
+      ]
+     ],
+     "alt": [
+      [
+       "हम",
+       "चलते",
+       "चलते",
+       "थक",
+       "गए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "The man[4] standing[2+3] at[1] the door[0] is[6] a tailor[5].",
+     "ans": [
+      "दरवाज़े",
+      "पर",
+      "खड़ा",
+      "हुआ",
+      "आदमी",
+      "दर्ज़ी",
+      "है"
+     ],
+     "wrong": [
+      [
+       "खड़ी",
+       "खड़ी is feminine. आदमी is masculine."
+      ],
+      [
+       "खड़े",
+       "खड़े is plural or oblique. आदमी is a direct singular subject."
+      ]
+     ],
+     "alt": [
+      [
+       "दरवाज़े",
+       "पर",
+       "खड़ा",
+       "आदमी",
+       "दर्ज़ी",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Sita[0+1] showed[5] me[2] a[3] photo[4].",
+     "ans": [
+      "सीता",
+      "ने",
+      "मुझे",
+      "एक",
+      "फ़ोटो",
+      "दिखाई"
+     ],
+     "wrong": [
+      [
+       "दिखी",
+       "दिखना is intransitive, “to appear”. With ने the transitive दिखाना is needed."
+      ],
+      [
+       "दिखाया",
+       "फ़ोटो is feminine — दिखाई."
+      ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "ने",
+       "एक",
+       "फ़ोटो",
+       "मुझे",
+       "दिखाई"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Raj[0+1] explained[5] the whole[3] matter[4] to me[2].",
+     "ans": [
+      "राज",
+      "ने",
+      "मुझे",
+      "सारी",
+      "बात",
+      "समझाई"
+     ],
+     "wrong": [
+      [
+       "समझी",
+       "समझना is “to understand”. “Explain” is the transitive समझाना."
+      ],
+      [
+       "समझाया",
+       "With ने the verb agrees with बात, feminine — समझाई."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "ने",
+       "सारी",
+       "बात",
+       "मुझे",
+       "समझाई"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पुल पर खड़े हुए लोग नदी को देख रहे थे ।",
+     "audio": true,
+     "a": "The people standing on the bridge were looking at the river.",
+     "wrong": [
+      [
+       "The people were standing up to look at the river.",
+       "खड़े हुए is “standing”, describing the people."
+      ],
+      [
+       "The people stood the bridge over the river.",
+       "खड़े हुए लोग is “people (who were) standing”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मुझे यहाँ आए हुए अभी एक ही हफ़्ता हुआ है ।",
+     "audio": true,
+     "a": "I've only been here a week.",
+     "wrong": [
+      [
+       "I'll be here for only a week.",
+       "आए हुए … हुआ है is time since arrival, not a future plan."
+      ],
+      [
+       "I came here a week ago and then left.",
+       "The time is counted up to now: I'm still here."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह बिना बताए घर से चला गया ।",
+     "audio": true,
+     "a": "He left home without telling anyone.",
+     "wrong": [
+      [
+       "He told everyone and left home.",
+       "बिना बताए is “without telling”."
+      ],
+      [
+       "He left home to tell someone.",
+       "बिना is “without”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसने अपना सारा काम दूसरों से करवाया ।",
+     "audio": true,
+     "a": "He got others to do all his work.",
+     "wrong": [
+      [
+       "He did all the others' work.",
+       "करवाया is causative, and दूसरों से are the ones who did it."
+      ],
+      [
+       "He did all his work with others.",
+       "करवाया is “had done”: he did none of it himself."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बच्चा रोते रोते सो गया ।",
+     "audio": true,
+     "a": "The child cried himself to sleep.",
+     "wrong": [
+      [
+       "The child woke up crying.",
+       "सो गया is “fell asleep”."
+      ],
+      [
+       "The child stopped crying and went to sleep.",
+       "रोते रोते is “while crying”: he was still crying."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दरवाज़ा खुला हुआ था ।",
+     "audio": true,
+     "a": "The door was open.",
+     "wrong": [
+      [
+       "Someone opened the door.",
+       "खुला हुआ था describes a state, not the act of opening."
+      ],
+      [
+       "The door was shut.",
+       "खुला is “open”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "माँ ने बाज़ार से सब्ज़ी मँगवाई ।",
+     "audio": true,
+     "a": "Mother had vegetables fetched from the market.",
+     "wrong": [
+      [
+       "Mother went to the market to buy vegetables.",
+       "मँगवाई is causative: someone else fetched them."
+      ],
+      [
+       "Mother sold vegetables at the market.",
+       "मँगवाना is “to order, have fetched”."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Participles, transitives, causatives",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "In जली हुई गाड़ी, what does हुई add?",
+     "a": "It stresses the completed state",
+     "wrong": [
+      [
+       "It makes the phrase passive",
+       "The passive is participle + जाना."
+      ],
+      [
+       "It turns the phrase into a question",
+       "हुई confirms the state: “a burned car”."
+      ]
+     ],
+     "why": "Used as an adjective, a participle (imperfective बीतता, perfective बीता) agrees with its noun. हुआ, agreeing too, can be added to stress an ongoing or a completed state (रोती हुई लड़की, टूटा हुआ प्याला)."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "Used as an adverb (हँसते हुए, लिए हुए), the participle ends in …",
+     "a": "-e, invariable",
+     "wrong": [
+      [
+       "-ī, always",
+       "-ī is feminine, used when the participle agrees as an adjective."
+      ],
+      [
+       "-ā, like the perfective",
+       "As an adverb the book's form is invariable -e."
+      ]
+     ],
+     "why": "Used as an adverb, the participle (+ हुए) has the invariable -e ending (हँसते हुए, पकड़े हुए, लिए हुए)."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "What does an imperfective participle + ही mean (आते ही)?",
+     "a": "as soon as",
+     "wrong": [
+      [
+       "while, at the time of",
+       "That is the participle + समय or वक़्त."
+      ],
+      [
+       "without",
+       "“Without” is बिना + perfective participle in -e."
+      ]
+     ],
+     "why": "Imperfective participle in -e + ही means “as soon as”. With two different subjects, the participle may be “possessed” with का (माँ के आते ही)."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "To say “it's a year since he left”, Hindi uses …",
+     "a": "the perfective participle, with the time as subject",
+     "wrong": [
+      [
+       "the imperfective participle",
+       "The imperfective is for a situation still going on: रहते हुए एक साल हुआ."
+      ],
+      [
+       "the infinitive + से",
+       "That isn't how time since is shown in this unit."
+      ]
+     ],
+     "why": "Time since a completed event: perfective participle (+ हुए) with the time as subject (उसे गए दो घंटे हो गए). Time since a current situation began: imperfective participle + हुए (यहाँ रहते हुए दो साल हुए)."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "Causative verbs such as बनवाना and लिखवाना contain …",
+     "a": "-vā- before -nā",
+     "wrong": [
+      [
+       "-ā- before -nā",
+       "That makes a transitive, such as बनाना."
+      ],
+      [
+       "a lengthened first syllable",
+       "That makes some transitives, such as मारना from मरना."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "In मैंने भाई से चिट्ठी लिखवाई, who wrote the letter?",
+     "a": "the brother",
+     "wrong": [
+      [
+       "I did",
+       "I had it written. भाई से marks the one who wrote it."
+      ],
+      [
+       "nobody: it's a request",
+       "लिखवाई is a past act: the letter was written."
+      ]
+     ],
+     "why": "Causative verbs in -vā- mean “to get something done (by someone)”: बनवाना, लिखवाना, करवाना. The person who does the work takes से."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "What does मेरे उठाए भी वह नहीं उठा mean?",
+     "a": "He didn't get up, though I tried to get him up",
+     "wrong": [
+      [
+       "He didn't get up, so I didn't lift him",
+       "मेरे उठाए is “my getting (him) up”, a failed attempt."
+      ],
+      [
+       "I didn't get up when he tried to wake me",
+       "वह is the one who didn't get up."
+      ]
+     ],
+     "why": "Participles can be “possessed” like nouns: माँ का बनाया खाना “food made by Mother”, आपके रहते “while you're here”. A possessed transitive with an intransitive shows a failed attempt (मेरे उठाए भी वह नहीं उठा)."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "part": 3,
+  "adv": 3,
+  "since": 2,
+  "trans": 3,
+  "caus": 3,
+  "build": 2,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "टूटाई": "ṭūṭāī",
+  "हुआए": "huāe",
+  "सोवाया": "sovāyā",
+  "उड़ावा": "uṛāvā",
+  "लिखावाई": "likhāvāī",
+  "बनावाया": "banāvāyā",
+  "धोलवाए": "dholvāe",
+  "कटावा": "kaṭāvā",
+  "पहुँचतेते": "pahũctete",
+  "चलतेते": "caltete"
+ }
+}
