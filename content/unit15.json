@@ -1,0 +1,2285 @@
+{
+ "id": "unit15",
+ "n": 15,
+ "title": "Go on learning Hindi!",
+ "titleHi": "हिन्दी सीखते जाओ !",
+ "scope": "Imperfective participle + रहना “to keep on doing” and + जाना “to go on doing” (progressive); perfective participle (invariable -ā) + करना “to do habitually”, including हुआ करना, जाया करना, आया करना; से revisited: “from, by, with, than, because of”, noun + से adverbs (मुश्किल से, आसानी से, ख़ुशी से), रूप से adverbs, verbs that take से, से “since” with a present-tense verb; जैसा “like” with the oblique or a possessive, जैसे (कि) “as, as though”; -सा “-ish, -like”, कोई-सा, एक-सा; inverted postpositions (बिना … के, बजाय … के, मारे … के, सिवा … के); reflexives ख़ुद, आप, स्वयं, अपने को, अपने आप, आपस में",
+ "pages": "book 192–204",
+ "skills": {
+  "keep": "Keep on, go on",
+  "habit": "Habitual किया करना",
+  "se": "Uses of से",
+  "like": "जैसा and -sā",
+  "refl": "Reflexives, postpositions",
+  "usage": "Rules and usage",
+  "meaning": "Reading sentences"
+ },
+ "vocab": [
+  {
+   "hi": "अँधेरा",
+   "en": "darkness",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अगस्त",
+   "en": "August",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "अचानक",
+   "en": "suddenly, unexpectedly",
+   "c": "x"
+  },
+  {
+   "hi": "अनौपचारिक रूप से",
+   "en": "informally",
+   "c": "x"
+  },
+  {
+   "hi": "अपने आप",
+   "en": "of one's own accord, oneself",
+   "c": "x"
+  },
+  {
+   "hi": "असल में",
+   "en": "really, in reality",
+   "c": "x"
+  },
+  {
+   "hi": "आधीरात",
+   "en": "midnight",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "आपस में",
+   "en": "between, among themselves",
+   "c": "x"
+  },
+  {
+   "hi": "आसानी से",
+   "en": "easily",
+   "c": "x"
+  },
+  {
+   "hi": "इनकार करना",
+   "en": "to refuse (to), with से",
+   "c": "v"
+  },
+  {
+   "hi": "उड़ना",
+   "en": "to fly",
+   "c": "v"
+  },
+  {
+   "hi": "उदाहरण",
+   "en": "example",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "उपन्यास",
+   "en": "novel",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "औपचारिक रूप से",
+   "en": "formally",
+   "c": "x"
+  },
+  {
+   "hi": "कब से",
+   "en": "since when?",
+   "c": "x"
+  },
+  {
+   "hi": "काँपना",
+   "en": "to shiver, tremble",
+   "c": "v"
+  },
+  {
+   "hi": "किनारा",
+   "en": "edge, shore",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "किराया",
+   "en": "rent, fare",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "के बजाय",
+   "en": "instead of",
+   "c": "x"
+  },
+  {
+   "hi": "के बिना",
+   "en": "without",
+   "c": "x"
+  },
+  {
+   "hi": "के मारे",
+   "en": "stricken by (a sensation), through",
+   "c": "x"
+  },
+  {
+   "hi": "के सिवा",
+   "en": "apart from (also सिवाय)",
+   "c": "x"
+  },
+  {
+   "hi": "ग़रीब",
+   "en": "poor",
+   "c": "a"
+  },
+  {
+   "hi": "ग़लती",
+   "en": "mistake",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गाली",
+   "en": "abuse, swearing",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "गाली देना",
+   "en": "to abuse, swear at",
+   "c": "v"
+  },
+  {
+   "hi": "गोरा",
+   "en": "pale, fair; white person",
+   "c": "a"
+  },
+  {
+   "hi": "घना",
+   "en": "dense, thick",
+   "c": "a"
+  },
+  {
+   "hi": "घमंड",
+   "en": "pride, arrogance",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "चपाती",
+   "en": "chapati",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "चौकीदार",
+   "en": "watchman",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जंगल",
+   "en": "jungle, scrub",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जँभाई",
+   "en": "yawn",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "जँभाई लेना",
+   "en": "to yawn",
+   "c": "v"
+  },
+  {
+   "hi": "ज़माना",
+   "en": "period, age, time",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जीते रहो",
+   "en": "bless you (‘stay living’)",
+   "c": "x"
+  },
+  {
+   "hi": "जीना",
+   "en": "to live, be alive",
+   "c": "v"
+  },
+  {
+   "hi": "जीवन",
+   "en": "life",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "जैसा",
+   "en": "like, such as",
+   "c": "x"
+  },
+  {
+   "hi": "जैसे कि",
+   "en": "as if, as though",
+   "c": "x"
+  },
+  {
+   "hi": "झेंपना",
+   "en": "to be embarrassed",
+   "c": "v"
+  },
+  {
+   "hi": "ट्रेन",
+   "en": "train",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "डरपोक",
+   "en": "timid",
+   "c": "a"
+  },
+  {
+   "hi": "ड्राइवर",
+   "en": "driver",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "तरक़्क़ी",
+   "en": "progress, advancement",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "थकना",
+   "en": "to be tired",
+   "c": "v"
+  },
+  {
+   "hi": "दिखाई देना",
+   "en": "to be visible, appear",
+   "c": "v"
+  },
+  {
+   "hi": "देश",
+   "en": "country",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "धोखा",
+   "en": "trick, deceit",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "धोखा देना",
+   "en": "to trick, deceive",
+   "c": "v"
+  },
+  {
+   "hi": "नल",
+   "en": "pipe, tap",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नेता",
+   "en": "leader, politician",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "नौकरी",
+   "en": "job, employment, service",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "परवाह करना",
+   "en": "to care",
+   "c": "v"
+  },
+  {
+   "hi": "पहिया",
+   "en": "wheel",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "पूँछ",
+   "en": "tail",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "पैदल",
+   "en": "on foot, walking",
+   "c": "x"
+  },
+  {
+   "hi": "फुसफुसाना",
+   "en": "to whisper",
+   "c": "v"
+  },
+  {
+   "hi": "बंदर",
+   "en": "monkey",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "बढ़ना",
+   "en": "to increase, grow",
+   "c": "v"
+  },
+  {
+   "hi": "बत्तीसी",
+   "en": "set of 32, the teeth",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बत्तीसी दिखाना",
+   "en": "to grin broadly",
+   "c": "v"
+  },
+  {
+   "hi": "बर्फ़",
+   "en": "snow, ice",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "बादल",
+   "en": "cloud",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "ब्राह्मण",
+   "en": "Brahmin",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "भिखारी",
+   "en": "beggar",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "मशहूर",
+   "en": "famous",
+   "c": "a"
+  },
+  {
+   "hi": "यात्री",
+   "en": "traveller, passenger",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "राजधानी",
+   "en": "the capital",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "रात भर",
+   "en": "all night",
+   "c": "x"
+  },
+  {
+   "hi": "व्यक्तिगत रूप से",
+   "en": "personally",
+   "c": "x"
+  },
+  {
+   "hi": "शक्ति",
+   "en": "power",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "शराबी",
+   "en": "drunkard",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "शुरू",
+   "en": "beginning",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सच",
+   "en": "true",
+   "c": "a"
+  },
+  {
+   "hi": "समस्या",
+   "en": "problem",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "समुद्र",
+   "en": "sea, ocean",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सरकार",
+   "en": "government",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "सरकारी",
+   "en": "governmental",
+   "c": "a"
+  },
+  {
+   "hi": "सितार",
+   "en": "sitar",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "सूरज",
+   "en": "sun",
+   "c": "n",
+   "g": "m"
+  },
+  {
+   "hi": "स्नान करना",
+   "en": "to bathe (esp. ritually)",
+   "c": "v"
+  },
+  {
+   "hi": "स्वयं",
+   "en": "oneself",
+   "c": "p"
+  },
+  {
+   "hi": "हालत",
+   "en": "state, condition",
+   "c": "n",
+   "g": "f"
+  },
+  {
+   "hi": "मुश्किल से",
+   "en": "with difficulty",
+   "c": "x"
+  },
+  {
+   "hi": "ख़ुशी से",
+   "en": "happily",
+   "c": "x"
+  }
+ ],
+ "gloss": {},
+ "lessons": [
+  {
+   "id": "keep",
+   "title": "करता रहना, करता जाना",
+   "desc": "“Keep on doing”, “go on doing”",
+   "skill": "keep",
+   "items": [
+    {
+     "id": "kp:0",
+     "t": "mc",
+     "q": "Fill the gap: “The children went on playing outside even in the rain.”",
+     "hi": "बारिश में भी बच्चे बाहर खेलते ___ ।",
+     "say": "बारिश में भी बच्चे बाहर खेलते रहे ।",
+     "en": "The children[3] {went on}[6] playing[5] outside[4] even[2] in the rain[0+1].",
+     "a": "रहे",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is singular. बच्चे is plural: खेलते रहे."
+      ],
+      [
+       "रहीं",
+       "रहीं is feminine. बच्चे is masculine."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:1",
+     "t": "mc",
+     "q": "Fill the gap: “I kept on phoning him again and again, but he didn't answer. (a woman speaking)”",
+     "hi": "मैं उसे बार बार फ़ोन करती ___, पर उसने जवाब नहीं दिया ।",
+     "say": "मैं उसे बार बार फ़ोन करती रही, पर उसने जवाब नहीं दिया ।",
+     "en": "I[0] {kept on}[6] phoning[4+5] him[1] {again and again}[2+3], but[7] he[8] {didn't}[10] answer[9+11]. (a woman speaking)",
+     "a": "रही",
+     "wrong": [
+      [
+       "रहा",
+       "रहा is masculine. The speaker is a woman: करती रही."
+      ],
+      [
+       "रहे",
+       "रहे is plural. मैं is singular."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita kept on crying all night.”",
+     "hi": "सीता सारी रात ___ रही ।",
+     "say": "सीता सारी रात रोती रही ।",
+     "en": "Sita[0] {kept on}[4] crying[3] all[1] night[2].",
+     "a": "रोती",
+     "wrong": [
+      [
+       "रोता",
+       "रोता is masculine. The participle agrees with सीता — रोती."
+      ],
+      [
+       "रोना",
+       "रहना “keep on” follows the imperfective participle, not the infinitive."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:3",
+     "t": "mc",
+     "q": "Fill the gap: “Don't be afraid, keep going!”",
+     "hi": "डरो मत, ___ रहो !",
+     "say": "डरो मत, चलते रहो !",
+     "en": "{Don't be afraid}[0+1], keep[3] going[2]!",
+     "a": "चलते",
+     "wrong": [
+      [
+       "चलता",
+       "The participle agrees with the subject, तुम (masculine plural): चलते रहो."
+      ],
+      [
+       "चलना",
+       "रहना “keep on” follows the imperfective participle, not the infinitive."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:4",
+     "t": "mc",
+     "q": "Fill the gap: “The water in the river went on rising.”",
+     "hi": "नदी का पानी बढ़ता ___ ।",
+     "say": "नदी का पानी बढ़ता गया ।",
+     "en": "The water[2] in the river[0+1] {went on}[4] rising[3].",
+     "a": "गया",
+     "wrong": [
+      [
+       "गई",
+       "गई is feminine. पानी is masculine."
+      ],
+      [
+       "गए",
+       "गए is plural. पानी is singular."
+      ]
+     ],
+     "why": "Imperfective participle + जाना also means “to go on doing”, but suggests progress towards some culmination (किराया बढ़ता गया)."
+    },
+    {
+     "id": "kp:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह चुप रहा और काम करता रहा ।",
+     "audio": true,
+     "a": "He said nothing and went on working.",
+     "wrong": [
+      [
+       "He said nothing and stopped working.",
+       "करता रहा is “kept on working”."
+      ],
+      [
+       "He kept quiet so that he could work.",
+       "There is no purpose here: करता रहा is “went on working”."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:6",
+     "t": "mc",
+     "q": "Fill the gap: “The girls went on chatting among themselves.”",
+     "hi": "लड़कियाँ आपस में बातें करती ___ ।",
+     "say": "लड़कियाँ आपस में बातें करती रहीं ।",
+     "en": "The girls[0] {went on}[5] chatting[3+4] among themselves[1+2].",
+     "a": "रहीं",
+     "wrong": [
+      [
+       "रही",
+       "रही is singular. लड़कियाँ is plural, and the nasal goes on the last word: करती रहीं."
+      ],
+      [
+       "रहे",
+       "रहे is masculine. लड़कियाँ is feminine."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:7",
+     "t": "mc",
+     "q": "Fill the gap: “The money ran out, but he still went on shopping.”",
+     "hi": "पैसे ख़त्म हो गए, फिर भी वह ख़रीदारी करता ___ ।",
+     "say": "पैसे ख़त्म हो गए, फिर भी वह ख़रीदारी करता रहा ।",
+     "en": "The money[0] {ran out}[1+2+3], but[4+5] he[6] still {went on}[9] shopping[7+8].",
+     "a": "रहा",
+     "wrong": [
+      [
+       "रहे",
+       "रहे is plural. वह here is one man, as करता shows."
+      ],
+      [
+       "रही",
+       "रही is feminine. करता shows the subject is a man."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:8",
+     "t": "mc",
+     "q": "Which means “to keep on writing”?",
+     "a": "लिखते रहना",
+     "wrong": [
+      [
+       "लिखा करना",
+       "Perfective participle + करना is “to write habitually”."
+      ],
+      [
+       "लिखने लगना",
+       "Oblique infinitive + लगना is “to begin to write”."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "kp:9",
+     "t": "mc",
+     "q": "Fill the gap: “We went on moving forward, and the village fell further and further behind.”",
+     "hi": "हम आगे बढ़ते ___ और गाँव पीछे छूटता गया ।",
+     "say": "हम आगे बढ़ते गए और गाँव पीछे छूटता गया ।",
+     "en": "We[0] {went on}[3] moving[2] forward[1], and[4] the village[5] {fell further and further}[7+8] behind[6].",
+     "a": "गए",
+     "wrong": [
+      [
+       "गया",
+       "गया is singular. हम is plural: बढ़ते गए."
+      ],
+      [
+       "जाते",
+       "जाते alone is not a finite verb. The past here is बढ़ते गए."
+      ]
+     ],
+     "why": "Imperfective participle + जाना also means “to go on doing”, but suggests progress towards some culmination (किराया बढ़ता गया)."
+    }
+   ]
+  },
+  {
+   "id": "habit",
+   "title": "किया करना",
+   "desc": "Habitual actions: “used to”, “make a habit of”",
+   "skill": "habit",
+   "items": [
+    {
+     "id": "hb:0",
+     "t": "mc",
+     "q": "Fill the gap: “Grandfather used to listen to the radio every evening.”",
+     "hi": "दादा जी रोज़ शाम को रेडियो ___ करते थे ।",
+     "say": "दादा जी रोज़ शाम को रेडियो सुना करते थे ।",
+     "en": "Grandfather[0+1] {used to}[7+8] listen[6] to the radio[5] every[2] evening[3+4].",
+     "a": "सुना",
+     "wrong": [
+      [
+       "सुनते",
+       "The habitual uses the perfective participle: सुना करते थे."
+      ],
+      [
+       "सुनी",
+       "The participle in this construction is invariable in -ā: सुना."
+      ],
+      [
+       "सुनया",
+       "Not a word. सुनना has a consonant stem: its perfective participle is सुना, with no -y-."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:1",
+     "t": "mc",
+     "q": "Fill the gap: “Sita makes a habit of phoning her mother every night.”",
+     "hi": "सीता हर रात अपनी माँ को फ़ोन ___ करती है ।",
+     "say": "सीता हर रात अपनी माँ को फ़ोन किया करती है ।",
+     "en": "Sita[0] {makes a habit of}[7+8+9] phoning[6] her[3] mother[4+5] every[1] night[2].",
+     "a": "किया",
+     "wrong": [
+      [
+       "की",
+       "The participle is invariable in -ā — फ़ोन किया करती है. Only करना agrees with सीता."
+      ],
+      [
+       "करती",
+       "The habitual uses the perfective participle — किया करती है."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:2",
+     "t": "mc",
+     "q": "Fill the gap: “As a child I used to go to Mussoorie in the hot season. (a man speaking)”",
+     "hi": "बचपन में मैं गर्मियों में मसूरी ___ करता था ।",
+     "say": "बचपन में मैं गर्मियों में मसूरी जाया करता था ।",
+     "en": "{As a child}[0+1] I[2] {used to}[7+8] go[6] to Mussoorie[5] in the hot season[3+4]. (a man speaking)",
+     "a": "जाया",
+     "wrong": [
+      [
+       "गया",
+       "With करना the participle of जाना is जाया, not गया."
+      ],
+      [
+       "जाता",
+       "The habitual uses the perfective participle. For जाना that is जाया."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:3",
+     "t": "mc",
+     "q": "Fill the gap: “There used to be a big market here (lit. “formerly …”).”",
+     "hi": "पहले यहाँ एक बड़ा बाज़ार ___ करता था ।",
+     "say": "पहले यहाँ एक बड़ा बाज़ार हुआ करता था ।",
+     "en": "There {used to be}[5+6+7] a[2] big[3] market[4] here[1] (lit. “formerly[0] …”).",
+     "a": "हुआ",
+     "wrong": [
+      [
+       "होता",
+       "The habitual uses the perfective participle: हुआ करता था."
+      ],
+      [
+       "हुई",
+       "The participle is invariable in -ā: हुआ."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:4",
+     "t": "mc",
+     "q": "Fill the gap: “Make a habit of reading a little Hindi every day.”",
+     "hi": "रोज़ थोड़ी हिन्दी ___ करो ।",
+     "say": "रोज़ थोड़ी हिन्दी पढ़ा करो ।",
+     "en": "{Make a habit of}[4] reading[3] a little[1] Hindi[2] {every day}[0].",
+     "a": "पढ़ा",
+     "wrong": [
+      [
+       "पढ़ी",
+       "The participle is invariable in -ā: पढ़ा करो, even though हिन्दी is feminine."
+      ],
+      [
+       "पढ़ते",
+       "The habitual uses the perfective participle, पढ़ा."
+      ],
+      [
+       "पढ़या",
+       "Not a word. पढ़ना has a consonant stem: its perfective participle is पढ़ा, with no -y-."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:5",
+     "t": "mc",
+     "q": "Fill the gap: “My sister plays the sitar for two hours every day.”",
+     "hi": "मेरी बहिन रोज़ दो घंटे सितार बजाया ___ है ।",
+     "say": "मेरी बहिन रोज़ दो घंटे सितार बजाया करती है ।",
+     "en": "My[0] sister[1] plays[6+7+8] the sitar[5] for two[3] hours[4] {every day}[2].",
+     "a": "करती",
+     "wrong": [
+      [
+       "करता",
+       "करता is masculine. करना agrees with बहिन."
+      ],
+      [
+       "करते",
+       "करते is plural. बहिन is one person."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:6",
+     "t": "mc",
+     "q": "Rewrite with the habitual (perfective participle + करना)",
+     "a": "राज हर साल दिल्ली आया करता है ।",
+     "wrong": [
+      [
+       "राज हर साल दिल्ली आता करता है ।",
+       "The habitual uses the perfective participle, आया, not आता."
+      ],
+      [
+       "राज हर साल दिल्ली आए करता है ।",
+       "The participle is invariable in -ā: आया करता है."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया.",
+     "hi": "राज हर साल दिल्ली आता है ।",
+     "audio": true,
+     "say": "राज हर साल दिल्ली आया करता है ।",
+     "en": "Raj[0] comes[4+5+6] to Delhi[3] every[1] year[2]."
+    },
+    {
+     "id": "hb:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह हमेशा देर से आया करता है ।",
+     "audio": true,
+     "a": "He's always coming late.",
+     "wrong": [
+      [
+       "He came late once.",
+       "आया करता है is habitual: he does it regularly."
+      ],
+      [
+       "He will come late.",
+       "करता है is present habitual, not future."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:8",
+     "t": "mc",
+     "q": "Fill the gap: “Even after the wedding, I will keep coming here. (a woman speaking)”",
+     "hi": "शादी के बाद भी मैं यहाँ आया ___ ।",
+     "say": "शादी के बाद भी मैं यहाँ आया करूँगी ।",
+     "en": "{Even after}[1+2+3] the wedding[0], I[4] {will keep coming}[6+7] here[5]. (a woman speaking)",
+     "a": "करूँगी",
+     "wrong": [
+      [
+       "करूँगा",
+       "करूँगा is masculine. The speaker is a woman."
+      ],
+      [
+       "करेगी",
+       "करेगी goes with वह. मैं takes करूँगी."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "hb:9",
+     "t": "mc",
+     "q": "Which means “I used to work here”?",
+     "a": "मैं यहाँ काम किया करता था ।",
+     "wrong": [
+      [
+       "मैं यहाँ काम करता रहा ।",
+       "करता रहा is “I went on working here”."
+      ],
+      [
+       "मैं यहाँ काम करने लगा ।",
+       "करने लगा is “I began to work here”."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया.",
+     "say": "मैं यहाँ काम किया करता था ।",
+     "en": "I[0] {used to}[4+5] work[2+3] here[1]. (a man speaking)"
+    },
+    {
+     "id": "hb:10",
+     "t": "mc",
+     "q": "Fill the gap: “The village people used to bathe in this pond (lit. “formerly …”).”",
+     "hi": "पहले गाँव के लोग इस तालाब में नहाया ___ थे ।",
+     "say": "पहले गाँव के लोग इस तालाब में नहाया करते थे ।",
+     "en": "The village[1+2] people[3] {used to}[8+9] bathe[7] in[6] this[4] pond[5] (lit. “formerly[0] …”).",
+     "a": "करते",
+     "wrong": [
+      [
+       "करता",
+       "करता is singular. लोग is plural."
+      ],
+      [
+       "करती",
+       "करती is feminine. लोग is masculine."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    }
+   ]
+  },
+  {
+   "id": "se",
+   "title": "से",
+   "desc": "Adverbs with से, verbs that take से, से “since”",
+   "skill": "se",
+   "items": [
+    {
+     "id": "se:0",
+     "t": "mc",
+     "q": "Fill the gap: “With so much luggage, we reached the station with difficulty.”",
+     "hi": "इतने सारे सामान के साथ हम ___ से स्टेशन पहुँचे ।",
+     "say": "इतने सारे सामान के साथ हम मुश्किल से स्टेशन पहुँचे ।",
+     "en": "With[3+4] so[0] much[1] luggage[2], we[5] reached[9] the station[8] {with difficulty}[6+7].",
+     "a": "मुश्किल",
+     "wrong": [
+      [
+       "आसानी",
+       "आसानी से is “easily”."
+      ],
+      [
+       "आराम",
+       "आराम से is “comfortably”."
+      ]
+     ],
+     "why": "से has many uses: “from”, “by”, “with”, “than”, “because of”, and with a noun it forms an adverb (मुश्किल से “with difficulty”, आसानी से “easily”)."
+    },
+    {
+     "id": "se:1",
+     "t": "mc",
+     "q": "Fill the gap: “This question is very easy, you can do it easily.”",
+     "hi": "यह सवाल बहुत आसान है, तुम इसे ___ से कर सकते हो ।",
+     "say": "यह सवाल बहुत आसान है, तुम इसे आसानी से कर सकते हो ।",
+     "en": "This[0] question[1] is[4] very[2] easy[3], you[5] can[10+11] do[9] it[6] easily[7+8].",
+     "a": "आसानी",
+     "wrong": [
+      [
+       "मुश्किल",
+       "मुश्किल से is “with difficulty”."
+      ],
+      [
+       "देर",
+       "देर से is “late”."
+      ]
+     ],
+     "why": "से has many uses: “from”, “by”, “with”, “than”, “because of”, and with a noun it forms an adverb (मुश्किल से “with difficulty”, आसानी से “easily”)."
+    },
+    {
+     "id": "se:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita married Mohan.”",
+     "hi": "सीता ने मोहन ___ शादी की ।",
+     "say": "सीता ने मोहन से शादी की ।",
+     "en": "Sita[0+1] married[3+4+5] Mohan[2].",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "शादी करना takes से — X से शादी करना."
+      ],
+      [
+       "का",
+       "का would make शादी “Mohan's wedding”. The person married takes से."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:3",
+     "t": "mc",
+     "q": "Fill the gap: “My sister is afraid of the dark.”",
+     "hi": "मेरी बहिन अँधेरे ___ डरती है ।",
+     "say": "मेरी बहिन अँधेरे से डरती है ।",
+     "en": "My[0] sister[1] {is afraid}[4+5] of the dark[2+3].",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "डरना takes से — अँधेरे से डरती है."
+      ],
+      [
+       "का",
+       "डरना takes से, not a possessive."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:4",
+     "t": "mc",
+     "q": "Fill the gap: “Father is cross with us.”",
+     "hi": "पिता जी ___ नाराज़ हैं ।",
+     "say": "पिता जी हमसे नाराज़ हैं ।",
+     "en": "Father[0+1] is[4] cross[3] with us[2].",
+     "a": "हमसे",
+     "wrong": [
+      [
+       "हमें",
+       "हमें is the को form. नाराज़ होना takes से — हमसे."
+      ],
+      [
+       "हमारे",
+       "नाराज़ होना takes से — हमसे."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:5",
+     "t": "mc",
+     "q": "Fill the gap: “He refused to take the money.”",
+     "hi": "उसने पैसे लेने ___ इनकार कर दिया ।",
+     "say": "उसने पैसे लेने से इनकार कर दिया ।",
+     "en": "He[0] refused[3+4+5+6] to take[2] the money[1].",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "इनकार करना takes से, with the oblique infinitive: लेने से."
+      ],
+      [
+       "में",
+       "इनकार करना takes से."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मैं दो हफ़्ते से बीमार हूँ ।",
+     "audio": true,
+     "a": "I've been ill for two weeks.",
+     "wrong": [
+      [
+       "I was ill for two weeks.",
+       "That would be था. हूँ with से means it is still going on."
+      ],
+      [
+       "I'll be ill for two weeks.",
+       "हूँ is present: the illness started two weeks ago and continues."
+      ]
+     ],
+     "why": "से also means “since, for”. For a situation that still goes on, Hindi uses a present-tense verb (हम सोमवार से यहाँ हैं)."
+    },
+    {
+     "id": "se:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "उसने मुझसे मेरा पता पूछा ।",
+     "audio": true,
+     "a": "He asked me my address.",
+     "wrong": [
+      [
+       "I asked him his address.",
+       "उसने is the asker. मुझसे is the person asked."
+      ],
+      [
+       "He told me his address.",
+       "पूछना is “to ask”. “Told” would be बताया."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:8",
+     "t": "mc",
+     "q": "Which postposition goes with नफ़रत करना “to hate”?",
+     "a": "से",
+     "wrong": [
+      [
+       "को",
+       "नफ़रत करना takes से — वह मुझसे नफ़रत करता है."
+      ],
+      [
+       "पर",
+       "नफ़रत करना takes से."
+      ]
+     ],
+     "why": "Several verbs take से for the person or thing involved: इनकार करना, कहना, डरना, नफ़रत करना, नाराज़ होना, पूछना, प्यार करना, बातें करना, मिलना, माँगना, लड़ना, शादी करना, शिकायत करना."
+    },
+    {
+     "id": "se:9",
+     "t": "mc",
+     "q": "Fill the gap: “The children clapped happily.”",
+     "hi": "बच्चों ने ___ से तालियाँ बजाईं ।",
+     "say": "बच्चों ने ख़ुशी से तालियाँ बजाईं ।",
+     "en": "The children[0+1] clapped[4+5] happily[2+3].",
+     "a": "ख़ुशी",
+     "wrong": [
+      [
+       "देर",
+       "देर से is “late”."
+      ],
+      [
+       "मुश्किल",
+       "मुश्किल से is “with difficulty”."
+      ]
+     ],
+     "why": "से has many uses: “from”, “by”, “with”, “than”, “because of”, and with a noun it forms an adverb (मुश्किल से “with difficulty”, आसानी से “easily”)."
+    },
+    {
+     "id": "se:10",
+     "t": "mc",
+     "q": "Fill the gap: “I would like to meet you personally. (a man speaking)”",
+     "hi": "मैं आपसे ___ रूप से मिलना चाहता हूँ ।",
+     "say": "मैं आपसे व्यक्तिगत रूप से मिलना चाहता हूँ ।",
+     "en": "I[0] {would like}[6+7] to meet[5] you[1] personally[2+3+4]. (a man speaking)",
+     "a": "व्यक्तिगत",
+     "wrong": [
+      [
+       "औपचारिक",
+       "औपचारिक रूप से is “formally”."
+      ],
+      [
+       "अनौपचारिक",
+       "अनौपचारिक रूप से is “informally”."
+      ]
+     ],
+     "why": "A more formal style of adverb uses रूप “form” + से — औपचारिक रूप से, व्यक्तिगत रूप से."
+    },
+    {
+     "id": "se:11",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "बच्चा भूख से रो रहा है ।",
+     "audio": true,
+     "a": "The child is crying with hunger.",
+     "wrong": [
+      [
+       "The child has been crying since he got hungry.",
+       "से here means “because of, with”, not “since”."
+      ],
+      [
+       "The child is crying more than usual.",
+       "There is no comparison: से here means “because of”."
+      ]
+     ],
+     "why": "से has many uses: “from”, “by”, “with”, “than”, “because of”, and with a noun it forms an adverb (मुश्किल से “with difficulty”, आसानी से “easily”)."
+    }
+   ]
+  },
+  {
+   "id": "like",
+   "title": "जैसा, छोटा-सा",
+   "desc": "“Like”, “as though”, “-ish”",
+   "skill": "like",
+   "items": [
+    {
+     "id": "js:0",
+     "t": "mc",
+     "q": "Fill the gap: “There are very few boys like Raj.”",
+     "hi": "राज ___ लड़के बहुत कम हैं ।",
+     "say": "राज जैसे लड़के बहुत कम हैं ।",
+     "en": "There are[5] very[3] few[4] boys[2] like[1] Raj[0].",
+     "a": "जैसे",
+     "wrong": [
+      [
+       "जैसा",
+       "जैसा agrees like an adjective with लड़के, masculine plural: जैसे."
+      ],
+      [
+       "जैसी",
+       "जैसी is feminine. लड़के is masculine."
+      ]
+     ],
+     "why": "जैसा “like” agrees like an adjective with the noun it describes, and puts the word before it into the oblique (मुझ जैसा) or follows a possessive (मेरे जैसा)."
+    },
+    {
+     "id": "js:1",
+     "t": "mc",
+     "q": "Fill the gap: “You aren't as clever as her. (to a girl)”",
+     "hi": "तुम ___ जैसी होशियार नहीं हो ।",
+     "say": "तुम उस जैसी होशियार नहीं हो ।",
+     "en": "You[0] {aren't}[4+5] as clever[3] as[2] her[1]. (to a girl)",
+     "a": "उस",
+     "wrong": [
+      [
+       "वह",
+       "जैसा puts the word before it into the oblique: उस जैसी."
+      ],
+      [
+       "उसे",
+       "उसे is the को form. Before जैसा the oblique is उस."
+      ],
+      [
+       "उसों",
+       "Not a word. Before जैसा the oblique of वह is उस."
+      ]
+     ],
+     "why": "जैसा “like” agrees like an adjective with the noun it describes, and puts the word before it into the oblique (मुझ जैसा) or follows a possessive (मेरे जैसा)."
+    },
+    {
+     "id": "js:2",
+     "t": "mc",
+     "q": "Fill the gap: “I won't find a friend like you anywhere.”",
+     "hi": "मुझे तुम्हारे ___ दोस्त कहीं नहीं मिलेगा ।",
+     "say": "मुझे तुम्हारे जैसा दोस्त कहीं नहीं मिलेगा ।",
+     "en": "I[0] {won't find}[5+6] a friend[3] like[2] you[1] anywhere[4].",
+     "a": "जैसा",
+     "wrong": [
+      [
+       "जैसे",
+       "जैसे is plural or oblique. दोस्त is the singular subject of मिलेगा — जैसा."
+      ],
+      [
+       "जैसी",
+       "जैसी is feminine. दोस्त is masculine."
+      ]
+     ],
+     "why": "जैसा “like” agrees like an adjective with the noun it describes, and puts the word before it into the oblique (मुझ जैसा) or follows a possessive (मेरे जैसा)."
+    },
+    {
+     "id": "js:3",
+     "t": "mc",
+     "q": "Fill the gap: “He was talking as though he knew everything (lit. “thus …”).”",
+     "hi": "वह ऐसे बोल रहा था ___ कि सब कुछ जानता हो ।",
+     "say": "वह ऐसे बोल रहा था जैसे कि सब कुछ जानता हो ।",
+     "en": "He[0] {was talking}[2+3+4] as though[5+6] he knew[9+10] everything[7+8] (lit. “thus[1] …”).",
+     "a": "जैसे",
+     "wrong": [
+      [
+       "कैसे",
+       "कैसे is the question word “how?”."
+      ],
+      [
+       "जैसा",
+       "जैसा कि is “as” (as I said). “As though” is जैसे कि, with the subjunctive."
+      ]
+     ],
+     "why": "जैसे (कि) means “as, just as”, and with a subjunctive verb “as though”."
+    },
+    {
+     "id": "js:4",
+     "t": "mc",
+     "q": "Fill the gap: “We have a little house in the village.”",
+     "hi": "गाँव में हमारा एक ___ घर है ।",
+     "say": "गाँव में हमारा एक छोटा-सा घर है ।",
+     "en": "We[2] have[6] a[3] little[4] house[5] in the village[0+1].",
+     "a": "छोटा-सा",
+     "wrong": [
+      [
+       "छोटी-सी",
+       "छोटी-सी is feminine. घर is masculine."
+      ],
+      [
+       "छोटे-से",
+       "छोटे-से is plural or oblique. घर is a direct singular subject here."
+      ],
+      [
+       "छोटी-सा",
+       "Not a word. Both parts agree: छोटा-सा, छोटी-सी, छोटे-से."
+      ]
+     ],
+     "why": "-sā (-sī, -se) after an adjective moderates it (“-ish”) or stresses it (छोटी-सी “tiny”). It agrees, and takes the oblique when needed."
+    },
+    {
+     "id": "js:5",
+     "t": "mc",
+     "q": "Fill the gap: “Five people live in that tiny room.”",
+     "hi": "उस ___ कमरे में पाँच लोग रहते हैं ।",
+     "say": "उस छोटे-से कमरे में पाँच लोग रहते हैं ।",
+     "en": "Five[4] people[5] live[6+7] in[3] that[0] tiny[1] room[2].",
+     "a": "छोटे-से",
+     "wrong": [
+      [
+       "छोटा-सा",
+       "Before में the phrase is oblique: उस छोटे-से कमरे में."
+      ],
+      [
+       "छोटी-सी",
+       "छोटी-सी is feminine. कमरा is masculine."
+      ]
+     ],
+     "why": "-sā (-sī, -se) after an adjective moderates it (“-ish”) or stresses it (छोटी-सी “tiny”). It agrees, and takes the oblique when needed."
+    },
+    {
+     "id": "js:6",
+     "t": "mc",
+     "q": "Fill the gap: “His voice is like a child's.”",
+     "hi": "उसकी आवाज़ बच्चे ___ है ।",
+     "say": "उसकी आवाज़ बच्चे की-सी है ।",
+     "en": "His[0] voice[1] is[4] like a child's[2+3].",
+     "a": "की-सी",
+     "wrong": [
+      [
+       "का-सा",
+       "का-सा is masculine. It agrees with आवाज़, feminine."
+      ],
+      [
+       "के-से",
+       "के-से is plural or oblique. आवाज़ is feminine singular."
+      ]
+     ],
+     "why": "-sā can follow a noun + possessive: नेता का-सा घमंड “arrogance like a politician's”. -sā (-sī, -se) after an adjective moderates it (“-ish”) or stresses it (छोटी-सी “tiny”). It agrees, and takes the oblique when needed."
+    },
+    {
+     "id": "js:7",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "दोनों भाई एक-से दिखते हैं ।",
+     "audio": true,
+     "a": "The two brothers look alike.",
+     "wrong": [
+      [
+       "Only one of the two brothers can be seen.",
+       "एक-से is “alike, similar”, not “one”."
+      ],
+      [
+       "The two brothers are always together.",
+       "एक-से दिखते हैं is “look alike”."
+      ]
+     ],
+     "why": "एक-सा means “similar”."
+    },
+    {
+     "id": "js:8",
+     "t": "mc",
+     "q": "Which means “Put on any sari (you like)”?",
+     "a": "कोई-सी साड़ी पहन लो ।",
+     "wrong": [
+      [
+       "कौनसी साड़ी पहन लो ।",
+       "कौनसी is the question “which?”."
+      ],
+      [
+       "कोई-सा साड़ी पहन लो ।",
+       "कोई-सा agrees with साड़ी, feminine: कोई-सी."
+      ]
+     ],
+     "why": "कोई-सा means “any one (out of a range)”.",
+     "say": "कोई-सी साड़ी पहन लो ।",
+     "en": "{Put on}[2+3] any[0] sari[1]."
+    },
+    {
+     "id": "js:9",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "सीता आज कुछ थकी-सी लग रही थी ।",
+     "audio": true,
+     "a": "Sita was looking a bit tired today.",
+     "wrong": [
+      [
+       "Sita was very tired today.",
+       "-sī moderates: “a bit tired, tired-ish”."
+      ],
+      [
+       "Sita was tired of waiting today.",
+       "Nothing about waiting: थकी-सी is “somewhat tired”."
+      ]
+     ],
+     "why": "-sā (-sī, -se) after an adjective moderates it (“-ish”) or stresses it (छोटी-सी “tiny”). It agrees, and takes the oblique when needed."
+    }
+   ]
+  },
+  {
+   "id": "refl",
+   "title": "ख़ुद, अपने आप",
+   "desc": "Reflexives and inverted postpositions",
+   "skill": "refl",
+   "items": [
+    {
+     "id": "rf:0",
+     "t": "mc",
+     "q": "Fill the gap: “Mother has made all this food herself.”",
+     "hi": "यह सारा खाना माँ ने ___ बनाया है ।",
+     "say": "यह सारा खाना माँ ने ख़ुद बनाया है ।",
+     "en": "Mother[3+4] {has made}[6+7] all[1] this[0] food[2] herself[5].",
+     "a": "ख़ुद",
+     "wrong": [
+      [
+       "अपना",
+       "अपना is “one's own”. “Herself” is ख़ुद."
+      ],
+      [
+       "अपने को",
+       "अपने को is the object “herself”. Here she is the doer: ख़ुद."
+      ]
+     ],
+     "why": "ख़ुद “myself, yourself, himself …” (more formal आप, स्वयं) depends on the subject. As an object, “oneself” is अपने को or अपने आप को. अपने आप is also “of one's own accord”, आपस में “among themselves”."
+    },
+    {
+     "id": "rf:1",
+     "t": "mc",
+     "q": "Fill the gap: “The Home Minister has written this letter himself.”",
+     "hi": "गृह मंत्री जी ने यह चिट्ठी ___ लिखी है ।",
+     "say": "गृह मंत्री जी ने यह चिट्ठी स्वयं लिखी है ।",
+     "en": "The Home[0] Minister[1+2+3] {has written}[7+8] this[4] letter[5] himself[6].",
+     "a": "स्वयं",
+     "wrong": [
+      [
+       "अपने",
+       "अपने is the possessive “own”. “Himself” is स्वयं."
+      ],
+      [
+       "आपस",
+       "आपस में is “among themselves”."
+      ]
+     ],
+     "why": "ख़ुद “myself, yourself, himself …” (more formal आप, स्वयं) depends on the subject. As an object, “oneself” is अपने को or अपने आप को. अपने आप is also “of one's own accord”, आपस में “among themselves”."
+    },
+    {
+     "id": "rf:2",
+     "t": "mc",
+     "q": "Fill the gap: “Sita thinks herself very beautiful (lit. “considers herself …”).”",
+     "hi": "सीता ___ बहुत सुन्दर समझती है ।",
+     "say": "सीता अपने को बहुत सुन्दर समझती है ।",
+     "en": "Sita[0] thinks[5+6] herself[1+2] very[3] beautiful[4] (lit. “considers herself …”).",
+     "a": "अपने को",
+     "wrong": [
+      [
+       "ख़ुद",
+       "ख़ुद is “herself” as the doer. As the object, “herself” is अपने को."
+      ],
+      [
+       "अपना",
+       "अपना is the possessive “one's own”. The object “herself” is अपने को."
+      ]
+     ],
+     "why": "ख़ुद “myself, yourself, himself …” (more formal आप, स्वयं) depends on the subject. As an object, “oneself” is अपने को or अपने आप को. अपने आप is also “of one's own accord”, आपस में “among themselves”."
+    },
+    {
+     "id": "rf:3",
+     "t": "mc",
+     "q": "Fill the gap: “This problem will sort itself out (lit. “… of its own accord …”).”",
+     "hi": "यह समस्या ___ ठीक हो जाएगी ।",
+     "say": "यह समस्या अपने आप ठीक हो जाएगी ।",
+     "en": "This[0] problem[1] {will sort itself out}[4+5+6] (lit. “… {of its own accord}[2+3] …”).",
+     "a": "अपने आप",
+     "wrong": [
+      [
+       "आपस में",
+       "आपस में is “among themselves”."
+      ],
+      [
+       "अपना",
+       "अपना is “one's own”. “Of its own accord” is अपने आप."
+      ]
+     ],
+     "why": "ख़ुद “myself, yourself, himself …” (more formal आप, स्वयं) depends on the subject. As an object, “oneself” is अपने को or अपने आप को. अपने आप is also “of one's own accord”, आपस में “among themselves”."
+    },
+    {
+     "id": "rf:4",
+     "t": "mc",
+     "q": "Fill the gap: “The two brothers keep on fighting among themselves.”",
+     "hi": "दोनों भाई ___ में लड़ते रहते हैं ।",
+     "say": "दोनों भाई आपस में लड़ते रहते हैं ।",
+     "en": "The two[0] brothers[1] {keep on}[5+6] fighting[4] among themselves[2+3].",
+     "a": "आपस",
+     "wrong": [
+      [
+       "अपने",
+       "“Among themselves” is आपस में."
+      ],
+      [
+       "अपने आप",
+       "अपने आप is “of one's own accord”. “Among themselves” is आपस में."
+      ],
+      [
+       "आपसों",
+       "Not a word. आपस is used only in आपस में."
+      ]
+     ],
+     "why": "ख़ुद “myself, yourself, himself …” (more formal आप, स्वयं) depends on the subject. As an object, “oneself” is अपने को or अपने आप को. अपने आप is also “of one's own accord”, आपस में “among themselves”."
+    },
+    {
+     "id": "rf:5",
+     "t": "mc",
+     "q": "Fill the gap: “I can't read anything without my glasses. (a man speaking)”",
+     "hi": "बिना चश्मे ___ मैं कुछ नहीं पढ़ सकता ।",
+     "say": "बिना चश्मे के मैं कुछ नहीं पढ़ सकता ।",
+     "en": "I[3] {can't}[5+7] read[6] anything[4] without[0+2] my glasses[1]. (a man speaking)",
+     "a": "के",
+     "wrong": [
+      [
+       "का",
+       "The inverted form keeps के — बिना चश्मे के."
+      ],
+      [
+       "से",
+       "बिना … के is “without”."
+      ]
+     ],
+     "why": "Some compound postpositions can be inverted: के बिना / बिना … के, के बजाय / बजाय … के, के मारे / मारे … के, के सिवा / सिवा … के."
+    },
+    {
+     "id": "rf:6",
+     "t": "mc",
+     "q": "Fill the gap: “She began to cry for joy.”",
+     "hi": "ख़ुशी के ___ वह रोने लगी ।",
+     "say": "ख़ुशी के मारे वह रोने लगी ।",
+     "en": "She[3] began[5] to cry[4] {for joy}[0+1+2].",
+     "a": "मारे",
+     "wrong": [
+      [
+       "बिना",
+       "के बिना is “without”."
+      ],
+      [
+       "बजाय",
+       "के बजाय is “instead of”."
+      ]
+     ],
+     "why": "के मारे “stricken by, because of” is used with a feeling or sensation. Some compound postpositions can be inverted: के बिना / बिना … के, के बजाय / बजाय … के, के मारे / मारे … के, के सिवा / सिवा … के."
+    },
+    {
+     "id": "rf:7",
+     "t": "mc",
+     "q": "Fill the gap: “Have coffee instead of tea.”",
+     "hi": "चाय के ___ कॉफ़ी पीजिए ।",
+     "say": "चाय के बजाय कॉफ़ी पीजिए ।",
+     "en": "Have[4] coffee[3] {instead of}[1+2] tea[0].",
+     "a": "बजाय",
+     "wrong": [
+      [
+       "सिवा",
+       "के सिवा is “apart from”."
+      ],
+      [
+       "मारे",
+       "के मारे is “stricken by”."
+      ],
+      [
+       "बजायों",
+       "Not a word. बजाय never changes."
+      ]
+     ],
+     "why": "Some compound postpositions can be inverted: के बिना / बिना … के, के बजाय / बजाय … के, के मारे / मारे … के, के सिवा / सिवा … के."
+    },
+    {
+     "id": "rf:8",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "आपके सिवा यहाँ कोई हिन्दी नहीं जानता ।",
+     "audio": true,
+     "a": "Apart from you, nobody here knows Hindi.",
+     "wrong": [
+      [
+       "Nobody here knows Hindi as well as you.",
+       "के सिवा is “apart from”, not a comparison."
+      ],
+      [
+       "Without you nobody here would learn Hindi.",
+       "के सिवा is “apart from, except”."
+      ]
+     ],
+     "why": "Some compound postpositions can be inverted: के बिना / बिना … के, के बजाय / बजाय … के, के मारे / मारे … के, के सिवा / सिवा … के."
+    }
+   ]
+  },
+  {
+   "id": "build",
+   "title": "Build sentences",
+   "desc": "Tap the words in order",
+   "skill": "build",
+   "items": [
+    {
+     "id": "tl:0",
+     "t": "tiles",
+     "en": "Sita[0] {kept on}[4] reading[3] {till late}[1+2].",
+     "ans": [
+      "सीता",
+      "देर",
+      "तक",
+      "पढ़ती",
+      "रही"
+     ],
+     "wrong": [
+      [
+       "पढ़ता",
+       "पढ़ता is masculine. The participle agrees with सीता."
+      ],
+      [
+       "रहा",
+       "रहा is masculine. सीता takes रही."
+      ]
+     ],
+     "alt": [
+      [
+       "देर",
+       "तक",
+       "सीता",
+       "पढ़ती",
+       "रही"
+      ]
+     ]
+    },
+    {
+     "id": "tl:1",
+     "t": "tiles",
+     "en": "Keep[3] writing[2] letters[1] to me[0].",
+     "ans": [
+      "मुझे",
+      "चिट्ठी",
+      "लिखते",
+      "रहना"
+     ],
+     "wrong": [
+      [
+       "लिखना",
+       "रहना “keep on” follows the imperfective participle: लिखते रहना."
+      ],
+      [
+       "लिखने",
+       "The oblique infinitive goes with लगना or देना. “Keep on” takes the imperfective participle: लिखते."
+      ]
+     ]
+    },
+    {
+     "id": "tl:2",
+     "t": "tiles",
+     "en": "We[0] {used to}[5+6] play[4] in[3] this[1] garden[2].",
+     "ans": [
+      "हम",
+      "इस",
+      "बग़ीचे",
+      "में",
+      "खेला",
+      "करते",
+      "थे"
+     ],
+     "wrong": [
+      [
+       "खेलना",
+       "The habitual uses the perfective participle, खेला."
+      ],
+      [
+       "खेलया",
+       "Not a word. खेलना has a consonant stem: its perfective participle is खेला, with no -y-."
+      ]
+     ],
+     "alt": [
+      [
+       "इस",
+       "बग़ीचे",
+       "में",
+       "हम",
+       "खेला",
+       "करते",
+       "थे"
+      ]
+     ]
+    },
+    {
+     "id": "tl:3",
+     "t": "tiles",
+     "en": "Grandma[0] {used to}[7+8] come[6] to see[5] us[4] every[1] Friday[2+3].",
+     "ans": [
+      "दादी",
+      "हर",
+      "शुक्रवार",
+      "को",
+      "हमसे",
+      "मिलने",
+      "आया",
+      "करती",
+      "थीं"
+     ],
+     "wrong": [
+      [
+       "आई",
+       "The participle is invariable in -ā — आया करती थीं."
+      ],
+      [
+       "करता",
+       "करता is masculine. करना agrees with दादी — करती थीं."
+      ]
+     ],
+     "alt": [
+      [
+       "हर",
+       "शुक्रवार",
+       "को",
+       "दादी",
+       "हमसे",
+       "मिलने",
+       "आया",
+       "करती",
+       "थीं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:4",
+     "t": "tiles",
+     "en": "She[0] {is afraid}[3+4] of cats[1+2].",
+     "ans": [
+      "वह",
+      "बिल्लियों",
+      "से",
+      "डरती",
+      "है"
+     ],
+     "wrong": [
+      [
+       "को",
+       "डरना takes से — बिल्लियों से."
+      ],
+      [
+       "डरता",
+       "डरता is masculine. The cue says “she”."
+      ],
+      [
+       "डरया",
+       "Not a word. डरना has a consonant stem, so its perfective is डरा. Here the present डरती है is needed anyway."
+      ]
+     ],
+     "alt": [
+      [
+       "बिल्लियों",
+       "से",
+       "वह",
+       "डरती",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:5",
+     "t": "tiles",
+     "en": "I[0] want[4+5] to ask[3] you[1] something[2]. (a man speaking)",
+     "ans": [
+      "मैं",
+      "आपसे",
+      "कुछ",
+      "पूछना",
+      "चाहता",
+      "हूँ"
+     ],
+     "wrong": [
+      [
+       "आपको",
+       "पूछना takes से — आपसे."
+      ],
+      [
+       "पूछने",
+       "चाहना takes the direct infinitive: पूछना चाहता हूँ."
+      ]
+     ],
+     "alt": [
+      [
+       "मैं",
+       "कुछ",
+       "आपसे",
+       "पूछना",
+       "चाहता",
+       "हूँ"
+      ]
+     ]
+    },
+    {
+     "id": "tl:6",
+     "t": "tiles",
+     "en": "There's[4] nobody[2+3] like[1] you[0].",
+     "ans": [
+      "तुम्हारे",
+      "जैसा",
+      "कोई",
+      "नहीं",
+      "है"
+     ],
+     "wrong": [
+      [
+       "कैसा",
+       "कैसा is the question word. “Like” is जैसा."
+      ],
+      [
+       "तुम्हारा",
+       "Before जैसा the possessive is oblique: तुम्हारे जैसा."
+      ]
+     ],
+     "alt": [
+      [
+       "तुम्हारे",
+       "जैसा",
+       "कोई",
+       "नहीं"
+      ]
+     ]
+    },
+    {
+     "id": "tl:7",
+     "t": "tiles",
+     "en": "{Over there}[0] is[4] a[1] little[2] shop[3].",
+     "ans": [
+      "वहाँ",
+      "एक",
+      "छोटी-सी",
+      "दुकान",
+      "है"
+     ],
+     "wrong": [
+      [
+       "छोटा-सा",
+       "छोटा-सा is masculine. दुकान is feminine: छोटी-सी."
+      ],
+      [
+       "छोटे-से",
+       "छोटे-से is plural or oblique. दुकान is a direct singular subject."
+      ],
+      [
+       "छोटा-सी",
+       "Not a word. Both parts agree: छोटी-सी."
+      ]
+     ],
+     "alt": [
+      [
+       "एक",
+       "छोटी-सी",
+       "दुकान",
+       "वहाँ",
+       "है"
+      ]
+     ]
+    },
+    {
+     "id": "tl:8",
+     "t": "tiles",
+     "en": "Raj[0] {will do}[4] this[1] work[2] himself[3].",
+     "ans": [
+      "राज",
+      "यह",
+      "काम",
+      "ख़ुद",
+      "करेगा"
+     ],
+     "wrong": [
+      [
+       "अपना",
+       "अपना is “one's own”. “Himself” is ख़ुद."
+      ],
+      [
+       "करेगी",
+       "करेगी is feminine. राज is a man."
+      ]
+     ],
+     "alt": [
+      [
+       "राज",
+       "ख़ुद",
+       "यह",
+       "काम",
+       "करेगा"
+      ]
+     ]
+    },
+    {
+     "id": "tl:9",
+     "t": "tiles",
+     "en": "The friends[0+1] shared[5+6] the money[2] among themselves[3+4].",
+     "ans": [
+      "दोस्तों",
+      "ने",
+      "पैसे",
+      "आपस",
+      "में",
+      "बाँट",
+      "लिए"
+     ],
+     "wrong": [
+      [
+       "अपने",
+       "“Among themselves” is आपस में."
+      ],
+      [
+       "दोस्त",
+       "With ने the noun is oblique: दोस्तों ने."
+      ]
+     ],
+     "alt": [
+      [
+       "दोस्तों",
+       "ने",
+       "आपस",
+       "में",
+       "पैसे",
+       "बाँट",
+       "लिए"
+      ]
+     ]
+    },
+    {
+     "id": "tl:10",
+     "t": "tiles",
+     "en": "Don't[4] go[5] out[3] without[0+2] an umbrella[1].",
+     "ans": [
+      "बिना",
+      "छाते",
+      "के",
+      "बाहर",
+      "मत",
+      "जाओ"
+     ],
+     "wrong": [
+      [
+       "छाता",
+       "Before के the noun is oblique: छाते."
+      ],
+      [
+       "का",
+       "The inverted form keeps के — बिना छाते के."
+      ],
+      [
+       "बिनों",
+       "Not a word. बिना never changes."
+      ]
+     ],
+     "alt": [
+      [
+       "छाते",
+       "के",
+       "बिना",
+       "बाहर",
+       "मत",
+       "जाओ"
+      ]
+     ]
+    },
+    {
+     "id": "tl:11",
+     "t": "tiles",
+     "en": "Sita[0] {has been working}[4+5+6+7] here[3] since[2] March[1].",
+     "ans": [
+      "सीता",
+      "मार्च",
+      "से",
+      "यहाँ",
+      "काम",
+      "कर",
+      "रही",
+      "है"
+     ],
+     "wrong": [
+      [
+       "तक",
+       "मार्च तक is “until March”."
+      ],
+      [
+       "रहा",
+       "रहा is masculine. सीता takes रही."
+      ]
+     ],
+     "alt": [
+      [
+       "सीता",
+       "यहाँ",
+       "मार्च",
+       "से",
+       "काम",
+       "कर",
+       "रही",
+       "है"
+      ],
+      [
+       "मार्च",
+       "से",
+       "सीता",
+       "यहाँ",
+       "काम",
+       "कर",
+       "रही",
+       "है"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "meaning",
+   "title": "What does it mean?",
+   "desc": "Read a sentence, pick the translation",
+   "skill": "meaning",
+   "items": [
+    {
+     "id": "mn:0",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह बोलता गया और हम सुनते रहे ।",
+     "audio": true,
+     "a": "He went on talking and we kept listening.",
+     "wrong": [
+      [
+       "He spoke and left, and we stayed to listen.",
+       "बोलता गया is “went on speaking”, not “spoke and went”."
+      ],
+      [
+       "He talked to us while we lived there.",
+       "सुनते रहे is “kept on listening”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:1",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "हमारे गाँव में पहले एक भी स्कूल नहीं हुआ करता था ।",
+     "audio": true,
+     "a": "There didn't use to be a single school in our village.",
+     "wrong": [
+      [
+       "There's no school in our village now.",
+       "हुआ करता था is “used to be”: this was in the past."
+      ],
+      [
+       "A school is going to be built in our village.",
+       "हुआ करता था describes a past state."
+      ]
+     ]
+    },
+    {
+     "id": "mn:2",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "अचानक बत्ती चली गई और चारों तरफ़ घना अँधेरा हो गया ।",
+     "audio": true,
+     "a": "Suddenly the lights went out and it became pitch dark all around.",
+     "wrong": [
+      [
+       "Suddenly the light came on and it got bright all around.",
+       "चली गई is “went (out)”, and अँधेरा is “darkness”."
+      ],
+      [
+       "The light slowly went out and it became cold all around.",
+       "अचानक is “suddenly”, and घना अँधेरा is “thick darkness”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:3",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "मुझे उस जैसा मेहनती आदमी आज तक नहीं मिला ।",
+     "audio": true,
+     "a": "I've never come across a man as hardworking as him.",
+     "wrong": [
+      [
+       "I've never met that hardworking man.",
+       "जैसा is “like”: a man like him."
+      ],
+      [
+       "He has never come across a hardworking man like me.",
+       "मुझे is the receiver: it is I who haven't found one."
+      ]
+     ]
+    },
+    {
+     "id": "mn:4",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "सीता अपने भाई से बहुत लड़ती है ।",
+     "audio": true,
+     "a": "Sita fights with her brother a lot.",
+     "wrong": [
+      [
+       "Sita fights for her brother a lot.",
+       "से with लड़ना is “with, against”. “For” would be के लिए."
+      ],
+      [
+       "Sita's brother fights with her a lot.",
+       "सीता is the subject: she does the fighting."
+      ]
+     ]
+    },
+    {
+     "id": "mn:5",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "पहाड़ से पूरा शहर दिखाई देता है ।",
+     "audio": true,
+     "a": "The whole town can be seen from the hill.",
+     "wrong": [
+      [
+       "The whole town can see the hill.",
+       "शहर is what is visible: दिखाई देना “to be visible”."
+      ],
+      [
+       "The hill shows the whole town to visitors.",
+       "दिखाई देना is intransitive, “to be visible”, not “to show”."
+      ]
+     ]
+    },
+    {
+     "id": "mn:6",
+     "t": "mc",
+     "q": "What does this sentence mean?",
+     "hi": "वह मुझसे पैसे माँगता रहता है ।",
+     "audio": true,
+     "a": "He keeps asking me for money.",
+     "wrong": [
+      [
+       "He asked me for money once.",
+       "माँगता रहता है is “keeps on asking”."
+      ],
+      [
+       "He keeps giving me money.",
+       "माँगना is “to ask for”, and the person asked takes से."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "usage",
+   "title": "Rules and usage",
+   "desc": "Continuous and habitual, से, जैसा, -sā",
+   "skill": "usage",
+   "items": [
+    {
+     "id": "us:0",
+     "t": "mc",
+     "q": "In वह काम करता रहा “he kept on working”, करता is …",
+     "a": "the imperfective participle, agreeing with the subject",
+     "wrong": [
+      [
+       "the perfective participle, always in -ā",
+       "That describes the habitual construction."
+      ],
+      [
+       "the oblique infinitive",
+       "That describes “begin to” and “let”."
+      ]
+     ],
+     "why": "Imperfective participle + रहना “to keep on doing”: the participle agrees with the subject (वह काम करती रही)."
+    },
+    {
+     "id": "us:1",
+     "t": "mc",
+     "q": "How does करता जाना differ from करता रहना?",
+     "a": "करता जाना suggests a progressive build-up",
+     "wrong": [
+      [
+       "करता जाना is only used of movement",
+       "जाना here is not “go” in space: किराया बढ़ता गया “the rent went on rising”."
+      ],
+      [
+       "करता रहना is only used in the future",
+       "Both work in any tense: वह करती रही, करते रहोगे."
+      ]
+     ],
+     "why": "Imperfective participle + जाना also means “to go on doing”, but suggests progress towards some culmination (किराया बढ़ता गया)."
+    },
+    {
+     "id": "us:2",
+     "t": "mc",
+     "q": "In the habitual (perfective participle + करना), the participle …",
+     "a": "is always masculine singular in -ā",
+     "wrong": [
+      [
+       "agrees with the subject",
+       "Only करना agrees. The participle stays in -ā."
+      ],
+      [
+       "agrees with the object",
+       "The participle stays in -ā, whatever the object."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "us:3",
+     "t": "mc",
+     "q": "In the habitual, the participle of जाना is …",
+     "a": "जाया",
+     "wrong": [
+      [
+       "गया",
+       "गया is the ordinary perfective. With करना it is जाया, as in the passive."
+      ],
+      [
+       "जाता",
+       "The habitual uses the perfective participle, not the imperfective."
+      ]
+     ],
+     "why": "Perfective participle + करना “to do habitually”. The participle is invariable in -ā (देखा करती है), and only करना agrees. With जाना the participle is जाया."
+    },
+    {
+     "id": "us:4",
+     "t": "mc",
+     "q": "With से “since, for”, a situation that still goes on takes …",
+     "a": "a present-tense verb",
+     "wrong": [
+      [
+       "a past-tense verb",
+       "A past verb would say it is over. हम सोमवार से यहाँ हैं “we've been here since Monday”."
+      ],
+      [
+       "a future-tense verb",
+       "The present is used for something that started earlier and continues."
+      ]
+     ],
+     "why": "से also means “since, for”. For a situation that still goes on, Hindi uses a present-tense verb (हम सोमवार से यहाँ हैं)."
+    },
+    {
+     "id": "us:5",
+     "t": "mc",
+     "q": "जैसा “like” puts the word before it …",
+     "a": "into the oblique (मुझ जैसा, उस जैसा)",
+     "wrong": [
+      [
+       "into the direct case (मैं जैसा, वह जैसा)",
+       "जैसा works like a postposition, so the word before it is oblique."
+      ],
+      [
+       "after a possessive only (मेरे जैसा)",
+       "Both मुझ जैसा and मेरे जैसा are used."
+      ]
+     ],
+     "why": "जैसा “like” agrees like an adjective with the noun it describes, and puts the word before it into the oblique (मुझ जैसा) or follows a possessive (मेरे जैसा)."
+    },
+    {
+     "id": "us:6",
+     "t": "mc",
+     "q": "What does -sā add to an adjective (छोटा-सा, गोरा-सा)?",
+     "a": "It moderates it (“-ish”) or stresses it (“tiny”)",
+     "wrong": [
+      [
+       "It makes it plural",
+       "-sā agrees with the noun, but adds no plural meaning."
+      ],
+      [
+       "It makes it a question",
+       "Questions use क्या, कौनसा and so on. -sā is “-ish, rather”."
+      ]
+     ],
+     "why": "-sā (-sī, -se) after an adjective moderates it (“-ish”) or stresses it (छोटी-सी “tiny”). It agrees, and takes the oblique when needed."
+    }
+   ]
+  }
+ ],
+ "test": {
+  "vocab": 4,
+  "keep": 3,
+  "habit": 3,
+  "se": 3,
+  "like": 3,
+  "refl": 2,
+  "build": 2,
+  "meaning": 1,
+  "usage": 1
+ },
+ "distractors": {
+  "सुनया": "sunyā",
+  "पढ़या": "paṛhyā",
+  "उसों": "usõ",
+  "छोटी-सा": "choṭī-sā",
+  "आपसों": "āpsõ",
+  "बजायों": "bajāyõ",
+  "खेलया": "khelyā",
+  "डरया": "ḍaryā",
+  "छोटा-सी": "choṭā-sī",
+  "बिनों": "binõ"
+ }
+}

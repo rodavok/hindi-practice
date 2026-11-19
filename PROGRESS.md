@@ -16,6 +16,7 @@
 | 12 | Done, validated (not committed) | 80 | 81 | 22 | book 146–158 (159 blank) |
 | 13 | Done, validated (not committed) | 80 | 80 | 22 | book 160–175 (175 Test yourself) |
 | 14 | Done, validated, not browser-tested | 78 | 90 | 22 | book 176–190 (190 Test yourself, 191 blank) |
+| 15 | Done, validated, not browser-tested | 78 | 86 | 22 | book 192–204 (204 Test yourself, 205 blank) |
 
 ## Items to review
 
@@ -535,9 +536,34 @@
   - Frames avoided while writing: हिन्दी कई प्रदेशों में बोली जाती है, तमिल … दक्षिण भारत में (14A.1), the airmail letter (14A.1.3), the thieves caught (14A.2.3), मुझे जाने दो as an item, the cat and the butter, जितना तुमको चाहिए, जैसा बाप वैसा बेटा, the flower and thorn, जिधर से तू आया है, the 14B.1 sentence starts, Test yourself 4 and 10.
   - Remaining resemblances that are the construction itself: `tr:4` कपड़े … धुलते हैं (the book's example uses कपड़े with नदी में), `mn:2` मुझे सोने दो, `pk:3` … मुझसे उठाया नहीं जाता, `pk:2` … के द्वारा लिखी गई थी, `pv:3` एक नया अस्पताल बनाया जाएगा, `tl:8` जितने … उतने … नहीं, `rl:3` जैसी … वैसी … चाहिए.
 
+### Unit 15
+- Not browser-tested (the browser pane refuses `localhost`; see Unit 14). Validator and a manual read only.
+- Vocabulary: the end list (pp. 202–204) plus Quick Vocab and the 15.3 adverbs मुश्किल से, ख़ुशी से. Left out: names (प्रताप, हरीश, छोटू, खन्ना, सलमान, अमित), ईवनिंग क्लास, यू० पी० (the ० abbreviation mark), and the 15.3 example words राजधानी as a train name (entered as “the capital”).
+  - Earlier words re-listed only for a new sense: शुरू “beginning” (noun; unit 7 शुरू करना). Not repeated: कभी कभी, देर से, आराम से, पंडित (earlier units).
+  - के सिवा and सिवाय are one entry, “apart from (also के सिवाय)”, so the two don't compete in word quizzes. The book's end list has जँभाई, Quick Vocab जंभाई; I used जँभाई. स्वयं is romanised svayam, as the book says it is pronounced.
+- Romanisations I could not confirm from the book: अँधेरा ãdherā, अनौपचारिक anaupcārik, औपचारिक aupcārik, उदाहरण udāharaṇ, उपन्यास upanyās, घमंड ghamaṇḍ, जंगल jaṅgal, जँभाई jãbhāī, झेंपना jhẽpnā, तरक़्क़ी taraqqī, फुसफुसाना phusphusānā, ब्राह्मण brāhmaṇ, व्यक्तिगत vyaktigat, समुद्र samudr, ड्राइवर ḍrāivar.
+- -sā forms are hyphenated as in the book (छोटा-सा, छोटी-सी, छोटे-से, की-सी, कोई-सी, एक-से, थकी-सी, गोरा-सा). Bare -सा is not a ledger form, so explanations write it in romanisation (-sā, -sī, -se).
+- Forms that earlier units' rules produce, declared here: participles खेलते, करती, रोती, रोता, चलते, चलता, बढ़ता, बढ़ते, बोलता, सुनते, सुना, सुनी, पढ़ा, पढ़ी, पढ़ती, पढ़ता, बजाया, आए, खेला, नहाया, लिखते, छूटता, डरती, डरता, डरा, लड़ते, लड़ती, माँगता, समझती, दिखते, देता, पूछा; futures करूँगी, करूँगा, करेगी, रहोगे; रहीं, लगता, बजाईं, डरो, रो, पहन, बाँट, पूछने, लिखने; obliques अँधेरे, चश्मे, पहाड़ों, बिल्लियों, दोस्तों, छाते, कमरे, हफ़्ते, इतने, ऐसे, थोड़ी, कहीं; हमसे, आपसे, आपको, तुम्हारा.
+- Deliberately wrong forms (Hard tile pool), all non-words: पढ़या, खेलया, सुनया, डरया (consonant stems take no -y-); उसों (oblique of वह before जैसा is उस); आपसों, बजायों, बिनों (these never change); छोटी-सा, छोटा-सी (mismatched -sā). I avoided जैसों, सिवाय, मारों and any real participle.
+- Choices never set against each other because both are correct: करता रहना and करता जाना (no item offers one against the other; `kp:3` leaves चलते जाओ and चलते रहना out); the habitual किया करता था and the plain imperfective करता था for “used to” (`hb:9` offers करता रहा and करने लगा instead; `tl:3` leaves आती out of the bank so दादी … मिलने आती थीं can't be built); मुझ जैसा and मेरे जैसा; तुम जैसा and तुम्हारे जैसा (`tl:6` offers तुम्हारा, not तुम); ख़ुद and स्वयं (`rf:1` offers neither against the other); के बिना and बिना … के; कोई साड़ी and कोई-सी साड़ी (`js:8` offers कौनसी and कोई-सा instead).
+- Items where a grammatical alternative is ruled out only by the cue:
+  - `kp:3`: अगर … करते रहो (subjunctive) would also be grammatical in a conditional; not used.
+  - `se:6`, `tl:11`: the past (रह रहा था, कर रही थी) is grammatical with another meaning; `tl:11` offers तक and रहा instead.
+  - `rf:2`: उसको समझती है would be a correct sentence about someone else; ख़ुद and अपना are offered instead.
+- Sentences I'm unsure about:
+  - `kp:9` हम आगे बढ़ते गए और गाँव पीछे छूटता गया, with the English “the village fell further and further behind”.
+  - `js:6` उसकी आवाज़ बच्चे की-सी है, hyphenated like the book's बंदर की-सी पूँछ.
+  - `se:10` मैं आपसे व्यक्तिगत रूप से मिलना चाहता हूँ “personally” (the book's gloss); “in person” would be more natural English.
+  - `mn:1` the negative habitual नहीं हुआ करता था.
+  - `hb:5` बजाया करती है for a daily practice.
+- Near-match check against pp. 192–204, done with the pages open; no copy kept.
+  - Changes I made: `hb:1` (was हर शुक्रवार को, duplicating `tl:3`), `mn:1` (was … जंगल हुआ करता था, duplicating `hb:3`), `rf:1` (was … स्वयं … आएँगे, the frame of पंडित जी स्वयं ही आएँगे), `rf:6` (was भूख के मारे बच्चा सो नहीं सका, close to Test yourself 5), `tl:3` (was हम … जाया करते थे, the frame of हम लोग समुद्र के किनारे जाया करते थे), `tl:8` (was क्या तुमने यह चिट्ठी ख़ुद लिखी, the frame of मैंने यह फ़ोटो ख़ुद खींचा), `hb:0` (अख़बार → रेडियो, away from exercise 15A.2.1), `kp:0` (दिन भर dropped, away from exercise 15A.1.1).
+  - Frames avoided while writing: अगर दिन भर पढ़ते रहोगे, आप ध्यान से काम … रहिए, सरकार की शक्ति बढ़ती …, हर हफ़्ते मुझे एक पत्र लिखा करना, कभी कभी हमारे यहाँ आया करो, शाम को दादीजी हमेशा मंदिर जाती हैं, मुझ जैसे लोग काम नहीं करते, हमारे जैसे ग़रीब आदमियों को छुट्टी, हम लोग सोमवार से यहाँ हैं, मैं तीन साल से सीख रहा हूँ, वह मुझसे प्यार करती है, पहिया अपने आप घूमने लगा, लड़के आपस में फुसफुसाने लगे, the 15B.1 English prompts, Test yourself 4 and 9.
+  - Remaining resemblances that are the construction itself: `kp:4` नदी का पानी बढ़ता गया (the book's किराया बढ़ता गया), `js:8` कोई-सी साड़ी पहन लो (कोई-सी किताब ले लो), `rf:2` सीता अपने को … समझती है (अमित अपने को … समझता है), `js:3` … जैसे कि … हो, `hb:2` … जाया करता था.
+
 ## Known issues and not yet done
 
 - Fixed: Hard level used to pad sentence building with real words from the unit's other tile items, which could make a second correct sentence that was then marked wrong. It now pads only with the unit's declared distractor forms. The Hard-level tile notes under Units 6 and 7 no longer apply.
 - Audio: Piper and eSpeak NG are not installed; only `spd-say` (speech-dispatcher) is present. No option has been chosen or installed yet; the `audio/unitNN/manifest.json` hook in `tools/build.js` is ready for clips.
 - "Explain more": the engine calls `/api/explain` when the page is served from localhost, but the small local server that holds the API key has not been written.
-- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all ledger forms covered (1,739 after Unit 14). These 12 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम, आर्थिक. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.
+- Sound colours (`tools/glyphs.js` → `content/glyphs.json`, shown under “Sounds” in the answer panel): all ledger forms covered (1,863 after Unit 15). These 12 are drawn in one colour because the font fuses a vowel sign with the reph (or the nukta dot into ु), so the outline can't be split without per-glyph clip rules: विद्यार्थी, विद्यार्थियों, मूर्ति, पर्दे, पर्दों, मार्केट, गर्मी, गर्मियाँ, गर्मियों, गुंडागर्दी, ज़ुकाम, आर्थिक. Conjuncts that are one glyph (क्ष, त्र, च्च, द्य…, 70 uses) also take one colour. Browser-checked on a local server: हिन्दी, ज़रूर, दूसरा, बहुत, हूँ, नहीं, दोनों, मैं, पिंकी, गर्मियाँ, मूर्ति, ज़ुकाम, and the Sounds panel after answering a Unit 1 question. Not checked on the phone or in the published artifact; the other forms were not looked at one by one.
